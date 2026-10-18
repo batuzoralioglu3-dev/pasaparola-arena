@@ -1,0 +1,6901 @@
+{
+  "existing": [
+    {
+      "word": "aberration",
+      "synonyms": [
+        "anomaly"
+      ]
+    },
+    {
+      "word": "abstruse",
+      "synonyms": [
+        "obscure"
+      ]
+    },
+    {
+      "word": "accommodation",
+      "synonyms": [
+        "lodging"
+      ]
+    },
+    {
+      "word": "account",
+      "synonyms": []
+    },
+    {
+      "word": "accurate",
+      "synonyms": [
+        "precise"
+      ]
+    },
+    {
+      "word": "act on",
+      "synonyms": [
+        "respond to"
+      ]
+    },
+    {
+      "word": "adapt",
+      "synonyms": [
+        "adjust"
+      ]
+    },
+    {
+      "word": "address",
+      "synonyms": []
+    },
+    {
+      "word": "admire",
+      "synonyms": [
+        "respect"
+      ]
+    },
+    {
+      "word": "adult",
+      "synonyms": [
+        "grown-up"
+      ]
+    },
+    {
+      "word": "advertise",
+      "synonyms": [
+        "promote"
+      ]
+    },
+    {
+      "word": "aesthetic",
+      "synonyms": [
+        "artistic"
+      ]
+    },
+    {
+      "word": "afternoon",
+      "synonyms": []
+    },
+    {
+      "word": "airport",
+      "synonyms": []
+    },
+    {
+      "word": "allocate",
+      "synonyms": [
+        "assign"
+      ]
+    },
+    {
+      "word": "alone",
+      "synonyms": [
+        "unaccompanied"
+      ]
+    },
+    {
+      "word": "amazed",
+      "synonyms": [
+        "astonished"
+      ]
+    },
+    {
+      "word": "ambivalent",
+      "synonyms": [
+        "conflicted"
+      ]
+    },
+    {
+      "word": "amount to",
+      "synonyms": [
+        "equal"
+      ]
+    },
+    {
+      "word": "angle for",
+      "synonyms": [
+        "seek"
+      ]
+    },
+    {
+      "word": "announce",
+      "synonyms": [
+        "declare"
+      ]
+    },
+    {
+      "word": "anodyne",
+      "synonyms": [
+        "bland"
+      ]
+    },
+    {
+      "word": "anticipate",
+      "synonyms": [
+        "expect"
+      ]
+    },
+    {
+      "word": "anxious",
+      "synonyms": [
+        "worried"
+      ]
+    },
+    {
+      "word": "apologize",
+      "synonyms": [
+        "say sorry"
+      ]
+    },
+    {
+      "word": "apple",
+      "synonyms": []
+    },
+    {
+      "word": "appreciate",
+      "synonyms": [
+        "value"
+      ]
+    },
+    {
+      "word": "arbitrary",
+      "synonyms": [
+        "random"
+      ]
+    },
+    {
+      "word": "arrange",
+      "synonyms": [
+        "organize"
+      ]
+    },
+    {
+      "word": "assert",
+      "synonyms": [
+        "declare"
+      ]
+    },
+    {
+      "word": "assumption",
+      "synonyms": [
+        "supposition"
+      ]
+    },
+    {
+      "word": "attitude",
+      "synonyms": [
+        "outlook"
+      ]
+    },
+    {
+      "word": "audience",
+      "synonyms": [
+        "spectators"
+      ]
+    },
+    {
+      "word": "austere",
+      "synonyms": [
+        "severe"
+      ]
+    },
+    {
+      "word": "available",
+      "synonyms": [
+        "obtainable"
+      ]
+    },
+    {
+      "word": "aware",
+      "synonyms": [
+        "conscious"
+      ]
+    },
+    {
+      "word": "axiomatic",
+      "synonyms": [
+        "self-evident"
+      ]
+    },
+    {
+      "word": "back out of",
+      "synonyms": [
+        "withdraw from"
+      ]
+    },
+    {
+      "word": "bag",
+      "synonyms": [
+        "sack"
+      ]
+    },
+    {
+      "word": "ball",
+      "synonyms": []
+    },
+    {
+      "word": "bargain",
+      "synonyms": [
+        "good deal"
+      ]
+    },
+    {
+      "word": "beach",
+      "synonyms": [
+        "shore"
+      ]
+    },
+    {
+      "word": "bed",
+      "synonyms": []
+    },
+    {
+      "word": "beef up",
+      "synonyms": [
+        "strengthen"
+      ]
+    },
+    {
+      "word": "belief",
+      "synonyms": [
+        "conviction"
+      ]
+    },
+    {
+      "word": "belong",
+      "synonyms": [
+        "be owned by"
+      ]
+    },
+    {
+      "word": "benefit",
+      "synonyms": [
+        "advantage"
+      ]
+    },
+    {
+      "word": "bias",
+      "synonyms": [
+        "prejudice"
+      ]
+    },
+    {
+      "word": "bird",
+      "synonyms": []
+    },
+    {
+      "word": "blessing",
+      "synonyms": [
+        "boon"
+      ]
+    },
+    {
+      "word": "blue",
+      "synonyms": []
+    },
+    {
+      "word": "body",
+      "synonyms": [
+        "physique"
+      ]
+    },
+    {
+      "word": "book",
+      "synonyms": []
+    },
+    {
+      "word": "bottle",
+      "synonyms": []
+    },
+    {
+      "word": "bow out",
+      "synonyms": [
+        "withdraw"
+      ]
+    },
+    {
+      "word": "branch off",
+      "synonyms": [
+        "diverge"
+      ]
+    },
+    {
+      "word": "bread",
+      "synonyms": []
+    },
+    {
+      "word": "break out",
+      "synonyms": [
+        "erupt"
+      ]
+    },
+    {
+      "word": "breakfast",
+      "synonyms": []
+    },
+    {
+      "word": "brilliant",
+      "synonyms": [
+        "excellent"
+      ]
+    },
+    {
+      "word": "bring back",
+      "synonyms": [
+        "restore"
+      ]
+    },
+    {
+      "word": "broad",
+      "synonyms": [
+        "wide"
+      ]
+    },
+    {
+      "word": "brush aside",
+      "synonyms": [
+        "dismiss"
+      ]
+    },
+    {
+      "word": "bucolic",
+      "synonyms": [
+        "pastoral"
+      ]
+    },
+    {
+      "word": "bus",
+      "synonyms": []
+    },
+    {
+      "word": "cacophony",
+      "synonyms": [
+        "din"
+      ]
+    },
+    {
+      "word": "call back",
+      "synonyms": [
+        "return a call"
+      ]
+    },
+    {
+      "word": "call upon",
+      "synonyms": [
+        "appeal to"
+      ]
+    },
+    {
+      "word": "cancel",
+      "synonyms": [
+        "call off"
+      ]
+    },
+    {
+      "word": "candle",
+      "synonyms": []
+    },
+    {
+      "word": "car",
+      "synonyms": [
+        "automobile"
+      ]
+    },
+    {
+      "word": "carrot",
+      "synonyms": []
+    },
+    {
+      "word": "cash in on",
+      "synonyms": [
+        "profit from"
+      ]
+    },
+    {
+      "word": "catch up on",
+      "synonyms": [
+        "get up to date with"
+      ]
+    },
+    {
+      "word": "celebrate",
+      "synonyms": [
+        "commemorate"
+      ]
+    },
+    {
+      "word": "challenge",
+      "synonyms": [
+        "difficult task"
+      ]
+    },
+    {
+      "word": "check in",
+      "synonyms": [
+        "register"
+      ]
+    },
+    {
+      "word": "cheerful",
+      "synonyms": [
+        "happy"
+      ]
+    },
+    {
+      "word": "chicken",
+      "synonyms": []
+    },
+    {
+      "word": "choice",
+      "synonyms": [
+        "option"
+      ]
+    },
+    {
+      "word": "circumspect",
+      "synonyms": [
+        "cautious"
+      ]
+    },
+    {
+      "word": "city",
+      "synonyms": []
+    },
+    {
+      "word": "clandestine",
+      "synonyms": [
+        "secret"
+      ]
+    },
+    {
+      "word": "clean",
+      "synonyms": [
+        "spotless"
+      ]
+    },
+    {
+      "word": "climate",
+      "synonyms": []
+    },
+    {
+      "word": "coffee",
+      "synonyms": []
+    },
+    {
+      "word": "cold",
+      "synonyms": [
+        "chilly"
+      ]
+    },
+    {
+      "word": "collect",
+      "synonyms": [
+        "gather"
+      ]
+    },
+    {
+      "word": "come along",
+      "synonyms": [
+        "accompany"
+      ]
+    },
+    {
+      "word": "come forward",
+      "synonyms": [
+        "volunteer"
+      ]
+    },
+    {
+      "word": "come on",
+      "synonyms": [
+        "hurry up"
+      ]
+    },
+    {
+      "word": "come round",
+      "synonyms": [
+        "visit"
+      ]
+    },
+    {
+      "word": "come up with",
+      "synonyms": [
+        "devise"
+      ]
+    },
+    {
+      "word": "commit",
+      "synonyms": [
+        "pledge"
+      ]
+    },
+    {
+      "word": "compare",
+      "synonyms": []
+    },
+    {
+      "word": "competition",
+      "synonyms": [
+        "contest"
+      ]
+    },
+    {
+      "word": "complete",
+      "synonyms": [
+        "finish"
+      ]
+    },
+    {
+      "word": "compromise",
+      "synonyms": [
+        "settlement"
+      ]
+    },
+    {
+      "word": "concentrate",
+      "synonyms": [
+        "focus"
+      ]
+    },
+    {
+      "word": "concurrent",
+      "synonyms": [
+        "simultaneous"
+      ]
+    },
+    {
+      "word": "confirm",
+      "synonyms": [
+        "verify"
+      ]
+    },
+    {
+      "word": "conjure up",
+      "synonyms": [
+        "evoke"
+      ]
+    },
+    {
+      "word": "consensus",
+      "synonyms": [
+        "agreement"
+      ]
+    },
+    {
+      "word": "consist",
+      "synonyms": [
+        "be composed"
+      ]
+    },
+    {
+      "word": "constrain",
+      "synonyms": [
+        "restrict"
+      ]
+    },
+    {
+      "word": "contemplate",
+      "synonyms": [
+        "ponder"
+      ]
+    },
+    {
+      "word": "contract",
+      "synonyms": [
+        "agreement"
+      ]
+    },
+    {
+      "word": "controversial",
+      "synonyms": [
+        "contentious"
+      ]
+    },
+    {
+      "word": "convey",
+      "synonyms": [
+        "communicate"
+      ]
+    },
+    {
+      "word": "cook",
+      "synonyms": []
+    },
+    {
+      "word": "corroborate",
+      "synonyms": [
+        "confirm"
+      ]
+    },
+    {
+      "word": "cow",
+      "synonyms": []
+    },
+    {
+      "word": "creative",
+      "synonyms": [
+        "imaginative"
+      ]
+    },
+    {
+      "word": "crucial",
+      "synonyms": [
+        "vital"
+      ]
+    },
+    {
+      "word": "curious",
+      "synonyms": [
+        "inquisitive"
+      ]
+    },
+    {
+      "word": "cut back on",
+      "synonyms": [
+        "reduce"
+      ]
+    },
+    {
+      "word": "cut out",
+      "synonyms": [
+        "remove"
+      ]
+    },
+    {
+      "word": "daughter",
+      "synonyms": []
+    },
+    {
+      "word": "deal with",
+      "synonyms": [
+        "handle"
+      ]
+    },
+    {
+      "word": "decide",
+      "synonyms": [
+        "choose"
+      ]
+    },
+    {
+      "word": "decrease",
+      "synonyms": [
+        "reduce"
+      ]
+    },
+    {
+      "word": "defer",
+      "synonyms": [
+        "postpone"
+      ]
+    },
+    {
+      "word": "deleterious",
+      "synonyms": [
+        "harmful"
+      ]
+    },
+    {
+      "word": "delighted",
+      "synonyms": [
+        "pleased"
+      ]
+    },
+    {
+      "word": "demand",
+      "synonyms": [
+        "require"
+      ]
+    },
+    {
+      "word": "depict",
+      "synonyms": [
+        "portray"
+      ]
+    },
+    {
+      "word": "derive",
+      "synonyms": [
+        "obtain"
+      ]
+    },
+    {
+      "word": "deserve",
+      "synonyms": [
+        "merit"
+      ]
+    },
+    {
+      "word": "destination",
+      "synonyms": [
+        "endpoint"
+      ]
+    },
+    {
+      "word": "determine",
+      "synonyms": [
+        "establish"
+      ]
+    },
+    {
+      "word": "dichotomy",
+      "synonyms": [
+        "division"
+      ]
+    },
+    {
+      "word": "difficult",
+      "synonyms": [
+        "hard"
+      ]
+    },
+    {
+      "word": "diminish",
+      "synonyms": [
+        "decrease"
+      ]
+    },
+    {
+      "word": "disappointed",
+      "synonyms": [
+        "let down"
+      ]
+    },
+    {
+      "word": "discount",
+      "synonyms": [
+        "reduction"
+      ]
+    },
+    {
+      "word": "discuss",
+      "synonyms": [
+        "talk about"
+      ]
+    },
+    {
+      "word": "disingenuous",
+      "synonyms": [
+        "insincere"
+      ]
+    },
+    {
+      "word": "disseminate",
+      "synonyms": [
+        "spread"
+      ]
+    },
+    {
+      "word": "distort",
+      "synonyms": [
+        "misrepresent"
+      ]
+    },
+    {
+      "word": "district",
+      "synonyms": [
+        "area"
+      ]
+    },
+    {
+      "word": "do without",
+      "synonyms": [
+        "manage without"
+      ]
+    },
+    {
+      "word": "dole out",
+      "synonyms": [
+        "distribute"
+      ]
+    },
+    {
+      "word": "doubt",
+      "synonyms": [
+        "uncertainty"
+      ]
+    },
+    {
+      "word": "draw out",
+      "synonyms": [
+        "prolong"
+      ]
+    },
+    {
+      "word": "dress up",
+      "synonyms": [
+        "put on formal clothes"
+      ]
+    },
+    {
+      "word": "drop off",
+      "synonyms": [
+        "deliver"
+      ]
+    },
+    {
+      "word": "duty",
+      "synonyms": [
+        "responsibility"
+      ]
+    },
+    {
+      "word": "early",
+      "synonyms": [
+        "ahead of time"
+      ]
+    },
+    {
+      "word": "eat",
+      "synonyms": [
+        "consume"
+      ]
+    },
+    {
+      "word": "education",
+      "synonyms": [
+        "schooling"
+      ]
+    },
+    {
+      "word": "efficient",
+      "synonyms": [
+        "productive"
+      ]
+    },
+    {
+      "word": "egg",
+      "synonyms": []
+    },
+    {
+      "word": "elaborate",
+      "synonyms": [
+        "detailed"
+      ]
+    },
+    {
+      "word": "elide",
+      "synonyms": [
+        "omit"
+      ]
+    },
+    {
+      "word": "embarrassed",
+      "synonyms": [
+        "ashamed"
+      ]
+    },
+    {
+      "word": "emphasize",
+      "synonyms": [
+        "stress"
+      ]
+    },
+    {
+      "word": "employer",
+      "synonyms": [
+        "boss"
+      ]
+    },
+    {
+      "word": "encomium",
+      "synonyms": [
+        "tribute"
+      ]
+    },
+    {
+      "word": "endeavor",
+      "synonyms": [
+        "attempt"
+      ]
+    },
+    {
+      "word": "enhance",
+      "synonyms": [
+        "improve"
+      ]
+    },
+    {
+      "word": "environment",
+      "synonyms": [
+        "surroundings"
+      ]
+    },
+    {
+      "word": "equanimity",
+      "synonyms": [
+        "composure"
+      ]
+    },
+    {
+      "word": "equivocate",
+      "synonyms": [
+        "hedge"
+      ]
+    },
+    {
+      "word": "escape",
+      "synonyms": [
+        "get away"
+      ]
+    },
+    {
+      "word": "essential",
+      "synonyms": [
+        "necessary"
+      ]
+    },
+    {
+      "word": "evaluate",
+      "synonyms": [
+        "assess"
+      ]
+    },
+    {
+      "word": "evidence",
+      "synonyms": [
+        "proof"
+      ]
+    },
+    {
+      "word": "examine",
+      "synonyms": [
+        "inspect"
+      ]
+    },
+    {
+      "word": "execrable",
+      "synonyms": [
+        "appalling"
+      ]
+    },
+    {
+      "word": "exhausted",
+      "synonyms": [
+        "worn out"
+      ]
+    },
+    {
+      "word": "expand",
+      "synonyms": [
+        "enlarge"
+      ]
+    },
+    {
+      "word": "expensive",
+      "synonyms": [
+        "costly"
+      ]
+    },
+    {
+      "word": "explain",
+      "synonyms": [
+        "clarify"
+      ]
+    },
+    {
+      "word": "express",
+      "synonyms": [
+        "convey"
+      ]
+    },
+    {
+      "word": "face",
+      "synonyms": []
+    },
+    {
+      "word": "failure",
+      "synonyms": [
+        "lack of success"
+      ]
+    },
+    {
+      "word": "fall back on",
+      "synonyms": [
+        "resort to"
+      ]
+    },
+    {
+      "word": "fallacious",
+      "synonyms": [
+        "flawed"
+      ]
+    },
+    {
+      "word": "famous",
+      "synonyms": [
+        "well-known"
+      ]
+    },
+    {
+      "word": "fast",
+      "synonyms": [
+        "quick"
+      ]
+    },
+    {
+      "word": "fatuous",
+      "synonyms": [
+        "foolish"
+      ]
+    },
+    {
+      "word": "feature",
+      "synonyms": [
+        "characteristic"
+      ]
+    },
+    {
+      "word": "feedback",
+      "synonyms": [
+        "response"
+      ]
+    },
+    {
+      "word": "ferret out",
+      "synonyms": [
+        "uncover"
+      ]
+    },
+    {
+      "word": "figure out",
+      "synonyms": [
+        "work out"
+      ]
+    },
+    {
+      "word": "financial",
+      "synonyms": [
+        "monetary"
+      ]
+    },
+    {
+      "word": "firm",
+      "synonyms": [
+        "company"
+      ]
+    },
+    {
+      "word": "flagrant",
+      "synonyms": [
+        "blatant"
+      ]
+    },
+    {
+      "word": "flower",
+      "synonyms": []
+    },
+    {
+      "word": "fly",
+      "synonyms": [
+        "travel by air"
+      ]
+    },
+    {
+      "word": "follow through",
+      "synonyms": [
+        "carry through"
+      ]
+    },
+    {
+      "word": "foot",
+      "synonyms": []
+    },
+    {
+      "word": "foreign",
+      "synonyms": [
+        "overseas"
+      ]
+    },
+    {
+      "word": "former",
+      "synonyms": [
+        "previous"
+      ]
+    },
+    {
+      "word": "fortunate",
+      "synonyms": [
+        "lucky"
+      ]
+    },
+    {
+      "word": "fractious",
+      "synonyms": [
+        "irritable"
+      ]
+    },
+    {
+      "word": "Friday",
+      "synonyms": []
+    },
+    {
+      "word": "frog",
+      "synonyms": []
+    },
+    {
+      "word": "frustration",
+      "synonyms": [
+        "exasperation"
+      ]
+    },
+    {
+      "word": "fundamental",
+      "synonyms": [
+        "basic"
+      ]
+    },
+    {
+      "word": "galvanize",
+      "synonyms": [
+        "spur"
+      ]
+    },
+    {
+      "word": "gather",
+      "synonyms": [
+        "collect"
+      ]
+    },
+    {
+      "word": "gentle",
+      "synonyms": [
+        "mild"
+      ]
+    },
+    {
+      "word": "get across",
+      "synonyms": [
+        "communicate"
+      ]
+    },
+    {
+      "word": "get away",
+      "synonyms": [
+        "escape"
+      ]
+    },
+    {
+      "word": "get in",
+      "synonyms": [
+        "enter"
+      ]
+    },
+    {
+      "word": "get out",
+      "synonyms": [
+        "leave"
+      ]
+    },
+    {
+      "word": "get together",
+      "synonyms": [
+        "meet"
+      ]
+    },
+    {
+      "word": "give away",
+      "synonyms": [
+        "donate"
+      ]
+    },
+    {
+      "word": "give up",
+      "synonyms": [
+        "quit"
+      ]
+    },
+    {
+      "word": "gloss over",
+      "synonyms": [
+        "downplay"
+      ]
+    },
+    {
+      "word": "go along with",
+      "synonyms": [
+        "agree with"
+      ]
+    },
+    {
+      "word": "go down",
+      "synonyms": [
+        "descend"
+      ]
+    },
+    {
+      "word": "go on",
+      "synonyms": [
+        "continue"
+      ]
+    },
+    {
+      "word": "go through",
+      "synonyms": [
+        "experience"
+      ]
+    },
+    {
+      "word": "gradually",
+      "synonyms": [
+        "slowly"
+      ]
+    },
+    {
+      "word": "grateful",
+      "synonyms": [
+        "thankful"
+      ]
+    },
+    {
+      "word": "green",
+      "synonyms": []
+    },
+    {
+      "word": "grow back",
+      "synonyms": [
+        "regrow"
+      ]
+    },
+    {
+      "word": "guest",
+      "synonyms": [
+        "visitor"
+      ]
+    },
+    {
+      "word": "habit",
+      "synonyms": [
+        "routine"
+      ]
+    },
+    {
+      "word": "hammer out",
+      "synonyms": [
+        "negotiate"
+      ]
+    },
+    {
+      "word": "hand out",
+      "synonyms": [
+        "distribute"
+      ]
+    },
+    {
+      "word": "hang up",
+      "synonyms": [
+        "end a call"
+      ]
+    },
+    {
+      "word": "harm",
+      "synonyms": [
+        "damage"
+      ]
+    },
+    {
+      "word": "hat",
+      "synonyms": []
+    },
+    {
+      "word": "headline",
+      "synonyms": [
+        "title"
+      ]
+    },
+    {
+      "word": "hegemony",
+      "synonyms": [
+        "dominance"
+      ]
+    },
+    {
+      "word": "hierarchy",
+      "synonyms": [
+        "ranking"
+      ]
+    },
+    {
+      "word": "hire",
+      "synonyms": [
+        "employ"
+      ]
+    },
+    {
+      "word": "hold on",
+      "synonyms": [
+        "wait"
+      ]
+    },
+    {
+      "word": "home in on",
+      "synonyms": [
+        "focus on"
+      ]
+    },
+    {
+      "word": "hope",
+      "synonyms": [
+        "wish"
+      ]
+    },
+    {
+      "word": "hot",
+      "synonyms": [
+        "heated"
+      ]
+    },
+    {
+      "word": "household",
+      "synonyms": [
+        "domestic unit"
+      ]
+    },
+    {
+      "word": "humor",
+      "synonyms": [
+        "comedy"
+      ]
+    },
+    {
+      "word": "husband",
+      "synonyms": []
+    },
+    {
+      "word": "idiosyncrasy",
+      "synonyms": [
+        "quirk"
+      ]
+    },
+    {
+      "word": "imagine",
+      "synonyms": [
+        "envision"
+      ]
+    },
+    {
+      "word": "impartial",
+      "synonyms": [
+        "unbiased"
+      ]
+    },
+    {
+      "word": "impetuous",
+      "synonyms": [
+        "rash"
+      ]
+    },
+    {
+      "word": "impress",
+      "synonyms": [
+        "make an impression on"
+      ]
+    },
+    {
+      "word": "incentive",
+      "synonyms": [
+        "inducement"
+      ]
+    },
+    {
+      "word": "inclusive",
+      "synonyms": [
+        "welcoming"
+      ]
+    },
+    {
+      "word": "increase",
+      "synonyms": [
+        "rise"
+      ]
+    },
+    {
+      "word": "individual",
+      "synonyms": [
+        "person"
+      ]
+    },
+    {
+      "word": "inequality",
+      "synonyms": [
+        "disparity"
+      ]
+    },
+    {
+      "word": "influence",
+      "synonyms": [
+        "affect"
+      ]
+    },
+    {
+      "word": "inherent",
+      "synonyms": [
+        "intrinsic"
+      ]
+    },
+    {
+      "word": "innocuous",
+      "synonyms": [
+        "harmless"
+      ]
+    },
+    {
+      "word": "insidious",
+      "synonyms": [
+        "treacherous"
+      ]
+    },
+    {
+      "word": "inspire",
+      "synonyms": [
+        "motivate"
+      ]
+    },
+    {
+      "word": "intend",
+      "synonyms": [
+        "plan"
+      ]
+    },
+    {
+      "word": "intervene",
+      "synonyms": [
+        "step in"
+      ]
+    },
+    {
+      "word": "intricate",
+      "synonyms": [
+        "complex"
+      ]
+    },
+    {
+      "word": "inured",
+      "synonyms": [
+        "accustomed"
+      ]
+    },
+    {
+      "word": "invitation",
+      "synonyms": []
+    },
+    {
+      "word": "irrelevant",
+      "synonyms": [
+        "unrelated"
+      ]
+    },
+    {
+      "word": "jacket",
+      "synonyms": []
+    },
+    {
+      "word": "jeopardize",
+      "synonyms": [
+        "endanger"
+      ]
+    },
+    {
+      "word": "journal",
+      "synonyms": [
+        "periodical"
+      ]
+    },
+    {
+      "word": "judgment",
+      "synonyms": [
+        "assessment"
+      ]
+    },
+    {
+      "word": "jump",
+      "synonyms": [
+        "leap"
+      ]
+    },
+    {
+      "word": "keen",
+      "synonyms": [
+        "eager"
+      ]
+    },
+    {
+      "word": "keep down",
+      "synonyms": [
+        "control"
+      ]
+    },
+    {
+      "word": "keep up with",
+      "synonyms": [
+        "stay abreast of"
+      ]
+    },
+    {
+      "word": "kilometer",
+      "synonyms": []
+    },
+    {
+      "word": "knock back",
+      "synonyms": [
+        "reject"
+      ]
+    },
+    {
+      "word": "kowtow",
+      "synonyms": [
+        "grovel"
+      ]
+    },
+    {
+      "word": "lack",
+      "synonyms": [
+        "shortage"
+      ]
+    },
+    {
+      "word": "landscape",
+      "synonyms": [
+        "scenery"
+      ]
+    },
+    {
+      "word": "lash out",
+      "synonyms": [
+        "attack"
+      ]
+    },
+    {
+      "word": "laugh",
+      "synonyms": [
+        "chuckle"
+      ]
+    },
+    {
+      "word": "lay off",
+      "synonyms": [
+        "make redundant"
+      ]
+    },
+    {
+      "word": "left",
+      "synonyms": []
+    },
+    {
+      "word": "legitimate",
+      "synonyms": [
+        "lawful"
+      ]
+    },
+    {
+      "word": "lesson",
+      "synonyms": [
+        "class"
+      ]
+    },
+    {
+      "word": "level with",
+      "synonyms": [
+        "be honest with"
+      ]
+    },
+    {
+      "word": "lie down",
+      "synonyms": [
+        "recline"
+      ]
+    },
+    {
+      "word": "likely",
+      "synonyms": [
+        "probable"
+      ]
+    },
+    {
+      "word": "lion",
+      "synonyms": []
+    },
+    {
+      "word": "live up to",
+      "synonyms": [
+        "meet"
+      ]
+    },
+    {
+      "word": "log out",
+      "synonyms": [
+        "sign out"
+      ]
+    },
+    {
+      "word": "look after",
+      "synonyms": [
+        "care for"
+      ]
+    },
+    {
+      "word": "look back",
+      "synonyms": [
+        "reflect"
+      ]
+    },
+    {
+      "word": "look forward to",
+      "synonyms": [
+        "anticipate eagerly"
+      ]
+    },
+    {
+      "word": "look up",
+      "synonyms": [
+        "search for"
+      ]
+    },
+    {
+      "word": "loyal",
+      "synonyms": [
+        "faithful"
+      ]
+    },
+    {
+      "word": "magnanimous",
+      "synonyms": [
+        "generous"
+      ]
+    },
+    {
+      "word": "make out",
+      "synonyms": [
+        "discern"
+      ]
+    },
+    {
+      "word": "malevolent",
+      "synonyms": [
+        "malicious"
+      ]
+    },
+    {
+      "word": "manifest",
+      "synonyms": [
+        "apparent"
+      ]
+    },
+    {
+      "word": "market",
+      "synonyms": [
+        "marketplace"
+      ]
+    },
+    {
+      "word": "meat",
+      "synonyms": [
+        "flesh"
+      ]
+    },
+    {
+      "word": "mendacious",
+      "synonyms": [
+        "untruthful"
+      ]
+    },
+    {
+      "word": "merit",
+      "synonyms": [
+        "value"
+      ]
+    },
+    {
+      "word": "meticulous",
+      "synonyms": [
+        "thorough"
+      ]
+    },
+    {
+      "word": "minor",
+      "synonyms": [
+        "small"
+      ]
+    },
+    {
+      "word": "mistake",
+      "synonyms": [
+        "error"
+      ]
+    },
+    {
+      "word": "modest",
+      "synonyms": [
+        "humble"
+      ]
+    },
+    {
+      "word": "moribund",
+      "synonyms": [
+        "declining"
+      ]
+    },
+    {
+      "word": "motivate",
+      "synonyms": [
+        "inspire"
+      ]
+    },
+    {
+      "word": "mouse",
+      "synonyms": []
+    },
+    {
+      "word": "move on",
+      "synonyms": [
+        "proceed"
+      ]
+    },
+    {
+      "word": "mundane",
+      "synonyms": [
+        "ordinary"
+      ]
+    },
+    {
+      "word": "narrow",
+      "synonyms": [
+        "slender"
+      ]
+    },
+    {
+      "word": "near",
+      "synonyms": [
+        "close"
+      ]
+    },
+    {
+      "word": "necessary",
+      "synonyms": [
+        "essential"
+      ]
+    },
+    {
+      "word": "neighbor",
+      "synonyms": []
+    },
+    {
+      "word": "nevertheless",
+      "synonyms": [
+        "however"
+      ]
+    },
+    {
+      "word": "night",
+      "synonyms": []
+    },
+    {
+      "word": "nonplussed",
+      "synonyms": [
+        "bewildered"
+      ]
+    },
+    {
+      "word": "notwithstanding",
+      "synonyms": [
+        "despite"
+      ]
+    },
+    {
+      "word": "nurse",
+      "synonyms": []
+    },
+    {
+      "word": "objective",
+      "synonyms": [
+        "goal"
+      ]
+    },
+    {
+      "word": "obsolete",
+      "synonyms": [
+        "outdated"
+      ]
+    },
+    {
+      "word": "obviate",
+      "synonyms": [
+        "eliminate the need for"
+      ]
+    },
+    {
+      "word": "occupy",
+      "synonyms": [
+        "take up"
+      ]
+    },
+    {
+      "word": "offer",
+      "synonyms": [
+        "propose"
+      ]
+    },
+    {
+      "word": "older",
+      "synonyms": [
+        "more aged"
+      ]
+    },
+    {
+      "word": "open up about",
+      "synonyms": [
+        "speak freely about"
+      ]
+    },
+    {
+      "word": "opportunity",
+      "synonyms": [
+        "chance"
+      ]
+    },
+    {
+      "word": "option",
+      "synonyms": [
+        "choice"
+      ]
+    },
+    {
+      "word": "organize",
+      "synonyms": [
+        "arrange"
+      ]
+    },
+    {
+      "word": "outcome",
+      "synonyms": [
+        "result"
+      ]
+    },
+    {
+      "word": "overwhelming",
+      "synonyms": [
+        "overpowering"
+      ]
+    },
+    {
+      "word": "painful",
+      "synonyms": [
+        "hurting"
+      ]
+    },
+    {
+      "word": "paper over",
+      "synonyms": [
+        "conceal"
+      ]
+    },
+    {
+      "word": "parent",
+      "synonyms": []
+    },
+    {
+      "word": "particular",
+      "synonyms": [
+        "specific"
+      ]
+    },
+    {
+      "word": "pass on",
+      "synonyms": [
+        "transmit"
+      ]
+    },
+    {
+      "word": "password",
+      "synonyms": []
+    },
+    {
+      "word": "pay back",
+      "synonyms": [
+        "repay"
+      ]
+    },
+    {
+      "word": "pellucid",
+      "synonyms": [
+        "clear"
+      ]
+    },
+    {
+      "word": "perceive",
+      "synonyms": [
+        "notice"
+      ]
+    },
+    {
+      "word": "perfunctory",
+      "synonyms": [
+        "cursory"
+      ]
+    },
+    {
+      "word": "personality",
+      "synonyms": [
+        "character"
+      ]
+    },
+    {
+      "word": "pertinent",
+      "synonyms": [
+        "relevant"
+      ]
+    },
+    {
+      "word": "phase out",
+      "synonyms": [
+        "discontinue gradually"
+      ]
+    },
+    {
+      "word": "picture",
+      "synonyms": [
+        "image"
+      ]
+    },
+    {
+      "word": "placate",
+      "synonyms": [
+        "appease"
+      ]
+    },
+    {
+      "word": "plausible",
+      "synonyms": [
+        "believable"
+      ]
+    },
+    {
+      "word": "pocket",
+      "synonyms": []
+    },
+    {
+      "word": "population",
+      "synonyms": [
+        "inhabitants"
+      ]
+    },
+    {
+      "word": "possess",
+      "synonyms": [
+        "own"
+      ]
+    },
+    {
+      "word": "practical",
+      "synonyms": [
+        "useful"
+      ]
+    },
+    {
+      "word": "preliminary",
+      "synonyms": [
+        "initial"
+      ]
+    },
+    {
+      "word": "prescient",
+      "synonyms": [
+        "far-sighted"
+      ]
+    },
+    {
+      "word": "press for",
+      "synonyms": [
+        "urge"
+      ]
+    },
+    {
+      "word": "prevalent",
+      "synonyms": [
+        "widespread"
+      ]
+    },
+    {
+      "word": "priority",
+      "synonyms": [
+        "precedence"
+      ]
+    },
+    {
+      "word": "probity",
+      "synonyms": [
+        "integrity"
+      ]
+    },
+    {
+      "word": "prodigious",
+      "synonyms": [
+        "enormous"
+      ]
+    },
+    {
+      "word": "progress",
+      "synonyms": [
+        "advancement"
+      ]
+    },
+    {
+      "word": "proper",
+      "synonyms": [
+        "appropriate"
+      ]
+    },
+    {
+      "word": "proud",
+      "synonyms": [
+        "pleased"
+      ]
+    },
+    {
+      "word": "provoke",
+      "synonyms": [
+        "incite"
+      ]
+    },
+    {
+      "word": "pull off",
+      "synonyms": [
+        "accomplish"
+      ]
+    },
+    {
+      "word": "put away",
+      "synonyms": [
+        "store"
+      ]
+    },
+    {
+      "word": "put forward",
+      "synonyms": [
+        "propose"
+      ]
+    },
+    {
+      "word": "put through",
+      "synonyms": [
+        "connect"
+      ]
+    },
+    {
+      "word": "quality",
+      "synonyms": [
+        "standard"
+      ]
+    },
+    {
+      "word": "querulous",
+      "synonyms": [
+        "complaining"
+      ]
+    },
+    {
+      "word": "quiescent",
+      "synonyms": [
+        "inactive"
+      ]
+    },
+    {
+      "word": "quixotic",
+      "synonyms": [
+        "idealistic"
+      ]
+    },
+    {
+      "word": "rain",
+      "synonyms": []
+    },
+    {
+      "word": "rapid",
+      "synonyms": [
+        "fast"
+      ]
+    },
+    {
+      "word": "rather",
+      "synonyms": [
+        "somewhat"
+      ]
+    },
+    {
+      "word": "read out",
+      "synonyms": [
+        "read aloud"
+      ]
+    },
+    {
+      "word": "recalcitrance",
+      "synonyms": [
+        "defiance"
+      ]
+    },
+    {
+      "word": "recipe",
+      "synonyms": []
+    },
+    {
+      "word": "recommend",
+      "synonyms": [
+        "suggest"
+      ]
+    },
+    {
+      "word": "recover",
+      "synonyms": [
+        "get better"
+      ]
+    },
+    {
+      "word": "redolent",
+      "synonyms": [
+        "evocative"
+      ]
+    },
+    {
+      "word": "refer",
+      "synonyms": [
+        "mention"
+      ]
+    },
+    {
+      "word": "refuse",
+      "synonyms": [
+        "decline"
+      ]
+    },
+    {
+      "word": "regular",
+      "synonyms": [
+        "usual"
+      ]
+    },
+    {
+      "word": "reject",
+      "synonyms": [
+        "turn down"
+      ]
+    },
+    {
+      "word": "release",
+      "synonyms": [
+        "set free"
+      ]
+    },
+    {
+      "word": "relief",
+      "synonyms": [
+        "reassurance"
+      ]
+    },
+    {
+      "word": "remain",
+      "synonyms": [
+        "stay"
+      ]
+    },
+    {
+      "word": "rent",
+      "synonyms": [
+        "lease"
+      ]
+    },
+    {
+      "word": "reply",
+      "synonyms": [
+        "respond"
+      ]
+    },
+    {
+      "word": "request",
+      "synonyms": [
+        "ask for"
+      ]
+    },
+    {
+      "word": "research",
+      "synonyms": [
+        "investigation"
+      ]
+    },
+    {
+      "word": "resolve",
+      "synonyms": [
+        "solve"
+      ]
+    },
+    {
+      "word": "respect",
+      "synonyms": [
+        "esteem"
+      ]
+    },
+    {
+      "word": "responsible",
+      "synonyms": [
+        "accountable"
+      ]
+    },
+    {
+      "word": "retain",
+      "synonyms": [
+        "keep"
+      ]
+    },
+    {
+      "word": "reveal",
+      "synonyms": [
+        "disclose"
+      ]
+    },
+    {
+      "word": "ride out",
+      "synonyms": [
+        "endure"
+      ]
+    },
+    {
+      "word": "ring up",
+      "synonyms": [
+        "telephone"
+      ]
+    },
+    {
+      "word": "road",
+      "synonyms": [
+        "street"
+      ]
+    },
+    {
+      "word": "root out",
+      "synonyms": [
+        "eliminate"
+      ]
+    },
+    {
+      "word": "rough out",
+      "synonyms": [
+        "sketch"
+      ]
+    },
+    {
+      "word": "rule out",
+      "synonyms": [
+        "exclude"
+      ]
+    },
+    {
+      "word": "run out of",
+      "synonyms": [
+        "exhaust"
+      ]
+    },
+    {
+      "word": "salary",
+      "synonyms": [
+        "pay"
+      ]
+    },
+    {
+      "word": "sardonic",
+      "synonyms": [
+        "mocking"
+      ]
+    },
+    {
+      "word": "save up",
+      "synonyms": [
+        "accumulate"
+      ]
+    },
+    {
+      "word": "school",
+      "synonyms": []
+    },
+    {
+      "word": "scrutinize",
+      "synonyms": [
+        "inspect"
+      ]
+    },
+    {
+      "word": "search",
+      "synonyms": [
+        "look for"
+      ]
+    },
+    {
+      "word": "send back",
+      "synonyms": [
+        "return"
+      ]
+    },
+    {
+      "word": "separate",
+      "synonyms": [
+        "divide"
+      ]
+    },
+    {
+      "word": "set aside",
+      "synonyms": [
+        "reserve"
+      ]
+    },
+    {
+      "word": "settle",
+      "synonyms": [
+        "resolve"
+      ]
+    },
+    {
+      "word": "share",
+      "synonyms": [
+        "divide"
+      ]
+    },
+    {
+      "word": "shirt",
+      "synonyms": []
+    },
+    {
+      "word": "shore up",
+      "synonyms": [
+        "reinforce"
+      ]
+    },
+    {
+      "word": "show off",
+      "synonyms": [
+        "boast"
+      ]
+    },
+    {
+      "word": "shy",
+      "synonyms": [
+        "timid"
+      ]
+    },
+    {
+      "word": "sign up",
+      "synonyms": [
+        "register"
+      ]
+    },
+    {
+      "word": "sincere",
+      "synonyms": [
+        "honest"
+      ]
+    },
+    {
+      "word": "sit down",
+      "synonyms": []
+    },
+    {
+      "word": "sky",
+      "synonyms": []
+    },
+    {
+      "word": "small",
+      "synonyms": [
+        "little"
+      ]
+    },
+    {
+      "word": "smooth",
+      "synonyms": [
+        "even"
+      ]
+    },
+    {
+      "word": "society",
+      "synonyms": [
+        "community"
+      ]
+    },
+    {
+      "word": "solve",
+      "synonyms": [
+        "resolve"
+      ]
+    },
+    {
+      "word": "sound out",
+      "synonyms": [
+        "consult"
+      ]
+    },
+    {
+      "word": "speak up",
+      "synonyms": [
+        "speak louder"
+      ]
+    },
+    {
+      "word": "spread",
+      "synonyms": [
+        "distribute"
+      ]
+    },
+    {
+      "word": "square with",
+      "synonyms": [
+        "agree with"
+      ]
+    },
+    {
+      "word": "stand out",
+      "synonyms": [
+        "be conspicuous"
+      ]
+    },
+    {
+      "word": "stave off",
+      "synonyms": [
+        "avert"
+      ]
+    },
+    {
+      "word": "stem from",
+      "synonyms": [
+        "originate in"
+      ]
+    },
+    {
+      "word": "stick to",
+      "synonyms": [
+        "adhere to"
+      ]
+    },
+    {
+      "word": "streamline",
+      "synonyms": [
+        "simplify"
+      ]
+    },
+    {
+      "word": "strident",
+      "synonyms": [
+        "harsh"
+      ]
+    },
+    {
+      "word": "student",
+      "synonyms": [
+        "pupil"
+      ]
+    },
+    {
+      "word": "subtle",
+      "synonyms": [
+        "delicate"
+      ]
+    },
+    {
+      "word": "sufficient",
+      "synonyms": [
+        "enough"
+      ]
+    },
+    {
+      "word": "suitable",
+      "synonyms": [
+        "appropriate"
+      ]
+    },
+    {
+      "word": "Sunday",
+      "synonyms": []
+    },
+    {
+      "word": "support",
+      "synonyms": [
+        "help"
+      ]
+    },
+    {
+      "word": "surreptitious",
+      "synonyms": [
+        "secret"
+      ]
+    },
+    {
+      "word": "survive",
+      "synonyms": [
+        "stay alive"
+      ]
+    },
+    {
+      "word": "switch off",
+      "synonyms": [
+        "turn off"
+      ]
+    },
+    {
+      "word": "table",
+      "synonyms": []
+    },
+    {
+      "word": "take back",
+      "synonyms": [
+        "return"
+      ]
+    },
+    {
+      "word": "take off",
+      "synonyms": [
+        "remove"
+      ]
+    },
+    {
+      "word": "take over",
+      "synonyms": [
+        "assume control"
+      ]
+    },
+    {
+      "word": "talk into",
+      "synonyms": [
+        "persuade"
+      ]
+    },
+    {
+      "word": "taper off",
+      "synonyms": [
+        "diminish"
+      ]
+    },
+    {
+      "word": "tea",
+      "synonyms": []
+    },
+    {
+      "word": "technique",
+      "synonyms": [
+        "method"
+      ]
+    },
+    {
+      "word": "tend",
+      "synonyms": [
+        "be inclined"
+      ]
+    },
+    {
+      "word": "tentative",
+      "synonyms": [
+        "provisional"
+      ]
+    },
+    {
+      "word": "therefore",
+      "synonyms": [
+        "consequently"
+      ]
+    },
+    {
+      "word": "though",
+      "synonyms": [
+        "although"
+      ]
+    },
+    {
+      "word": "throughout",
+      "synonyms": [
+        "all through"
+      ]
+    },
+    {
+      "word": "ticket",
+      "synonyms": []
+    },
+    {
+      "word": "tired",
+      "synonyms": [
+        "weary"
+      ]
+    },
+    {
+      "word": "tomorrow",
+      "synonyms": [
+        "the next day"
+      ]
+    },
+    {
+      "word": "tough",
+      "synonyms": [
+        "difficult"
+      ]
+    },
+    {
+      "word": "track down",
+      "synonyms": [
+        "locate"
+      ]
+    },
+    {
+      "word": "training",
+      "synonyms": [
+        "instruction"
+      ]
+    },
+    {
+      "word": "travel",
+      "synonyms": [
+        "journey"
+      ]
+    },
+    {
+      "word": "trenchant",
+      "synonyms": [
+        "incisive"
+      ]
+    },
+    {
+      "word": "trump up",
+      "synonyms": [
+        "fabricate"
+      ]
+    },
+    {
+      "word": "try out",
+      "synonyms": [
+        "test"
+      ]
+    },
+    {
+      "word": "turn around",
+      "synonyms": [
+        "reverse direction"
+      ]
+    },
+    {
+      "word": "turn off",
+      "synonyms": [
+        "switch off"
+      ]
+    },
+    {
+      "word": "turn up",
+      "synonyms": [
+        "increase"
+      ]
+    },
+    {
+      "word": "umbrella",
+      "synonyms": []
+    },
+    {
+      "word": "uncle",
+      "synonyms": []
+    },
+    {
+      "word": "under",
+      "synonyms": [
+        "beneath"
+      ]
+    },
+    {
+      "word": "underlying",
+      "synonyms": [
+        "fundamental"
+      ]
+    },
+    {
+      "word": "unequivocal",
+      "synonyms": [
+        "unambiguous"
+      ]
+    },
+    {
+      "word": "unique",
+      "synonyms": [
+        "one of a kind"
+      ]
+    },
+    {
+      "word": "unprecedented",
+      "synonyms": [
+        "unheard-of"
+      ]
+    },
+    {
+      "word": "upset",
+      "synonyms": [
+        "distressed"
+      ]
+    },
+    {
+      "word": "useful",
+      "synonyms": [
+        "helpful"
+      ]
+    },
+    {
+      "word": "validate",
+      "synonyms": [
+        "verify"
+      ]
+    },
+    {
+      "word": "vary",
+      "synonyms": [
+        "differ"
+      ]
+    },
+    {
+      "word": "veracity",
+      "synonyms": [
+        "truthfulness"
+      ]
+    },
+    {
+      "word": "vicissitude",
+      "synonyms": [
+        "change of fortune"
+      ]
+    },
+    {
+      "word": "village",
+      "synonyms": [
+        "small settlement"
+      ]
+    },
+    {
+      "word": "visit",
+      "synonyms": [
+        "call on"
+      ]
+    },
+    {
+      "word": "volatile",
+      "synonyms": [
+        "unstable"
+      ]
+    },
+    {
+      "word": "vulnerable",
+      "synonyms": [
+        "defenseless"
+      ]
+    },
+    {
+      "word": "walk",
+      "synonyms": [
+        "go on foot"
+      ]
+    },
+    {
+      "word": "wanton",
+      "synonyms": [
+        "gratuitous"
+      ]
+    },
+    {
+      "word": "warning",
+      "synonyms": [
+        "alert"
+      ]
+    },
+    {
+      "word": "waste",
+      "synonyms": [
+        "squander"
+      ]
+    },
+    {
+      "word": "water down",
+      "synonyms": [
+        "weaken"
+      ]
+    },
+    {
+      "word": "weather",
+      "synonyms": []
+    },
+    {
+      "word": "weekend",
+      "synonyms": []
+    },
+    {
+      "word": "whimsical",
+      "synonyms": [
+        "fanciful"
+      ]
+    },
+    {
+      "word": "whole",
+      "synonyms": [
+        "entire"
+      ]
+    },
+    {
+      "word": "willing",
+      "synonyms": [
+        "ready"
+      ]
+    },
+    {
+      "word": "winter",
+      "synonyms": []
+    },
+    {
+      "word": "witness",
+      "synonyms": [
+        "observer"
+      ]
+    },
+    {
+      "word": "work around",
+      "synonyms": [
+        "bypass"
+      ]
+    },
+    {
+      "word": "wrap up",
+      "synonyms": [
+        "finish"
+      ]
+    },
+    {
+      "word": "wrong",
+      "synonyms": [
+        "incorrect"
+      ]
+    },
+    {
+      "word": "yellow",
+      "synonyms": []
+    },
+    {
+      "word": "yield",
+      "synonyms": [
+        "produce"
+      ]
+    },
+    {
+      "word": "youngster",
+      "synonyms": [
+        "child"
+      ]
+    },
+    {
+      "word": "zeitgeist",
+      "synonyms": [
+        "spirit of the age"
+      ]
+    },
+    {
+      "word": "zone",
+      "synonyms": [
+        "area"
+      ]
+    }
+  ],
+  "new": [
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "accountant",
+      "clue": "A person whose job is to prepare financial records.",
+      "tr": "Mali kayıtları hazırlayan muhasebeci.",
+      "example": "Our accountant checks every invoice.",
+      "exampleTr": "Muhasebecimiz her faturayı kontrol eder.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "accounting",
+      "clue": "The work of recording and checking financial transactions.",
+      "tr": "Mali işlemleri kaydetme ve denetleme işi, muhasebe.",
+      "example": "She studied accounting before joining the firm.",
+      "exampleTr": "Firmaya katılmadan önce muhasebe okudu.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "A",
+      "word": "audit",
+      "clue": "An official examination of financial records or procedures.",
+      "tr": "Mali kayıtların veya süreçlerin resmî denetimi.",
+      "example": "The audit revealed missing receipts.",
+      "exampleTr": "Denetim eksik makbuzları ortaya çıkardı.",
+      "synonyms": [
+        "inspection"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "invoice",
+      "clue": "A document listing goods sold and the money owed.",
+      "tr": "Satılan malları ve ödenecek tutarı gösteren fatura.",
+      "example": "Please send the invoice by email.",
+      "exampleTr": "Lütfen faturayı e-postayla gönderin.",
+      "synonyms": [
+        "bill"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "R",
+      "word": "receipt",
+      "clue": "A document proving that you have paid for something.",
+      "tr": "Ödeme yapıldığını gösteren fiş veya makbuz.",
+      "example": "Keep the receipt for your expenses.",
+      "exampleTr": "Masrafların için fişi sakla.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "tax",
+      "clue": "Money paid to the government from earnings or purchases.",
+      "tr": "Kazanç veya alışveriş üzerinden devlete ödenen vergi.",
+      "example": "This price includes tax.",
+      "exampleTr": "Bu fiyata vergi dahildir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "taxpayer",
+      "clue": "A person or organization that pays money to the government.",
+      "tr": "Devlete vergi ödeyen kişi veya kuruluş.",
+      "example": "Every taxpayer can check the new rules.",
+      "exampleTr": "Her vergi mükellefi yeni kuralları inceleyebilir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "revenue",
+      "clue": "Money that a business receives from its activities before costs.",
+      "tr": "İşletmenin giderler düşülmeden önce elde ettiği gelir.",
+      "example": "Ticket sales provide most of our revenue.",
+      "exampleTr": "Gelirimizin büyük kısmını bilet satışları sağlar.",
+      "synonyms": [
+        "income"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "expense",
+      "clue": "Money spent on something needed.",
+      "tr": "Gerekli bir şey için harcanan para, masraf.",
+      "example": "Rent is our largest monthly expense.",
+      "exampleTr": "Kira aylık en büyük masrafımızdır.",
+      "synonyms": [
+        "cost"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "E",
+      "word": "expenditure",
+      "clue": "The total amount of money spent.",
+      "tr": "Harcanan toplam para, harcama.",
+      "example": "The council reduced expenditure on advertising.",
+      "exampleTr": "Belediye reklam harcamalarını azalttı.",
+      "synonyms": [
+        "spending"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cost",
+      "clue": "The amount of money needed to buy or do something.",
+      "tr": "Bir şeyi satın almak veya yapmak için gereken tutar.",
+      "example": "We need to calculate the cost of repairs.",
+      "exampleTr": "Onarımların maliyetini hesaplamamız gerekiyor.",
+      "synonyms": [
+        "expense"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "P",
+      "word": "price",
+      "clue": "The amount of money a seller asks for something.",
+      "tr": "Satıcının bir ürün için istediği para.",
+      "example": "The price is written on the label.",
+      "exampleTr": "Fiyat etikette yazıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "P",
+      "word": "payment",
+      "clue": "An amount of money given for a product or service.",
+      "tr": "Ürün veya hizmet karşılığında verilen ödeme.",
+      "example": "Your payment arrived this morning.",
+      "exampleTr": "Ödemeniz bu sabah ulaştı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "refund",
+      "clue": "Money returned to someone who has paid for something.",
+      "tr": "Ödenen paranın geri verilmesi, para iadesi.",
+      "example": "I requested a refund for the broken printer.",
+      "exampleTr": "Bozuk yazıcı için para iadesi istedim.",
+      "synonyms": [
+        "reimbursement"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "deposit",
+      "clue": "Money put into a bank account.",
+      "tr": "Banka hesabına yatırılan para.",
+      "example": "The deposit appeared in my account immediately.",
+      "exampleTr": "Yatırdığım para hesabımda hemen göründü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "withdrawal",
+      "clue": "The act of taking money out of a bank account.",
+      "tr": "Banka hesabından para çekme işlemi.",
+      "example": "The bank charged a fee for the withdrawal.",
+      "exampleTr": "Banka para çekme işlemi için ücret aldı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "loan",
+      "clue": "Money borrowed with an agreement to pay it back.",
+      "tr": "Geri ödenmek üzere alınan borç veya kredi.",
+      "example": "We applied for a loan to buy equipment.",
+      "exampleTr": "Ekipman almak için krediye başvurduk.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "debt",
+      "clue": "Money that someone owes to another person or organization.",
+      "tr": "Bir kişi veya kuruluşa ödenmesi gereken borç.",
+      "example": "The company paid off its debt.",
+      "exampleTr": "Şirket borcunu kapattı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "credit",
+      "clue": "An arrangement that allows payment at a later time.",
+      "tr": "Ödemenin daha sonra yapılmasını sağlayan kredi düzenlemesi.",
+      "example": "The shop lets customers buy on credit.",
+      "exampleTr": "Mağaza müşterilerin veresiye alışveriş yapmasına izin veriyor.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "D",
+      "word": "debit",
+      "clue": "An entry recording money taken out of a bank account.",
+      "tr": "Hesaptan çıkan parayı gösteren borç kaydı.",
+      "example": "I noticed an unexpected debit on my statement.",
+      "exampleTr": "Hesap özetimde beklenmedik bir borç kaydı gördüm.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "interest",
+      "clue": "Money charged for borrowing or earned on savings.",
+      "tr": "Borç için ödenen veya birikimden kazanılan faiz.",
+      "example": "This account pays interest every month.",
+      "exampleTr": "Bu hesap her ay faiz getirir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "mortgage",
+      "clue": "A loan used to buy property, secured against that property.",
+      "tr": "Gayrimenkul teminatıyla alınan konut kredisi.",
+      "example": "Their mortgage will last twenty years.",
+      "exampleTr": "Konut kredileri yirmi yıl sürecek.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "instalment",
+      "clue": "One of several regular payments for a purchase or debt.",
+      "tr": "Bir alışveriş veya borç için yapılan düzenli taksitlerden biri.",
+      "example": "The first instalment is due in June.",
+      "exampleTr": "İlk taksitin vadesi haziranda doluyor.",
+      "synonyms": [
+        "installment"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "S",
+      "word": "savings",
+      "clue": "Money that you keep instead of spending.",
+      "tr": "Harcanmayıp biriktirilen para.",
+      "example": "She used her savings to start a business.",
+      "exampleTr": "Bir iş kurmak için birikimlerini kullandı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "currency",
+      "clue": "The system of money used in a country.",
+      "tr": "Bir ülkede kullanılan para birimi.",
+      "example": "Which currency should I bring?",
+      "exampleTr": "Hangi para birimini getirmeliyim?",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cash",
+      "clue": "Money in the form of notes and coins.",
+      "tr": "Banknot ve madeni para biçimindeki nakit.",
+      "example": "The machine only accepts cash.",
+      "exampleTr": "Makine yalnızca nakit kabul ediyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "C",
+      "word": "coin",
+      "clue": "A small round piece of metal used as money.",
+      "tr": "Para olarak kullanılan küçük yuvarlak metal parça.",
+      "example": "A coin fell under the counter.",
+      "exampleTr": "Tezgâhın altına bir bozuk para düştü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "banknote",
+      "clue": "A piece of paper money issued by a bank or state.",
+      "tr": "Banka veya devlet tarafından çıkarılan kâğıt para.",
+      "example": "The banknote has a portrait on one side.",
+      "exampleTr": "Banknotun bir yüzünde portre var.",
+      "synonyms": [
+        "note",
+        "bill"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "W",
+      "word": "wallet",
+      "clue": "A small case used to carry money and cards.",
+      "tr": "Para ve kart taşımak için kullanılan cüzdan.",
+      "example": "I left my wallet beside the till.",
+      "exampleTr": "Cüzdanımı kasanın yanında bıraktım.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "till",
+      "clue": "A drawer or machine where a shop keeps payments.",
+      "tr": "Mağazada ödemelerin tutulduğu kasa.",
+      "example": "The assistant counted the money in the till.",
+      "exampleTr": "Görevli kasadaki parayı saydı.",
+      "synonyms": [
+        "cash register"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cashier",
+      "clue": "A worker who receives customers' payments.",
+      "tr": "Müşterilerin ödemelerini alan kasiyer.",
+      "example": "The cashier gave me my change.",
+      "exampleTr": "Kasiyer para üstümü verdi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "retail",
+      "clue": "The sale of goods directly to the public.",
+      "tr": "Malların doğrudan halka satılması, perakende.",
+      "example": "She has ten years of experience in retail.",
+      "exampleTr": "Perakende alanında on yıllık deneyimi var.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "wholesale",
+      "clue": "The sale of goods in large quantities to other businesses.",
+      "tr": "Malların diğer işletmelere büyük miktarda satılması, toptan satış.",
+      "example": "The supplier sells paper at wholesale prices.",
+      "exampleTr": "Tedarikçi kâğıdı toptan fiyatına satıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "supplier",
+      "clue": "A person or company that provides goods or services.",
+      "tr": "Mal veya hizmet sağlayan tedarikçi.",
+      "example": "Our supplier delivers every Monday.",
+      "exampleTr": "Tedarikçimiz her pazartesi teslimat yapar.",
+      "synonyms": [
+        "provider"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "B",
+      "word": "buyer",
+      "clue": "A person who purchases something.",
+      "tr": "Bir şeyi satın alan alıcı.",
+      "example": "The buyer asked for a lower price.",
+      "exampleTr": "Alıcı daha düşük bir fiyat istedi.",
+      "synonyms": [
+        "purchaser"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "S",
+      "word": "seller",
+      "clue": "A person who offers something for sale.",
+      "tr": "Bir şeyi satışa sunan satıcı.",
+      "example": "The seller answered all my questions.",
+      "exampleTr": "Satıcı bütün sorularımı yanıtladı.",
+      "synonyms": [
+        "vendor"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "V",
+      "word": "vendor",
+      "clue": "A person or business that sells goods or services.",
+      "tr": "Mal veya hizmet satan kişi ya da işletme.",
+      "example": "The vendor offered a two-year guarantee.",
+      "exampleTr": "Satıcı iki yıllık garanti sundu.",
+      "synonyms": [
+        "seller"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "consumer",
+      "clue": "A person who buys goods or services for personal use.",
+      "tr": "Kişisel kullanım için mal veya hizmet alan tüketici.",
+      "example": "The law protects the consumer from false claims.",
+      "exampleTr": "Kanun tüketiciyi yanlış iddialardan korur.",
+      "synonyms": [
+        "customer"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "client",
+      "clue": "A person or organization that uses professional services.",
+      "tr": "Profesyonel hizmet alan kişi veya kuruluş, müşteri.",
+      "example": "The lawyer met a new client today.",
+      "exampleTr": "Avukat bugün yeni bir müşteriyle görüştü.",
+      "synonyms": [
+        "customer"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "O",
+      "word": "order",
+      "clue": "A request to buy particular goods or services.",
+      "tr": "Belirli mal veya hizmetleri satın alma talebi, sipariş.",
+      "example": "Your order will arrive on Friday.",
+      "exampleTr": "Siparişiniz cuma günü gelecek.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "D",
+      "word": "delivery",
+      "clue": "The act of taking goods to a customer or destination.",
+      "tr": "Malların müşteriye veya adrese ulaştırılması.",
+      "example": "We offer free delivery for large orders.",
+      "exampleTr": "Büyük siparişlerde ücretsiz teslimat sunuyoruz.",
+      "synonyms": [
+        "distribution"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "shipment",
+      "clue": "A quantity of goods sent together.",
+      "tr": "Birlikte gönderilen mal partisi, sevkiyat.",
+      "example": "The shipment contains fifty monitors.",
+      "exampleTr": "Sevkiyatta elli monitör bulunuyor.",
+      "synonyms": [
+        "consignment"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "stock",
+      "clue": "Goods kept by a shop or business for sale.",
+      "tr": "Bir işletmenin satmak üzere tuttuğu mallar, stok.",
+      "example": "The warehouse has plenty of stock.",
+      "exampleTr": "Depoda bol miktarda stok var.",
+      "synonyms": [
+        "inventory"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "inventory",
+      "clue": "A complete list of goods or materials held by a business.",
+      "tr": "İşletmedeki mal ve malzemelerin tam listesi, envanter.",
+      "example": "We check the inventory every Friday.",
+      "exampleTr": "Her cuma envanteri kontrol ederiz.",
+      "synonyms": [
+        "stock list"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "warehouse",
+      "clue": "A large building where goods are stored.",
+      "tr": "Malların saklandığı büyük depo.",
+      "example": "The warehouse closes at six.",
+      "exampleTr": "Depo saat altıda kapanır.",
+      "synonyms": [
+        "storehouse"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "storage",
+      "clue": "Space or arrangements for keeping things until needed.",
+      "tr": "Eşyaları ihtiyaç duyulana kadar saklama alanı veya düzeni.",
+      "example": "We need more storage for spare parts.",
+      "exampleTr": "Yedek parçalar için daha fazla depolama alanına ihtiyacımız var.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "packaging",
+      "clue": "Materials used to wrap and protect products.",
+      "tr": "Ürünleri sarmak ve korumak için kullanılan ambalaj.",
+      "example": "The packaging is made from recycled paper.",
+      "exampleTr": "Ambalaj geri dönüştürülmüş kâğıttan yapılmıştır.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "L",
+      "word": "label",
+      "clue": "A small piece of material giving information about a product.",
+      "tr": "Ürün hakkında bilgi veren küçük etiket.",
+      "example": "Read the label before opening the package.",
+      "exampleTr": "Paketi açmadan önce etiketi oku.",
+      "synonyms": [
+        "tag"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "barcode",
+      "clue": "A pattern of lines that machines read to identify a product.",
+      "tr": "Makinelerin ürünü tanımak için okuduğu çizgi deseni.",
+      "example": "The scanner could not read the barcode.",
+      "exampleTr": "Tarayıcı barkodu okuyamadı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "brand",
+      "clue": "A name used to identify a company's products.",
+      "tr": "Bir şirketin ürünlerini tanıtan marka adı.",
+      "example": "This brand is known for durable tools.",
+      "exampleTr": "Bu marka dayanıklı aletleriyle tanınır.",
+      "synonyms": [
+        "make"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "logo",
+      "clue": "A symbol that identifies an organization or product.",
+      "tr": "Bir kurum veya ürünü tanıtan simge, logo.",
+      "example": "Their logo appears on every box.",
+      "exampleTr": "Logoları her kutunun üzerinde bulunuyor.",
+      "synonyms": [
+        "emblem"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "advertisement",
+      "clue": "A public message intended to promote something.",
+      "tr": "Bir ürünü veya hizmeti tanıtmayı amaçlayan reklam.",
+      "example": "I saw the advertisement on a bus.",
+      "exampleTr": "Reklamı bir otobüste gördüm.",
+      "synonyms": [
+        "advert",
+        "ad"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "marketing",
+      "clue": "The activity of attracting customers to products or services.",
+      "tr": "Ürün veya hizmetlere müşteri kazandırma faaliyeti, pazarlama.",
+      "example": "Good marketing helped the small company grow.",
+      "exampleTr": "İyi pazarlama küçük şirketin büyümesine yardımcı oldu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sales",
+      "clue": "The activity or amount of selling goods or services.",
+      "tr": "Mal veya hizmet satma faaliyeti ya da satış miktarı.",
+      "example": "Online sales increased this month.",
+      "exampleTr": "Çevrim içi satışlar bu ay arttı.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "T",
+      "word": "turnover",
+      "clue": "The total value of a company's sales during a period.",
+      "tr": "Bir şirketin belirli dönemdeki toplam satış tutarı, ciro.",
+      "example": "Annual turnover reached two million pounds.",
+      "exampleTr": "Yıllık ciro iki milyon sterline ulaştı.",
+      "synonyms": [
+        "revenue"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "commission",
+      "clue": "Money paid to someone for making a sale.",
+      "tr": "Bir satış gerçekleştiren kişiye ödenen komisyon.",
+      "example": "She earns commission on each contract.",
+      "exampleTr": "Her sözleşmeden komisyon kazanıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bonus",
+      "clue": "An extra payment given in addition to normal earnings.",
+      "tr": "Normal kazanca ek olarak verilen prim.",
+      "example": "Every employee received a small bonus.",
+      "exampleTr": "Her çalışan küçük bir prim aldı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "wage",
+      "clue": "Money paid for work, often calculated by the hour.",
+      "tr": "Genellikle saat üzerinden hesaplanan çalışma ücreti.",
+      "example": "The factory pays a fair hourly wage.",
+      "exampleTr": "Fabrika adil bir saatlik ücret ödüyor.",
+      "synonyms": [
+        "pay"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "P",
+      "word": "payroll",
+      "clue": "A company's list of employees and the amounts they are paid.",
+      "tr": "Şirketin çalışan ve ücret kayıtları, bordro.",
+      "example": "The new assistant manages payroll.",
+      "exampleTr": "Yeni asistan bordroyu yönetiyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pension",
+      "clue": "Money regularly paid to someone after retirement.",
+      "tr": "Emeklilikten sonra düzenli ödenen maaş.",
+      "example": "Her pension covers the rent.",
+      "exampleTr": "Emekli maaşı kirayı karşılıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "insurance",
+      "clue": "An arrangement that provides financial protection against loss.",
+      "tr": "Zarara karşı mali güvence sağlayan sigorta.",
+      "example": "The company provides health insurance.",
+      "exampleTr": "Şirket sağlık sigortası sağlıyor.",
+      "synonyms": [
+        "coverage"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "P",
+      "word": "premium",
+      "clue": "The amount regularly paid for insurance.",
+      "tr": "Sigorta için düzenli ödenen prim.",
+      "example": "My insurance premium increased this year.",
+      "exampleTr": "Sigorta primim bu yıl arttı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "policy",
+      "clue": "A plan or set of rules used by an organization.",
+      "tr": "Bir kurumun izlediği plan veya kurallar bütünü.",
+      "example": "Our policy allows flexible working hours.",
+      "exampleTr": "Politikamız esnek çalışma saatlerine izin veriyor.",
+      "synonyms": [
+        "guideline"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "investment",
+      "clue": "Money put into something with the aim of earning a return.",
+      "tr": "Getiri elde etmek amacıyla yapılan yatırım.",
+      "example": "The new factory requires a large investment.",
+      "exampleTr": "Yeni fabrika büyük bir yatırım gerektiriyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "investor",
+      "clue": "Someone who puts money into a business hoping to earn more.",
+      "tr": "Kazanç umuduyla bir işe para yatıran yatırımcı.",
+      "example": "The investor asked to see our accounts.",
+      "exampleTr": "Yatırımcı hesaplarımızı görmek istedi.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "A",
+      "word": "asset",
+      "clue": "Something valuable owned by a person or organization.",
+      "tr": "Bir kişi veya kurumun sahip olduğu değerli varlık.",
+      "example": "The building is the company's largest asset.",
+      "exampleTr": "Bina şirketin en büyük varlığıdır.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "L",
+      "word": "liability",
+      "clue": "A financial debt or obligation.",
+      "tr": "Mali borç veya yükümlülük.",
+      "example": "The unpaid loan is a liability on the balance sheet.",
+      "exampleTr": "Ödenmemiş kredi bilançoda bir yükümlülüktür.",
+      "synonyms": [
+        "obligation"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "E",
+      "word": "equity",
+      "clue": "The value of ownership after debts are subtracted.",
+      "tr": "Borçlar çıkarıldıktan sonra kalan sahiplik değeri, özkaynak.",
+      "example": "The founders hold most of the equity.",
+      "exampleTr": "Kurucular özkaynağın büyük kısmına sahiptir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "shareholder",
+      "clue": "A person or organization owning shares in a company.",
+      "tr": "Bir şirkette hisse sahibi olan kişi veya kuruluş.",
+      "example": "Each shareholder received the annual report.",
+      "exampleTr": "Her hissedar yıllık raporu aldı.",
+      "synonyms": [
+        "stockholder"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "D",
+      "word": "dividend",
+      "clue": "A payment to shareholders from a company's profits.",
+      "tr": "Şirket kârından hissedarlara yapılan temettü ödemesi.",
+      "example": "The company announced a small dividend.",
+      "exampleTr": "Şirket küçük bir temettü açıkladı.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bond",
+      "clue": "A financial product through which an investor lends money.",
+      "tr": "Yatırımcının borç para verdiği menkul kıymet, tahvil.",
+      "example": "The government issued a ten-year bond.",
+      "exampleTr": "Hükûmet on yıllık bir tahvil çıkardı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "inflation",
+      "clue": "A general rise in prices over time.",
+      "tr": "Fiyatların zamanla genel olarak artması, enflasyon.",
+      "example": "High inflation makes daily shopping more expensive.",
+      "exampleTr": "Yüksek enflasyon günlük alışverişi pahalılaştırır.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "R",
+      "word": "recession",
+      "clue": "A period when economic activity declines significantly.",
+      "tr": "Ekonomik faaliyetlerin belirgin biçimde azaldığı dönem.",
+      "example": "The recession forced several shops to close.",
+      "exampleTr": "Durgunluk bazı dükkânları kapanmaya zorladı.",
+      "synonyms": [
+        "downturn"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bankruptcy",
+      "clue": "The legal state of being unable to pay debts.",
+      "tr": "Borçları ödeyememenin hukuki durumu, iflas.",
+      "example": "The company filed for bankruptcy last year.",
+      "exampleTr": "Şirket geçen yıl iflas başvurusunda bulundu.",
+      "synonyms": [
+        "insolvency"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "D",
+      "word": "deficit",
+      "clue": "The amount by which spending exceeds income.",
+      "tr": "Giderlerin gelirleri aşan kısmı, açık.",
+      "example": "The city needs to reduce its budget deficit.",
+      "exampleTr": "Şehrin bütçe açığını azaltması gerekiyor.",
+      "synonyms": [
+        "shortfall"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "S",
+      "word": "subsidy",
+      "clue": "Money given by a government to support an activity.",
+      "tr": "Bir faaliyeti desteklemek için devletin verdiği mali yardım.",
+      "example": "The factory received a subsidy for clean energy.",
+      "exampleTr": "Fabrika temiz enerji için devlet desteği aldı.",
+      "synonyms": [
+        "grant"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "T",
+      "word": "tariff",
+      "clue": "A tax charged on goods entering or leaving a country.",
+      "tr": "Bir ülkeye giren veya çıkan mallardan alınan gümrük vergisi.",
+      "example": "The new tariff increased import costs.",
+      "exampleTr": "Yeni gümrük vergisi ithalat maliyetlerini artırdı.",
+      "synonyms": [
+        "duty"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "export",
+      "clue": "To sell and send goods to another country.",
+      "tr": "Malları başka ülkeye satıp göndermek, ihraç etmek.",
+      "example": "We export machinery to three countries.",
+      "exampleTr": "Üç ülkeye makine ihraç ediyoruz.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "import",
+      "clue": "To buy and bring goods from another country.",
+      "tr": "Malları başka ülkeden alıp getirmek, ithal etmek.",
+      "example": "They import coffee from Brazil.",
+      "exampleTr": "Brezilya'dan kahve ithal ediyorlar.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "trade",
+      "clue": "The buying and selling of goods or services.",
+      "tr": "Mal veya hizmet alım satımı, ticaret.",
+      "example": "The port supports international trade.",
+      "exampleTr": "Liman uluslararası ticareti destekler.",
+      "synonyms": [
+        "commerce"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "C",
+      "word": "commerce",
+      "clue": "The activity of buying and selling, especially on a large scale.",
+      "tr": "Özellikle geniş ölçekte yapılan ticaret.",
+      "example": "Digital commerce has changed how we shop.",
+      "exampleTr": "Dijital ticaret alışveriş biçimimizi değiştirdi.",
+      "synonyms": [
+        "trade"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "M",
+      "word": "merger",
+      "clue": "The joining of two companies into one.",
+      "tr": "İki şirketin tek şirket hâline gelmesi.",
+      "example": "The merger created a much larger bank.",
+      "exampleTr": "Birleşme çok daha büyük bir banka oluşturdu.",
+      "synonyms": [
+        "combination"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "A",
+      "word": "acquisition",
+      "clue": "The purchase of one company by another.",
+      "tr": "Bir şirketin başka şirket tarafından satın alınması.",
+      "example": "The acquisition gave us access to new markets.",
+      "exampleTr": "Satın alma bize yeni pazarlara erişim sağladı.",
+      "synonyms": [
+        "takeover"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "partnership",
+      "clue": "An arrangement in which people or organizations work together.",
+      "tr": "Kişilerin veya kurumların birlikte çalıştığı ortaklık.",
+      "example": "The two firms formed a partnership.",
+      "exampleTr": "İki firma ortaklık kurdu.",
+      "synonyms": [
+        "alliance"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "E",
+      "word": "enterprise",
+      "clue": "A business or commercial organization.",
+      "tr": "İşletme veya ticari kuruluş.",
+      "example": "She runs a small software enterprise.",
+      "exampleTr": "Küçük bir yazılım işletmesi yönetiyor.",
+      "synonyms": [
+        "business"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "entrepreneur",
+      "clue": "A person who starts and runs a business.",
+      "tr": "Bir iş kurup yöneten girişimci.",
+      "example": "The entrepreneur developed a useful payment app.",
+      "exampleTr": "Girişimci kullanışlı bir ödeme uygulaması geliştirdi.",
+      "synonyms": [
+        "business founder"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "startup",
+      "clue": "A recently established business.",
+      "tr": "Yeni kurulmuş işletme.",
+      "example": "The startup hired its first engineer.",
+      "exampleTr": "Yeni girişim ilk mühendisini işe aldı.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "F",
+      "word": "franchise",
+      "clue": "Permission to operate a business using another company's brand.",
+      "tr": "Başka şirketin markasıyla işletme yürütme hakkı.",
+      "example": "They bought a franchise to open a café.",
+      "exampleTr": "Kafe açmak için marka kullanım hakkı satın aldılar.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "headquarters",
+      "clue": "The main office of an organization.",
+      "tr": "Bir kurumun merkez ofisi.",
+      "example": "The company's headquarters is in Ankara.",
+      "exampleTr": "Şirketin genel merkezi Ankara'dadır.",
+      "synonyms": [
+        "head office"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "branch",
+      "clue": "A local office or shop belonging to a larger organization.",
+      "tr": "Büyük bir kuruma bağlı yerel ofis veya mağaza, şube.",
+      "example": "Our bank has a branch near the station.",
+      "exampleTr": "Bankamızın istasyon yakınında bir şubesi var.",
+      "synonyms": [
+        "outlet"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "board",
+      "clue": "A group of people who direct an organization.",
+      "tr": "Bir kurumu yöneten kişilerden oluşan kurul.",
+      "example": "The board approved the expansion plan.",
+      "exampleTr": "Yönetim kurulu genişleme planını onayladı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "director",
+      "clue": "A person who manages an organization or department.",
+      "tr": "Bir kurum veya bölümü yöneten müdür.",
+      "example": "The director welcomed the new employees.",
+      "exampleTr": "Müdür yeni çalışanları karşıladı.",
+      "synonyms": [
+        "manager"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "E",
+      "word": "executive",
+      "clue": "A person with senior management responsibility.",
+      "tr": "Üst düzey yönetim sorumluluğu taşıyan kişi.",
+      "example": "A senior executive explained the decision.",
+      "exampleTr": "Üst düzey bir yönetici kararı açıkladı.",
+      "synonyms": [
+        "manager"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "supervisor",
+      "clue": "A person who oversees other people's work.",
+      "tr": "Başkalarının işini denetleyen sorumlu.",
+      "example": "Ask your supervisor before changing the schedule.",
+      "exampleTr": "Programı değiştirmeden önce amirine sor.",
+      "synonyms": [
+        "overseer"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "M",
+      "word": "manager",
+      "clue": "A person responsible for running a team or business.",
+      "tr": "Bir ekibi veya işletmeyi yönetmekten sorumlu kişi.",
+      "example": "The manager arranged extra training.",
+      "exampleTr": "Yönetici ek eğitim düzenledi.",
+      "synonyms": [
+        "supervisor"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "A",
+      "word": "assistant",
+      "clue": "A person who helps someone with their work.",
+      "tr": "Birine işinde yardımcı olan kişi.",
+      "example": "My assistant booked the meeting room.",
+      "exampleTr": "Asistanım toplantı odasını ayırttı.",
+      "synonyms": [
+        "helper"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "S",
+      "word": "secretary",
+      "clue": "A worker who handles correspondence and administrative tasks.",
+      "tr": "Yazışma ve idari işleri yürüten sekreter.",
+      "example": "The secretary answered the telephone.",
+      "exampleTr": "Sekreter telefona cevap verdi.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "R",
+      "word": "receptionist",
+      "clue": "A person who greets visitors at an organization's entrance.",
+      "tr": "Bir kurumun girişinde ziyaretçileri karşılayan görevli.",
+      "example": "The receptionist gave me a visitor badge.",
+      "exampleTr": "Resepsiyon görevlisi bana ziyaretçi kartı verdi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "intern",
+      "clue": "A person gaining practical work experience for a limited time.",
+      "tr": "Sınırlı süre uygulamalı iş deneyimi kazanan stajyer.",
+      "example": "The intern helped prepare the sales report.",
+      "exampleTr": "Stajyer satış raporunun hazırlanmasına yardım etti.",
+      "synonyms": [
+        "trainee"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "apprentice",
+      "clue": "Someone learning a skilled job by working with an experienced person.",
+      "tr": "Deneyimli biriyle çalışarak meslek öğrenen çırak.",
+      "example": "The apprentice learned to repair the machine.",
+      "exampleTr": "Çırak makineyi tamir etmeyi öğrendi.",
+      "synonyms": [
+        "trainee"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "software",
+      "clue": "Programs that tell a computer what to do.",
+      "tr": "Bilgisayara ne yapacağını söyleyen programlar, yazılım.",
+      "example": "The new software makes editing easier.",
+      "exampleTr": "Yeni yazılım düzenlemeyi kolaylaştırıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "hardware",
+      "clue": "The physical parts of a computer system.",
+      "tr": "Bilgisayar sisteminin fiziksel parçaları, donanım.",
+      "example": "Old hardware can slow down your computer.",
+      "exampleTr": "Eski donanım bilgisayarını yavaşlatabilir.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "L",
+      "word": "laptop",
+      "clue": "A portable computer with a folding screen.",
+      "tr": "Katlanabilir ekranı olan taşınabilir bilgisayar.",
+      "example": "I use a laptop when working from home.",
+      "exampleTr": "Evden çalışırken dizüstü bilgisayar kullanırım.",
+      "synonyms": [
+        "notebook computer"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "desktop",
+      "clue": "A computer designed to stay on a desk.",
+      "tr": "Masada sabit kullanılmak üzere tasarlanmış bilgisayar.",
+      "example": "This desktop has two monitors.",
+      "exampleTr": "Bu masaüstü bilgisayarın iki monitörü var.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "monitor",
+      "clue": "A screen that displays information from a computer.",
+      "tr": "Bilgisayardaki bilgileri gösteren ekran.",
+      "example": "I connected a larger monitor to my laptop.",
+      "exampleTr": "Dizüstü bilgisayarıma daha büyük bir ekran bağladım.",
+      "synonyms": [
+        "screen"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "S",
+      "word": "screen",
+      "clue": "The flat surface where a device displays images.",
+      "tr": "Bir cihazın görüntüleri gösterdiği düz yüzey, ekran.",
+      "example": "The screen is too bright at night.",
+      "exampleTr": "Ekran gece çok parlak.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "P",
+      "word": "printer",
+      "clue": "A machine that produces text or pictures on paper.",
+      "tr": "Yazı veya resimleri kâğıda basan cihaz.",
+      "example": "The printer has run out of ink.",
+      "exampleTr": "Yazıcının mürekkebi bitmiş.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "scanner",
+      "clue": "A device that converts printed images into digital data.",
+      "tr": "Basılı görüntüleri dijital veriye dönüştüren cihaz.",
+      "example": "Use the scanner to copy your signed form.",
+      "exampleTr": "İmzalı formunu kopyalamak için tarayıcıyı kullan.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "router",
+      "clue": "A device that directs data between computer networks.",
+      "tr": "Bilgisayar ağları arasında veri yönlendiren cihaz.",
+      "example": "Restart the router if the connection fails.",
+      "exampleTr": "Bağlantı kesilirse yönlendiriciyi yeniden başlat.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "modem",
+      "clue": "A device that connects a network to an internet service.",
+      "tr": "Bir ağı internet hizmetine bağlayan cihaz.",
+      "example": "The modem has a flashing green light.",
+      "exampleTr": "Modemin yanıp sönen yeşil bir ışığı var.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cable",
+      "clue": "A covered wire used to carry electricity or data.",
+      "tr": "Elektrik veya veri taşıyan kaplı tel, kablo.",
+      "example": "This cable connects the monitor to the computer.",
+      "exampleTr": "Bu kablo ekranı bilgisayara bağlar.",
+      "synonyms": [
+        "lead"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "C",
+      "word": "charger",
+      "clue": "A device that supplies energy to a battery.",
+      "tr": "Bataryaya enerji sağlayan şarj cihazı.",
+      "example": "My phone charger is in the office.",
+      "exampleTr": "Telefon şarj cihazım ofiste.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "B",
+      "word": "battery",
+      "clue": "A device that stores energy and supplies electricity.",
+      "tr": "Enerji depolayıp elektrik sağlayan pil veya batarya.",
+      "example": "The battery lasts all day.",
+      "exampleTr": "Batarya bütün gün dayanıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "socket",
+      "clue": "An opening into which an electrical plug fits.",
+      "tr": "Elektrik fişinin takıldığı yuva, priz.",
+      "example": "There is a socket behind the desk.",
+      "exampleTr": "Masanın arkasında bir priz var.",
+      "synonyms": [
+        "outlet"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "plug",
+      "clue": "The part at the end of a cable inserted into a socket.",
+      "tr": "Kablonun ucunda prize takılan parça, fiş.",
+      "example": "Pull the plug out before cleaning the machine.",
+      "exampleTr": "Makineyi temizlemeden önce fişi çek.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "S",
+      "word": "switch",
+      "clue": "A device used to turn an electrical circuit on or off.",
+      "tr": "Elektrik devresini açıp kapatan anahtar.",
+      "example": "The main switch is beside the door.",
+      "exampleTr": "Ana şalter kapının yanında.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "B",
+      "word": "button",
+      "clue": "A small control that you press to operate a device.",
+      "tr": "Cihazı çalıştırmak için basılan küçük düğme.",
+      "example": "Press the green button to begin.",
+      "exampleTr": "Başlamak için yeşil düğmeye bas.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cursor",
+      "clue": "A movable mark showing a position on a computer screen.",
+      "tr": "Bilgisayar ekranında konumu gösteren hareketli işaret, imleç.",
+      "example": "Move the cursor over the icon.",
+      "exampleTr": "İmleci simgenin üzerine getir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "icon",
+      "clue": "A small picture representing a computer function or file.",
+      "tr": "Bilgisayar işlevini veya dosyasını temsil eden küçük simge.",
+      "example": "Tap the icon to open the app.",
+      "exampleTr": "Uygulamayı açmak için simgeye dokun.",
+      "synonyms": [
+        "symbol"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "folder",
+      "clue": "A digital location used to organize files.",
+      "tr": "Dosyaları düzenlemek için kullanılan dijital klasör.",
+      "example": "Save the report in the shared folder.",
+      "exampleTr": "Raporu paylaşılan klasöre kaydet.",
+      "synonyms": [
+        "directory"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "F",
+      "word": "file",
+      "clue": "A named collection of data stored on a computer.",
+      "tr": "Bilgisayarda adıyla saklanan veri bütünü, dosya.",
+      "example": "The file contains last month's results.",
+      "exampleTr": "Dosya geçen ayın sonuçlarını içeriyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "D",
+      "word": "document",
+      "clue": "A written or digital record containing information.",
+      "tr": "Bilgi içeren yazılı veya dijital belge.",
+      "example": "Please sign the document before Friday.",
+      "exampleTr": "Lütfen belgeyi cumadan önce imzalayın.",
+      "synonyms": [
+        "record"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "spreadsheet",
+      "clue": "A digital table used to organize and calculate data.",
+      "tr": "Verileri düzenleyip hesaplamak için kullanılan elektronik tablo.",
+      "example": "The spreadsheet calculates our monthly expenses.",
+      "exampleTr": "Elektronik tablo aylık giderlerimizi hesaplıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "database",
+      "clue": "An organized collection of information stored electronically.",
+      "tr": "Elektronik ortamda tutulan düzenli bilgi bütünü, veri tabanı.",
+      "example": "The database stores customer addresses.",
+      "exampleTr": "Veri tabanı müşteri adreslerini saklar.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "Q",
+      "word": "query",
+      "clue": "A request for information from a database.",
+      "tr": "Veri tabanından bilgi isteyen sorgu.",
+      "example": "This query returns all unpaid invoices.",
+      "exampleTr": "Bu sorgu ödenmemiş bütün faturaları getirir.",
+      "synonyms": [
+        "request"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "column",
+      "clue": "A vertical arrangement of cells in a table.",
+      "tr": "Tablodaki dikey hücre dizisi, sütun.",
+      "example": "Enter the prices in the last column.",
+      "exampleTr": "Fiyatları son sütuna gir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "row",
+      "clue": "A horizontal arrangement of cells in a table.",
+      "tr": "Tablodaki yatay hücre dizisi, satır.",
+      "example": "Each row represents one customer.",
+      "exampleTr": "Her satır bir müşteriyi temsil eder.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cell",
+      "clue": "One box in a spreadsheet or table.",
+      "tr": "Elektronik tablo veya tablodaki tek kutu, hücre.",
+      "example": "Click the cell containing the total.",
+      "exampleTr": "Toplamı içeren hücreye tıkla.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "formula",
+      "clue": "A rule written with symbols for calculating something.",
+      "tr": "Hesaplama için sembollerle yazılmış kural, formül.",
+      "example": "The formula adds all the values above.",
+      "exampleTr": "Formül üstteki bütün değerleri toplar.",
+      "synonyms": [
+        "equation"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "chart",
+      "clue": "A visual display of data using shapes or lines.",
+      "tr": "Verileri şekil veya çizgilerle gösteren grafik.",
+      "example": "The chart shows monthly sales.",
+      "exampleTr": "Grafik aylık satışları gösteriyor.",
+      "synonyms": [
+        "graph"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "graph",
+      "clue": "A diagram showing how quantities are related.",
+      "tr": "Niceliklerin ilişkisini gösteren grafik.",
+      "example": "The graph rises sharply in March.",
+      "exampleTr": "Grafik mart ayında hızla yükseliyor.",
+      "synonyms": [
+        "chart"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "dashboard",
+      "clue": "A screen that summarizes important information or controls.",
+      "tr": "Önemli bilgileri veya denetimleri özetleyen ekran, gösterge paneli.",
+      "example": "The dashboard displays today's orders.",
+      "exampleTr": "Gösterge paneli bugünün siparişlerini gösteriyor.",
+      "synonyms": [
+        "control panel"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "filter",
+      "clue": "A tool that selects items meeting chosen conditions.",
+      "tr": "Belirlenen koşulları karşılayan öğeleri seçen araç.",
+      "example": "Apply a filter to show only active customers.",
+      "exampleTr": "Yalnızca aktif müşterileri göstermek için filtre uygula.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sort",
+      "clue": "To arrange items in a particular order.",
+      "tr": "Öğeleri belirli düzene göre sıralamak.",
+      "example": "We sort the names alphabetically.",
+      "exampleTr": "İsimleri alfabetik olarak sıralarız.",
+      "synonyms": [
+        "order",
+        "arrange"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "backup",
+      "clue": "A copy of data kept in case the original is lost.",
+      "tr": "Aslı kaybolursa kullanılmak üzere tutulan veri kopyası.",
+      "example": "Make a backup before installing the update.",
+      "exampleTr": "Güncellemeyi kurmadan önce yedek oluştur.",
+      "synonyms": [
+        "reserve copy"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "D",
+      "word": "download",
+      "clue": "To receive data from the internet onto a device.",
+      "tr": "İnternetten bir cihaza veri indirmek.",
+      "example": "You can download the report here.",
+      "exampleTr": "Raporu buradan indirebilirsin.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "U",
+      "word": "upload",
+      "clue": "To send data from a device to an online system.",
+      "tr": "Cihazdan çevrim içi sisteme veri yüklemek.",
+      "example": "Please upload a clear copy of the invoice.",
+      "exampleTr": "Lütfen faturanın okunaklı bir kopyasını yükleyin.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "install",
+      "clue": "To put software onto a device so it can be used.",
+      "tr": "Yazılımı kullanılabilmesi için cihaza kurmak.",
+      "example": "I need to install a new browser.",
+      "exampleTr": "Yeni bir tarayıcı kurmam gerekiyor.",
+      "synonyms": [
+        "set up"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "U",
+      "word": "uninstall",
+      "clue": "To remove a program from a device.",
+      "tr": "Bir programı cihazdan kaldırmak.",
+      "example": "You can uninstall apps you no longer use.",
+      "exampleTr": "Artık kullanmadığın uygulamaları kaldırabilirsin.",
+      "synonyms": [
+        "remove"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "restart",
+      "clue": "To start a device or process again.",
+      "tr": "Bir cihazı veya süreci yeniden başlatmak.",
+      "example": "Please restart the computer after the update.",
+      "exampleTr": "Güncellemeden sonra lütfen bilgisayarı yeniden başlat.",
+      "synonyms": [
+        "reboot"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "reboot",
+      "clue": "To start a computer's operating system again.",
+      "tr": "Bilgisayarın işletim sistemini yeniden başlatmak.",
+      "example": "We had to reboot the server.",
+      "exampleTr": "Sunucuyu yeniden başlatmak zorunda kaldık.",
+      "synonyms": [
+        "restart"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "browser",
+      "clue": "A program used to view websites.",
+      "tr": "İnternet sitelerini görüntülemek için kullanılan tarayıcı.",
+      "example": "Open the link in your browser.",
+      "exampleTr": "Bağlantıyı tarayıcında aç.",
+      "synonyms": [
+        "web browser"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "W",
+      "word": "website",
+      "clue": "A collection of related pages on the internet.",
+      "tr": "İnternetteki birbiriyle ilişkili sayfalar bütünü.",
+      "example": "Our website has a new contact page.",
+      "exampleTr": "İnternet sitemizde yeni bir iletişim sayfası var.",
+      "synonyms": [
+        "site"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "webpage",
+      "clue": "A single page of information on the internet.",
+      "tr": "İnternetteki tek bir bilgi sayfası.",
+      "example": "This webpage explains the return policy.",
+      "exampleTr": "Bu web sayfası iade politikasını açıklıyor.",
+      "synonyms": [
+        "web page"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "homepage",
+      "clue": "The main page of a website.",
+      "tr": "Bir internet sitesinin ana sayfası.",
+      "example": "The homepage lists our latest products.",
+      "exampleTr": "Ana sayfa en yeni ürünlerimizi listeliyor.",
+      "synonyms": [
+        "start page"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "L",
+      "word": "link",
+      "clue": "A clickable connection to another digital location.",
+      "tr": "Başka dijital konuma götüren tıklanabilir bağlantı.",
+      "example": "The link opens a registration form.",
+      "exampleTr": "Bağlantı bir kayıt formu açıyor.",
+      "synonyms": [
+        "hyperlink"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "tab",
+      "clue": "A separate page area within a browser window.",
+      "tr": "Tarayıcı penceresi içindeki ayrı sayfa alanı, sekme.",
+      "example": "Open the instructions in a new tab.",
+      "exampleTr": "Talimatları yeni bir sekmede aç.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bookmark",
+      "clue": "A saved shortcut to a webpage.",
+      "tr": "Bir web sayfasına kaydedilmiş kısayol, yer imi.",
+      "example": "Add a bookmark so you can find this page later.",
+      "exampleTr": "Bu sayfayı sonra bulabilmek için yer imi ekle.",
+      "synonyms": [
+        "favorite"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "U",
+      "word": "username",
+      "clue": "A name used to identify a user of a computer service.",
+      "tr": "Bilgisayar hizmetinde kullanıcıyı tanımlayan ad.",
+      "example": "Choose a username that is easy to remember.",
+      "exampleTr": "Hatırlaması kolay bir kullanıcı adı seç.",
+      "synonyms": [
+        "user ID"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "login",
+      "clue": "The process of entering an account using identification details.",
+      "tr": "Kimlik bilgileriyle hesaba giriş işlemi.",
+      "example": "The login requires a password and a code.",
+      "exampleTr": "Giriş için parola ve kod gerekiyor.",
+      "synonyms": [
+        "sign-in"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "logout",
+      "clue": "The action of ending access to an online account.",
+      "tr": "Çevrim içi hesaba erişimi sonlandırma işlemi.",
+      "example": "The logout button is at the top right.",
+      "exampleTr": "Çıkış düğmesi sağ üstte.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "A",
+      "word": "authentication",
+      "clue": "The process of checking that a user is who they claim to be.",
+      "tr": "Kullanıcının kimliğini doğrulama süreci.",
+      "example": "Two-step authentication protects my account.",
+      "exampleTr": "İki aşamalı kimlik doğrulama hesabımı koruyor.",
+      "synonyms": [
+        "identity verification"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "E",
+      "word": "encryption",
+      "clue": "The conversion of data into a protected unreadable form.",
+      "tr": "Verinin korunmuş ve doğrudan okunamayan biçime dönüştürülmesi.",
+      "example": "The app uses encryption to protect messages.",
+      "exampleTr": "Uygulama mesajları korumak için şifreleme kullanıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "privacy",
+      "clue": "The ability to keep personal information from unwanted access.",
+      "tr": "Kişisel bilgileri istenmeyen erişimden uzak tutabilme durumu.",
+      "example": "We take customer privacy seriously.",
+      "exampleTr": "Müşteri gizliliğini ciddiye alıyoruz.",
+      "synonyms": [
+        "confidentiality"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "security",
+      "clue": "Protection against danger or unauthorized access.",
+      "tr": "Tehlikeye veya yetkisiz erişime karşı koruma.",
+      "example": "The update improves account security.",
+      "exampleTr": "Güncelleme hesap güvenliğini artırıyor.",
+      "synonyms": [
+        "protection"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "F",
+      "word": "firewall",
+      "clue": "A security system that controls network traffic.",
+      "tr": "Ağ trafiğini denetleyen güvenlik sistemi.",
+      "example": "The firewall blocked the suspicious connection.",
+      "exampleTr": "Güvenlik duvarı şüpheli bağlantıyı engelledi.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "M",
+      "word": "malware",
+      "clue": "Software designed to damage or misuse computer systems.",
+      "tr": "Bilgisayar sistemlerine zarar vermek veya onları kötüye kullanmak için tasarlanan yazılım.",
+      "example": "The scan found malware on the laptop.",
+      "exampleTr": "Tarama dizüstü bilgisayarda zararlı yazılım buldu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "V",
+      "word": "virus",
+      "clue": "A harmful program that spreads by infecting other files.",
+      "tr": "Diğer dosyalara bulaşarak yayılan zararlı program.",
+      "example": "A virus damaged several documents.",
+      "exampleTr": "Bir virüs birkaç belgeye zarar verdi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "spam",
+      "clue": "Unwanted electronic messages sent to many people.",
+      "tr": "Çok sayıda kişiye gönderilen istenmeyen elektronik ileti.",
+      "example": "Most spam goes into a separate folder.",
+      "exampleTr": "İstenmeyen iletilerin çoğu ayrı klasöre gider.",
+      "synonyms": [
+        "junk mail"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "P",
+      "word": "phishing",
+      "clue": "An attempt to steal information by pretending to be trustworthy online.",
+      "tr": "İnternette güvenilir görünerek bilgi çalma girişimi, oltalama.",
+      "example": "The email was part of a phishing attack.",
+      "exampleTr": "E-posta bir oltalama saldırısının parçasıydı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "hacker",
+      "clue": "Someone who gains unauthorized access to computer systems.",
+      "tr": "Bilgisayar sistemlerine yetkisiz erişen kişi.",
+      "example": "The hacker tried to steal customer records.",
+      "exampleTr": "Bilgisayar korsanı müşteri kayıtlarını çalmaya çalıştı.",
+      "synonyms": [
+        "intruder"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bug",
+      "clue": "An error in a computer program.",
+      "tr": "Bir bilgisayar programındaki hata.",
+      "example": "A bug prevented users from saving their work.",
+      "exampleTr": "Bir yazılım hatası kullanıcıların çalışmalarını kaydetmesini engelledi.",
+      "synonyms": [
+        "defect",
+        "error"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "crash",
+      "clue": "A sudden failure that stops a computer or program working.",
+      "tr": "Bilgisayarın veya programın çalışmasını durduran ani arıza.",
+      "example": "The crash erased my unsaved changes.",
+      "exampleTr": "Çökme kaydetmediğim değişiklikleri sildi.",
+      "synonyms": [
+        "failure"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "E",
+      "word": "error",
+      "clue": "A mistake in information or operation.",
+      "tr": "Bilgide veya işlemde yapılan hata.",
+      "example": "The error appears when I open the file.",
+      "exampleTr": "Dosyayı açtığımda hata görünüyor.",
+      "synonyms": [
+        "mistake"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "code",
+      "clue": "Instructions written in a programming language.",
+      "tr": "Programlama dilinde yazılmış talimatlar, kod.",
+      "example": "This code checks whether the answer is correct.",
+      "exampleTr": "Bu kod cevabın doğru olup olmadığını kontrol eder.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "programmer",
+      "clue": "A person who writes computer programs.",
+      "tr": "Bilgisayar programları yazan kişi.",
+      "example": "The programmer fixed the payment problem.",
+      "exampleTr": "Programcı ödeme sorununu düzeltti.",
+      "synonyms": [
+        "coder",
+        "developer"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "developer",
+      "clue": "A person who creates software applications.",
+      "tr": "Yazılım uygulamaları geliştiren kişi.",
+      "example": "The developer added a pause button.",
+      "exampleTr": "Geliştirici duraklatma düğmesi ekledi.",
+      "synonyms": [
+        "programmer"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "A",
+      "word": "algorithm",
+      "clue": "A sequence of steps used to solve a problem.",
+      "tr": "Sorun çözmek için izlenen adımlar dizisi.",
+      "example": "The algorithm chooses a different question each time.",
+      "exampleTr": "Algoritma her seferinde farklı soru seçer.",
+      "synonyms": [
+        "procedure"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "V",
+      "word": "variable",
+      "clue": "A named value that can change in a program or calculation.",
+      "tr": "Programda veya hesaplamada değeri değişebilen adlandırılmış öğe.",
+      "example": "This variable stores the player's score.",
+      "exampleTr": "Bu değişken oyuncunun puanını saklar.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "L",
+      "word": "loop",
+      "clue": "A programming structure that repeats instructions.",
+      "tr": "Talimatları tekrarlayan programlama yapısı, döngü.",
+      "example": "The loop checks every row in the table.",
+      "exampleTr": "Döngü tablodaki her satırı kontrol eder.",
+      "synonyms": [
+        "iteration cycle"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "S",
+      "word": "syntax",
+      "clue": "The rules for arranging symbols in a programming language.",
+      "tr": "Programlama dilindeki simgelerin düzenlenme kuralları, sözdizimi.",
+      "example": "Incorrect syntax caused the query to fail.",
+      "exampleTr": "Yanlış sözdizimi sorgunun başarısız olmasına yol açtı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "interface",
+      "clue": "The controls through which a user interacts with software.",
+      "tr": "Kullanıcının yazılımla etkileştiği denetimler, arayüz.",
+      "example": "The new interface is easier to navigate.",
+      "exampleTr": "Yeni arayüzde gezinmek daha kolay.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "N",
+      "word": "network",
+      "clue": "A group of connected computers or devices.",
+      "tr": "Birbirine bağlı bilgisayar veya cihazlar ağı.",
+      "example": "All the printers share one network.",
+      "exampleTr": "Bütün yazıcılar tek bir ağı paylaşır.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "server",
+      "clue": "A computer that provides data or services to other computers.",
+      "tr": "Diğer bilgisayarlara veri veya hizmet sağlayan bilgisayar.",
+      "example": "The server stores our shared documents.",
+      "exampleTr": "Sunucu ortak belgelerimizi saklar.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bandwidth",
+      "clue": "The amount of data a connection can carry in a given time.",
+      "tr": "Bağlantının belirli sürede taşıyabildiği veri miktarı.",
+      "example": "Video calls use more bandwidth than text messages.",
+      "exampleTr": "Görüntülü aramalar metin mesajlarından daha fazla bant genişliği kullanır.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "L",
+      "word": "latency",
+      "clue": "The delay before a system responds or data arrives.",
+      "tr": "Sistemin yanıt vermesinden veya verinin ulaşmasından önceki gecikme.",
+      "example": "Low latency makes online games feel smoother.",
+      "exampleTr": "Düşük gecikme çevrim içi oyunların daha akıcı hissedilmesini sağlar.",
+      "synonyms": [
+        "delay"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "connection",
+      "clue": "A link between devices or systems.",
+      "tr": "Cihazlar veya sistemler arasındaki bağlantı.",
+      "example": "The connection dropped during the call.",
+      "exampleTr": "Görüşme sırasında bağlantı kesildi.",
+      "synonyms": [
+        "link"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "wireless",
+      "clue": "Using signals instead of cables to connect devices.",
+      "tr": "Cihazları bağlamak için kablo yerine sinyal kullanan, kablosuz.",
+      "example": "The office has a wireless printer.",
+      "exampleTr": "Ofiste kablosuz bir yazıcı var.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "signal",
+      "clue": "An electrical or radio message carrying information.",
+      "tr": "Bilgi taşıyan elektriksel veya radyo iletisi.",
+      "example": "The signal is weak in the basement.",
+      "exampleTr": "Bodrumda sinyal zayıf.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "antenna",
+      "clue": "A device used to send or receive radio signals.",
+      "tr": "Radyo sinyali gönderen veya alan aygıt, anten.",
+      "example": "The antenna improves reception.",
+      "exampleTr": "Anten sinyal alımını iyileştirir.",
+      "synonyms": [
+        "aerial"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "satellite",
+      "clue": "An artificial object sent into orbit around a planet.",
+      "tr": "Bir gezegenin yörüngesine gönderilen yapay nesne, uydu.",
+      "example": "The satellite sends weather data to Earth.",
+      "exampleTr": "Uydu Dünya'ya hava durumu verileri gönderir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sensor",
+      "clue": "A device that detects a physical change and produces a signal.",
+      "tr": "Fiziksel değişimi algılayıp sinyal üreten aygıt.",
+      "example": "The sensor detects movement near the door.",
+      "exampleTr": "Sensör kapının yakınındaki hareketi algılar.",
+      "synonyms": [
+        "detector"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "processor",
+      "clue": "The part of a computer that carries out instructions.",
+      "tr": "Bilgisayarda talimatları yürüten parça, işlemci.",
+      "example": "A faster processor reduces waiting time.",
+      "exampleTr": "Daha hızlı bir işlemci bekleme süresini azaltır.",
+      "synonyms": [
+        "CPU"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "chip",
+      "clue": "A tiny piece of material containing electronic circuits.",
+      "tr": "Elektronik devreler içeren küçük malzeme parçası, çip.",
+      "example": "The chip controls the machine's speed.",
+      "exampleTr": "Çip makinenin hızını kontrol eder.",
+      "synonyms": [
+        "microchip"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "memory",
+      "clue": "A computer's capacity to store information temporarily or permanently.",
+      "tr": "Bilgisayarın bilgiyi geçici veya kalıcı saklama kapasitesi.",
+      "example": "This task requires more memory.",
+      "exampleTr": "Bu işlem daha fazla bellek gerektiriyor.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "B",
+      "word": "byte",
+      "clue": "A unit of digital information usually consisting of eight bits.",
+      "tr": "Genellikle sekiz bitten oluşan dijital bilgi birimi.",
+      "example": "Each byte can represent a small value.",
+      "exampleTr": "Her bayt küçük bir değeri temsil edebilir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pixel",
+      "clue": "The smallest individual element of a digital image.",
+      "tr": "Dijital görüntünün en küçük bağımsız öğesi.",
+      "example": "One pixel on the screen stayed black.",
+      "exampleTr": "Ekrandaki bir piksel siyah kaldı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "resolution",
+      "clue": "The amount of detail in a digital image or screen.",
+      "tr": "Dijital görüntü veya ekrandaki ayrıntı düzeyi, çözünürlük.",
+      "example": "Higher resolution makes the text sharper.",
+      "exampleTr": "Daha yüksek çözünürlük metni netleştirir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "format",
+      "clue": "The structure in which a digital file stores information.",
+      "tr": "Dijital dosyanın bilgiyi sakladığı yapı, biçim.",
+      "example": "Save the image in a common format.",
+      "exampleTr": "Görüntüyü yaygın bir biçimde kaydet.",
+      "synonyms": [
+        "file type"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "C",
+      "word": "compression",
+      "clue": "Reducing the size of digital data.",
+      "tr": "Dijital verinin boyutunu küçültme işlemi.",
+      "example": "File compression makes the download faster.",
+      "exampleTr": "Dosya sıkıştırma indirmeyi hızlandırır.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "attachment",
+      "clue": "A file sent together with an email.",
+      "tr": "E-postayla birlikte gönderilen dosya, ek.",
+      "example": "The attachment contains the signed contract.",
+      "exampleTr": "Ekte imzalı sözleşme bulunuyor.",
+      "synonyms": [
+        "enclosure"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "N",
+      "word": "notification",
+      "clue": "A message informing a user of something new.",
+      "tr": "Kullanıcıya yeni bir durumu bildiren ileti.",
+      "example": "I received a notification about the meeting.",
+      "exampleTr": "Toplantı hakkında bildirim aldım.",
+      "synonyms": [
+        "alert"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "subscription",
+      "clue": "An arrangement to receive a service for regular payments.",
+      "tr": "Düzenli ödeme karşılığı hizmet alma düzeni, abonelik.",
+      "example": "My subscription renews next month.",
+      "exampleTr": "Aboneliğim gelecek ay yenileniyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "S",
+      "word": "settings",
+      "clue": "Controls that determine how a device or program behaves.",
+      "tr": "Cihazın veya programın davranışını belirleyen ayarlar.",
+      "example": "Change the language in the settings.",
+      "exampleTr": "Dili ayarlardan değiştir.",
+      "synonyms": [
+        "preferences"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "shortcut",
+      "clue": "A quick command or link for performing a computer action.",
+      "tr": "Bilgisayar işlemini hızla yapan komut veya bağlantı.",
+      "example": "This shortcut opens the search box.",
+      "exampleTr": "Bu kısayol arama kutusunu açar.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "A",
+      "word": "automation",
+      "clue": "The use of machines or software to perform tasks automatically.",
+      "tr": "İşlerin makine veya yazılımla otomatik yapılması.",
+      "example": "Automation saves time on repetitive work.",
+      "exampleTr": "Otomasyon tekrar eden işlerde zaman kazandırır.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "P",
+      "word": "prototype",
+      "clue": "An early model used to test a product idea.",
+      "tr": "Ürün fikrini denemek için kullanılan ilk model.",
+      "example": "We tested the prototype before production.",
+      "exampleTr": "Üretimden önce prototipi denedik.",
+      "synonyms": [
+        "test model"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "S",
+      "word": "simulation",
+      "clue": "A model that imitates a real process or situation.",
+      "tr": "Gerçek süreç veya durumu taklit eden model, benzetim.",
+      "example": "The simulation predicts waiting times at the checkout.",
+      "exampleTr": "Simülasyon kasadaki bekleme sürelerini tahmin ediyor.",
+      "synonyms": [
+        "model"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "innovation",
+      "clue": "A new idea or method that brings improvement.",
+      "tr": "Gelişme sağlayan yeni fikir veya yöntem.",
+      "example": "This innovation reduces energy use.",
+      "exampleTr": "Bu yenilik enerji kullanımını azaltır.",
+      "synonyms": [
+        "advancement"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "government",
+      "clue": "The people and institutions that run a country.",
+      "tr": "Bir ülkeyi yöneten kişiler ve kurumlar, hükûmet.",
+      "example": "The government announced a new transport plan.",
+      "exampleTr": "Hükûmet yeni bir ulaşım planı açıkladı.",
+      "synonyms": [
+        "administration"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "parliament",
+      "clue": "A national body that debates and passes laws.",
+      "tr": "Yasaları görüşüp kabul eden ulusal meclis.",
+      "example": "The proposal will be discussed in parliament.",
+      "exampleTr": "Öneri parlamentoda görüşülecek.",
+      "synonyms": [
+        "legislature"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "minister",
+      "clue": "A senior government official in charge of a department.",
+      "tr": "Bir devlet biriminin başındaki üst düzey görevli, bakan.",
+      "example": "The minister answered questions about the budget.",
+      "exampleTr": "Bakan bütçeyle ilgili soruları yanıtladı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "president",
+      "clue": "The elected head of a republic or an organization.",
+      "tr": "Bir cumhuriyetin veya kurumun seçilmiş başkanı.",
+      "example": "The president signed the agreement.",
+      "exampleTr": "Başkan anlaşmayı imzaladı.",
+      "synonyms": [
+        "head of state"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "mayor",
+      "clue": "The elected leader of a town or city's government.",
+      "tr": "Bir kasaba veya şehrin seçilmiş belediye başkanı.",
+      "example": "The mayor opened the new library.",
+      "exampleTr": "Belediye başkanı yeni kütüphaneyi açtı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "election",
+      "clue": "A process in which people vote to choose leaders.",
+      "tr": "İnsanların oy vererek yöneticileri seçtiği süreç.",
+      "example": "The election will take place in May.",
+      "exampleTr": "Seçim mayıs ayında yapılacak.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "V",
+      "word": "vote",
+      "clue": "To formally express a choice in an election or decision.",
+      "tr": "Seçimde veya kararda tercihini resmen belirtmek, oy vermek.",
+      "example": "Members will vote on the proposal tomorrow.",
+      "exampleTr": "Üyeler yarın öneriyi oylayacak.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "B",
+      "word": "ballot",
+      "clue": "A secret vote or the paper used to cast it.",
+      "tr": "Gizli oylama veya bunun için kullanılan oy pusulası.",
+      "example": "Each voter received a ballot.",
+      "exampleTr": "Her seçmene bir oy pusulası verildi.",
+      "synonyms": [
+        "voting paper"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "campaign",
+      "clue": "A planned series of activities to achieve a public goal.",
+      "tr": "Kamusal bir amaç için planlanan faaliyetler dizisi, kampanya.",
+      "example": "The campaign encourages people to vote.",
+      "exampleTr": "Kampanya insanları oy vermeye teşvik ediyor.",
+      "synonyms": [
+        "drive"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "V",
+      "word": "voter",
+      "clue": "A person who has the right to vote or casts a vote.",
+      "tr": "Oy kullanma hakkı olan veya oy veren seçmen.",
+      "example": "Every voter must show identification.",
+      "exampleTr": "Her seçmen kimlik göstermelidir.",
+      "synonyms": [
+        "elector"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "democracy",
+      "clue": "A system in which people choose their government by voting.",
+      "tr": "Halkın yönetimini oyla seçtiği sistem, demokrasi.",
+      "example": "Free elections are important to democracy.",
+      "exampleTr": "Özgür seçimler demokrasi için önemlidir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "republic",
+      "clue": "A country with a public head of state rather than a monarch.",
+      "tr": "Devlet başkanının hükümdar olmadığı yönetim biçimindeki ülke.",
+      "example": "The constitution established a republic.",
+      "exampleTr": "Anayasa bir cumhuriyet kurdu.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "M",
+      "word": "monarchy",
+      "clue": "A system of government with a king or queen as head of state.",
+      "tr": "Devlet başında kral veya kraliçe bulunan yönetim sistemi.",
+      "example": "The country has a constitutional monarchy.",
+      "exampleTr": "Ülkede anayasal monarşi vardır.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "C",
+      "word": "constitution",
+      "clue": "The basic laws that define how a country is governed.",
+      "tr": "Ülkenin nasıl yönetileceğini belirleyen temel yasalar, anayasa.",
+      "example": "The constitution protects freedom of expression.",
+      "exampleTr": "Anayasa ifade özgürlüğünü korur.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "L",
+      "word": "legislation",
+      "clue": "Laws considered together or the process of making them.",
+      "tr": "Yasalar bütünü veya yasa yapma süreci.",
+      "example": "New legislation will regulate online sales.",
+      "exampleTr": "Yeni mevzuat çevrim içi satışları düzenleyecek.",
+      "synonyms": [
+        "laws"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "regulation",
+      "clue": "An official rule controlling an activity.",
+      "tr": "Bir faaliyeti düzenleyen resmî kural.",
+      "example": "The regulation requires clear safety labels.",
+      "exampleTr": "Yönetmelik açık güvenlik etiketleri gerektiriyor.",
+      "synonyms": [
+        "rule"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "law",
+      "clue": "An official rule enforced by a government.",
+      "tr": "Devlet tarafından uygulanan resmî kural, yasa.",
+      "example": "The law applies to all employers.",
+      "exampleTr": "Yasa bütün işverenler için geçerlidir.",
+      "synonyms": [
+        "statute"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "court",
+      "clue": "A place or institution where legal cases are decided.",
+      "tr": "Hukuki davaların karara bağlandığı yer veya kurum.",
+      "example": "The court heard the witness's account.",
+      "exampleTr": "Mahkeme tanığın anlatımını dinledi.",
+      "synonyms": [
+        "tribunal"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "lawyer",
+      "clue": "A person qualified to advise on the law.",
+      "tr": "Hukuk alanında danışmanlık vermeye yetkili kişi, avukat.",
+      "example": "A lawyer reviewed the contract.",
+      "exampleTr": "Bir avukat sözleşmeyi inceledi.",
+      "synonyms": [
+        "attorney"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "A",
+      "word": "attorney",
+      "clue": "A qualified person who acts for others in legal matters.",
+      "tr": "Hukuki konularda başkalarını temsil eden yetkili kişi.",
+      "example": "Her attorney submitted the documents.",
+      "exampleTr": "Avukatı belgeleri sundu.",
+      "synonyms": [
+        "lawyer"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "J",
+      "word": "jury",
+      "clue": "A group of ordinary people who decide facts in a trial.",
+      "tr": "Duruşmada olgular hakkında karar veren vatandaşlar topluluğu.",
+      "example": "The jury listened carefully to the evidence.",
+      "exampleTr": "Jüri kanıtları dikkatle dinledi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "trial",
+      "clue": "A formal court examination of a legal case.",
+      "tr": "Bir davanın mahkemede resmen görülmesi, yargılama.",
+      "example": "The trial lasted three weeks.",
+      "exampleTr": "Dava üç hafta sürdü.",
+      "synonyms": [
+        "hearing"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "V",
+      "word": "verdict",
+      "clue": "The decision about guilt or facts reached in a trial.",
+      "tr": "Yargılamada suçluluk veya olgular hakkında verilen karar.",
+      "example": "The jury reached a unanimous verdict.",
+      "exampleTr": "Jüri oybirliğiyle karara vardı.",
+      "synonyms": [
+        "decision"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sentence",
+      "clue": "A punishment ordered by a court for a crime.",
+      "tr": "Mahkemenin suç için verdiği ceza.",
+      "example": "The judge imposed a short prison sentence.",
+      "exampleTr": "Hâkim kısa süreli hapis cezası verdi.",
+      "synonyms": [
+        "penalty"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "A",
+      "word": "appeal",
+      "clue": "A formal request for a legal decision to be reviewed.",
+      "tr": "Hukuki kararın yeniden incelenmesini isteyen başvuru.",
+      "example": "The lawyer filed an appeal against the ruling.",
+      "exampleTr": "Avukat karara karşı itiraz başvurusu yaptı.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "L",
+      "word": "lawsuit",
+      "clue": "A legal case brought by one party against another.",
+      "tr": "Bir tarafın diğerine karşı açtığı hukuk davası.",
+      "example": "The workers filed a lawsuit over unpaid wages.",
+      "exampleTr": "İşçiler ödenmeyen ücretler için dava açtı.",
+      "synonyms": [
+        "legal action"
+      ]
+    },
+    {
+      "level": "c2",
+      "kind": "word",
+      "letter": "P",
+      "word": "plaintiff",
+      "clue": "The person who brings a civil case to court.",
+      "tr": "Hukuk davasını açan kişi, davacı.",
+      "example": "The plaintiff requested compensation.",
+      "exampleTr": "Davacı tazminat talep etti.",
+      "synonyms": [
+        "claimant"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "D",
+      "word": "defendant",
+      "clue": "The person accused or sued in a court case.",
+      "tr": "Mahkemede suçlanan veya dava edilen kişi, sanık ya da davalı.",
+      "example": "The defendant denied the accusation.",
+      "exampleTr": "Sanık suçlamayı reddetti.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "P",
+      "word": "prosecutor",
+      "clue": "A lawyer who brings a criminal case on behalf of the state.",
+      "tr": "Devlet adına ceza davasını yürüten savcı.",
+      "example": "The prosecutor presented new evidence.",
+      "exampleTr": "Savcı yeni kanıt sundu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "crime",
+      "clue": "An action that breaks the law.",
+      "tr": "Yasayı ihlal eden eylem, suç.",
+      "example": "The police are investigating the crime.",
+      "exampleTr": "Polis suçu araştırıyor.",
+      "synonyms": [
+        "offense"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "criminal",
+      "clue": "A person who has committed a crime.",
+      "tr": "Suç işlemiş kişi.",
+      "example": "The criminal was identified from security footage.",
+      "exampleTr": "Suçlu güvenlik görüntülerinden tespit edildi.",
+      "synonyms": [
+        "offender"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "F",
+      "word": "fraud",
+      "clue": "Dishonest behavior intended to gain money or an advantage.",
+      "tr": "Para veya avantaj kazanmak için yapılan dolandırıcılık.",
+      "example": "The bank investigated suspected fraud.",
+      "exampleTr": "Banka şüpheli dolandırıcılığı araştırdı.",
+      "synonyms": [
+        "deception"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bribery",
+      "clue": "Giving or receiving something valuable to influence official action.",
+      "tr": "Resmî işlemi etkilemek için değerli bir şey verme veya alma, rüşvet.",
+      "example": "The official was investigated for bribery.",
+      "exampleTr": "Yetkili rüşvet nedeniyle soruşturuldu.",
+      "synonyms": [
+        "corruption"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "C",
+      "word": "corruption",
+      "clue": "Dishonest use of power for personal gain.",
+      "tr": "Yetkinin kişisel çıkar için dürüst olmayan biçimde kullanılması.",
+      "example": "The new rules aim to prevent corruption.",
+      "exampleTr": "Yeni kurallar yolsuzluğu önlemeyi amaçlıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "theft",
+      "clue": "The act of taking someone else's property without permission.",
+      "tr": "Başkasının malını izinsiz alma eylemi, hırsızlık.",
+      "example": "The shop reported the theft to the police.",
+      "exampleTr": "Mağaza hırsızlığı polise bildirdi.",
+      "synonyms": [
+        "stealing"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "robbery",
+      "clue": "Taking property from someone by force or threat.",
+      "tr": "Birinden zor veya tehditle mal alma, soygun.",
+      "example": "No one was injured during the robbery.",
+      "exampleTr": "Soygun sırasında kimse yaralanmadı.",
+      "synonyms": [
+        "hold-up"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "B",
+      "word": "burglary",
+      "clue": "Illegally entering a building to steal or commit another crime.",
+      "tr": "Hırsızlık veya başka suç için binaya yasa dışı girme.",
+      "example": "The alarm helped prevent a burglary.",
+      "exampleTr": "Alarm bir hırsızlığı önlemeye yardımcı oldu.",
+      "synonyms": [
+        "break-in"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "arrest",
+      "clue": "To take someone into police custody.",
+      "tr": "Birini polis gözetimine almak, tutuklamak veya yakalamak.",
+      "example": "Police can arrest a suspect with lawful authority.",
+      "exampleTr": "Polis yasal yetkiyle bir şüpheliyi yakalayabilir.",
+      "synonyms": [
+        "detain"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "C",
+      "word": "custody",
+      "clue": "The state of being held by the police.",
+      "tr": "Polis gözetiminde tutulma durumu, gözaltı.",
+      "example": "The suspect remained in custody overnight.",
+      "exampleTr": "Şüpheli gece boyunca gözaltında kaldı.",
+      "synonyms": [
+        "detention"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "prison",
+      "clue": "A place where people are held as punishment or before trial.",
+      "tr": "Ceza olarak veya yargılama öncesinde insanların tutulduğu yer.",
+      "example": "He spent two years in prison.",
+      "exampleTr": "İki yıl hapiste kaldı.",
+      "synonyms": [
+        "jail"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "fine",
+      "clue": "Money that must be paid as a punishment.",
+      "tr": "Ceza olarak ödenmesi gereken para.",
+      "example": "The driver received a fine for speeding.",
+      "exampleTr": "Sürücü hız yaptığı için para cezası aldı.",
+      "synonyms": [
+        "penalty"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "penalty",
+      "clue": "A punishment for breaking a law or rule.",
+      "tr": "Yasa veya kural ihlaline verilen ceza.",
+      "example": "Late payment carries a financial penalty.",
+      "exampleTr": "Geç ödeme mali ceza getirir.",
+      "synonyms": [
+        "punishment"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bail",
+      "clue": "Money or conditions allowing an accused person to remain free before trial.",
+      "tr": "Sanığın yargılama öncesi serbest kalmasını sağlayan para veya koşullar.",
+      "example": "The court granted bail until the hearing.",
+      "exampleTr": "Mahkeme duruşmaya kadar kefaletle serbestlik verdi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "innocent",
+      "clue": "Not guilty of a crime or wrongdoing.",
+      "tr": "Bir suç veya yanlış davranıştan suçlu olmayan, masum.",
+      "example": "The evidence showed that she was innocent.",
+      "exampleTr": "Kanıtlar onun masum olduğunu gösterdi.",
+      "synonyms": [
+        "blameless"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "proof",
+      "clue": "Information that establishes something as true.",
+      "tr": "Bir şeyin doğruluğunu ortaya koyan bilgi, kanıt.",
+      "example": "They asked for proof of payment.",
+      "exampleTr": "Ödeme kanıtı istediler.",
+      "synonyms": [
+        "evidence"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "T",
+      "word": "testimony",
+      "clue": "A formal statement given as evidence in court.",
+      "tr": "Mahkemede kanıt olarak verilen resmî ifade.",
+      "example": "Her testimony helped explain what happened.",
+      "exampleTr": "İfadesi olanları açıklamaya yardımcı oldu.",
+      "synonyms": [
+        "evidence"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "consent",
+      "clue": "Permission freely given for something to happen.",
+      "tr": "Bir şeyin olmasına özgürce verilen izin, rıza.",
+      "example": "We cannot share your data without consent.",
+      "exampleTr": "Rızanız olmadan verilerinizi paylaşamayız.",
+      "synonyms": [
+        "permission"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "permit",
+      "clue": "An official document allowing a particular activity.",
+      "tr": "Belirli faaliyete izin veren resmî belge.",
+      "example": "You need a permit to build here.",
+      "exampleTr": "Burada inşaat yapmak için izin belgesi gerekiyor.",
+      "synonyms": [
+        "authorization"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "license",
+      "clue": "Official permission to do or use something.",
+      "tr": "Bir şeyi yapma veya kullanma için resmî izin.",
+      "example": "This software license lasts one year.",
+      "exampleTr": "Bu yazılım lisansı bir yıl geçerlidir.",
+      "synonyms": [
+        "licence"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "copyright",
+      "clue": "The legal right to control copying of a creative work.",
+      "tr": "Yaratıcı eserin kopyalanmasını kontrol etme hakkı, telif hakkı.",
+      "example": "The photograph is protected by copyright.",
+      "exampleTr": "Fotoğraf telif hakkıyla korunuyor.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "T",
+      "word": "trademark",
+      "clue": "A legally protected name or symbol identifying a product.",
+      "tr": "Ürünü tanıtan ve hukuken korunan ad veya simge.",
+      "example": "The company registered its trademark.",
+      "exampleTr": "Şirket ticari markasını tescil ettirdi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "O",
+      "word": "ownership",
+      "clue": "The state of legally possessing something.",
+      "tr": "Bir şeye hukuken sahip olma durumu, mülkiyet.",
+      "example": "The document proves ownership of the building.",
+      "exampleTr": "Belge binanın mülkiyetini kanıtlar.",
+      "synonyms": [
+        "possession"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "property",
+      "clue": "Something that legally belongs to a person or organization.",
+      "tr": "Hukuken bir kişi veya kuruma ait olan şey, mülk.",
+      "example": "This equipment is company property.",
+      "exampleTr": "Bu ekipman şirketin malıdır.",
+      "synonyms": [
+        "possessions"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "lease",
+      "clue": "A contract allowing use of property for payment over time.",
+      "tr": "Bir mülkün belirli süre bedelle kullanımına izin veren sözleşme.",
+      "example": "Our office lease ends in December.",
+      "exampleTr": "Ofisimizin kira sözleşmesi aralıkta bitiyor.",
+      "synonyms": [
+        "rental agreement"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "tenant",
+      "clue": "A person who pays to use someone else's property.",
+      "tr": "Başkasının mülkünü bedelle kullanan kişi, kiracı.",
+      "example": "The tenant reported a broken window.",
+      "exampleTr": "Kiracı kırık bir pencereyi bildirdi.",
+      "synonyms": [
+        "renter"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "landlord",
+      "clue": "A person who rents out property to others.",
+      "tr": "Mülkünü başkalarına kiraya veren kişi.",
+      "example": "The landlord arranged the repairs.",
+      "exampleTr": "Ev sahibi onarımları ayarladı.",
+      "synonyms": [
+        "property owner"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "C",
+      "word": "clause",
+      "clue": "A separate provision in a legal document.",
+      "tr": "Hukuki belgedeki ayrı hüküm veya madde.",
+      "example": "Read the cancellation clause carefully.",
+      "exampleTr": "İptal maddesini dikkatle oku.",
+      "synonyms": [
+        "provision"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "O",
+      "word": "obligation",
+      "clue": "Something that a person is legally or morally required to do.",
+      "tr": "Kişinin hukuken veya ahlaken yapmak zorunda olduğu şey.",
+      "example": "The contract creates an obligation to pay on time.",
+      "exampleTr": "Sözleşme zamanında ödeme yükümlülüğü doğurur.",
+      "synonyms": [
+        "duty"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "C",
+      "word": "compliance",
+      "clue": "The act of following rules or requirements.",
+      "tr": "Kurallara veya gerekliliklere uyma durumu.",
+      "example": "The audit checked compliance with safety rules.",
+      "exampleTr": "Denetim güvenlik kurallarına uyumu kontrol etti.",
+      "synonyms": [
+        "conformity"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "B",
+      "word": "breach",
+      "clue": "A failure to obey a law or agreement.",
+      "tr": "Yasaya veya anlaşmaya uymama, ihlal.",
+      "example": "Sharing the file was a breach of the agreement.",
+      "exampleTr": "Dosyayı paylaşmak anlaşmanın ihlaliydi.",
+      "synonyms": [
+        "violation"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "V",
+      "word": "violation",
+      "clue": "An act that breaks a rule, law, or right.",
+      "tr": "Kuralı, yasayı veya hakkı çiğneyen eylem.",
+      "example": "The inspector recorded a safety violation.",
+      "exampleTr": "Müfettiş bir güvenlik ihlali kaydetti.",
+      "synonyms": [
+        "breach"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "compensation",
+      "clue": "Money paid to make up for loss or harm.",
+      "tr": "Kayıp veya zararı karşılamak için ödenen tazminat.",
+      "example": "The airline offered compensation for the delay.",
+      "exampleTr": "Havayolu gecikme için tazminat sundu.",
+      "synonyms": [
+        "reimbursement"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "S",
+      "word": "settlement",
+      "clue": "An agreement that ends a legal dispute.",
+      "tr": "Hukuki anlaşmazlığı sona erdiren uzlaşma.",
+      "example": "Both sides accepted the settlement.",
+      "exampleTr": "İki taraf da uzlaşmayı kabul etti.",
+      "synonyms": [
+        "agreement"
+      ]
+    },
+    {
+      "level": "c2",
+      "kind": "word",
+      "letter": "A",
+      "word": "arbitration",
+      "clue": "Resolving a dispute through an independent decision-maker.",
+      "tr": "Anlaşmazlığın bağımsız karar vericiyle çözülmesi, tahkim.",
+      "example": "The companies agreed to arbitration.",
+      "exampleTr": "Şirketler tahkimi kabul etti.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "M",
+      "word": "mediation",
+      "clue": "Helping opposing sides negotiate their own agreement.",
+      "tr": "Karşıt tarafların anlaşmasını kolaylaştırma, arabuluculuk.",
+      "example": "Mediation helped them avoid a long court case.",
+      "exampleTr": "Arabuluculuk uzun bir davadan kaçınmalarını sağladı.",
+      "synonyms": [
+        "conciliation"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "D",
+      "word": "diplomacy",
+      "clue": "The management of relations between countries through discussion.",
+      "tr": "Ülkeler arası ilişkilerin görüşmeyle yürütülmesi.",
+      "example": "Diplomacy helped reduce tensions.",
+      "exampleTr": "Diplomasi gerginliğin azalmasına yardımcı oldu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "embassy",
+      "clue": "The official office of one country in another.",
+      "tr": "Bir ülkenin başka ülkedeki resmî temsilciliği, büyükelçilik.",
+      "example": "We contacted the embassy for information.",
+      "exampleTr": "Bilgi için büyükelçilikle iletişime geçtik.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "T",
+      "word": "treaty",
+      "clue": "A formal agreement between countries.",
+      "tr": "Ülkeler arasındaki resmî anlaşma.",
+      "example": "The two countries signed a trade treaty.",
+      "exampleTr": "İki ülke ticaret anlaşması imzaladı.",
+      "synonyms": [
+        "pact"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sanction",
+      "clue": "An official restriction imposed to influence a country or organization.",
+      "tr": "Ülke veya kurumu etkilemek için uygulanan resmî kısıtlama.",
+      "example": "The sanction limited access to foreign markets.",
+      "exampleTr": "Yaptırım dış pazarlara erişimi sınırladı.",
+      "synonyms": [
+        "restriction"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "factory",
+      "clue": "A building where goods are produced using machines.",
+      "tr": "Makinelerle mal üretilen bina, fabrika.",
+      "example": "The factory produces electrical cables.",
+      "exampleTr": "Fabrika elektrik kabloları üretiyor.",
+      "synonyms": [
+        "plant"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "manufacture",
+      "clue": "To produce goods in large quantities using machinery.",
+      "tr": "Makinelerle büyük miktarda mal üretmek, imal etmek.",
+      "example": "They manufacture parts for buses.",
+      "exampleTr": "Otobüsler için parça üretiyorlar.",
+      "synonyms": [
+        "produce"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "production",
+      "clue": "The process of making goods.",
+      "tr": "Mal yapma süreci, üretim.",
+      "example": "Production stops during maintenance.",
+      "exampleTr": "Bakım sırasında üretim durur.",
+      "synonyms": [
+        "manufacturing"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "assembly",
+      "clue": "The process of putting parts together.",
+      "tr": "Parçaları bir araya getirme süreci, montaj.",
+      "example": "Final assembly takes place in this room.",
+      "exampleTr": "Son montaj bu odada yapılır.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "component",
+      "clue": "One of the parts making up a machine or system.",
+      "tr": "Makine veya sistemi oluşturan parçalardan biri.",
+      "example": "A damaged component caused the failure.",
+      "exampleTr": "Hasarlı bir parça arızaya neden oldu.",
+      "synonyms": [
+        "part"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "M",
+      "word": "machine",
+      "clue": "A device that uses power to perform work.",
+      "tr": "İş yapmak için güç kullanan aygıt, makine.",
+      "example": "This machine cuts metal sheets.",
+      "exampleTr": "Bu makine metal levhaları keser.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "machinery",
+      "clue": "Machines considered as a group.",
+      "tr": "Birlikte değerlendirilen makineler, makine donanımı.",
+      "example": "The workers inspected the machinery.",
+      "exampleTr": "İşçiler makineleri inceledi.",
+      "synonyms": [
+        "equipment"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "engine",
+      "clue": "A machine that produces power to move something.",
+      "tr": "Bir şeyi hareket ettirmek için güç üreten makine, motor.",
+      "example": "The engine started immediately.",
+      "exampleTr": "Motor hemen çalıştı.",
+      "synonyms": [
+        "motor"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "C",
+      "word": "conveyor",
+      "clue": "A moving system that carries items through a factory.",
+      "tr": "Fabrikada parçaları taşıyan hareketli sistem, taşıyıcı bant.",
+      "example": "Boxes move along the conveyor.",
+      "exampleTr": "Kutular taşıma bandı boyunca ilerler.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "V",
+      "word": "valve",
+      "clue": "A device that controls the flow of liquid or gas.",
+      "tr": "Sıvı veya gaz akışını kontrol eden aygıt, vana.",
+      "example": "Close the valve before removing the pipe.",
+      "exampleTr": "Boruyu çıkarmadan önce vanayı kapat.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pipe",
+      "clue": "A hollow tube that carries liquid or gas.",
+      "tr": "Sıvı veya gaz taşıyan içi boş boru.",
+      "example": "Water leaked from the pipe.",
+      "exampleTr": "Borudan su sızdı.",
+      "synonyms": [
+        "tube"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pump",
+      "clue": "A machine that moves liquid or gas.",
+      "tr": "Sıvı veya gazı hareket ettiren makine, pompa.",
+      "example": "The pump sends water to the upper floor.",
+      "exampleTr": "Pompa suyu üst kata gönderir.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "T",
+      "word": "turbine",
+      "clue": "A machine with blades turned by moving water, steam, or gas.",
+      "tr": "Su, buhar veya gazla kanatları dönen makine, türbin.",
+      "example": "The turbine generates electricity for the town.",
+      "exampleTr": "Türbin kasaba için elektrik üretiyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "generator",
+      "clue": "A machine that produces electricity.",
+      "tr": "Elektrik üreten makine, jeneratör.",
+      "example": "The generator started when the power failed.",
+      "exampleTr": "Elektrik kesilince jeneratör çalıştı.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "V",
+      "word": "voltage",
+      "clue": "The electrical potential difference that drives current.",
+      "tr": "Elektrik akımını sağlayan potansiyel farkı, gerilim.",
+      "example": "Check the voltage before connecting the device.",
+      "exampleTr": "Cihazı bağlamadan önce voltajı kontrol et.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "circuit",
+      "clue": "A complete path through which electric current can flow.",
+      "tr": "Elektrik akımının akabildiği kapalı yol, devre.",
+      "example": "A broken wire interrupted the circuit.",
+      "exampleTr": "Kopuk bir tel devreyi kesti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "current",
+      "clue": "The flow of electric charge.",
+      "tr": "Elektrik yükünün akışı, akım.",
+      "example": "The cable carries a strong current.",
+      "exampleTr": "Kablo güçlü bir akım taşır.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "R",
+      "word": "resistance",
+      "clue": "The opposition to the flow of electric current.",
+      "tr": "Elektrik akımının akışına karşı gösterilen direnç.",
+      "example": "Heating the wire can change its resistance.",
+      "exampleTr": "Teli ısıtmak direncini değiştirebilir.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "C",
+      "word": "conductivity",
+      "clue": "The ability of a material to carry electricity or heat.",
+      "tr": "Malzemenin elektrik veya ısı iletme yeteneği.",
+      "example": "Copper has high electrical conductivity.",
+      "exampleTr": "Bakırın elektrik iletkenliği yüksektir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "insulation",
+      "clue": "Material that limits the transfer of heat or electricity.",
+      "tr": "Isı veya elektrik geçişini sınırlayan yalıtım malzemesi.",
+      "example": "The cable has thick insulation.",
+      "exampleTr": "Kablonun kalın yalıtımı var.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "maintenance",
+      "clue": "Work done to keep equipment in good condition.",
+      "tr": "Ekipmanı iyi durumda tutmak için yapılan bakım.",
+      "example": "Regular maintenance prevents expensive failures.",
+      "exampleTr": "Düzenli bakım pahalı arızaları önler.",
+      "synonyms": [
+        "upkeep"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "technician",
+      "clue": "A worker trained to deal with technical equipment.",
+      "tr": "Teknik ekipmanla çalışmak üzere eğitimli görevli.",
+      "example": "The technician replaced a damaged sensor.",
+      "exampleTr": "Teknisyen hasarlı sensörü değiştirdi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "engineer",
+      "clue": "A person who designs or builds machines and technical systems.",
+      "tr": "Makine ve teknik sistem tasarlayan veya kuran mühendis.",
+      "example": "The engineer tested the new design.",
+      "exampleTr": "Mühendis yeni tasarımı denedi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "inspection",
+      "clue": "A careful check of something's condition or compliance.",
+      "tr": "Bir şeyin durumunun veya kurallara uygunluğunun dikkatle incelenmesi.",
+      "example": "The machine passed its safety inspection.",
+      "exampleTr": "Makine güvenlik denetiminden geçti.",
+      "synonyms": [
+        "examination"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "defect",
+      "clue": "A fault that makes something imperfect or less useful.",
+      "tr": "Bir şeyi kusurlu veya daha az kullanışlı yapan hata.",
+      "example": "The inspection found a defect in the casing.",
+      "exampleTr": "İnceleme gövdede bir kusur buldu.",
+      "synonyms": [
+        "flaw"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "T",
+      "word": "tolerance",
+      "clue": "The permitted difference from a specified measurement.",
+      "tr": "Belirtilen ölçüden izin verilen sapma, tolerans.",
+      "example": "The part must stay within the specified tolerance.",
+      "exampleTr": "Parça belirtilen tolerans içinde kalmalıdır.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "P",
+      "word": "precision",
+      "clue": "The quality of being exact and consistent in measurement.",
+      "tr": "Ölçümde hassas ve tutarlı olma niteliği.",
+      "example": "The instrument offers excellent precision.",
+      "exampleTr": "Cihaz çok yüksek hassasiyet sunar.",
+      "synonyms": [
+        "exactness"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "C",
+      "word": "calibration",
+      "clue": "Adjusting an instrument against a known standard.",
+      "tr": "Cihazı bilinen standarda göre ayarlama, kalibrasyon.",
+      "example": "The scale needs calibration before use.",
+      "exampleTr": "Terazi kullanılmadan önce kalibrasyon gerektiriyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "measurement",
+      "clue": "A value found by determining size, amount, or degree.",
+      "tr": "Boyut, miktar veya derece belirlenerek elde edilen ölçüm.",
+      "example": "Repeat the measurement to check the result.",
+      "exampleTr": "Sonucu kontrol etmek için ölçümü tekrarla.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sample",
+      "clue": "A small amount selected to represent a larger whole.",
+      "tr": "Bütünü temsil etmesi için seçilen küçük miktar, örnek.",
+      "example": "The laboratory tested a sample of the metal.",
+      "exampleTr": "Laboratuvar metalden bir numuneyi test etti.",
+      "synonyms": [
+        "specimen"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "laboratory",
+      "clue": "A place equipped for scientific tests and experiments.",
+      "tr": "Bilimsel test ve deneyler için donatılmış yer.",
+      "example": "The laboratory received the samples this morning.",
+      "exampleTr": "Laboratuvar numuneleri bu sabah aldı.",
+      "synonyms": [
+        "lab"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "scientist",
+      "clue": "A person who studies the natural or physical world systematically.",
+      "tr": "Doğal veya fiziksel dünyayı sistemli inceleyen bilim insanı.",
+      "example": "The scientist repeated the experiment.",
+      "exampleTr": "Bilim insanı deneyi tekrarladı.",
+      "synonyms": [
+        "researcher"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "analysis",
+      "clue": "Careful examination of something to understand its parts or meaning.",
+      "tr": "Parçalarını veya anlamını kavramak için yapılan ayrıntılı inceleme.",
+      "example": "The analysis revealed a clear pattern.",
+      "exampleTr": "Analiz belirgin bir örüntü ortaya çıkardı.",
+      "synonyms": [
+        "examination"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "statistic",
+      "clue": "A numerical fact calculated from data.",
+      "tr": "Verilerden hesaplanan sayısal bilgi, istatistik.",
+      "example": "This statistic summarizes the survey results.",
+      "exampleTr": "Bu istatistik anket sonuçlarını özetliyor.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "M",
+      "word": "median",
+      "clue": "The middle value in an ordered set of numbers.",
+      "tr": "Sıralı sayı kümesindeki ortanca değer, medyan.",
+      "example": "The median is less affected by extreme values.",
+      "exampleTr": "Medyan uç değerlerden daha az etkilenir.",
+      "synonyms": [
+        "middle value"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "V",
+      "word": "variance",
+      "clue": "A measure of how spread out values are around their mean.",
+      "tr": "Değerlerin ortalama çevresindeki yayılımını ölçen büyüklük.",
+      "example": "A higher variance means greater spread.",
+      "exampleTr": "Daha yüksek varyans daha büyük yayılım demektir.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "C",
+      "word": "correlation",
+      "clue": "A statistical relationship describing how two variables vary together.",
+      "tr": "İki değişkenin birlikte nasıl değiştiğini gösteren istatistiksel ilişki.",
+      "example": "The data shows a positive correlation between the variables.",
+      "exampleTr": "Veri değişkenler arasında pozitif korelasyon gösteriyor.",
+      "synonyms": [
+        "association"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "R",
+      "word": "regression",
+      "clue": "A statistical method for modeling relationships between variables.",
+      "tr": "Değişkenler arasındaki ilişkileri modelleyen istatistiksel yöntem.",
+      "example": "We used regression to estimate future demand.",
+      "exampleTr": "Gelecekteki talebi tahmin etmek için regresyon kullandık.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "probability",
+      "clue": "A measure of how likely an event is.",
+      "tr": "Bir olayın gerçekleşme olasılığının ölçüsü.",
+      "example": "The probability of rain is low today.",
+      "exampleTr": "Bugün yağmur olasılığı düşük.",
+      "synonyms": [
+        "likelihood"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "percentage",
+      "clue": "A proportion expressed as parts out of one hundred.",
+      "tr": "Yüz üzerinden ifade edilen oran, yüzde.",
+      "example": "What percentage of customers returned?",
+      "exampleTr": "Müşterilerin yüzde kaçı geri döndü?",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "ratio",
+      "clue": "A comparison of two quantities by division.",
+      "tr": "İki miktarın bölme yoluyla karşılaştırılması, oran.",
+      "example": "The ratio of managers to workers is one to ten.",
+      "exampleTr": "Yönetici sayısının işçi sayısına oranı bire ondur.",
+      "synonyms": [
+        "proportion"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "fraction",
+      "clue": "A number representing part of a whole.",
+      "tr": "Bir bütünün parçasını gösteren sayı, kesir.",
+      "example": "Only a fraction of the budget remains.",
+      "exampleTr": "Bütçenin yalnızca küçük bir kısmı kaldı.",
+      "synonyms": [
+        "portion"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "decimal",
+      "clue": "A number written using a point to show parts below one.",
+      "tr": "Birden küçük kısımları noktayla gösterilen sayı, ondalık sayı.",
+      "example": "Write the result as a decimal.",
+      "exampleTr": "Sonucu ondalık sayı olarak yaz.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "integer",
+      "clue": "A whole number without a fractional part.",
+      "tr": "Kesirli kısmı olmayan tam sayı.",
+      "example": "Zero is an integer.",
+      "exampleTr": "Sıfır bir tam sayıdır.",
+      "synonyms": [
+        "whole number"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "Q",
+      "word": "quotient",
+      "clue": "The result of dividing one number by another.",
+      "tr": "Bir sayıyı diğerine bölmenin sonucu, bölüm.",
+      "example": "The quotient of twelve and three is four.",
+      "exampleTr": "On ikinin üçe bölümünden çıkan sonuç dörttür.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "equation",
+      "clue": "A mathematical statement showing two expressions are equal.",
+      "tr": "İki ifadenin eşitliğini gösteren matematiksel ifade, denklem.",
+      "example": "Solve the equation to find the missing value.",
+      "exampleTr": "Eksik değeri bulmak için denklemi çöz.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "C",
+      "word": "coefficient",
+      "clue": "A number multiplying a variable in an expression.",
+      "tr": "İfadede değişkeni çarpan sayı, katsayı.",
+      "example": "The coefficient of x in this expression is three.",
+      "exampleTr": "Bu ifadede x'in katsayısı üçtür.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "constant",
+      "clue": "A value that does not change in a calculation.",
+      "tr": "Hesaplama boyunca değişmeyen değer, sabit.",
+      "example": "We kept the temperature constant during the test.",
+      "exampleTr": "Test boyunca sıcaklığı sabit tuttuk.",
+      "synonyms": [
+        "fixed value"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "P",
+      "word": "parameter",
+      "clue": "A value that defines a feature of a model or system.",
+      "tr": "Modelin veya sistemin özelliğini belirleyen değer, parametre.",
+      "example": "Changing one parameter altered the prediction.",
+      "exampleTr": "Bir parametreyi değiştirmek tahmini değiştirdi.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "O",
+      "word": "outlier",
+      "clue": "A data value very different from most other observations.",
+      "tr": "Diğer gözlemlerin çoğundan çok farklı veri değeri, aykırı değer.",
+      "example": "We checked the outlier for a possible entry error.",
+      "exampleTr": "Aykırı değeri olası giriş hatası açısından kontrol ettik.",
+      "synonyms": [
+        "extreme observation"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "random",
+      "clue": "Chosen without a predictable pattern or deliberate preference.",
+      "tr": "Öngörülebilir örüntü veya bilinçli tercih olmadan seçilmiş, rastgele.",
+      "example": "The program selects a random question.",
+      "exampleTr": "Program rastgele bir soru seçer.",
+      "synonyms": [
+        "chance"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "R",
+      "word": "replicate",
+      "clue": "To repeat a study or process to check its results.",
+      "tr": "Sonuçları kontrol etmek için çalışma veya süreci yinelemek.",
+      "example": "Another team will replicate the experiment.",
+      "exampleTr": "Başka ekip deneyi tekrarlayacak.",
+      "synonyms": [
+        "repeat"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "R",
+      "word": "reproducible",
+      "clue": "Able to be obtained again using the same data or method.",
+      "tr": "Aynı veri veya yöntemle yeniden elde edilebilen.",
+      "example": "The analysis must produce reproducible results.",
+      "exampleTr": "Analiz yeniden üretilebilir sonuçlar vermelidir.",
+      "synonyms": [
+        "repeatable"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "O",
+      "word": "observation",
+      "clue": "Information recorded by watching or measuring something.",
+      "tr": "Bir şeyi izleyerek veya ölçerek kaydedilen bilgi, gözlem.",
+      "example": "Each observation has a date and a value.",
+      "exampleTr": "Her gözlemin tarihi ve değeri vardır.",
+      "synonyms": [
+        "record"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "interval",
+      "clue": "The space or range between two values or points.",
+      "tr": "İki değer veya nokta arasındaki aralık.",
+      "example": "The interval runs from ten to twenty.",
+      "exampleTr": "Aralık ondan yirmiye uzanıyor.",
+      "synonyms": [
+        "range"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sequence",
+      "clue": "A set of items arranged in a particular order.",
+      "tr": "Belirli sıraya göre düzenlenmiş öğeler dizisi.",
+      "example": "The numbers form a simple sequence.",
+      "exampleTr": "Sayılar basit bir dizi oluşturuyor.",
+      "synonyms": [
+        "series"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "M",
+      "word": "matrix",
+      "clue": "A rectangular arrangement of numbers in rows and columns.",
+      "tr": "Sayıların satır ve sütunlarla dikdörtgen düzenlenmesi, matris.",
+      "example": "The matrix has three rows and two columns.",
+      "exampleTr": "Matrisin üç satırı ve iki sütunu var.",
+      "synonyms": [
+        "array"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "V",
+      "word": "vector",
+      "clue": "A quantity with both magnitude and direction.",
+      "tr": "Hem büyüklüğü hem yönü olan nicelik, vektör.",
+      "example": "The arrow represents a velocity vector.",
+      "exampleTr": "Ok bir hız vektörünü gösteriyor.",
+      "synonyms": []
+    },
+    {
+      "level": "c2",
+      "kind": "word",
+      "letter": "Q",
+      "word": "quantum",
+      "clue": "The smallest discrete amount of a physical quantity in a system.",
+      "tr": "Sistemdeki fiziksel niceliğin en küçük ayrık miktarı.",
+      "example": "A photon carries a quantum of light energy.",
+      "exampleTr": "Bir foton bir kuantum ışık enerjisi taşır.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "workforce",
+      "clue": "All the people working for an organization or in an industry.",
+      "tr": "Bir kurumda veya sektörde çalışanların tamamı, işgücü.",
+      "example": "The company plans to expand its workforce.",
+      "exampleTr": "Şirket işgücünü genişletmeyi planlıyor.",
+      "synonyms": [
+        "staff"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "V",
+      "word": "vacancy",
+      "clue": "A job position that is currently available.",
+      "tr": "Henüz doldurulmamış iş pozisyonu.",
+      "example": "There is a vacancy in the finance department.",
+      "exampleTr": "Finans bölümünde açık bir pozisyon var.",
+      "synonyms": [
+        "opening"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "timesheet",
+      "clue": "A record of the hours someone has worked.",
+      "tr": "Bir kişinin çalıştığı saatleri gösteren çizelge.",
+      "example": "Please submit your timesheet every Friday.",
+      "exampleTr": "Lütfen çalışma saati çizelgeni her cuma teslim et.",
+      "synonyms": []
+    }
+  ]
+}

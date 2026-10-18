@@ -1,0 +1,7127 @@
+{
+  "existing": [
+    {
+      "word": "abide by",
+      "synonyms": [
+        "obey",
+        "comply with"
+      ]
+    },
+    {
+      "word": "accept",
+      "synonyms": [
+        "agree to"
+      ]
+    },
+    {
+      "word": "accompany",
+      "synonyms": [
+        "go with",
+        "escort"
+      ]
+    },
+    {
+      "word": "account for",
+      "synonyms": [
+        "explain"
+      ]
+    },
+    {
+      "word": "achieve",
+      "synonyms": [
+        "accomplish",
+        "attain"
+      ]
+    },
+    {
+      "word": "active",
+      "synonyms": [
+        "energetic"
+      ]
+    },
+    {
+      "word": "add up",
+      "synonyms": [
+        "total",
+        "sum"
+      ]
+    },
+    {
+      "word": "adhere to",
+      "synonyms": [
+        "follow",
+        "observe"
+      ]
+    },
+    {
+      "word": "admit",
+      "synonyms": [
+        "acknowledge",
+        "concede"
+      ]
+    },
+    {
+      "word": "advantage",
+      "synonyms": [
+        "benefit",
+        "edge"
+      ]
+    },
+    {
+      "word": "advice",
+      "synonyms": [
+        "guidance",
+        "counsel"
+      ]
+    },
+    {
+      "word": "affect",
+      "synonyms": [
+        "influence",
+        "impact"
+      ]
+    },
+    {
+      "word": "aggressive",
+      "synonyms": [
+        "hostile",
+        "belligerent"
+      ]
+    },
+    {
+      "word": "alacrity",
+      "synonyms": [
+        "eagerness",
+        "readiness"
+      ]
+    },
+    {
+      "word": "allow",
+      "synonyms": [
+        "permit",
+        "authorize"
+      ]
+    },
+    {
+      "word": "alternative",
+      "synonyms": [
+        "option",
+        "choice"
+      ]
+    },
+    {
+      "word": "ambiguous",
+      "synonyms": [
+        "equivocal",
+        "unclear"
+      ]
+    },
+    {
+      "word": "ameliorate",
+      "synonyms": [
+        "improve",
+        "alleviate"
+      ]
+    },
+    {
+      "word": "anachronism",
+      "synonyms": []
+    },
+    {
+      "word": "angry",
+      "synonyms": [
+        "mad",
+        "irate"
+      ]
+    },
+    {
+      "word": "annoyed",
+      "synonyms": [
+        "irritated",
+        "displeased"
+      ]
+    },
+    {
+      "word": "answer",
+      "synonyms": [
+        "response",
+        "reply"
+      ]
+    },
+    {
+      "word": "antithetical",
+      "synonyms": [
+        "opposed",
+        "contrary"
+      ]
+    },
+    {
+      "word": "apartment",
+      "synonyms": [
+        "flat"
+      ]
+    },
+    {
+      "word": "apparent",
+      "synonyms": [
+        "obvious",
+        "evident"
+      ]
+    },
+    {
+      "word": "application",
+      "synonyms": [
+        "request"
+      ]
+    },
+    {
+      "word": "approach",
+      "synonyms": [
+        "method",
+        "strategy"
+      ]
+    },
+    {
+      "word": "argue",
+      "synonyms": [
+        "quarrel",
+        "dispute"
+      ]
+    },
+    {
+      "word": "ask around",
+      "synonyms": [
+        "make inquiries"
+      ]
+    },
+    {
+      "word": "assiduous",
+      "synonyms": [
+        "diligent",
+        "industrious"
+      ]
+    },
+    {
+      "word": "attempt",
+      "synonyms": [
+        "effort",
+        "try"
+      ]
+    },
+    {
+      "word": "attract",
+      "synonyms": [
+        "draw",
+        "appeal to"
+      ]
+    },
+    {
+      "word": "aunt",
+      "synonyms": []
+    },
+    {
+      "word": "autonomy",
+      "synonyms": [
+        "independence",
+        "self-government"
+      ]
+    },
+    {
+      "word": "average",
+      "synonyms": [
+        "typical",
+        "ordinary"
+      ]
+    },
+    {
+      "word": "awareness",
+      "synonyms": [
+        "consciousness",
+        "recognition"
+      ]
+    },
+    {
+      "word": "baby",
+      "synonyms": [
+        "infant"
+      ]
+    },
+    {
+      "word": "back up",
+      "synonyms": [
+        "make a copy of"
+      ]
+    },
+    {
+      "word": "balance",
+      "synonyms": [
+        "equilibrium"
+      ]
+    },
+    {
+      "word": "banana",
+      "synonyms": []
+    },
+    {
+      "word": "bat around",
+      "synonyms": [
+        "discuss",
+        "debate"
+      ]
+    },
+    {
+      "word": "bear out",
+      "synonyms": [
+        "confirm",
+        "corroborate"
+      ]
+    },
+    {
+      "word": "bedroom",
+      "synonyms": [
+        "bedchamber"
+      ]
+    },
+    {
+      "word": "behavior",
+      "synonyms": [
+        "conduct"
+      ]
+    },
+    {
+      "word": "bellicose",
+      "synonyms": [
+        "belligerent",
+        "aggressive"
+      ]
+    },
+    {
+      "word": "below",
+      "synonyms": [
+        "beneath",
+        "under"
+      ]
+    },
+    {
+      "word": "benevolent",
+      "synonyms": [
+        "kind",
+        "charitable"
+      ]
+    },
+    {
+      "word": "bicycle",
+      "synonyms": [
+        "bike",
+        "cycle"
+      ]
+    },
+    {
+      "word": "black",
+      "synonyms": []
+    },
+    {
+      "word": "blithe",
+      "synonyms": [
+        "carefree",
+        "unconcerned"
+      ]
+    },
+    {
+      "word": "blurt out",
+      "synonyms": [
+        "utter impulsively"
+      ]
+    },
+    {
+      "word": "boil down to",
+      "synonyms": [
+        "amount to",
+        "come down to"
+      ]
+    },
+    {
+      "word": "borrow",
+      "synonyms": []
+    },
+    {
+      "word": "bottle up",
+      "synonyms": [
+        "suppress",
+        "repress"
+      ]
+    },
+    {
+      "word": "bowl",
+      "synonyms": []
+    },
+    {
+      "word": "branch out",
+      "synonyms": [
+        "diversify",
+        "expand"
+      ]
+    },
+    {
+      "word": "break down",
+      "synonyms": [
+        "malfunction",
+        "fail"
+      ]
+    },
+    {
+      "word": "break through",
+      "synonyms": [
+        "overcome"
+      ]
+    },
+    {
+      "word": "bridge",
+      "synonyms": []
+    },
+    {
+      "word": "bring about",
+      "synonyms": [
+        "cause",
+        "produce"
+      ]
+    },
+    {
+      "word": "bring out",
+      "synonyms": [
+        "highlight",
+        "accentuate"
+      ]
+    },
+    {
+      "word": "brother",
+      "synonyms": []
+    },
+    {
+      "word": "brush up on",
+      "synonyms": [
+        "review",
+        "refresh"
+      ]
+    },
+    {
+      "word": "budget",
+      "synonyms": []
+    },
+    {
+      "word": "busy",
+      "synonyms": [
+        "occupied"
+      ]
+    },
+    {
+      "word": "cake",
+      "synonyms": []
+    },
+    {
+      "word": "call for",
+      "synonyms": [
+        "require",
+        "demand"
+      ]
+    },
+    {
+      "word": "calm down",
+      "synonyms": [
+        "relax",
+        "settle down"
+      ]
+    },
+    {
+      "word": "candid",
+      "synonyms": [
+        "frank",
+        "forthright"
+      ]
+    },
+    {
+      "word": "capable",
+      "synonyms": [
+        "able",
+        "competent"
+      ]
+    },
+    {
+      "word": "care for",
+      "synonyms": [
+        "look after",
+        "tend"
+      ]
+    },
+    {
+      "word": "carry on",
+      "synonyms": [
+        "continue",
+        "keep going"
+      ]
+    },
+    {
+      "word": "cat",
+      "synonyms": [
+        "feline"
+      ]
+    },
+    {
+      "word": "cause",
+      "synonyms": [
+        "reason",
+        "origin"
+      ]
+    },
+    {
+      "word": "certain",
+      "synonyms": [
+        "sure",
+        "convinced"
+      ]
+    },
+    {
+      "word": "charity",
+      "synonyms": [
+        "charitable organization"
+      ]
+    },
+    {
+      "word": "check out",
+      "synonyms": []
+    },
+    {
+      "word": "cheese",
+      "synonyms": []
+    },
+    {
+      "word": "child",
+      "synonyms": [
+        "youngster",
+        "kid"
+      ]
+    },
+    {
+      "word": "churn out",
+      "synonyms": [
+        "mass-produce"
+      ]
+    },
+    {
+      "word": "circumstance",
+      "synonyms": [
+        "condition",
+        "factor"
+      ]
+    },
+    {
+      "word": "claim",
+      "synonyms": [
+        "assert",
+        "maintain"
+      ]
+    },
+    {
+      "word": "clarify",
+      "synonyms": [
+        "explain",
+        "elucidate"
+      ]
+    },
+    {
+      "word": "clean up",
+      "synonyms": [
+        "tidy",
+        "clean"
+      ]
+    },
+    {
+      "word": "clock",
+      "synonyms": []
+    },
+    {
+      "word": "cogent",
+      "synonyms": [
+        "convincing",
+        "persuasive"
+      ]
+    },
+    {
+      "word": "collaborate",
+      "synonyms": [
+        "cooperate",
+        "work together"
+      ]
+    },
+    {
+      "word": "come about",
+      "synonyms": [
+        "happen",
+        "occur"
+      ]
+    },
+    {
+      "word": "come back",
+      "synonyms": [
+        "return"
+      ]
+    },
+    {
+      "word": "come from",
+      "synonyms": [
+        "originate in",
+        "hail from"
+      ]
+    },
+    {
+      "word": "come out",
+      "synonyms": [
+        "emerge",
+        "exit"
+      ]
+    },
+    {
+      "word": "come under fire",
+      "synonyms": [
+        "face criticism"
+      ]
+    },
+    {
+      "word": "comfortable",
+      "synonyms": [
+        "relaxing",
+        "pleasant"
+      ]
+    },
+    {
+      "word": "communicate",
+      "synonyms": [
+        "convey",
+        "exchange information"
+      ]
+    },
+    {
+      "word": "compelling",
+      "synonyms": [
+        "convincing",
+        "gripping"
+      ]
+    },
+    {
+      "word": "complacent",
+      "synonyms": [
+        "self-satisfied",
+        "smug"
+      ]
+    },
+    {
+      "word": "complex",
+      "synonyms": [
+        "complicated",
+        "intricate"
+      ]
+    },
+    {
+      "word": "computer",
+      "synonyms": []
+    },
+    {
+      "word": "concern",
+      "synonyms": [
+        "worry",
+        "anxiety"
+      ]
+    },
+    {
+      "word": "condition",
+      "synonyms": [
+        "state"
+      ]
+    },
+    {
+      "word": "conflagration",
+      "synonyms": [
+        "blaze",
+        "inferno"
+      ]
+    },
+    {
+      "word": "connect",
+      "synonyms": [
+        "join",
+        "link"
+      ]
+    },
+    {
+      "word": "consequence",
+      "synonyms": [
+        "result",
+        "outcome"
+      ]
+    },
+    {
+      "word": "consolidate",
+      "synonyms": [
+        "combine",
+        "unify"
+      ]
+    },
+    {
+      "word": "contact",
+      "synonyms": [
+        "communication"
+      ]
+    },
+    {
+      "word": "content",
+      "synonyms": [
+        "material",
+        "subject matter"
+      ]
+    },
+    {
+      "word": "contribute",
+      "synonyms": [
+        "give",
+        "provide"
+      ]
+    },
+    {
+      "word": "conundrum",
+      "synonyms": [
+        "puzzle",
+        "problem"
+      ]
+    },
+    {
+      "word": "convince",
+      "synonyms": [
+        "persuade"
+      ]
+    },
+    {
+      "word": "cooperate",
+      "synonyms": [
+        "collaborate",
+        "work together"
+      ]
+    },
+    {
+      "word": "count on",
+      "synonyms": [
+        "rely on",
+        "depend on"
+      ]
+    },
+    {
+      "word": "crack down on",
+      "synonyms": [
+        "clamp down on"
+      ]
+    },
+    {
+      "word": "credible",
+      "synonyms": [
+        "believable",
+        "plausible"
+      ]
+    },
+    {
+      "word": "cryptic",
+      "synonyms": [
+        "enigmatic",
+        "obscure"
+      ]
+    },
+    {
+      "word": "customer",
+      "synonyms": [
+        "buyer",
+        "shopper"
+      ]
+    },
+    {
+      "word": "cut down on",
+      "synonyms": [
+        "reduce",
+        "limit"
+      ]
+    },
+    {
+      "word": "damage",
+      "synonyms": [
+        "harm",
+        "impairment"
+      ]
+    },
+    {
+      "word": "day",
+      "synonyms": []
+    },
+    {
+      "word": "debate",
+      "synonyms": [
+        "discussion",
+        "argument"
+      ]
+    },
+    {
+      "word": "decision",
+      "synonyms": [
+        "choice",
+        "resolution"
+      ]
+    },
+    {
+      "word": "deduce",
+      "synonyms": [
+        "infer",
+        "conclude"
+      ]
+    },
+    {
+      "word": "deference",
+      "synonyms": [
+        "respect",
+        "submission"
+      ]
+    },
+    {
+      "word": "deleteriousness",
+      "synonyms": [
+        "harmfulness"
+      ]
+    },
+    {
+      "word": "deliver",
+      "synonyms": [
+        "bring",
+        "transport"
+      ]
+    },
+    {
+      "word": "denounce",
+      "synonyms": [
+        "condemn",
+        "decry"
+      ]
+    },
+    {
+      "word": "deprive",
+      "synonyms": [
+        "deny",
+        "dispossess"
+      ]
+    },
+    {
+      "word": "describe",
+      "synonyms": [
+        "portray",
+        "depict"
+      ]
+    },
+    {
+      "word": "desk",
+      "synonyms": []
+    },
+    {
+      "word": "desultory",
+      "synonyms": [
+        "aimless",
+        "halfhearted"
+      ]
+    },
+    {
+      "word": "develop",
+      "synonyms": [
+        "grow",
+        "advance"
+      ]
+    },
+    {
+      "word": "dictionary",
+      "synonyms": []
+    },
+    {
+      "word": "diffident",
+      "synonyms": [
+        "timid",
+        "self-effacing"
+      ]
+    },
+    {
+      "word": "dinner",
+      "synonyms": []
+    },
+    {
+      "word": "disaster",
+      "synonyms": [
+        "catastrophe",
+        "calamity"
+      ]
+    },
+    {
+      "word": "discover",
+      "synonyms": [
+        "find",
+        "uncover"
+      ]
+    },
+    {
+      "word": "disease",
+      "synonyms": [
+        "illness",
+        "ailment"
+      ]
+    },
+    {
+      "word": "dismiss",
+      "synonyms": [
+        "disregard",
+        "reject"
+      ]
+    },
+    {
+      "word": "dissonance",
+      "synonyms": [
+        "discord",
+        "disharmony"
+      ]
+    },
+    {
+      "word": "distract",
+      "synonyms": [
+        "divert"
+      ]
+    },
+    {
+      "word": "diverse",
+      "synonyms": [
+        "varied",
+        "assorted"
+      ]
+    },
+    {
+      "word": "dog",
+      "synonyms": [
+        "canine"
+      ]
+    },
+    {
+      "word": "donate",
+      "synonyms": [
+        "give",
+        "contribute"
+      ]
+    },
+    {
+      "word": "drag on",
+      "synonyms": [
+        "linger",
+        "continue interminably"
+      ]
+    },
+    {
+      "word": "dream",
+      "synonyms": []
+    },
+    {
+      "word": "drink",
+      "synonyms": [
+        "imbibe"
+      ]
+    },
+    {
+      "word": "drum up",
+      "synonyms": [
+        "generate",
+        "stimulate"
+      ]
+    },
+    {
+      "word": "dwell on",
+      "synonyms": [
+        "brood over",
+        "obsess over"
+      ]
+    },
+    {
+      "word": "earn",
+      "synonyms": [
+        "make",
+        "receive in payment"
+      ]
+    },
+    {
+      "word": "eat out",
+      "synonyms": [
+        "dine out"
+      ]
+    },
+    {
+      "word": "effect",
+      "synonyms": [
+        "result",
+        "impact"
+      ]
+    },
+    {
+      "word": "effort",
+      "synonyms": [
+        "exertion",
+        "endeavor"
+      ]
+    },
+    {
+      "word": "egregious",
+      "synonyms": [
+        "outrageous",
+        "flagrant"
+      ]
+    },
+    {
+      "word": "elderly",
+      "synonyms": [
+        "aged",
+        "old"
+      ]
+    },
+    {
+      "word": "elucidate",
+      "synonyms": [
+        "clarify",
+        "explain"
+      ]
+    },
+    {
+      "word": "emergency",
+      "synonyms": [
+        "crisis"
+      ]
+    },
+    {
+      "word": "empirical",
+      "synonyms": [
+        "observational",
+        "experimental"
+      ]
+    },
+    {
+      "word": "empty",
+      "synonyms": [
+        "vacant",
+        "unfilled"
+      ]
+    },
+    {
+      "word": "encourage",
+      "synonyms": [
+        "support",
+        "reassure"
+      ]
+    },
+    {
+      "word": "endorse",
+      "synonyms": [
+        "back",
+        "support"
+      ]
+    },
+    {
+      "word": "entail",
+      "synonyms": [
+        "involve",
+        "necessitate"
+      ]
+    },
+    {
+      "word": "ephemeral",
+      "synonyms": [
+        "fleeting",
+        "transient"
+      ]
+    },
+    {
+      "word": "equipment",
+      "synonyms": [
+        "gear",
+        "apparatus"
+      ]
+    },
+    {
+      "word": "erode",
+      "synonyms": [
+        "wear away",
+        "undermine"
+      ]
+    },
+    {
+      "word": "esoteric",
+      "synonyms": [
+        "specialized",
+        "arcane"
+      ]
+    },
+    {
+      "word": "establish",
+      "synonyms": [
+        "found",
+        "set up"
+      ]
+    },
+    {
+      "word": "evening",
+      "synonyms": []
+    },
+    {
+      "word": "exacerbate",
+      "synonyms": [
+        "worsen",
+        "aggravate"
+      ]
+    },
+    {
+      "word": "except",
+      "synonyms": [
+        "excluding",
+        "apart from"
+      ]
+    },
+    {
+      "word": "exemplify",
+      "synonyms": [
+        "illustrate",
+        "embody"
+      ]
+    },
+    {
+      "word": "exhibit",
+      "synonyms": [
+        "display",
+        "show"
+      ]
+    },
+    {
+      "word": "expectation",
+      "synonyms": [
+        "anticipation"
+      ]
+    },
+    {
+      "word": "experience",
+      "synonyms": [
+        "practical knowledge"
+      ]
+    },
+    {
+      "word": "explicit",
+      "synonyms": [
+        "clear",
+        "unambiguous"
+      ]
+    },
+    {
+      "word": "extemporaneous",
+      "synonyms": [
+        "impromptu",
+        "improvised"
+      ]
+    },
+    {
+      "word": "facilitate",
+      "synonyms": [
+        "ease",
+        "enable"
+      ]
+    },
+    {
+      "word": "fair",
+      "synonyms": [
+        "just",
+        "impartial"
+      ]
+    },
+    {
+      "word": "fall behind",
+      "synonyms": [
+        "lag behind"
+      ]
+    },
+    {
+      "word": "familiar",
+      "synonyms": [
+        "known",
+        "recognizable"
+      ]
+    },
+    {
+      "word": "fancy",
+      "synonyms": [
+        "want",
+        "feel like"
+      ]
+    },
+    {
+      "word": "fastidious",
+      "synonyms": [
+        "meticulous",
+        "particular"
+      ]
+    },
+    {
+      "word": "fault",
+      "synonyms": [
+        "blame",
+        "responsibility"
+      ]
+    },
+    {
+      "word": "February",
+      "synonyms": []
+    },
+    {
+      "word": "female",
+      "synonyms": []
+    },
+    {
+      "word": "fervent",
+      "synonyms": [
+        "passionate",
+        "ardent"
+      ]
+    },
+    {
+      "word": "fill in",
+      "synonyms": [
+        "complete",
+        "fill out"
+      ]
+    },
+    {
+      "word": "find out",
+      "synonyms": [
+        "discover",
+        "learn"
+      ]
+    },
+    {
+      "word": "fish",
+      "synonyms": []
+    },
+    {
+      "word": "flesh out",
+      "synonyms": [
+        "elaborate",
+        "develop"
+      ]
+    },
+    {
+      "word": "fluctuate",
+      "synonyms": [
+        "vary",
+        "oscillate"
+      ]
+    },
+    {
+      "word": "fob off",
+      "synonyms": [
+        "mislead",
+        "brush off"
+      ]
+    },
+    {
+      "word": "follow up",
+      "synonyms": [
+        "pursue"
+      ]
+    },
+    {
+      "word": "football",
+      "synonyms": [
+        "soccer"
+      ]
+    },
+    {
+      "word": "forest",
+      "synonyms": [
+        "woodland",
+        "woods"
+      ]
+    },
+    {
+      "word": "formulate",
+      "synonyms": [
+        "devise",
+        "develop"
+      ]
+    },
+    {
+      "word": "foster",
+      "synonyms": [
+        "encourage",
+        "nurture"
+      ]
+    },
+    {
+      "word": "freedom",
+      "synonyms": [
+        "liberty",
+        "independence"
+      ]
+    },
+    {
+      "word": "friend",
+      "synonyms": [
+        "companion",
+        "pal"
+      ]
+    },
+    {
+      "word": "frown upon",
+      "synonyms": [
+        "disapprove of"
+      ]
+    },
+    {
+      "word": "fulminate",
+      "synonyms": [
+        "rail",
+        "rant"
+      ]
+    },
+    {
+      "word": "further",
+      "synonyms": [
+        "farther",
+        "more"
+      ]
+    },
+    {
+      "word": "garden",
+      "synonyms": []
+    },
+    {
+      "word": "gauge",
+      "synonyms": [
+        "estimate",
+        "assess"
+      ]
+    },
+    {
+      "word": "genuine",
+      "synonyms": [
+        "authentic",
+        "real"
+      ]
+    },
+    {
+      "word": "get along",
+      "synonyms": [
+        "get on"
+      ]
+    },
+    {
+      "word": "get back",
+      "synonyms": [
+        "return"
+      ]
+    },
+    {
+      "word": "get off",
+      "synonyms": [
+        "alight",
+        "disembark"
+      ]
+    },
+    {
+      "word": "get over",
+      "synonyms": [
+        "recover from"
+      ]
+    },
+    {
+      "word": "get up",
+      "synonyms": [
+        "rise"
+      ]
+    },
+    {
+      "word": "give back",
+      "synonyms": [
+        "return"
+      ]
+    },
+    {
+      "word": "glass",
+      "synonyms": []
+    },
+    {
+      "word": "go against",
+      "synonyms": [
+        "oppose",
+        "contravene"
+      ]
+    },
+    {
+      "word": "go away",
+      "synonyms": [
+        "leave",
+        "depart"
+      ]
+    },
+    {
+      "word": "go in",
+      "synonyms": [
+        "enter"
+      ]
+    },
+    {
+      "word": "go out",
+      "synonyms": []
+    },
+    {
+      "word": "go up",
+      "synonyms": [
+        "ascend",
+        "rise"
+      ]
+    },
+    {
+      "word": "graduate",
+      "synonyms": []
+    },
+    {
+      "word": "gratify",
+      "synonyms": [
+        "please",
+        "satisfy"
+      ]
+    },
+    {
+      "word": "gregarious",
+      "synonyms": [
+        "sociable",
+        "outgoing"
+      ]
+    },
+    {
+      "word": "grow up",
+      "synonyms": [
+        "mature"
+      ]
+    },
+    {
+      "word": "guilty",
+      "synonyms": [
+        "culpable",
+        "at fault"
+      ]
+    },
+    {
+      "word": "hackneyed",
+      "synonyms": [
+        "trite",
+        "overused"
+      ]
+    },
+    {
+      "word": "hand",
+      "synonyms": []
+    },
+    {
+      "word": "handle",
+      "synonyms": [
+        "manage",
+        "deal with"
+      ]
+    },
+    {
+      "word": "happy",
+      "synonyms": [
+        "pleased",
+        "joyful"
+      ]
+    },
+    {
+      "word": "harp on about",
+      "synonyms": [
+        "dwell on",
+        "go on about"
+      ]
+    },
+    {
+      "word": "head",
+      "synonyms": []
+    },
+    {
+      "word": "healthy",
+      "synonyms": [
+        "well",
+        "fit"
+      ]
+    },
+    {
+      "word": "help out",
+      "synonyms": [
+        "assist",
+        "lend a hand"
+      ]
+    },
+    {
+      "word": "hinder",
+      "synonyms": [
+        "impede",
+        "obstruct"
+      ]
+    },
+    {
+      "word": "hold back",
+      "synonyms": [
+        "restrain",
+        "hamper"
+      ]
+    },
+    {
+      "word": "hold up",
+      "synonyms": [
+        "delay",
+        "impede"
+      ]
+    },
+    {
+      "word": "hone in on",
+      "synonyms": [
+        "focus on",
+        "home in on"
+      ]
+    },
+    {
+      "word": "horse",
+      "synonyms": []
+    },
+    {
+      "word": "hour",
+      "synonyms": []
+    },
+    {
+      "word": "hubris",
+      "synonyms": [
+        "arrogance",
+        "overconfidence"
+      ]
+    },
+    {
+      "word": "hungry",
+      "synonyms": [
+        "peckish"
+      ]
+    },
+    {
+      "word": "hypothesis",
+      "synonyms": [
+        "proposed explanation"
+      ]
+    },
+    {
+      "word": "ignore",
+      "synonyms": [
+        "disregard",
+        "overlook"
+      ]
+    },
+    {
+      "word": "immediate",
+      "synonyms": [
+        "instant",
+        "prompt"
+      ]
+    },
+    {
+      "word": "impeccable",
+      "synonyms": [
+        "flawless",
+        "faultless"
+      ]
+    },
+    {
+      "word": "implement",
+      "synonyms": [
+        "execute",
+        "carry out"
+      ]
+    },
+    {
+      "word": "improve",
+      "synonyms": [
+        "enhance",
+        "better"
+      ]
+    },
+    {
+      "word": "inchoate",
+      "synonyms": [
+        "undeveloped",
+        "incipient"
+      ]
+    },
+    {
+      "word": "income",
+      "synonyms": [
+        "earnings",
+        "revenue"
+      ]
+    },
+    {
+      "word": "indeed",
+      "synonyms": [
+        "certainly",
+        "truly"
+      ]
+    },
+    {
+      "word": "induce",
+      "synonyms": [
+        "cause",
+        "bring about"
+      ]
+    },
+    {
+      "word": "inevitable",
+      "synonyms": [
+        "unavoidable",
+        "inescapable"
+      ]
+    },
+    {
+      "word": "inform",
+      "synonyms": [
+        "tell",
+        "notify"
+      ]
+    },
+    {
+      "word": "inimical",
+      "synonyms": [
+        "hostile",
+        "harmful"
+      ]
+    },
+    {
+      "word": "innovative",
+      "synonyms": [
+        "original",
+        "inventive"
+      ]
+    },
+    {
+      "word": "insight",
+      "synonyms": [
+        "understanding",
+        "perception"
+      ]
+    },
+    {
+      "word": "integrate",
+      "synonyms": [
+        "combine",
+        "unify"
+      ]
+    },
+    {
+      "word": "internet",
+      "synonyms": []
+    },
+    {
+      "word": "interview",
+      "synonyms": []
+    },
+    {
+      "word": "intrinsic",
+      "synonyms": [
+        "inherent",
+        "innate"
+      ]
+    },
+    {
+      "word": "invest",
+      "synonyms": []
+    },
+    {
+      "word": "involve",
+      "synonyms": [
+        "include",
+        "engage"
+      ]
+    },
+    {
+      "word": "island",
+      "synonyms": []
+    },
+    {
+      "word": "January",
+      "synonyms": []
+    },
+    {
+      "word": "jocular",
+      "synonyms": [
+        "joking",
+        "humorous"
+      ]
+    },
+    {
+      "word": "journey",
+      "synonyms": [
+        "trip",
+        "voyage"
+      ]
+    },
+    {
+      "word": "judicious",
+      "synonyms": [
+        "wise",
+        "prudent"
+      ]
+    },
+    {
+      "word": "justify",
+      "synonyms": [
+        "defend",
+        "warrant"
+      ]
+    },
+    {
+      "word": "keep at",
+      "synonyms": [
+        "persist with",
+        "persevere with"
+      ]
+    },
+    {
+      "word": "keep on",
+      "synonyms": [
+        "continue",
+        "carry on"
+      ]
+    },
+    {
+      "word": "key",
+      "synonyms": []
+    },
+    {
+      "word": "kind",
+      "synonyms": [
+        "caring",
+        "benevolent"
+      ]
+    },
+    {
+      "word": "knowledge",
+      "synonyms": [
+        "understanding",
+        "learning"
+      ]
+    },
+    {
+      "word": "kudos",
+      "synonyms": [
+        "acclaim",
+        "praise"
+      ]
+    },
+    {
+      "word": "laconic",
+      "synonyms": [
+        "terse",
+        "concise"
+      ]
+    },
+    {
+      "word": "language",
+      "synonyms": []
+    },
+    {
+      "word": "latch onto",
+      "synonyms": [
+        "seize on",
+        "adopt"
+      ]
+    },
+    {
+      "word": "launch",
+      "synonyms": [
+        "start",
+        "introduce"
+      ]
+    },
+    {
+      "word": "lay out",
+      "synonyms": [
+        "explain",
+        "present"
+      ]
+    },
+    {
+      "word": "leg",
+      "synonyms": []
+    },
+    {
+      "word": "lemon",
+      "synonyms": []
+    },
+    {
+      "word": "let down",
+      "synonyms": [
+        "disappoint",
+        "fail"
+      ]
+    },
+    {
+      "word": "leverage",
+      "synonyms": [
+        "utilize",
+        "exploit"
+      ]
+    },
+    {
+      "word": "light",
+      "synonyms": [
+        "illumination"
+      ]
+    },
+    {
+      "word": "limit",
+      "synonyms": [
+        "maximum",
+        "ceiling"
+      ]
+    },
+    {
+      "word": "listen to",
+      "synonyms": [
+        "attend to"
+      ]
+    },
+    {
+      "word": "local",
+      "synonyms": [
+        "nearby",
+        "regional"
+      ]
+    },
+    {
+      "word": "logical",
+      "synonyms": [
+        "rational",
+        "reasoned"
+      ]
+    },
+    {
+      "word": "look around",
+      "synonyms": [
+        "survey",
+        "explore"
+      ]
+    },
+    {
+      "word": "look down on",
+      "synonyms": [
+        "despise",
+        "disdain"
+      ]
+    },
+    {
+      "word": "look into",
+      "synonyms": [
+        "investigate",
+        "examine"
+      ]
+    },
+    {
+      "word": "look up to",
+      "synonyms": [
+        "admire",
+        "respect"
+      ]
+    },
+    {
+      "word": "lucrative",
+      "synonyms": [
+        "profitable",
+        "remunerative"
+      ]
+    },
+    {
+      "word": "maintain",
+      "synonyms": [
+        "preserve",
+        "keep up"
+      ]
+    },
+    {
+      "word": "make up",
+      "synonyms": [
+        "invent",
+        "fabricate"
+      ]
+    },
+    {
+      "word": "manage",
+      "synonyms": [
+        "succeed",
+        "pull off"
+      ]
+    },
+    {
+      "word": "manner",
+      "synonyms": [
+        "way",
+        "style"
+      ]
+    },
+    {
+      "word": "meanwhile",
+      "synonyms": [
+        "in the meantime",
+        "simultaneously"
+      ]
+    },
+    {
+      "word": "medicine",
+      "synonyms": [
+        "medication",
+        "remedy"
+      ]
+    },
+    {
+      "word": "mention",
+      "synonyms": [
+        "refer to",
+        "bring up"
+      ]
+    },
+    {
+      "word": "mess",
+      "synonyms": [
+        "disorder",
+        "clutter"
+      ]
+    },
+    {
+      "word": "mild",
+      "synonyms": [
+        "gentle",
+        "moderate"
+      ]
+    },
+    {
+      "word": "minute",
+      "synonyms": []
+    },
+    {
+      "word": "mitigate",
+      "synonyms": [
+        "alleviate",
+        "lessen"
+      ]
+    },
+    {
+      "word": "Monday",
+      "synonyms": []
+    },
+    {
+      "word": "morning",
+      "synonyms": []
+    },
+    {
+      "word": "motivation",
+      "synonyms": [
+        "incentive",
+        "drive"
+      ]
+    },
+    {
+      "word": "mouth",
+      "synonyms": []
+    },
+    {
+      "word": "move out",
+      "synonyms": [
+        "vacate",
+        "leave"
+      ]
+    },
+    {
+      "word": "munificent",
+      "synonyms": [
+        "generous",
+        "lavish"
+      ]
+    },
+    {
+      "word": "narrow down",
+      "synonyms": [
+        "reduce",
+        "limit"
+      ]
+    },
+    {
+      "word": "nearly",
+      "synonyms": [
+        "almost",
+        "virtually"
+      ]
+    },
+    {
+      "word": "nefarious",
+      "synonyms": [
+        "wicked",
+        "villainous"
+      ]
+    },
+    {
+      "word": "neither",
+      "synonyms": []
+    },
+    {
+      "word": "new",
+      "synonyms": [
+        "recent",
+        "fresh"
+      ]
+    },
+    {
+      "word": "noisy",
+      "synonyms": [
+        "loud",
+        "clamorous"
+      ]
+    },
+    {
+      "word": "nose",
+      "synonyms": []
+    },
+    {
+      "word": "nuance",
+      "synonyms": [
+        "subtle distinction",
+        "shade of meaning"
+      ]
+    },
+    {
+      "word": "obdurate",
+      "synonyms": [
+        "stubborn",
+        "unyielding"
+      ]
+    },
+    {
+      "word": "obscure",
+      "synonyms": [
+        "little-known",
+        "unclear"
+      ]
+    },
+    {
+      "word": "obstacle",
+      "synonyms": [
+        "barrier",
+        "hindrance"
+      ]
+    },
+    {
+      "word": "obvious",
+      "synonyms": [
+        "clear",
+        "evident"
+      ]
+    },
+    {
+      "word": "ocean",
+      "synonyms": [
+        "sea"
+      ]
+    },
+    {
+      "word": "offset",
+      "synonyms": [
+        "counterbalance",
+        "compensate for"
+      ]
+    },
+    {
+      "word": "opaque",
+      "synonyms": [
+        "unclear",
+        "impenetrable"
+      ]
+    },
+    {
+      "word": "operate",
+      "synonyms": [
+        "run",
+        "control"
+      ]
+    },
+    {
+      "word": "opprobrium",
+      "synonyms": [
+        "disgrace",
+        "condemnation"
+      ]
+    },
+    {
+      "word": "orange",
+      "synonyms": []
+    },
+    {
+      "word": "ostensible",
+      "synonyms": [
+        "apparent",
+        "supposed"
+      ]
+    },
+    {
+      "word": "outside",
+      "synonyms": [
+        "outdoors",
+        "externally"
+      ]
+    },
+    {
+      "word": "owe",
+      "synonyms": []
+    },
+    {
+      "word": "pan out",
+      "synonyms": [
+        "work out",
+        "turn out"
+      ]
+    },
+    {
+      "word": "paradigm",
+      "synonyms": [
+        "model",
+        "framework"
+      ]
+    },
+    {
+      "word": "parsimonious",
+      "synonyms": [
+        "stingy",
+        "miserly"
+      ]
+    },
+    {
+      "word": "pass away",
+      "synonyms": [
+        "die",
+        "depart this life"
+      ]
+    },
+    {
+      "word": "pass out",
+      "synonyms": [
+        "faint",
+        "lose consciousness"
+      ]
+    },
+    {
+      "word": "patience",
+      "synonyms": [
+        "forbearance",
+        "tolerance"
+      ]
+    },
+    {
+      "word": "pay off",
+      "synonyms": [
+        "bear fruit",
+        "succeed"
+      ]
+    },
+    {
+      "word": "pen",
+      "synonyms": []
+    },
+    {
+      "word": "peremptory",
+      "synonyms": [
+        "imperious",
+        "commanding"
+      ]
+    },
+    {
+      "word": "permission",
+      "synonyms": [
+        "authorization",
+        "consent"
+      ]
+    },
+    {
+      "word": "perspicacious",
+      "synonyms": [
+        "perceptive",
+        "astute"
+      ]
+    },
+    {
+      "word": "peter out",
+      "synonyms": [
+        "dwindle",
+        "fade away"
+      ]
+    },
+    {
+      "word": "pick out",
+      "synonyms": [
+        "choose",
+        "select"
+      ]
+    },
+    {
+      "word": "pillow",
+      "synonyms": []
+    },
+    {
+      "word": "planet",
+      "synonyms": []
+    },
+    {
+      "word": "play down",
+      "synonyms": [
+        "downplay",
+        "minimize"
+      ]
+    },
+    {
+      "word": "point out",
+      "synonyms": [
+        "indicate",
+        "highlight"
+      ]
+    },
+    {
+      "word": "pore over",
+      "synonyms": [
+        "scrutinize",
+        "study"
+      ]
+    },
+    {
+      "word": "potato",
+      "synonyms": []
+    },
+    {
+      "word": "pragmatic",
+      "synonyms": [
+        "practical",
+        "realistic"
+      ]
+    },
+    {
+      "word": "prepare",
+      "synonyms": [
+        "get ready",
+        "make ready"
+      ]
+    },
+    {
+      "word": "preserve",
+      "synonyms": [
+        "protect",
+        "conserve"
+      ]
+    },
+    {
+      "word": "pressure",
+      "synonyms": [
+        "stress",
+        "strain"
+      ]
+    },
+    {
+      "word": "prevent",
+      "synonyms": [
+        "stop",
+        "avert"
+      ]
+    },
+    {
+      "word": "private",
+      "synonyms": [
+        "personal",
+        "restricted"
+      ]
+    },
+    {
+      "word": "process",
+      "synonyms": [
+        "procedure",
+        "sequence"
+      ]
+    },
+    {
+      "word": "profit",
+      "synonyms": [
+        "gain",
+        "earnings"
+      ]
+    },
+    {
+      "word": "promise",
+      "synonyms": [
+        "pledge",
+        "vow"
+      ]
+    },
+    {
+      "word": "propose",
+      "synonyms": [
+        "suggest",
+        "put forward"
+      ]
+    },
+    {
+      "word": "prove",
+      "synonyms": [
+        "demonstrate",
+        "establish"
+      ]
+    },
+    {
+      "word": "public",
+      "synonyms": [
+        "communal",
+        "open"
+      ]
+    },
+    {
+      "word": "purchase",
+      "synonyms": [
+        "buy",
+        "acquire"
+      ]
+    },
+    {
+      "word": "put back",
+      "synonyms": [
+        "replace",
+        "return"
+      ]
+    },
+    {
+      "word": "put off",
+      "synonyms": [
+        "postpone",
+        "defer"
+      ]
+    },
+    {
+      "word": "put up with",
+      "synonyms": [
+        "tolerate",
+        "endure"
+      ]
+    },
+    {
+      "word": "quandary",
+      "synonyms": [
+        "dilemma",
+        "predicament"
+      ]
+    },
+    {
+      "word": "question",
+      "synonyms": [
+        "query",
+        "inquiry"
+      ]
+    },
+    {
+      "word": "quiet",
+      "synonyms": [
+        "silent",
+        "hushed"
+      ]
+    },
+    {
+      "word": "quotation",
+      "synonyms": [
+        "quote",
+        "citation"
+      ]
+    },
+    {
+      "word": "rake up",
+      "synonyms": [
+        "dredge up",
+        "bring up"
+      ]
+    },
+    {
+      "word": "rare",
+      "synonyms": [
+        "uncommon",
+        "infrequent"
+      ]
+    },
+    {
+      "word": "reach",
+      "synonyms": [
+        "arrive at",
+        "attain"
+      ]
+    },
+    {
+      "word": "realize",
+      "synonyms": [
+        "recognize",
+        "understand"
+      ]
+    },
+    {
+      "word": "recalcitrant",
+      "synonyms": [
+        "defiant",
+        "unruly"
+      ]
+    },
+    {
+      "word": "reciprocal",
+      "synonyms": [
+        "mutual",
+        "two-way"
+      ]
+    },
+    {
+      "word": "reconcile",
+      "synonyms": [
+        "harmonize",
+        "resolve"
+      ]
+    },
+    {
+      "word": "recruit",
+      "synonyms": [
+        "enlist",
+        "hire"
+      ]
+    },
+    {
+      "word": "reduce",
+      "synonyms": [
+        "decrease",
+        "lessen"
+      ]
+    },
+    {
+      "word": "refine",
+      "synonyms": [
+        "improve",
+        "polish"
+      ]
+    },
+    {
+      "word": "regard",
+      "synonyms": [
+        "consider",
+        "view"
+      ]
+    },
+    {
+      "word": "rein in",
+      "synonyms": [
+        "restrain",
+        "curb"
+      ]
+    },
+    {
+      "word": "relate",
+      "synonyms": [
+        "connect",
+        "link"
+      ]
+    },
+    {
+      "word": "relevant",
+      "synonyms": [
+        "pertinent",
+        "applicable"
+      ]
+    },
+    {
+      "word": "reluctant",
+      "synonyms": [
+        "unwilling",
+        "hesitant"
+      ]
+    },
+    {
+      "word": "remind",
+      "synonyms": [
+        "prompt",
+        "jog the memory of"
+      ]
+    },
+    {
+      "word": "repair",
+      "synonyms": [
+        "fix",
+        "mend"
+      ]
+    },
+    {
+      "word": "reprehensible",
+      "synonyms": [
+        "deplorable",
+        "blameworthy"
+      ]
+    },
+    {
+      "word": "require",
+      "synonyms": [
+        "need",
+        "necessitate"
+      ]
+    },
+    {
+      "word": "reserve",
+      "synonyms": [
+        "book",
+        "set aside"
+      ]
+    },
+    {
+      "word": "resort to",
+      "synonyms": [
+        "fall back on",
+        "turn to"
+      ]
+    },
+    {
+      "word": "respond",
+      "synonyms": [
+        "reply",
+        "answer"
+      ]
+    },
+    {
+      "word": "restaurant",
+      "synonyms": [
+        "eatery",
+        "dining establishment"
+      ]
+    },
+    {
+      "word": "reticent",
+      "synonyms": [
+        "reserved",
+        "uncommunicative"
+      ]
+    },
+    {
+      "word": "reward",
+      "synonyms": [
+        "prize",
+        "recompense"
+      ]
+    },
+    {
+      "word": "rigorous",
+      "synonyms": [
+        "thorough",
+        "meticulous"
+      ]
+    },
+    {
+      "word": "risk",
+      "synonyms": [
+        "danger",
+        "hazard"
+      ]
+    },
+    {
+      "word": "robust",
+      "synonyms": [
+        "strong",
+        "resilient"
+      ]
+    },
+    {
+      "word": "rope in",
+      "synonyms": [
+        "recruit",
+        "enlist"
+      ]
+    },
+    {
+      "word": "route",
+      "synonyms": [
+        "path",
+        "course"
+      ]
+    },
+    {
+      "word": "run away",
+      "synonyms": [
+        "flee",
+        "escape"
+      ]
+    },
+    {
+      "word": "sad",
+      "synonyms": [
+        "unhappy",
+        "sorrowful"
+      ]
+    },
+    {
+      "word": "salient",
+      "synonyms": [
+        "prominent",
+        "notable"
+      ]
+    },
+    {
+      "word": "satisfied",
+      "synonyms": [
+        "pleased",
+        "content"
+      ]
+    },
+    {
+      "word": "scale back",
+      "synonyms": [
+        "reduce",
+        "cut back"
+      ]
+    },
+    {
+      "word": "scope",
+      "synonyms": [
+        "range",
+        "extent"
+      ]
+    },
+    {
+      "word": "scupper",
+      "synonyms": [
+        "ruin",
+        "wreck"
+      ]
+    },
+    {
+      "word": "secure",
+      "synonyms": [
+        "safe",
+        "protected"
+      ]
+    },
+    {
+      "word": "sensible",
+      "synonyms": [
+        "reasonable",
+        "prudent"
+      ]
+    },
+    {
+      "word": "serendipity",
+      "synonyms": [
+        "happy accident",
+        "fortunate discovery"
+      ]
+    },
+    {
+      "word": "set off",
+      "synonyms": [
+        "depart",
+        "set out"
+      ]
+    },
+    {
+      "word": "settle down",
+      "synonyms": [
+        "put down roots"
+      ]
+    },
+    {
+      "word": "shelter",
+      "synonyms": [
+        "refuge",
+        "haven"
+      ]
+    },
+    {
+      "word": "shoe",
+      "synonyms": []
+    },
+    {
+      "word": "short",
+      "synonyms": [
+        "brief",
+        "little"
+      ]
+    },
+    {
+      "word": "show up",
+      "synonyms": [
+        "arrive",
+        "appear"
+      ]
+    },
+    {
+      "word": "shy away from",
+      "synonyms": [
+        "avoid",
+        "steer clear of"
+      ]
+    },
+    {
+      "word": "significant",
+      "synonyms": [
+        "important",
+        "notable"
+      ]
+    },
+    {
+      "word": "single out",
+      "synonyms": [
+        "select",
+        "pick out"
+      ]
+    },
+    {
+      "word": "skeptical",
+      "synonyms": [
+        "doubtful",
+        "unconvinced"
+      ]
+    },
+    {
+      "word": "sleep",
+      "synonyms": [
+        "slumber",
+        "doze"
+      ]
+    },
+    {
+      "word": "smile",
+      "synonyms": [
+        "grin",
+        "beam"
+      ]
+    },
+    {
+      "word": "smooth over",
+      "synonyms": [
+        "defuse",
+        "play down"
+      ]
+    },
+    {
+      "word": "solipsism",
+      "synonyms": []
+    },
+    {
+      "word": "son",
+      "synonyms": []
+    },
+    {
+      "word": "soup",
+      "synonyms": []
+    },
+    {
+      "word": "specific",
+      "synonyms": [
+        "particular",
+        "precise"
+      ]
+    },
+    {
+      "word": "spring",
+      "synonyms": []
+    },
+    {
+      "word": "staff",
+      "synonyms": [
+        "personnel",
+        "workforce"
+      ]
+    },
+    {
+      "word": "stand up",
+      "synonyms": [
+        "rise",
+        "get up"
+      ]
+    },
+    {
+      "word": "stay up",
+      "synonyms": [
+        "remain awake"
+      ]
+    },
+    {
+      "word": "step down",
+      "synonyms": [
+        "resign",
+        "stand down"
+      ]
+    },
+    {
+      "word": "stipulate",
+      "synonyms": [
+        "specify",
+        "require"
+      ]
+    },
+    {
+      "word": "street",
+      "synonyms": [
+        "road",
+        "thoroughfare"
+      ]
+    },
+    {
+      "word": "strike out",
+      "synonyms": [
+        "fail",
+        "set out"
+      ]
+    },
+    {
+      "word": "subsequent",
+      "synonyms": [
+        "later",
+        "following"
+      ]
+    },
+    {
+      "word": "succeed",
+      "synonyms": [
+        "achieve one's aim",
+        "prevail"
+      ]
+    },
+    {
+      "word": "sugar",
+      "synonyms": []
+    },
+    {
+      "word": "summer",
+      "synonyms": []
+    },
+    {
+      "word": "supermarket",
+      "synonyms": []
+    },
+    {
+      "word": "suppose",
+      "synonyms": [
+        "assume",
+        "presume"
+      ]
+    },
+    {
+      "word": "surround",
+      "synonyms": [
+        "encircle",
+        "enclose"
+      ]
+    },
+    {
+      "word": "suspect",
+      "synonyms": [
+        "surmise",
+        "think"
+      ]
+    },
+    {
+      "word": "switch on",
+      "synonyms": [
+        "turn on",
+        "activate"
+      ]
+    },
+    {
+      "word": "taciturn",
+      "synonyms": [
+        "uncommunicative",
+        "reserved"
+      ]
+    },
+    {
+      "word": "take care of",
+      "synonyms": [
+        "look after",
+        "tend"
+      ]
+    },
+    {
+      "word": "take on",
+      "synonyms": [
+        "undertake",
+        "assume"
+      ]
+    },
+    {
+      "word": "take up",
+      "synonyms": [
+        "begin",
+        "start"
+      ]
+    },
+    {
+      "word": "talk out of",
+      "synonyms": [
+        "dissuade",
+        "discourage"
+      ]
+    },
+    {
+      "word": "target",
+      "synonyms": [
+        "goal",
+        "objective"
+      ]
+    },
+    {
+      "word": "teacher",
+      "synonyms": [
+        "educator",
+        "instructor"
+      ]
+    },
+    {
+      "word": "temporary",
+      "synonyms": [
+        "short-term",
+        "transient"
+      ]
+    },
+    {
+      "word": "tendency",
+      "synonyms": [
+        "inclination",
+        "propensity"
+      ]
+    },
+    {
+      "word": "tenuous",
+      "synonyms": [
+        "weak",
+        "flimsy"
+      ]
+    },
+    {
+      "word": "think over",
+      "synonyms": [
+        "consider",
+        "reflect on"
+      ]
+    },
+    {
+      "word": "threat",
+      "synonyms": [
+        "menace",
+        "danger"
+      ]
+    },
+    {
+      "word": "throw away",
+      "synonyms": [
+        "discard",
+        "dispose of"
+      ]
+    },
+    {
+      "word": "tide over",
+      "synonyms": [
+        "help through"
+      ]
+    },
+    {
+      "word": "today",
+      "synonyms": []
+    },
+    {
+      "word": "tooth",
+      "synonyms": []
+    },
+    {
+      "word": "towel",
+      "synonyms": []
+    },
+    {
+      "word": "trade-off",
+      "synonyms": [
+        "compromise"
+      ]
+    },
+    {
+      "word": "transform",
+      "synonyms": [
+        "convert",
+        "reshape"
+      ]
+    },
+    {
+      "word": "treat",
+      "synonyms": [
+        "deal with",
+        "behave toward"
+      ]
+    },
+    {
+      "word": "trend",
+      "synonyms": [
+        "tendency",
+        "direction"
+      ]
+    },
+    {
+      "word": "trust",
+      "synonyms": [
+        "confidence",
+        "faith"
+      ]
+    },
+    {
+      "word": "Tuesday",
+      "synonyms": []
+    },
+    {
+      "word": "turn down",
+      "synonyms": [
+        "reject",
+        "decline"
+      ]
+    },
+    {
+      "word": "turn on",
+      "synonyms": [
+        "activate",
+        "switch on"
+      ]
+    },
+    {
+      "word": "typical",
+      "synonyms": [
+        "representative",
+        "characteristic"
+      ]
+    },
+    {
+      "word": "unable",
+      "synonyms": [
+        "incapable"
+      ]
+    },
+    {
+      "word": "uncomfortable",
+      "synonyms": [
+        "ill at ease",
+        "uneasy"
+      ]
+    },
+    {
+      "word": "underestimate",
+      "synonyms": [
+        "undervalue",
+        "underrate"
+      ]
+    },
+    {
+      "word": "undermine",
+      "synonyms": [
+        "weaken",
+        "erode"
+      ]
+    },
+    {
+      "word": "unexpected",
+      "synonyms": [
+        "unanticipated",
+        "unforeseen"
+      ]
+    },
+    {
+      "word": "university",
+      "synonyms": []
+    },
+    {
+      "word": "unusual",
+      "synonyms": [
+        "uncommon",
+        "atypical"
+      ]
+    },
+    {
+      "word": "urgent",
+      "synonyms": [
+        "pressing",
+        "critical"
+      ]
+    },
+    {
+      "word": "vacillate",
+      "synonyms": [
+        "waver",
+        "hesitate"
+      ]
+    },
+    {
+      "word": "valuable",
+      "synonyms": [
+        "precious",
+        "useful"
+      ]
+    },
+    {
+      "word": "vegetarian",
+      "synonyms": []
+    },
+    {
+      "word": "versatile",
+      "synonyms": [
+        "adaptable",
+        "multifunctional"
+      ]
+    },
+    {
+      "word": "view",
+      "synonyms": [
+        "opinion",
+        "outlook"
+      ]
+    },
+    {
+      "word": "vindicate",
+      "synonyms": [
+        "exonerate",
+        "clear"
+      ]
+    },
+    {
+      "word": "vitiate",
+      "synonyms": [
+        "impair",
+        "spoil"
+      ]
+    },
+    {
+      "word": "voluntary",
+      "synonyms": [
+        "optional",
+        "unforced"
+      ]
+    },
+    {
+      "word": "wait for",
+      "synonyms": [
+        "await"
+      ]
+    },
+    {
+      "word": "wall",
+      "synonyms": []
+    },
+    {
+      "word": "warm",
+      "synonyms": [
+        "mild",
+        "balmy"
+      ]
+    },
+    {
+      "word": "warrant",
+      "synonyms": [
+        "justify",
+        "necessitate"
+      ]
+    },
+    {
+      "word": "watch out",
+      "synonyms": [
+        "beware",
+        "be careful"
+      ]
+    },
+    {
+      "word": "wealth",
+      "synonyms": [
+        "riches",
+        "affluence"
+      ]
+    },
+    {
+      "word": "Wednesday",
+      "synonyms": []
+    },
+    {
+      "word": "weigh up",
+      "synonyms": [
+        "assess",
+        "evaluate"
+      ]
+    },
+    {
+      "word": "white",
+      "synonyms": []
+    },
+    {
+      "word": "widespread",
+      "synonyms": [
+        "prevalent",
+        "extensive"
+      ]
+    },
+    {
+      "word": "wind down",
+      "synonyms": [
+        "unwind",
+        "relax"
+      ]
+    },
+    {
+      "word": "withdraw",
+      "synonyms": [
+        "remove",
+        "retract"
+      ]
+    },
+    {
+      "word": "woman",
+      "synonyms": []
+    },
+    {
+      "word": "work out",
+      "synonyms": [
+        "exercise",
+        "solve"
+      ]
+    },
+    {
+      "word": "write back",
+      "synonyms": [
+        "reply",
+        "respond"
+      ]
+    },
+    {
+      "word": "year",
+      "synonyms": []
+    },
+    {
+      "word": "yesterday",
+      "synonyms": []
+    },
+    {
+      "word": "yogurt",
+      "synonyms": []
+    },
+    {
+      "word": "zealous",
+      "synonyms": [
+        "enthusiastic",
+        "ardent"
+      ]
+    },
+    {
+      "word": "zero in on",
+      "synonyms": [
+        "focus on",
+        "home in on"
+      ]
+    },
+    {
+      "word": "zoo",
+      "synonyms": []
+    }
+  ],
+  "new": [
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "acorn",
+      "clue": "The nut of an oak tree.",
+      "tr": "Meşe palamudu.",
+      "example": "A squirrel buried an acorn under the tree.",
+      "exampleTr": "Bir sincap ağacın altına meşe palamudu gömdü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "algae",
+      "clue": "Simple organisms that grow in water and often form a green layer.",
+      "tr": "Suda yaşayan, çoğunlukla yeşil tabaka oluşturan algler.",
+      "example": "Green algae covered the surface of the pond.",
+      "exampleTr": "Göletin yüzeyini yeşil algler kaplamıştı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "alligator",
+      "clue": "A large reptile with a broad snout that lives near water.",
+      "tr": "Geniş burunlu, su kenarında yaşayan timsah türü.",
+      "example": "We saw an alligator resting beside the river.",
+      "exampleTr": "Nehir kıyısında dinlenen bir aligatör gördük.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "alpaca",
+      "clue": "A South American animal kept for its soft wool.",
+      "tr": "Yumuşak yünü için yetiştirilen Güney Amerika hayvanı.",
+      "example": "The farmer gently brushed the alpaca.",
+      "exampleTr": "Çiftçi alpakayı nazikçe fırçaladı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "anemone",
+      "clue": "A flowering plant with delicate, often brightly colored petals.",
+      "tr": "İnce, genellikle canlı renkli yaprakları olan anemon çiçeği.",
+      "example": "A purple anemone grew beside the path.",
+      "exampleTr": "Patikanın yanında mor bir anemon yetişmişti.",
+      "synonyms": [
+        "windflower"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "antelope",
+      "clue": "A fast-running animal with thin legs and usually horns.",
+      "tr": "İnce bacaklı, genellikle boynuzlu ve hızlı koşan antilop.",
+      "example": "The antelope ran across the dry plain.",
+      "exampleTr": "Antilop kuru ovada koştu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "apricot",
+      "clue": "A small orange-yellow fruit with a large hard stone inside.",
+      "tr": "İçinde sert çekirdeği bulunan turuncumsu sarı meyve; kayısı.",
+      "example": "She sliced an apricot into her breakfast bowl.",
+      "exampleTr": "Kahvaltı kâsesine bir kayısı dilimledi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "arctic",
+      "clue": "Relating to the region around the North Pole.",
+      "tr": "Kuzey Kutbu çevresindeki bölgeyle ilgili.",
+      "example": "The team studied arctic wildlife during the summer.",
+      "exampleTr": "Ekip yaz boyunca Kuzey Kutbu çevresindeki yaban hayatını inceledi.",
+      "synonyms": [
+        "polar"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "ash",
+      "clue": "The powder left after something burns.",
+      "tr": "Yanma sonrasında kalan toz; kül.",
+      "example": "A thin layer of ash covered the fireplace.",
+      "exampleTr": "Şömineyi ince bir kül tabakası kaplamıştı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "asparagus",
+      "clue": "A vegetable with long green shoots eaten when young.",
+      "tr": "Genç sürgünleri yenen uzun yeşil sebze; kuşkonmaz.",
+      "example": "We served grilled asparagus with dinner.",
+      "exampleTr": "Akşam yemeğinde ızgara kuşkonmaz sunduk.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "aubergine",
+      "clue": "A vegetable with shiny purple skin and soft pale flesh.",
+      "tr": "Mor kabuklu, açık renkli etli sebze; patlıcan.",
+      "example": "Cut the aubergine into thick slices.",
+      "exampleTr": "Patlıcanı kalın dilimler hâlinde kes.",
+      "synonyms": [
+        "eggplant"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "avalanche",
+      "clue": "A large mass of snow sliding quickly down a mountain.",
+      "tr": "Dağdan hızla kayan büyük kar kütlesi; çığ.",
+      "example": "The avalanche blocked the mountain road.",
+      "exampleTr": "Çığ dağ yolunu kapattı.",
+      "synonyms": [
+        "snowslide"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "badger",
+      "clue": "A digging mammal with a broad body and often striped face.",
+      "tr": "Geniş gövdeli, çoğunlukla çizgili yüzlü, yuva kazan memeli; porsuk.",
+      "example": "A badger crossed the lane after sunset.",
+      "exampleTr": "Gün batımından sonra bir porsuk yoldan geçti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bamboo",
+      "clue": "A tall grass with hard, hollow stems.",
+      "tr": "Sert ve içi boş gövdeli uzun bir bitki; bambu.",
+      "example": "The fence was made of bamboo.",
+      "exampleTr": "Çit bambudan yapılmıştı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bark",
+      "clue": "The rough outer covering of a tree trunk.",
+      "tr": "Ağaç gövdesini örten dış tabaka; kabuk.",
+      "example": "The bark felt rough under my fingers.",
+      "exampleTr": "Ağaç kabuğu parmaklarımın altında pürüzlü geliyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "basin",
+      "clue": "An area of land drained by a river and its branches.",
+      "tr": "Bir nehrin ve kollarının sularını topladığı alan; havza.",
+      "example": "Heavy rain affected the whole river basin.",
+      "exampleTr": "Şiddetli yağmur nehir havzasının tamamını etkiledi.",
+      "synonyms": [
+        "catchment area"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bat",
+      "clue": "A small mammal that flies and is usually active at night.",
+      "tr": "Uçabilen, genellikle geceleri etkin küçük memeli; yarasa.",
+      "example": "A bat flew out of the cave at dusk.",
+      "exampleTr": "Alacakaranlıkta mağaradan bir yarasa uçtu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bay",
+      "clue": "A part of the sea partly surrounded by land.",
+      "tr": "Karayla kısmen çevrili deniz bölümü; koy.",
+      "example": "Several boats were anchored in the bay.",
+      "exampleTr": "Koyda birkaç tekne demirlemişti.",
+      "synonyms": [
+        "inlet"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "beak",
+      "clue": "The hard pointed mouth of a bird.",
+      "tr": "Kuşların sert ve sivri ağız yapısı; gaga.",
+      "example": "The bird carried a twig in its beak.",
+      "exampleTr": "Kuş gagasında bir dal parçası taşıyordu.",
+      "synonyms": [
+        "bill"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "beaver",
+      "clue": "A water-loving mammal that builds dams with wood.",
+      "tr": "Odunlarla bent yapan, suda yaşayan memeli; kunduz.",
+      "example": "A beaver dragged a branch toward the stream.",
+      "exampleTr": "Bir kunduz dereye doğru dal sürükledi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "beetle",
+      "clue": "An insect with a hard protective pair of outer wings.",
+      "tr": "Sert dış kanatları olan böcek; kınkanatlı.",
+      "example": "A shiny beetle crawled across the leaf.",
+      "exampleTr": "Parlak bir kınkanatlı böcek yaprağın üzerinde yürüdü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "berry",
+      "clue": "A small soft fruit, often containing several seeds.",
+      "tr": "Genellikle birkaç çekirdek içeren küçük, yumuşak meyve.",
+      "example": "She picked a ripe berry from the bush.",
+      "exampleTr": "Çalıdan olgun bir meyve topladı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "birch",
+      "clue": "A tree often recognized by its pale peeling bark.",
+      "tr": "Genellikle açık renkli, soyulan kabuğuyla tanınan ağaç; huş.",
+      "example": "A silver birch stood near the gate.",
+      "exampleTr": "Kapının yanında bir huş ağacı vardı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "blizzard",
+      "clue": "A severe snowstorm with strong winds.",
+      "tr": "Kuvvetli rüzgârlarla birlikte görülen şiddetli kar fırtınası.",
+      "example": "The blizzard forced us to stay indoors.",
+      "exampleTr": "Kar fırtınası bizi içeride kalmaya zorladı.",
+      "synonyms": [
+        "snowstorm"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "blossom",
+      "clue": "A flower, especially on a fruit tree.",
+      "tr": "Özellikle meyve ağaçlarının çiçeği.",
+      "example": "A pink blossom floated onto the table.",
+      "exampleTr": "Pembe bir çiçek masanın üzerine süzüldü.",
+      "synonyms": [
+        "flower",
+        "bloom"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "boar",
+      "clue": "A male pig, especially a wild one.",
+      "tr": "Erkek domuz, özellikle yaban domuzu.",
+      "example": "A wild boar appeared at the edge of the forest.",
+      "exampleTr": "Ormanın kenarında bir yaban domuzu belirdi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "boulder",
+      "clue": "A very large rounded piece of rock.",
+      "tr": "Çok büyük, yuvarlakça kaya parçası.",
+      "example": "We rested beside a boulder on the trail.",
+      "exampleTr": "Patikada büyük bir kayanın yanında dinlendik.",
+      "synonyms": [
+        "rock"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "brook",
+      "clue": "A small natural stream of water.",
+      "tr": "Küçük doğal akarsu; dere.",
+      "example": "A clear brook ran behind the cottage.",
+      "exampleTr": "Kulübenin arkasından berrak bir dere akıyordu.",
+      "synonyms": [
+        "stream",
+        "creek"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bud",
+      "clue": "A small growth that will develop into a leaf or flower.",
+      "tr": "Yaprağa veya çiçeğe dönüşecek küçük oluşum; tomurcuk.",
+      "example": "The rose bud opened during the warm afternoon.",
+      "exampleTr": "Gül tomurcuğu sıcak öğleden sonra açıldı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "burrow",
+      "clue": "A hole or tunnel dug by an animal as a home.",
+      "tr": "Hayvanın yuva olarak kazdığı delik veya tünel.",
+      "example": "The rabbit disappeared into its burrow.",
+      "exampleTr": "Tavşan yuvasına girip kayboldu.",
+      "synonyms": [
+        "den"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cactus",
+      "clue": "A plant with a thick stem and usually sharp spines, adapted to dry places.",
+      "tr": "Kuraklığa uyumlu, etli gövdeli ve genellikle dikenli bitki; kaktüs.",
+      "example": "This cactus needs very little water.",
+      "exampleTr": "Bu kaktüs çok az suya ihtiyaç duyar.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "calf",
+      "clue": "A young cow or bull.",
+      "tr": "Genç sığır yavrusu; buzağı.",
+      "example": "The calf stayed close to its mother.",
+      "exampleTr": "Buzağı annesinin yakınından ayrılmadı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "canal",
+      "clue": "An artificial waterway for boats or irrigation.",
+      "tr": "Tekneler veya sulama için yapılmış yapay su yolu; kanal.",
+      "example": "A narrow boat moved slowly along the canal.",
+      "exampleTr": "Dar bir tekne kanal boyunca yavaşça ilerledi.",
+      "synonyms": [
+        "waterway"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "canyon",
+      "clue": "A deep valley with steep rocky sides.",
+      "tr": "Dik kayalık kenarları olan derin vadi; kanyon.",
+      "example": "We looked down into the canyon from the bridge.",
+      "exampleTr": "Köprüden kanyonun içine baktık.",
+      "synonyms": [
+        "gorge"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "caterpillar",
+      "clue": "The long soft young form of a butterfly or moth.",
+      "tr": "Kelebek ya da güvenin uzun, yumuşak gövdeli yavrusu; tırtıl.",
+      "example": "A green caterpillar was eating the cabbage leaves.",
+      "exampleTr": "Yeşil bir tırtıl lahana yapraklarını yiyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cave",
+      "clue": "A large natural hollow space in rock.",
+      "tr": "Kayaların içinde doğal olarak oluşmuş büyük boşluk; mağara.",
+      "example": "We needed a torch to explore the cave.",
+      "exampleTr": "Mağarayı keşfetmek için el fenerine ihtiyacımız vardı.",
+      "synonyms": [
+        "cavern"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cedar",
+      "clue": "An evergreen tree with fragrant wood.",
+      "tr": "Güzel kokulu odunu olan, yaprak dökmeyen ağaç; sedir.",
+      "example": "An old cedar shaded the courtyard.",
+      "exampleTr": "Yaşlı bir sedir avluya gölge düşürüyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cherry",
+      "clue": "A small round red fruit with a hard stone.",
+      "tr": "Sert çekirdekli, küçük, yuvarlak kırmızı meyve; kiraz.",
+      "example": "She placed a cherry on top of the dessert.",
+      "exampleTr": "Tatlının üzerine bir kiraz koydu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "chestnut",
+      "clue": "A shiny brown edible nut in a spiny outer case.",
+      "tr": "Dikenli dış kabuğu olan, yenilebilir parlak kahverengi yemiş; kestane.",
+      "example": "He peeled a roasted chestnut while it was warm.",
+      "exampleTr": "Sıcakken közlenmiş bir kestanenin kabuğunu soydu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "claw",
+      "clue": "A sharp curved nail on an animal's foot.",
+      "tr": "Hayvan ayağındaki keskin, kıvrık tırnak; pençe.",
+      "example": "The cat caught the fabric with one claw.",
+      "exampleTr": "Kedi kumaşı bir pençesiyle yakaladı.",
+      "synonyms": [
+        "talon"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cliff",
+      "clue": "A high steep face of rock.",
+      "tr": "Yüksek ve dik kaya yüzeyi; uçurum.",
+      "example": "Keep well away from the edge of the cliff.",
+      "exampleTr": "Uçurumun kenarından iyice uzak dur.",
+      "synonyms": [
+        "precipice"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "coast",
+      "clue": "The land beside the sea.",
+      "tr": "Denizin yanındaki kara; kıyı.",
+      "example": "We drove along the coast all morning.",
+      "exampleTr": "Bütün sabah kıyı boyunca araba sürdük.",
+      "synonyms": [
+        "shore",
+        "seaboard"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "coconut",
+      "clue": "A large tropical fruit with a hard shell, white flesh and liquid inside.",
+      "tr": "Sert kabuklu, beyaz etli ve içi sıvı dolu tropikal meyve; Hindistan cevizi.",
+      "example": "He cracked the coconut open on the counter.",
+      "exampleTr": "Hindistan cevizini tezgâhın üzerinde kırıp açtı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "coral",
+      "clue": "A hard substance formed by tiny sea animals, often building reefs.",
+      "tr": "Küçük deniz hayvanlarının oluşturduğu, resifleri meydana getirebilen sert yapı; mercan.",
+      "example": "Divers avoided touching the coral.",
+      "exampleTr": "Dalgıçlar mercana dokunmaktan kaçındı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "crab",
+      "clue": "A sea animal with a hard shell, sideways movement and two large claws.",
+      "tr": "Sert kabuklu, yan yürüyen, iki büyük kıskaçlı deniz hayvanı; yengeç.",
+      "example": "A small crab hid beneath the rock.",
+      "exampleTr": "Küçük bir yengeç kayanın altına saklandı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "crater",
+      "clue": "A large bowl-shaped hole, often made by an impact or volcano.",
+      "tr": "Genellikle çarpma veya yanardağ nedeniyle oluşan büyük çanak biçimli çukur; krater.",
+      "example": "Snow filled the volcanic crater.",
+      "exampleTr": "Yanardağ krateri karla dolmuştu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "creek",
+      "clue": "A small narrow stream.",
+      "tr": "Küçük, dar akarsu; dere.",
+      "example": "The children crossed the creek on stepping stones.",
+      "exampleTr": "Çocuklar dereyi taşlara basarak geçti.",
+      "synonyms": [
+        "brook",
+        "stream"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "crocodile",
+      "clue": "A large reptile with a long jaw and tough skin, living near water.",
+      "tr": "Uzun çeneli, sert derili, su yakınında yaşayan büyük sürüngen; timsah.",
+      "example": "The crocodile slid quietly into the water.",
+      "exampleTr": "Timsah sessizce suya kaydı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "crow",
+      "clue": "A black bird with a loud harsh call.",
+      "tr": "Sert ve yüksek sesli ötüşü olan siyah kuş; karga.",
+      "example": "A crow landed on the garden fence.",
+      "exampleTr": "Bahçe çitine bir karga kondu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cub",
+      "clue": "A young bear, lion or similar wild animal.",
+      "tr": "Ayı, aslan gibi yabani hayvanların yavrusu.",
+      "example": "The bear cub followed its mother through the trees.",
+      "exampleTr": "Ayı yavrusu ağaçların arasından annesini izledi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "daffodil",
+      "clue": "A spring flower with a trumpet-shaped yellow or white center.",
+      "tr": "Ortası boru biçiminde, sarı ya da beyaz bahar çiçeği; nergis.",
+      "example": "A yellow daffodil bloomed beside the wall.",
+      "exampleTr": "Duvarın yanında sarı bir nergis açtı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "daisy",
+      "clue": "A small flower usually with white petals and a yellow center.",
+      "tr": "Genellikle beyaz taç yapraklı, sarı merkezli küçük çiçek; papatya.",
+      "example": "A single daisy grew between the paving stones.",
+      "exampleTr": "Kaldırım taşlarının arasında tek bir papatya yetişmişti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "deer",
+      "clue": "A hoofed animal whose males often have branching antlers.",
+      "tr": "Erkeklerinin çoğunda dallı boynuzlar bulunan toynaklı hayvan; geyik.",
+      "example": "A deer stood motionless among the trees.",
+      "exampleTr": "Ağaçların arasında bir geyik hareketsiz duruyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "delta",
+      "clue": "Flat land formed where a river divides and deposits material near its mouth.",
+      "tr": "Nehir ağzında biriken malzemeyle oluşan düz arazi; delta.",
+      "example": "Many birds nest in the river delta.",
+      "exampleTr": "Pek çok kuş nehir deltasında yuva yapar.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "dew",
+      "clue": "Small drops of water that form on cool surfaces overnight.",
+      "tr": "Gece soğuk yüzeylerde oluşan küçük su damlaları; çiy.",
+      "example": "Morning dew sparkled on the grass.",
+      "exampleTr": "Sabah çiyi çimenlerde parlıyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "dolphin",
+      "clue": "An intelligent sea mammal with a curved back and long snout.",
+      "tr": "Kıvrık sırtlı, uzun burunlu, zeki deniz memelisi; yunus.",
+      "example": "A dolphin swam beside our boat.",
+      "exampleTr": "Teknemizin yanında bir yunus yüzdü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "donkey",
+      "clue": "An animal like a small horse with long ears.",
+      "tr": "Uzun kulaklı, küçük ata benzeyen hayvan; eşek.",
+      "example": "The donkey carried supplies up the narrow path.",
+      "exampleTr": "Eşek dar patikadan erzak taşıdı.",
+      "synonyms": [
+        "ass"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "dragonfly",
+      "clue": "An insect with a long thin body and two pairs of transparent wings.",
+      "tr": "Uzun ince gövdeli ve iki çift saydam kanatlı böcek; yusufçuk.",
+      "example": "A blue dragonfly hovered above the pond.",
+      "exampleTr": "Mavi bir yusufçuk göletin üzerinde havada asılı kaldı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "drizzle",
+      "clue": "Very light rain falling in tiny drops.",
+      "tr": "Küçük damlalar hâlinde yağan çok hafif yağmur; çiseleme.",
+      "example": "A light drizzle began as we left the house.",
+      "exampleTr": "Evden çıkarken hafif bir çiseleme başladı.",
+      "synonyms": [
+        "light rain"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "drought",
+      "clue": "A long period with too little rain.",
+      "tr": "Yağmurun çok az yağdığı uzun dönem; kuraklık.",
+      "example": "The drought left the fields dry and dusty.",
+      "exampleTr": "Kuraklık tarlaları kuru ve tozlu bıraktı.",
+      "synonyms": [
+        "dry spell"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "dune",
+      "clue": "A hill of sand formed by the wind.",
+      "tr": "Rüzgârın oluşturduğu kum tepesi; kumul.",
+      "example": "We climbed the dune to watch the sunset.",
+      "exampleTr": "Gün batımını izlemek için kum tepesine çıktık.",
+      "synonyms": [
+        "sand hill"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "eagle",
+      "clue": "A large bird of prey with strong wings and sharp claws.",
+      "tr": "Güçlü kanatlı, keskin pençeli büyük yırtıcı kuş; kartal.",
+      "example": "An eagle circled above the valley.",
+      "exampleTr": "Vadinin üzerinde bir kartal daire çizdi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "earthworm",
+      "clue": "A long soft animal that lives in soil and has no legs.",
+      "tr": "Toprakta yaşayan, bacaksız, uzun ve yumuşak hayvan; toprak solucanı.",
+      "example": "An earthworm appeared when I lifted the pot.",
+      "exampleTr": "Saksıyı kaldırınca bir toprak solucanı ortaya çıktı.",
+      "synonyms": [
+        "worm"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "elm",
+      "clue": "A broad-leaved tree with rough leaves and a spreading crown.",
+      "tr": "Pürüzlü yaprakları ve geniş tepesi olan ağaç; karaağaç.",
+      "example": "An old elm stood in the village square.",
+      "exampleTr": "Köy meydanında yaşlı bir karaağaç vardı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "estuary",
+      "clue": "The wide lower part of a river where fresh water meets the sea.",
+      "tr": "Nehrin denizle birleştiği geniş ağız bölümü; haliç.",
+      "example": "Fishing boats waited in the sheltered estuary.",
+      "exampleTr": "Balıkçı tekneleri korunaklı haliçte bekliyordu.",
+      "synonyms": [
+        "river mouth"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "falcon",
+      "clue": "A fast bird of prey with pointed wings.",
+      "tr": "Sivri kanatlı, hızlı bir yırtıcı kuş; doğan.",
+      "example": "A falcon dived toward the field.",
+      "exampleTr": "Bir doğan tarlaya doğru dalış yaptı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "feather",
+      "clue": "One of the light soft structures covering a bird.",
+      "tr": "Kuşun vücudunu örten hafif ve yumuşak yapılardan biri; tüy.",
+      "example": "I found a white feather on the path.",
+      "exampleTr": "Patikada beyaz bir tüy buldum.",
+      "synonyms": [
+        "plume"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "fern",
+      "clue": "A green plant with divided leaves that reproduces by spores.",
+      "tr": "Sporlarla çoğalan, parçalı yapraklı yeşil bitki; eğrelti otu.",
+      "example": "A fern grew in the damp shade.",
+      "exampleTr": "Nemli gölgede bir eğrelti otu yetişiyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "fin",
+      "clue": "A flat body part that helps a fish swim and balance.",
+      "tr": "Balığın yüzmesini ve dengesini sağlayan yassı organ; yüzgeç.",
+      "example": "The fish had an unusually long dorsal fin.",
+      "exampleTr": "Balığın alışılmadık derecede uzun bir sırt yüzgeci vardı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "fir",
+      "clue": "An evergreen tree with needles and upright cones.",
+      "tr": "İğne yapraklı, kozalakları yukarı duran ağaç; göknar.",
+      "example": "Snow covered the branches of the fir.",
+      "exampleTr": "Göknarın dallarını kar kaplamıştı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "flamingo",
+      "clue": "A tall pink water bird with very long legs.",
+      "tr": "Çok uzun bacaklı, uzun boylu pembe su kuşu; flamingo.",
+      "example": "A flamingo stood on one leg in the shallow water.",
+      "exampleTr": "Bir flamingo sığ suda tek bacak üzerinde duruyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "flea",
+      "clue": "A tiny jumping insect that feeds on the blood of animals.",
+      "tr": "Hayvanların kanıyla beslenen küçük, sıçrayan böcek; pire.",
+      "example": "The vet found a flea in the dog's fur.",
+      "exampleTr": "Veteriner köpeğin tüylerinde bir pire buldu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "flood",
+      "clue": "Water covering land that is normally dry.",
+      "tr": "Normalde kuru olan yerleri kaplayan su; sel.",
+      "example": "The flood damaged several houses near the river.",
+      "exampleTr": "Sel nehir yakınındaki birkaç eve zarar verdi.",
+      "synonyms": [
+        "inundation"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "fog",
+      "clue": "A thick cloud of tiny water drops near the ground.",
+      "tr": "Yere yakın küçük su damlalarından oluşan yoğun bulut; sis.",
+      "example": "Thick fog hid the far end of the bridge.",
+      "exampleTr": "Yoğun sis köprünün öbür ucunu gizledi.",
+      "synonyms": [
+        "mist"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "frost",
+      "clue": "A thin layer of ice crystals on a cold surface.",
+      "tr": "Soğuk yüzeyde oluşan ince buz kristalleri tabakası; kırağı.",
+      "example": "A layer of frost covered the car windows.",
+      "exampleTr": "Arabanın camlarını bir kırağı tabakası kapladı.",
+      "synonyms": [
+        "hoarfrost"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "fur",
+      "clue": "The thick soft hair covering some animals.",
+      "tr": "Bazı hayvanların vücudunu örten sık ve yumuşak kıllar; kürk.",
+      "example": "The rabbit had soft white fur.",
+      "exampleTr": "Tavşanın yumuşak beyaz tüyleri vardı.",
+      "synonyms": [
+        "coat"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "glacier",
+      "clue": "A very large mass of ice that moves slowly over land.",
+      "tr": "Kara üzerinde yavaş hareket eden çok büyük buz kütlesi; buzul.",
+      "example": "The glacier stretched between the mountains.",
+      "exampleTr": "Buzul dağların arasında uzanıyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "goat",
+      "clue": "A farm animal with horns, often kept for milk.",
+      "tr": "Genellikle sütü için yetiştirilen boynuzlu çiftlik hayvanı; keçi.",
+      "example": "A goat climbed onto the low wall.",
+      "exampleTr": "Bir keçi alçak duvarın üstüne çıktı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "goose",
+      "clue": "A large water bird with a long neck.",
+      "tr": "Uzun boyunlu büyük su kuşu; kaz.",
+      "example": "A goose hissed when we approached the nest.",
+      "exampleTr": "Yuvaya yaklaşınca bir kaz tısladı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "grasshopper",
+      "clue": "An insect with strong back legs for jumping.",
+      "tr": "Sıçramaya yarayan güçlü arka bacaklı böcek; çekirge.",
+      "example": "A grasshopper jumped out of the tall grass.",
+      "exampleTr": "Uzun otların arasından bir çekirge sıçradı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "hail",
+      "clue": "Small balls of ice that fall from clouds.",
+      "tr": "Bulutlardan düşen küçük buz taneleri; dolu.",
+      "example": "Heavy hail damaged the young plants.",
+      "exampleTr": "Şiddetli dolu genç bitkilere zarar verdi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "hare",
+      "clue": "An animal like a large rabbit with longer ears and legs.",
+      "tr": "Tavşana benzeyen, daha uzun kulaklı ve bacaklı hayvan; yabani tavşan.",
+      "example": "A hare raced across the field.",
+      "exampleTr": "Tarlada bir yabani tavşan hızla koştu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "hawk",
+      "clue": "A bird of prey with strong claws and a hooked beak.",
+      "tr": "Güçlü pençeleri ve kıvrık gagası olan yırtıcı kuş; şahin.",
+      "example": "A hawk watched the field from a fence post.",
+      "exampleTr": "Bir şahin çit direğinden tarlayı izliyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "hedgehog",
+      "clue": "A small mammal with sharp spines on its back.",
+      "tr": "Sırtında sivri dikenler bulunan küçük memeli; kirpi.",
+      "example": "A hedgehog shuffled through the dry leaves.",
+      "exampleTr": "Bir kirpi kuru yaprakların arasında ağır ağır yürüdü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "heron",
+      "clue": "A large water bird with long legs, neck and beak.",
+      "tr": "Uzun bacaklı, boyunlu ve gagalı büyük su kuşu; balıkçıl.",
+      "example": "A heron waited for fish in the shallows.",
+      "exampleTr": "Bir balıkçıl sığ suda balık bekliyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "hive",
+      "clue": "A structure where bees live and store honey.",
+      "tr": "Arıların yaşadığı ve bal biriktirdiği yapı; kovan.",
+      "example": "The beekeeper carefully opened the hive.",
+      "exampleTr": "Arıcı kovanı dikkatlice açtı.",
+      "synonyms": [
+        "beehive"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "hoof",
+      "clue": "The hard covering on the foot of a horse or similar animal.",
+      "tr": "At gibi hayvanların ayağındaki sert yapı; toynak.",
+      "example": "The horse lifted one hoof off the ground.",
+      "exampleTr": "At bir toynağını yerden kaldırdı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "iceberg",
+      "clue": "A large floating mass of ice broken from a glacier.",
+      "tr": "Buzuldan kopmuş, suda yüzen büyük buz kütlesi; buzdağı.",
+      "example": "The ship changed course to avoid an iceberg.",
+      "exampleTr": "Gemi bir buzdağından kaçınmak için rotasını değiştirdi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "insect",
+      "clue": "A small animal with six legs and usually wings.",
+      "tr": "Altı bacaklı, genellikle kanatlı küçük hayvan; böcek.",
+      "example": "A tiny insect landed on my sleeve.",
+      "exampleTr": "Koluma küçük bir böcek kondu.",
+      "synonyms": [
+        "bug"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "ivy",
+      "clue": "A climbing plant with evergreen leaves.",
+      "tr": "Yapraklarını dökmeyen tırmanıcı bitki; sarmaşık.",
+      "example": "Dark green ivy covered the old wall.",
+      "exampleTr": "Eski duvarı koyu yeşil sarmaşık kaplamıştı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "J",
+      "word": "jellyfish",
+      "clue": "A soft sea animal with a transparent body and hanging tentacles.",
+      "tr": "Saydam gövdeli ve aşağı sarkan dokunaçlı deniz hayvanı; denizanası.",
+      "example": "A jellyfish drifted beneath the surface.",
+      "exampleTr": "Yüzeyin altında bir denizanası sürükleniyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "K",
+      "word": "kangaroo",
+      "clue": "An Australian animal that jumps on strong hind legs and carries its young in a pouch.",
+      "tr": "Güçlü arka bacaklarıyla zıplayan, yavrusunu kesesinde taşıyan Avustralya hayvanı; kanguru.",
+      "example": "A kangaroo bounded across the open ground.",
+      "exampleTr": "Bir kanguru açık arazide sıçrayarak ilerledi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "K",
+      "word": "kitten",
+      "clue": "A young cat.",
+      "tr": "Kedi yavrusu.",
+      "example": "The kitten fell asleep inside a cardboard box.",
+      "exampleTr": "Yavru kedi karton kutunun içinde uyuyakaldı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "lagoon",
+      "clue": "A shallow area of seawater separated from the sea by sand or coral.",
+      "tr": "Denizden kum veya mercanla ayrılmış sığ su alanı; lagün.",
+      "example": "We paddled across the calm lagoon.",
+      "exampleTr": "Sakin lagünde kürek çekerek karşıya geçtik.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "lamb",
+      "clue": "A young sheep.",
+      "tr": "Koyun yavrusu; kuzu.",
+      "example": "The lamb followed the farmer to the gate.",
+      "exampleTr": "Kuzu çiftçiyi kapıya kadar takip etti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "lava",
+      "clue": "Hot liquid rock flowing from a volcano.",
+      "tr": "Yanardağdan akan sıcak, sıvı kaya; lav.",
+      "example": "Streams of lava flowed down the slope.",
+      "exampleTr": "Lav akıntıları yamaçtan aşağı aktı.",
+      "synonyms": [
+        "molten rock"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "leaf",
+      "clue": "A flat green part of a plant that uses sunlight to make food.",
+      "tr": "Bitkinin güneş ışığıyla besin üreten yassı yeşil kısmı; yaprak.",
+      "example": "A yellow leaf floated down from the tree.",
+      "exampleTr": "Ağaçtan sarı bir yaprak süzülerek düştü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "leopard",
+      "clue": "A large wild cat with dark spots on its coat.",
+      "tr": "Postunda koyu benekler bulunan büyük yabani kedi; leopar.",
+      "example": "A leopard rested on a thick branch.",
+      "exampleTr": "Bir leopar kalın bir dalda dinleniyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "lightning",
+      "clue": "A bright flash of electricity in the sky during a storm.",
+      "tr": "Fırtınada gökyüzünde oluşan parlak elektrik boşalması; şimşek.",
+      "example": "A flash of lightning lit up the hills.",
+      "exampleTr": "Bir şimşek tepeleri aydınlattı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "lizard",
+      "clue": "A reptile with a long tail and usually four legs.",
+      "tr": "Uzun kuyruklu, genellikle dört bacaklı sürüngen; kertenkele.",
+      "example": "A lizard warmed itself on a sunny rock.",
+      "exampleTr": "Bir kertenkele güneşli kayanın üzerinde ısınıyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "lobster",
+      "clue": "A large sea animal with a hard shell and two strong claws.",
+      "tr": "Sert kabuklu ve iki güçlü kıskaçlı büyük deniz hayvanı; ıstakoz.",
+      "example": "A lobster hid in a crack between the rocks.",
+      "exampleTr": "Bir ıstakoz kayaların arasındaki çatlağa saklandı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "locust",
+      "clue": "A large grasshopper that can form huge plant-eating swarms.",
+      "tr": "Büyük sürüler oluşturarak bitkileri yiyebilen çekirge türü.",
+      "example": "A locust landed on the dry wheat stalk.",
+      "exampleTr": "Kuru buğday sapına bir çekirge kondu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "meadow",
+      "clue": "A field covered with grass and wildflowers.",
+      "tr": "Otlar ve kır çiçekleriyle kaplı alan; çayır.",
+      "example": "We had a picnic in the flower-filled meadow.",
+      "exampleTr": "Çiçeklerle dolu çayırda piknik yaptık.",
+      "synonyms": [
+        "grassland"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "mist",
+      "clue": "A light cloud of tiny water drops near the ground.",
+      "tr": "Yere yakın ince su damlaları tabakası; hafif sis.",
+      "example": "A pale mist hung over the lake.",
+      "exampleTr": "Gölün üzerinde soluk bir sis asılıydı.",
+      "synonyms": [
+        "haze",
+        "fog"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "moss",
+      "clue": "A small soft green plant that grows in damp places.",
+      "tr": "Nemli yerlerde yetişen küçük, yumuşak yeşil bitki; yosun.",
+      "example": "Soft moss covered the fallen log.",
+      "exampleTr": "Devrilmiş kütüğü yumuşak yosun kaplıyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "moth",
+      "clue": "An insect similar to a butterfly, often active at night.",
+      "tr": "Kelebeğe benzeyen, çoğu gece etkin olan böcek; güve.",
+      "example": "A moth flew toward the porch light.",
+      "exampleTr": "Bir güve sundurma ışığına doğru uçtu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "N",
+      "word": "nest",
+      "clue": "A structure birds build to hold their eggs and young.",
+      "tr": "Kuşların yumurtaları ve yavruları için yaptığı yapı; yuva.",
+      "example": "A bird built a nest under our roof.",
+      "exampleTr": "Bir kuş çatımızın altında yuva yaptı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "O",
+      "word": "oak",
+      "clue": "A large tree that produces acorns.",
+      "tr": "Meşe palamudu veren büyük ağaç; meşe.",
+      "example": "We sat in the shade of an old oak.",
+      "exampleTr": "Yaşlı bir meşenin gölgesinde oturduk.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "O",
+      "word": "octopus",
+      "clue": "A sea animal with a soft body and eight arms.",
+      "tr": "Yumuşak gövdeli, sekiz kollu deniz hayvanı; ahtapot.",
+      "example": "An octopus squeezed into a narrow hole.",
+      "exampleTr": "Bir ahtapot dar bir deliğe sıkışarak girdi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "O",
+      "word": "otter",
+      "clue": "A playful swimming mammal with thick fur and a long tail.",
+      "tr": "Kalın kürklü, uzun kuyruklu, suda yaşayan memeli; su samuru.",
+      "example": "An otter dived beneath the river surface.",
+      "exampleTr": "Bir su samuru nehrin yüzeyinin altına daldı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "O",
+      "word": "owl",
+      "clue": "A bird with large eyes that often hunts at night.",
+      "tr": "Büyük gözlü, genellikle gece avlanan kuş; baykuş.",
+      "example": "An owl called from the roof of the barn.",
+      "exampleTr": "Ahırın çatısından bir baykuş öttü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "palm",
+      "clue": "A tropical tree with a tall trunk and large leaves at the top.",
+      "tr": "Uzun gövdeli, tepesi büyük yapraklı tropikal ağaç; palmiye.",
+      "example": "A tall palm shaded the entrance to the hotel.",
+      "exampleTr": "Uzun bir palmiye otelin girişini gölgeliyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "parrot",
+      "clue": "A colorful tropical bird, some species of which copy human speech.",
+      "tr": "Bazı türleri insan konuşmasını taklit eden renkli tropikal kuş; papağan.",
+      "example": "The parrot repeated my name twice.",
+      "exampleTr": "Papağan adımı iki kez tekrarladı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "paw",
+      "clue": "The soft foot of a cat, dog or similar animal.",
+      "tr": "Kedi ve köpek gibi hayvanların yumuşak ayağı; pati.",
+      "example": "The dog placed a muddy paw on my knee.",
+      "exampleTr": "Köpek çamurlu patisini dizime koydu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "peacock",
+      "clue": "A male bird with a long colorful tail that it spreads like a fan.",
+      "tr": "Yelpaze gibi açtığı uzun, renkli kuyruğu olan erkek kuş; tavus kuşu.",
+      "example": "The peacock spread its tail in the sunshine.",
+      "exampleTr": "Tavus kuşu güneşte kuyruğunu açtı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pebble",
+      "clue": "A small smooth stone.",
+      "tr": "Küçük, düzgün yüzeyli taş; çakıl.",
+      "example": "She dropped a pebble into the clear water.",
+      "exampleTr": "Berrak suya bir çakıl taşı attı.",
+      "synonyms": [
+        "stone"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pelican",
+      "clue": "A large water bird with a pouch beneath its beak.",
+      "tr": "Gagasının altında kesesi bulunan büyük su kuşu; pelikan.",
+      "example": "A pelican floated beside the fishing boat.",
+      "exampleTr": "Balıkçı teknesinin yanında bir pelikan yüzüyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "penguin",
+      "clue": "A black-and-white sea bird that swims but cannot fly.",
+      "tr": "Yüzen fakat uçamayan siyah beyaz deniz kuşu; penguen.",
+      "example": "The penguin slid across the ice on its belly.",
+      "exampleTr": "Penguen buz üzerinde karnının üstünde kaydı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "peninsula",
+      "clue": "A piece of land surrounded by water on three sides.",
+      "tr": "Üç tarafı suyla çevrili kara parçası; yarımada.",
+      "example": "We drove to the tip of the peninsula.",
+      "exampleTr": "Yarımadanın ucuna kadar araba sürdük.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "petal",
+      "clue": "One of the colored parts surrounding the center of a flower.",
+      "tr": "Çiçeğin merkezini çevreleyen renkli bölümlerden biri; taç yaprak.",
+      "example": "A rose petal floated in the bowl.",
+      "exampleTr": "Kâsenin içinde bir gül yaprağı yüzüyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pigeon",
+      "clue": "A common city bird with a small head and rounded body.",
+      "tr": "Şehirlerde yaygın, küçük başlı, yuvarlak gövdeli kuş; güvercin.",
+      "example": "A pigeon landed on the windowsill.",
+      "exampleTr": "Pencere pervazına bir güvercin kondu.",
+      "synonyms": [
+        "dove"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pine",
+      "clue": "An evergreen tree with needles and woody cones.",
+      "tr": "İğne yapraklı ve odunsu kozalaklı ağaç; çam.",
+      "example": "The scent of pine filled the forest air.",
+      "exampleTr": "Ormanın havasını çam kokusu doldurmuştu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "plateau",
+      "clue": "A large flat area of land higher than the surrounding land.",
+      "tr": "Çevresinden yüksekte bulunan geniş, düz alan; plato.",
+      "example": "The road climbed toward the high plateau.",
+      "exampleTr": "Yol yüksek platoya doğru tırmanıyordu.",
+      "synonyms": [
+        "tableland"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "plum",
+      "clue": "A soft round fruit with smooth skin and a hard stone.",
+      "tr": "Düz kabuklu, sert çekirdekli, yuvarlak yumuşak meyve; erik.",
+      "example": "He ate a ripe plum straight from the tree.",
+      "exampleTr": "Ağaçtan kopardığı olgun eriği yedi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pond",
+      "clue": "A small still area of water.",
+      "tr": "Küçük ve durgun su birikintisi; gölet.",
+      "example": "Several frogs lived in our garden pond.",
+      "exampleTr": "Bahçemizdeki gölette birkaç kurbağa yaşıyordu.",
+      "synonyms": [
+        "pool"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "prairie",
+      "clue": "A large open area of grassland, especially in North America.",
+      "tr": "Özellikle Kuzey Amerika'da bulunan geniş, açık otlak.",
+      "example": "Wildflowers covered the prairie in spring.",
+      "exampleTr": "İlkbaharda geniş otlağı kır çiçekleri kapladı.",
+      "synonyms": [
+        "grassland",
+        "plain"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "prawn",
+      "clue": "A small sea animal with a shell and long antennae, often eaten.",
+      "tr": "Kabuklu, uzun antenli, yenilebilir küçük deniz hayvanı; karides.",
+      "example": "She added a cooked prawn to each bowl.",
+      "exampleTr": "Her kâseye pişmiş bir karides ekledi.",
+      "synonyms": [
+        "shrimp"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "puppy",
+      "clue": "A young dog.",
+      "tr": "Köpek yavrusu.",
+      "example": "The puppy chewed the corner of my slipper.",
+      "exampleTr": "Yavru köpek terliğimin köşesini çiğnedi.",
+      "synonyms": [
+        "pup"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "Q",
+      "word": "quail",
+      "clue": "A small round bird often found in fields.",
+      "tr": "Genellikle tarlalarda yaşayan küçük, yuvarlak kuş; bıldırcın.",
+      "example": "A quail ran between the rows of wheat.",
+      "exampleTr": "Buğday sıralarının arasından bir bıldırcın koştu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "raccoon",
+      "clue": "A mammal with a ringed tail and dark markings around its eyes.",
+      "tr": "Halkalı kuyruklu, göz çevresi koyu renkli memeli; rakun.",
+      "example": "A raccoon searched the bins behind the cabin.",
+      "exampleTr": "Bir rakun kulübenin arkasındaki çöpleri karıştırdı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "reef",
+      "clue": "A line of rock or coral near the surface of the sea.",
+      "tr": "Deniz yüzeyine yakın kaya veya mercan sırası; resif.",
+      "example": "Colorful fish swam above the reef.",
+      "exampleTr": "Resifin üzerinde renkli balıklar yüzüyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "reindeer",
+      "clue": "A large deer from cold northern regions, usually with antlers in both sexes.",
+      "tr": "Soğuk kuzey bölgelerinde yaşayan, genellikle iki cinsiyeti de boynuzlu geyik; ren geyiği.",
+      "example": "A reindeer pulled the sled through the snow.",
+      "exampleTr": "Bir ren geyiği kızağı karın üzerinde çekti.",
+      "synonyms": [
+        "caribou"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "reptile",
+      "clue": "A cold-blooded animal with dry scaly skin, such as a snake.",
+      "tr": "Yılan gibi kuru, pullu derili, soğukkanlı hayvan; sürüngen.",
+      "example": "The guide carefully lifted the small reptile.",
+      "exampleTr": "Rehber küçük sürüngeni dikkatlice kaldırdı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "ridge",
+      "clue": "A long narrow high part of a mountain or hill.",
+      "tr": "Dağ veya tepenin uzun, dar ve yüksek bölümü; sırt.",
+      "example": "We walked along the ridge before descending.",
+      "exampleTr": "Aşağı inmeden önce dağ sırtı boyunca yürüdük.",
+      "synonyms": [
+        "crest"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "root",
+      "clue": "The part of a plant that usually grows underground and absorbs water.",
+      "tr": "Genellikle toprak altında büyüyüp su emen bitki bölümü; kök.",
+      "example": "A thick root had cracked the pavement.",
+      "exampleTr": "Kalın bir kök kaldırımı çatlatmıştı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "rooster",
+      "clue": "An adult male chicken.",
+      "tr": "Yetişkin erkek tavuk; horoz.",
+      "example": "The rooster woke us before sunrise.",
+      "exampleTr": "Horoz bizi gün doğmadan uyandırdı.",
+      "synonyms": [
+        "cockerel",
+        "cock"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "seal",
+      "clue": "A sea mammal with flippers and a smooth body.",
+      "tr": "Yüzgeç ayaklı, düzgün gövdeli deniz memelisi; fok.",
+      "example": "A seal rested on the flat rock.",
+      "exampleTr": "Yassı kayanın üzerinde bir fok dinleniyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "seagull",
+      "clue": "A common bird found near the sea, usually white and gray.",
+      "tr": "Deniz yakınında yaşayan, genellikle beyaz gri kuş; martı.",
+      "example": "A seagull followed the ferry across the bay.",
+      "exampleTr": "Bir martı koy boyunca vapuru izledi.",
+      "synonyms": [
+        "gull"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "seaweed",
+      "clue": "A large plantlike organism that grows in the sea.",
+      "tr": "Denizde yetişen büyük yosun; deniz yosunu.",
+      "example": "Waves washed seaweed onto the beach.",
+      "exampleTr": "Dalgalar sahile deniz yosunu taşıdı.",
+      "synonyms": [
+        "marine algae"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "shark",
+      "clue": "A large sea fish with a pointed fin and usually sharp teeth.",
+      "tr": "Sivri yüzgeçli, genellikle keskin dişli büyük deniz balığı; köpekbalığı.",
+      "example": "A shark swam slowly past the divers.",
+      "exampleTr": "Bir köpekbalığı dalgıçların yanından yavaşça geçti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "shell",
+      "clue": "The hard outer covering of an animal such as a snail.",
+      "tr": "Salyangoz gibi hayvanların sert dış örtüsü; kabuk.",
+      "example": "The snail withdrew into its shell.",
+      "exampleTr": "Salyangoz kabuğunun içine çekildi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "shrimp",
+      "clue": "A small sea animal with a thin shell and many legs.",
+      "tr": "İnce kabuklu, çok bacaklı küçük deniz hayvanı; karides.",
+      "example": "We ordered shrimp with garlic and lemon.",
+      "exampleTr": "Sarımsaklı ve limonlu karides sipariş ettik.",
+      "synonyms": [
+        "prawn"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "shrub",
+      "clue": "A woody plant with several stems, smaller than a tree.",
+      "tr": "Ağaçtan küçük, birkaç odunsu gövdeli bitki; çalı.",
+      "example": "We planted a flowering shrub beside the gate.",
+      "exampleTr": "Kapının yanına çiçekli bir çalı diktik.",
+      "synonyms": [
+        "bush"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "snail",
+      "clue": "A slow-moving animal with a soft body and a spiral shell.",
+      "tr": "Yumuşak gövdeli, sarmal kabuklu, yavaş hareket eden hayvan; salyangoz.",
+      "example": "A snail left a shiny trail on the step.",
+      "exampleTr": "Salyangoz basamakta parlak bir iz bıraktı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sparrow",
+      "clue": "A small brown-and-gray bird common near houses.",
+      "tr": "Evlerin yakınında yaygın küçük kahverengi gri kuş; serçe.",
+      "example": "A sparrow picked up crumbs from the table.",
+      "exampleTr": "Bir serçe masadaki kırıntıları topladı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "squirrel",
+      "clue": "A small climbing animal with a long bushy tail.",
+      "tr": "Uzun, kabarık kuyruklu, ağaçlara tırmanan küçük hayvan; sincap.",
+      "example": "A squirrel leaped from one branch to another.",
+      "exampleTr": "Bir sincap bir daldan diğerine sıçradı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "stork",
+      "clue": "A large bird with long legs and a long straight beak.",
+      "tr": "Uzun bacaklı ve uzun düz gagalı büyük kuş; leylek.",
+      "example": "A stork built its nest on the chimney.",
+      "exampleTr": "Bir leylek bacaya yuva yaptı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "swan",
+      "clue": "A large water bird with a long curved neck, often white.",
+      "tr": "Uzun, kıvrık boyunlu, çoğunlukla beyaz büyük su kuşu; kuğu.",
+      "example": "A white swan glided across the lake.",
+      "exampleTr": "Beyaz bir kuğu gölün üzerinde süzüldü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "thorn",
+      "clue": "A sharp pointed growth on a plant stem.",
+      "tr": "Bitki sapındaki sivri çıkıntı; diken.",
+      "example": "A thorn caught in my sleeve.",
+      "exampleTr": "Koluma bir diken takıldı.",
+      "synonyms": [
+        "spine",
+        "prickle"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "thunder",
+      "clue": "The loud sound heard after lightning.",
+      "tr": "Şimşekten sonra duyulan yüksek ses; gök gürültüsü.",
+      "example": "A crash of thunder startled the dog.",
+      "exampleTr": "Bir gök gürültüsü köpeği ürküttü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "tide",
+      "clue": "The regular rise and fall of sea level.",
+      "tr": "Deniz seviyesinin düzenli yükselip alçalması; gelgit.",
+      "example": "The rising tide covered the rocks.",
+      "exampleTr": "Yükselen gelgit kayaları örttü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "tortoise",
+      "clue": "A land reptile with a hard shell that walks slowly.",
+      "tr": "Sert kabuklu, yavaş yürüyen kara sürüngeni; kara kaplumbağası.",
+      "example": "The tortoise slowly crossed the garden.",
+      "exampleTr": "Kara kaplumbağası bahçeyi yavaşça geçti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "tulip",
+      "clue": "A spring flower with a cup-shaped bloom.",
+      "tr": "Kupa biçimli çiçeği olan bahar bitkisi; lale.",
+      "example": "A red tulip brightened the kitchen windowsill.",
+      "exampleTr": "Kırmızı bir lale mutfak pencere pervazına renk kattı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "tusk",
+      "clue": "A long pointed tooth that sticks out of an animal's mouth.",
+      "tr": "Hayvanın ağzından dışarı uzanan uzun, sivri diş.",
+      "example": "The elephant had one damaged tusk.",
+      "exampleTr": "Filin uzun dişlerinden biri zarar görmüştü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "twig",
+      "clue": "A small thin branch of a tree or bush.",
+      "tr": "Ağaç ya da çalının küçük, ince dalı.",
+      "example": "The bird picked up a dry twig.",
+      "exampleTr": "Kuş kuru bir dal parçasını aldı.",
+      "synonyms": [
+        "small branch"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "V",
+      "word": "valley",
+      "clue": "Low land between hills or mountains.",
+      "tr": "Tepeler veya dağlar arasındaki alçak arazi; vadi.",
+      "example": "A narrow river flowed through the valley.",
+      "exampleTr": "Vadiden dar bir nehir akıyordu.",
+      "synonyms": [
+        "vale"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "V",
+      "word": "volcano",
+      "clue": "A mountain or opening that can release hot rock, ash and gas.",
+      "tr": "Sıcak kaya, kül ve gaz püskürtebilen dağ veya açıklık; yanardağ.",
+      "example": "Smoke rose from the volcano in the distance.",
+      "exampleTr": "Uzaktaki yanardağdan duman yükseliyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "walnut",
+      "clue": "An edible nut with a hard wrinkled shell.",
+      "tr": "Sert ve kırışık kabuklu yenilebilir yemiş; ceviz.",
+      "example": "She cracked a walnut and shared the pieces.",
+      "exampleTr": "Bir cevizi kırıp parçalarını paylaştı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "walrus",
+      "clue": "A large sea mammal with long tusks and whiskers.",
+      "tr": "Uzun dişleri ve bıyıkları olan büyük deniz memelisi; mors.",
+      "example": "A walrus rested on the edge of the ice.",
+      "exampleTr": "Buzun kenarında bir mors dinleniyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "wasp",
+      "clue": "A narrow-waisted flying insect that can sting.",
+      "tr": "İnce belli, sokabilen uçucu böcek; yaban arısı.",
+      "example": "A wasp hovered near the sweet drink.",
+      "exampleTr": "Tatlı içeceğin yakınında bir yaban arısı uçuştu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "waterfall",
+      "clue": "Water dropping from a high level over a steep edge.",
+      "tr": "Yüksekten dik bir kenar üzerinden düşen su; şelale.",
+      "example": "We heard the waterfall before we saw it.",
+      "exampleTr": "Şelaleyi görmeden önce sesini duyduk.",
+      "synonyms": [
+        "cascade"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "whale",
+      "clue": "A very large sea mammal that breathes air.",
+      "tr": "Hava soluyan çok büyük deniz memelisi; balina.",
+      "example": "A whale surfaced beside the research boat.",
+      "exampleTr": "Araştırma teknesinin yanında bir balina yüzeye çıktı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "willow",
+      "clue": "A tree with narrow leaves and often long hanging branches.",
+      "tr": "Dar yapraklı, genellikle uzun ve sarkık dallı ağaç; söğüt.",
+      "example": "A willow leaned over the quiet stream.",
+      "exampleTr": "Bir söğüt sakin derenin üzerine eğilmişti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "wolf",
+      "clue": "A wild animal related to dogs that often lives in packs.",
+      "tr": "Köpekgillerden, genellikle sürü hâlinde yaşayan yabani hayvan; kurt.",
+      "example": "A wolf howled in the distant forest.",
+      "exampleTr": "Uzaktaki ormanda bir kurt uludu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "apron",
+      "clue": "A covering worn over the front of clothes while cooking or working.",
+      "tr": "Yemek yaparken veya çalışırken giysilerin önüne takılan örtü; önlük.",
+      "example": "He tied an apron around his waist before cooking.",
+      "exampleTr": "Yemek yapmadan önce beline önlük bağladı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "armchair",
+      "clue": "A comfortable chair with supports for your arms.",
+      "tr": "Kol dayama yerleri olan rahat sandalye; koltuk.",
+      "example": "She read the newspaper in her favorite armchair.",
+      "exampleTr": "Gazeteyi en sevdiği koltukta okudu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "attic",
+      "clue": "A room or space directly under a roof.",
+      "tr": "Çatının hemen altındaki oda veya alan; çatı katı.",
+      "example": "We stored the old suitcases in the attic.",
+      "exampleTr": "Eski valizleri çatı katında sakladık.",
+      "synonyms": [
+        "loft"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "balcony",
+      "clue": "A platform outside an upper-floor window or door.",
+      "tr": "Üst kattaki kapı veya pencerenin dışındaki platform; balkon.",
+      "example": "We had breakfast on the balcony.",
+      "exampleTr": "Balkonda kahvaltı yaptık.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "basement",
+      "clue": "A room or floor below ground level.",
+      "tr": "Zemin seviyesinin altındaki oda veya kat; bodrum.",
+      "example": "The washing machine is in the basement.",
+      "exampleTr": "Çamaşır makinesi bodrumda.",
+      "synonyms": [
+        "cellar"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "blanket",
+      "clue": "A thick covering used to keep warm in bed.",
+      "tr": "Yatakta sıcak tutmak için kullanılan kalın örtü; battaniye.",
+      "example": "She pulled the blanket over her shoulders.",
+      "exampleTr": "Battaniyeyi omuzlarına çekti.",
+      "synonyms": [
+        "cover"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "blender",
+      "clue": "An electric kitchen machine that mixes food into liquid or small pieces.",
+      "tr": "Yiyecekleri karıştırıp parçalayan elektrikli mutfak aleti.",
+      "example": "Put the fruit and milk in the blender.",
+      "exampleTr": "Meyveyi ve sütü blendere koy.",
+      "synonyms": [
+        "mixer"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bookshelf",
+      "clue": "A shelf used to hold books.",
+      "tr": "Kitap koymak için kullanılan raf.",
+      "example": "The new novel belongs on the top bookshelf.",
+      "exampleTr": "Yeni roman en üstteki kitap rafına konmalı.",
+      "synonyms": [
+        "bookcase"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "broom",
+      "clue": "A long-handled brush for sweeping floors.",
+      "tr": "Yer süpürmek için kullanılan uzun saplı fırça; süpürge.",
+      "example": "He used a broom to clear the leaves from the steps.",
+      "exampleTr": "Basamaklardaki yaprakları süpürgeyle temizledi.",
+      "synonyms": [
+        "sweeping brush"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bucket",
+      "clue": "An open container with a handle for carrying water or other things.",
+      "tr": "Su gibi şeyleri taşımak için kullanılan saplı, açık kap; kova.",
+      "example": "Fill the bucket with warm water.",
+      "exampleTr": "Kovayı ılık suyla doldur.",
+      "synonyms": [
+        "pail"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cabinet",
+      "clue": "A piece of furniture with doors or drawers for storing things.",
+      "tr": "Eşyaları saklamak için kapaklı veya çekmeceli mobilya; dolap.",
+      "example": "The clean glasses are in the kitchen cabinet.",
+      "exampleTr": "Temiz bardaklar mutfak dolabında.",
+      "synonyms": [
+        "cupboard"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "carpet",
+      "clue": "A thick fabric covering for a floor.",
+      "tr": "Yeri kaplayan kalın dokuma; halı.",
+      "example": "The children sat on the soft carpet.",
+      "exampleTr": "Çocuklar yumuşak halının üzerine oturdu.",
+      "synonyms": [
+        "rug"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "ceiling",
+      "clue": "The upper inside surface of a room.",
+      "tr": "Odanın iç üst yüzeyi; tavan.",
+      "example": "A small lamp hung from the ceiling.",
+      "exampleTr": "Tavandan küçük bir lamba sarkıyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "chimney",
+      "clue": "A structure that carries smoke from a fireplace out of a building.",
+      "tr": "Şömineden çıkan dumanı bina dışına taşıyan yapı; baca.",
+      "example": "Smoke rose slowly from the chimney.",
+      "exampleTr": "Bacadan yavaşça duman yükseldi.",
+      "synonyms": [
+        "flue"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cushion",
+      "clue": "A soft padded object placed on a chair for comfort.",
+      "tr": "Rahatlık için koltuğa konan yumuşak dolgu nesne; minder.",
+      "example": "She placed a cushion behind her back.",
+      "exampleTr": "Sırtının arkasına bir minder koydu.",
+      "synonyms": [
+        "pillow"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "curtain",
+      "clue": "A piece of cloth hung in front of a window.",
+      "tr": "Pencerenin önüne asılan kumaş; perde.",
+      "example": "He drew the curtain to block the afternoon sun.",
+      "exampleTr": "Öğleden sonra güneşini kesmek için perdeyi çekti.",
+      "synonyms": [
+        "drape"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cutlery",
+      "clue": "Knives, forks and spoons used for eating.",
+      "tr": "Yemek yerken kullanılan bıçak, çatal ve kaşıklar.",
+      "example": "The cutlery is in the drawer beside the sink.",
+      "exampleTr": "Çatal bıçak takımı lavabonun yanındaki çekmecede.",
+      "synonyms": [
+        "silverware",
+        "flatware"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "detergent",
+      "clue": "A substance used for washing clothes or dishes.",
+      "tr": "Çamaşır ya da bulaşık yıkamak için kullanılan madde; deterjan.",
+      "example": "We need more detergent for the laundry.",
+      "exampleTr": "Çamaşırlar için daha fazla deterjana ihtiyacımız var.",
+      "synonyms": [
+        "cleaning agent"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "doorbell",
+      "clue": "A button-operated device that signals someone is at the door.",
+      "tr": "Kapıda birinin olduğunu bildiren düğmeli cihaz; kapı zili.",
+      "example": "The doorbell rang while I was cooking.",
+      "exampleTr": "Yemek yaparken kapı zili çaldı.",
+      "synonyms": [
+        "bell"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "drawer",
+      "clue": "A sliding box in furniture for keeping things.",
+      "tr": "Mobilyada eşyaları saklamak için kullanılan sürgülü kutu; çekmece.",
+      "example": "I keep my keys in the top drawer.",
+      "exampleTr": "Anahtarlarımı en üst çekmecede tutarım.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "duvet",
+      "clue": "A thick bed covering filled with feathers or soft material.",
+      "tr": "Tüy veya yumuşak malzemeyle doldurulmuş kalın yatak örtüsü; yorgan.",
+      "example": "I put a warmer duvet on the bed for winter.",
+      "exampleTr": "Kış için yatağa daha sıcak bir yorgan koydum.",
+      "synonyms": [
+        "comforter"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "faucet",
+      "clue": "A device that controls the flow of water from a pipe.",
+      "tr": "Borudan akan suyu kontrol eden cihaz; musluk.",
+      "example": "Please turn off the faucet after washing your hands.",
+      "exampleTr": "Ellerini yıkadıktan sonra lütfen musluğu kapat.",
+      "synonyms": [
+        "tap"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "fireplace",
+      "clue": "A space in a wall where a fire burns to heat a room.",
+      "tr": "Odayı ısıtmak için duvarda ateş yakılan bölüm; şömine.",
+      "example": "We warmed our hands beside the fireplace.",
+      "exampleTr": "Ellerimizi şöminenin yanında ısıttık.",
+      "synonyms": [
+        "hearth"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "freezer",
+      "clue": "An appliance that keeps food below freezing temperature.",
+      "tr": "Yiyecekleri donma sıcaklığının altında tutan cihaz; dondurucu.",
+      "example": "Put the extra bread in the freezer.",
+      "exampleTr": "Fazla ekmeği dondurucuya koy.",
+      "synonyms": [
+        "deep freeze"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "fridge",
+      "clue": "A kitchen appliance that keeps food cold.",
+      "tr": "Yiyecekleri soğuk tutan mutfak cihazı; buzdolabı.",
+      "example": "There is fresh milk in the fridge.",
+      "exampleTr": "Buzdolabında taze süt var.",
+      "synonyms": [
+        "refrigerator"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "gutter",
+      "clue": "A narrow channel along a roof that carries rainwater away.",
+      "tr": "Çatının kenarında yağmur suyunu taşıyan dar kanal; oluk.",
+      "example": "Leaves had blocked the gutter above the porch.",
+      "exampleTr": "Yapraklar sundurmanın üstündeki oluğu tıkamıştı.",
+      "synonyms": [
+        "rain gutter"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "hanger",
+      "clue": "A shaped object used for hanging clothes in a cupboard.",
+      "tr": "Giysileri dolaba asmak için kullanılan biçimli nesne; askı.",
+      "example": "Put your jacket on a hanger.",
+      "exampleTr": "Ceketini askıya as.",
+      "synonyms": [
+        "coat hanger"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "K",
+      "word": "kettle",
+      "clue": "A container or electric device used to boil water.",
+      "tr": "Su kaynatmak için kullanılan kap veya elektrikli alet; su ısıtıcısı.",
+      "example": "The kettle boiled while I found the tea.",
+      "exampleTr": "Ben çayı bulurken su ısıtıcısındaki su kaynadı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "ladder",
+      "clue": "Equipment with steps between two long sides, used for climbing.",
+      "tr": "Tırmanmak için iki uzun yan parça arasında basamakları olan araç; merdiven.",
+      "example": "Hold the ladder steady while I climb.",
+      "exampleTr": "Ben çıkarken merdiveni sabit tut.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "ladle",
+      "clue": "A large deep spoon with a long handle for serving soup.",
+      "tr": "Çorba servis etmek için kullanılan uzun saplı derin kaşık; kepçe.",
+      "example": "Use the ladle to fill each bowl with soup.",
+      "exampleTr": "Her kâseye çorba koymak için kepçeyi kullan.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "laundry",
+      "clue": "Clothes and other cloth items that need washing or have been washed.",
+      "tr": "Yıkanacak ya da yıkanmış giysiler ve kumaşlar; çamaşır.",
+      "example": "I hung the laundry outside to dry.",
+      "exampleTr": "Çamaşırları kuruması için dışarı astım.",
+      "synonyms": [
+        "washing"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "mattress",
+      "clue": "The thick padded part of a bed that you lie on.",
+      "tr": "Yatağın üzerine yatılan kalın dolgulu bölümü.",
+      "example": "The new mattress supports my back comfortably.",
+      "exampleTr": "Yeni yatak sırtımı rahatça destekliyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "mop",
+      "clue": "A long-handled tool used to wash floors.",
+      "tr": "Yerleri yıkamak için kullanılan uzun saplı araç; paspas.",
+      "example": "He used a mop to clean the wet floor.",
+      "exampleTr": "Islak zemini temizlemek için paspas kullandı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "O",
+      "word": "oven",
+      "clue": "An enclosed kitchen appliance used for baking or roasting.",
+      "tr": "Pişirme ve kızartma için kullanılan kapalı mutfak cihazı; fırın.",
+      "example": "The bread is still in the oven.",
+      "exampleTr": "Ekmek hâlâ fırında.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pan",
+      "clue": "A shallow cooking container with a handle.",
+      "tr": "Saplı, yayvan pişirme kabı; tava.",
+      "example": "Heat the oil in a large pan.",
+      "exampleTr": "Yağı büyük bir tavada ısıt.",
+      "synonyms": [
+        "skillet"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "porch",
+      "clue": "A covered entrance area outside a house.",
+      "tr": "Evin girişindeki üstü örtülü alan; sundurma.",
+      "example": "We left our muddy boots on the porch.",
+      "exampleTr": "Çamurlu botlarımızı sundurmada bıraktık.",
+      "synonyms": [
+        "veranda"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "radiator",
+      "clue": "A device that gives out heat to warm a room.",
+      "tr": "Odayı ısıtmak için ısı yayan cihaz; radyatör.",
+      "example": "Please move the chair away from the radiator.",
+      "exampleTr": "Lütfen sandalyeyi radyatörden uzaklaştır.",
+      "synonyms": [
+        "heater"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "saucepan",
+      "clue": "A deep cooking pot with a long handle.",
+      "tr": "Uzun saplı, derin pişirme kabı; küçük tencere.",
+      "example": "Warm the soup in a small saucepan.",
+      "exampleTr": "Çorbayı küçük bir tencerede ısıt.",
+      "synonyms": [
+        "pot"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "shutter",
+      "clue": "A solid cover outside a window that can be closed.",
+      "tr": "Pencerenin dışında kapanabilen sert kapak; panjur.",
+      "example": "The wind slammed the wooden shutter.",
+      "exampleTr": "Rüzgâr ahşap panjuru çarptı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sink",
+      "clue": "A bowl-shaped fitting with a drain used for washing.",
+      "tr": "Yıkama için kullanılan, giderli çanak biçimli sabit kap; lavabo.",
+      "example": "Leave the dirty cups in the sink.",
+      "exampleTr": "Kirli fincanları lavaboda bırak.",
+      "synonyms": [
+        "washbasin"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sofa",
+      "clue": "A long soft seat for two or more people.",
+      "tr": "İki veya daha fazla kişilik uzun, yumuşak oturak; kanepe.",
+      "example": "We sat together on the sofa.",
+      "exampleTr": "Kanepede birlikte oturduk.",
+      "synonyms": [
+        "couch",
+        "settee"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sponge",
+      "clue": "A soft material that absorbs water, used for cleaning.",
+      "tr": "Suyu emen, temizlikte kullanılan yumuşak malzeme; sünger.",
+      "example": "Wipe the counter with a damp sponge.",
+      "exampleTr": "Tezgâhı nemli süngerle sil.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "staircase",
+      "clue": "A set of steps connecting different floors.",
+      "tr": "Katları birbirine bağlayan basamaklar bütünü; merdiven.",
+      "example": "A narrow staircase led to the attic.",
+      "exampleTr": "Dar bir merdiven çatı katına çıkıyordu.",
+      "synonyms": [
+        "stairs"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "stool",
+      "clue": "A seat without a back or arms.",
+      "tr": "Sırtlığı ve kol dayanağı olmayan oturak; tabure.",
+      "example": "He sat on a wooden stool by the counter.",
+      "exampleTr": "Tezgâhın yanında ahşap tabureye oturdu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "tray",
+      "clue": "A flat object with raised edges used for carrying food or drinks.",
+      "tr": "Yiyecek ve içecek taşımak için kenarları yükseltilmiş düz nesne; tepsi.",
+      "example": "She carried the cups on a tray.",
+      "exampleTr": "Fincanları tepside taşıdı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "V",
+      "word": "vase",
+      "clue": "A container used to display cut flowers.",
+      "tr": "Kesilmiş çiçekleri sergilemek için kullanılan kap; vazo.",
+      "example": "He put the tulips in a glass vase.",
+      "exampleTr": "Laleleri cam vazoya koydu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "wardrobe",
+      "clue": "A tall cupboard for storing clothes.",
+      "tr": "Giysilerin saklandığı yüksek dolap; gardırop.",
+      "example": "My winter coat is hanging in the wardrobe.",
+      "exampleTr": "Kışlık montum gardıropta asılı.",
+      "synonyms": [
+        "closet"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "whisk",
+      "clue": "A kitchen tool with wire loops used for beating eggs or cream.",
+      "tr": "Yumurta ya da kremayı çırpmak için kullanılan tel mutfak aleti.",
+      "example": "Use a whisk to beat the eggs until smooth.",
+      "exampleTr": "Yumurtaları pürüzsüz olana kadar tel çırpıcıyla çırp.",
+      "synonyms": [
+        "beater"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "almond",
+      "clue": "An edible oval nut with a light brown skin.",
+      "tr": "Açık kahverengi kabuklu, oval biçimli yemiş; badem.",
+      "example": "She placed an almond on each biscuit.",
+      "exampleTr": "Her bisküvinin üzerine bir badem koydu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bacon",
+      "clue": "Thin slices of salted or smoked pork.",
+      "tr": "Tuzlanmış veya tütsülenmiş ince domuz eti dilimleri.",
+      "example": "He fried bacon for breakfast.",
+      "exampleTr": "Kahvaltı için pastırma benzeri domuz eti kızarttı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "barley",
+      "clue": "A grain used in food and in making beer.",
+      "tr": "Yiyeceklerde ve bira yapımında kullanılan tahıl; arpa.",
+      "example": "We added barley to the vegetable soup.",
+      "exampleTr": "Sebze çorbasına arpa ekledik.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "basil",
+      "clue": "An herb with soft green leaves used in cooking.",
+      "tr": "Yemeklerde kullanılan yumuşak yeşil yapraklı ot; fesleğen.",
+      "example": "Fresh basil gives the sauce a lovely smell.",
+      "exampleTr": "Taze fesleğen sosa güzel bir koku verir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "beetroot",
+      "clue": "A round dark-red root vegetable.",
+      "tr": "Yuvarlak, koyu kırmızı kök sebze; pancar.",
+      "example": "The beetroot turned my fingers purple.",
+      "exampleTr": "Pancar parmaklarımı mora boyadı.",
+      "synonyms": [
+        "beet"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "biscuit",
+      "clue": "A small flat baked food, often sweet and crisp.",
+      "tr": "Genellikle tatlı ve gevrek, küçük yassı hamur işi; bisküvi.",
+      "example": "She dipped a biscuit into her tea.",
+      "exampleTr": "Çayına bir bisküvi batırdı.",
+      "synonyms": [
+        "cookie"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "broccoli",
+      "clue": "A green vegetable with thick stalks and clusters of small buds.",
+      "tr": "Kalın saplı ve küçük tomurcuk kümeli yeşil sebze; brokoli.",
+      "example": "Steam the broccoli for a few minutes.",
+      "exampleTr": "Brokoliyi birkaç dakika buharda pişir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "broth",
+      "clue": "A thin soup made by cooking meat or vegetables in water.",
+      "tr": "Et veya sebzeleri suda pişirerek elde edilen sıvı; et ya da sebze suyu.",
+      "example": "Add warm broth to the rice.",
+      "exampleTr": "Pirince ılık et suyu ekle.",
+      "synonyms": [
+        "stock"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cabbage",
+      "clue": "A leafy vegetable whose leaves form a tight round head.",
+      "tr": "Yaprakları sıkı, yuvarlak baş oluşturan sebze; lahana.",
+      "example": "Slice the cabbage thinly for the salad.",
+      "exampleTr": "Salata için lahanayı ince ince doğra.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cauliflower",
+      "clue": "A vegetable with a large white head made of tightly packed buds.",
+      "tr": "Sık tomurcuklardan oluşan büyük beyaz başlı sebze; karnabahar.",
+      "example": "We roasted cauliflower with olive oil.",
+      "exampleTr": "Karnabaharı zeytinyağıyla fırında pişirdik.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "celery",
+      "clue": "A vegetable with long crisp pale-green stalks.",
+      "tr": "Uzun, gevrek, açık yeşil sapları olan sebze; kereviz.",
+      "example": "Chop the celery into small pieces.",
+      "exampleTr": "Kerevizi küçük parçalara doğra.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "chickpea",
+      "clue": "A round pale seed used as food, especially in hummus.",
+      "tr": "Özellikle humusta kullanılan yuvarlak açık renkli baklagil; nohut.",
+      "example": "A single chickpea rolled off the chopping board.",
+      "exampleTr": "Kesme tahtasından bir nohut tanesi yuvarlandı.",
+      "synonyms": [
+        "garbanzo bean"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cinnamon",
+      "clue": "A brown spice made from tree bark, often used in sweet dishes.",
+      "tr": "Ağaç kabuğundan elde edilen kahverengi baharat; tarçın.",
+      "example": "Sprinkle cinnamon over the warm apples.",
+      "exampleTr": "Sıcak elmaların üzerine tarçın serp.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cucumber",
+      "clue": "A long green vegetable with watery flesh, often eaten raw.",
+      "tr": "Sulu etli, genellikle çiğ yenen uzun yeşil sebze; salatalık.",
+      "example": "Slice a cucumber for the sandwiches.",
+      "exampleTr": "Sandviçler için bir salatalık dilimle.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cumin",
+      "clue": "A spice with a warm strong flavor, made from small seeds.",
+      "tr": "Küçük tohumlardan elde edilen güçlü aromalı baharat; kimyon.",
+      "example": "A little cumin gives this soup more flavor.",
+      "exampleTr": "Biraz kimyon bu çorbaya daha fazla lezzet verir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "flour",
+      "clue": "A fine powder made from grain and used for baking.",
+      "tr": "Tahıldan elde edilen, hamur işlerinde kullanılan ince toz; un.",
+      "example": "Mix the flour with a little water.",
+      "exampleTr": "Unu biraz suyla karıştır.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "garlic",
+      "clue": "A plant with small strongly flavored bulbs used in cooking.",
+      "tr": "Yemeklere tat veren, dişli ve keskin kokulu bitki; sarımsak.",
+      "example": "Crush the garlic before adding it to the pan.",
+      "exampleTr": "Tavaya eklemeden önce sarımsağı ez.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "ginger",
+      "clue": "A spicy root used in cooking and drinks.",
+      "tr": "Yemek ve içeceklerde kullanılan baharatlı kök; zencefil.",
+      "example": "Fresh ginger adds warmth to the tea.",
+      "exampleTr": "Taze zencefil çaya iç ısıtan bir tat verir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "honey",
+      "clue": "A thick sweet liquid made by bees.",
+      "tr": "Arıların ürettiği koyu, tatlı sıvı; bal.",
+      "example": "She stirred a spoonful of honey into her tea.",
+      "exampleTr": "Çayına bir kaşık bal karıştırdı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "leek",
+      "clue": "A long vegetable related to the onion, with white and green parts.",
+      "tr": "Soğanla akraba, beyaz ve yeşil bölümleri olan uzun sebze; pırasa.",
+      "example": "Wash the leek carefully to remove the soil.",
+      "exampleTr": "Toprağını temizlemek için pırasayı dikkatlice yıka.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "lentil",
+      "clue": "A small flat seed eaten cooked, often in soup.",
+      "tr": "Genellikle çorbada pişirilerek yenen küçük, yassı baklagil; mercimek.",
+      "example": "This lentil soup is both warm and filling.",
+      "exampleTr": "Bu mercimek çorbası hem sıcak hem doyurucu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "lettuce",
+      "clue": "A plant with soft green leaves used in salads.",
+      "tr": "Salatalarda kullanılan yumuşak yeşil yapraklı bitki; marul.",
+      "example": "Put a leaf of lettuce inside the sandwich.",
+      "exampleTr": "Sandviçin içine bir marul yaprağı koy.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "mushroom",
+      "clue": "A fungus with a rounded top and a stalk, sometimes eaten.",
+      "tr": "Yuvarlak şapkalı ve saplı, bazı türleri yenilebilir canlı; mantar.",
+      "example": "She sliced a mushroom into the omelet.",
+      "exampleTr": "Omletin içine bir mantar dilimledi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "mustard",
+      "clue": "A thick yellow or brown sauce with a sharp taste.",
+      "tr": "Keskin tatlı, koyu sarı ya da kahverengi sos; hardal.",
+      "example": "Would you like mustard on your sandwich?",
+      "exampleTr": "Sandviçine hardal ister misin?",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "O",
+      "word": "oat",
+      "clue": "A cereal grain often used to make porridge.",
+      "tr": "Genellikle lapa yapımında kullanılan tahıl; yulaf.",
+      "example": "She prefers oat milk in her coffee.",
+      "exampleTr": "Kahvesinde yulaf sütünü tercih eder.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "O",
+      "word": "onion",
+      "clue": "A round vegetable with strong-smelling layers that can make your eyes water.",
+      "tr": "Gözleri yaşartabilen, keskin kokulu ve katmanlı yuvarlak sebze; soğan.",
+      "example": "Chop an onion for the sauce.",
+      "exampleTr": "Sos için bir soğan doğra.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "parsley",
+      "clue": "An herb with divided green leaves used to flavor or decorate food.",
+      "tr": "Yemeklere tat ve görünüm katan parçalı yeşil yapraklı ot; maydanoz.",
+      "example": "Sprinkle chopped parsley over the potatoes.",
+      "exampleTr": "Patateslerin üzerine doğranmış maydanoz serp.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "peach",
+      "clue": "A sweet round fruit with soft fuzzy skin and a hard stone.",
+      "tr": "Yumuşak tüylü kabuklu, sert çekirdekli tatlı meyve; şeftali.",
+      "example": "A ripe peach dripped juice onto my hand.",
+      "exampleTr": "Olgun şeftalinin suyu elime damladı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "peanut",
+      "clue": "An edible seed that grows in a shell underground.",
+      "tr": "Toprak altında kabuk içinde yetişen yenilebilir tohum; yer fıstığı.",
+      "example": "This sauce contains peanut butter.",
+      "exampleTr": "Bu sos yer fıstığı ezmesi içerir.",
+      "synonyms": [
+        "groundnut"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pear",
+      "clue": "A sweet fruit that is narrow at the top and wider at the bottom.",
+      "tr": "Üstü dar, altı geniş tatlı meyve; armut.",
+      "example": "The pear was soft enough to eat.",
+      "exampleTr": "Armut yenebilecek kadar yumuşaktı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "radish",
+      "clue": "A small crisp root vegetable with a peppery taste.",
+      "tr": "Biberimsi tadı olan küçük, gevrek kök sebze; turp.",
+      "example": "She sliced a red radish over the salad.",
+      "exampleTr": "Salatanın üzerine kırmızı bir turp dilimledi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "raisin",
+      "clue": "A dried grape.",
+      "tr": "Kurutulmuş üzüm; kuru üzüm.",
+      "example": "A raisin fell from the fruit cake.",
+      "exampleTr": "Meyveli kekten bir kuru üzüm düştü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "saffron",
+      "clue": "An expensive yellow-orange spice obtained from a flower.",
+      "tr": "Bir çiçekten elde edilen pahalı sarı turuncu baharat; safran.",
+      "example": "A little saffron colored the rice golden.",
+      "exampleTr": "Biraz safran pirinci altın sarısına boyadı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sesame",
+      "clue": "A plant whose small seeds are used in food and oil.",
+      "tr": "Küçük tohumları yiyeceklerde ve yağ yapımında kullanılan bitki; susam.",
+      "example": "The bread was covered with sesame seeds.",
+      "exampleTr": "Ekmeğin üzeri susamla kaplıydı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "spinach",
+      "clue": "A vegetable with dark-green leaves eaten raw or cooked.",
+      "tr": "Çiğ veya pişmiş yenen koyu yeşil yapraklı sebze; ıspanak.",
+      "example": "Stir the spinach into the hot soup.",
+      "exampleTr": "Ispanağı sıcak çorbaya karıştır.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "strawberry",
+      "clue": "A soft red fruit with tiny seeds on its surface.",
+      "tr": "Yüzeyinde küçük tohumları olan yumuşak kırmızı meyve; çilek.",
+      "example": "She put a strawberry on top of the yogurt.",
+      "exampleTr": "Yoğurdun üzerine bir çilek koydu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "thyme",
+      "clue": "An herb with small fragrant leaves used in cooking.",
+      "tr": "Yemeklerde kullanılan küçük, hoş kokulu yapraklı ot; kekik.",
+      "example": "Add a little thyme to the roasted vegetables.",
+      "exampleTr": "Fırınlanmış sebzelere biraz kekik ekle.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "turmeric",
+      "clue": "A yellow spice made from a root.",
+      "tr": "Bir kökten elde edilen sarı baharat; zerdeçal.",
+      "example": "The turmeric left a yellow stain on the spoon.",
+      "exampleTr": "Zerdeçal kaşıkta sarı bir leke bıraktı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "V",
+      "word": "vinegar",
+      "clue": "A sour liquid used to flavor or preserve food.",
+      "tr": "Yiyecekleri tatlandırmak veya korumak için kullanılan ekşi sıvı; sirke.",
+      "example": "Mix olive oil and vinegar for the dressing.",
+      "exampleTr": "Sos için zeytinyağı ve sirkeyi karıştır.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "Y",
+      "word": "yeast",
+      "clue": "A substance containing tiny fungi that makes bread dough rise.",
+      "tr": "Ekmek hamurunu kabartan küçük mantarları içeren madde; maya.",
+      "example": "The yeast made the dough rise overnight.",
+      "exampleTr": "Maya hamuru gece boyunca kabarttı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "belt",
+      "clue": "A strip worn around the waist to hold up clothes.",
+      "tr": "Giysileri tutmak için bele takılan şerit; kemer.",
+      "example": "He tightened his belt before leaving.",
+      "exampleTr": "Çıkmadan önce kemerini sıktı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "blouse",
+      "clue": "A loose upper garment often worn by women.",
+      "tr": "Genellikle kadınların giydiği bol üst giysi; bluz.",
+      "example": "She wore a blue blouse to dinner.",
+      "exampleTr": "Akşam yemeğinde mavi bir bluz giydi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "boot",
+      "clue": "A shoe that covers the foot and part of the leg.",
+      "tr": "Ayağı ve bacağın bir kısmını örten ayakkabı; bot veya çizme.",
+      "example": "Water leaked into my left boot.",
+      "exampleTr": "Sol botumun içine su sızdı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bracelet",
+      "clue": "A piece of jewelry worn around the wrist.",
+      "tr": "Bileğe takılan takı; bileklik.",
+      "example": "She wore a silver bracelet on her wrist.",
+      "exampleTr": "Bileğine gümüş bir bileklik taktı.",
+      "synonyms": [
+        "bangle"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "buckle",
+      "clue": "A metal or plastic fastening on a belt or strap.",
+      "tr": "Kemer veya kayıştaki metal ya da plastik kapatma parçası; toka.",
+      "example": "The buckle on my backpack broke.",
+      "exampleTr": "Sırt çantamın tokası kırıldı.",
+      "synonyms": [
+        "clasp"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cardigan",
+      "clue": "A knitted upper garment that opens at the front.",
+      "tr": "Önden açılan örme üst giysi; hırka.",
+      "example": "Take a cardigan in case the evening is cool.",
+      "exampleTr": "Akşam serin olursa diye bir hırka al.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "collar",
+      "clue": "The part of a shirt or coat that surrounds the neck.",
+      "tr": "Gömlek veya montun boynu çevreleyen bölümü; yaka.",
+      "example": "He turned up his collar against the wind.",
+      "exampleTr": "Rüzgâra karşı yakasını kaldırdı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cuff",
+      "clue": "The end part of a sleeve around the wrist.",
+      "tr": "Giysi kolunun bileği çevreleyen uç bölümü; manşet.",
+      "example": "There was an ink stain on his cuff.",
+      "exampleTr": "Manşetinde mürekkep lekesi vardı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "earring",
+      "clue": "A piece of jewelry worn on the ear.",
+      "tr": "Kulağa takılan takı; küpe.",
+      "example": "She found her missing earring under the bed.",
+      "exampleTr": "Kaybolan küpesini yatağın altında buldu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "glove",
+      "clue": "A hand covering with separate spaces for the fingers.",
+      "tr": "Parmaklar için ayrı bölümleri olan el örtüsü; eldiven.",
+      "example": "I lost one glove on the bus.",
+      "exampleTr": "Otobüste bir eldivenimi kaybettim.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "helmet",
+      "clue": "A hard hat worn to protect the head.",
+      "tr": "Başı korumak için takılan sert başlık; kask.",
+      "example": "Always fasten your helmet before cycling.",
+      "exampleTr": "Bisiklete binmeden önce kaskını mutlaka bağla.",
+      "synonyms": [
+        "hard hat"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "hoodie",
+      "clue": "A sweatshirt with a hood.",
+      "tr": "Kapüşonlu sweatshirt.",
+      "example": "He pulled on a hoodie before going outside.",
+      "exampleTr": "Dışarı çıkmadan önce kapüşonlu sweatshirt giydi.",
+      "synonyms": [
+        "hooded sweatshirt"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "lace",
+      "clue": "A cord threaded through holes to fasten a shoe.",
+      "tr": "Ayakkabıyı bağlamak için deliklerden geçirilen ip; bağcık.",
+      "example": "The lace on my right shoe came undone.",
+      "exampleTr": "Sağ ayakkabımın bağcığı çözüldü.",
+      "synonyms": [
+        "shoelace"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "N",
+      "word": "necklace",
+      "clue": "A piece of jewelry worn around the neck.",
+      "tr": "Boyna takılan takı; kolye.",
+      "example": "She keeps her grandmother's necklace in a small box.",
+      "exampleTr": "Büyükannesinin kolyesini küçük bir kutuda saklar.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "scarf",
+      "clue": "A length of cloth worn around the neck or head.",
+      "tr": "Boyna veya başa sarılan uzun kumaş; atkı veya eşarp.",
+      "example": "Wrap a scarf around your neck before you leave.",
+      "exampleTr": "Çıkmadan önce boynuna bir atkı sar.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "skirt",
+      "clue": "A garment hanging from the waist with no separate legs.",
+      "tr": "Belden aşağı uzanan, ayrı bacak bölümleri olmayan giysi; etek.",
+      "example": "Her long skirt moved in the breeze.",
+      "exampleTr": "Uzun eteği esintide dalgalandı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "slipper",
+      "clue": "A soft shoe usually worn indoors.",
+      "tr": "Genellikle ev içinde giyilen yumuşak ayakkabı; terlik.",
+      "example": "The dog hid my slipper behind the sofa.",
+      "exampleTr": "Köpek terliğimi kanepenin arkasına sakladı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sock",
+      "clue": "A piece of clothing covering the foot and lower leg.",
+      "tr": "Ayağı ve alt bacağın bir kısmını örten giysi; çorap.",
+      "example": "There is a hole in my left sock.",
+      "exampleTr": "Sol çorabımda bir delik var.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sweater",
+      "clue": "A warm knitted upper garment.",
+      "tr": "Sıcak tutan örme üst giysi; kazak.",
+      "example": "She knitted a sweater for her grandson.",
+      "exampleTr": "Torunu için bir kazak ördü.",
+      "synonyms": [
+        "jumper",
+        "pullover"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "Z",
+      "word": "zipper",
+      "clue": "A fastening with two rows of teeth joined by a sliding part.",
+      "tr": "Kayan bir parçayla birleşen iki sıra dişli kapama aracı; fermuar.",
+      "example": "The zipper on my jacket is stuck.",
+      "exampleTr": "Ceketimin fermuarı sıkıştı.",
+      "synonyms": [
+        "zip"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "ankle",
+      "clue": "The joint connecting the foot to the leg.",
+      "tr": "Ayağı bacağa bağlayan eklem; ayak bileği.",
+      "example": "She twisted her ankle on the uneven path.",
+      "exampleTr": "Bozuk patikada ayak bileğini burktu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "artery",
+      "clue": "A blood vessel carrying blood away from the heart.",
+      "tr": "Kanı kalpten uzaklaştıran damar; atardamar.",
+      "example": "The surgeon repaired the damaged artery.",
+      "exampleTr": "Cerrah zarar gören atardamarı onardı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "blister",
+      "clue": "A small raised pocket of fluid on the skin.",
+      "tr": "Deride oluşan küçük, sıvı dolu kabarcık.",
+      "example": "The new shoes gave me a blister.",
+      "exampleTr": "Yeni ayakkabılar ayağımı su toplattı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bruise",
+      "clue": "A dark mark on the skin caused by an injury.",
+      "tr": "Darbe sonucu deride oluşan koyu renkli iz; morluk.",
+      "example": "A purple bruise appeared on his knee.",
+      "exampleTr": "Dizinde mor bir ezik izi oluştu.",
+      "synonyms": [
+        "contusion"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cheek",
+      "clue": "The soft part of the face below the eye.",
+      "tr": "Yüzün göz altındaki yumuşak bölümü; yanak.",
+      "example": "A tear rolled down her cheek.",
+      "exampleTr": "Yanağından bir damla gözyaşı süzüldü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "chin",
+      "clue": "The part of the face below the lower lip.",
+      "tr": "Yüzün alt dudağın altındaki bölümü; çene ucu.",
+      "example": "He rested his chin on his hand.",
+      "exampleTr": "Çenesini eline dayadı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "elbow",
+      "clue": "The joint in the middle of the arm.",
+      "tr": "Kolun ortasındaki eklem; dirsek.",
+      "example": "I bumped my elbow against the door.",
+      "exampleTr": "Dirseğimi kapıya çarptım.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "eyebrow",
+      "clue": "The line of hair above an eye.",
+      "tr": "Gözün üstündeki kıl çizgisi; kaş.",
+      "example": "She raised one eyebrow in surprise.",
+      "exampleTr": "Şaşkınlıkla bir kaşını kaldırdı.",
+      "synonyms": [
+        "brow"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "forehead",
+      "clue": "The part of the face above the eyes and below the hair.",
+      "tr": "Yüzün gözlerle saç arasındaki bölümü; alın.",
+      "example": "He wiped the sweat from his forehead.",
+      "exampleTr": "Alnındaki teri sildi.",
+      "synonyms": [
+        "brow"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "heel",
+      "clue": "The back part of the foot below the ankle.",
+      "tr": "Ayağın arka, bilek altındaki bölümü; topuk.",
+      "example": "My heel hurt after the long walk.",
+      "exampleTr": "Uzun yürüyüşten sonra topuğum ağrıdı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "J",
+      "word": "jaw",
+      "clue": "The bones around the mouth that hold the teeth.",
+      "tr": "Ağız çevresinde dişleri taşıyan kemik yapı; çene.",
+      "example": "She rested her jaw on her palm.",
+      "exampleTr": "Çenesini avucuna dayadı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "J",
+      "word": "joint",
+      "clue": "A place where two bones meet and can move.",
+      "tr": "İki kemiğin birleştiği ve hareket edebildiği yer; eklem.",
+      "example": "The knee is a large joint in the leg.",
+      "exampleTr": "Diz, bacaktaki büyük bir eklemdir.",
+      "synonyms": [
+        "articulation"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "K",
+      "word": "kidney",
+      "clue": "An organ that filters waste from the blood and makes urine.",
+      "tr": "Kandaki atıkları süzüp idrar üreten organ; böbrek.",
+      "example": "The scan showed that his kidney was healthy.",
+      "exampleTr": "Tarama böbreğinin sağlıklı olduğunu gösterdi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "K",
+      "word": "knee",
+      "clue": "The joint between the upper and lower parts of the leg.",
+      "tr": "Bacağın üst ve alt bölümleri arasındaki eklem; diz.",
+      "example": "He bent his knee to tie his shoe.",
+      "exampleTr": "Ayakkabısını bağlamak için dizini büktü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "K",
+      "word": "knuckle",
+      "clue": "A finger joint, especially where the finger meets the hand.",
+      "tr": "Parmak eklemi, özellikle parmağın ele bağlandığı boğum.",
+      "example": "He scraped a knuckle against the rough wall.",
+      "exampleTr": "Parmak boğumunu pürüzlü duvara sürtüp sıyırdı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "lung",
+      "clue": "One of the two organs in the chest used for breathing.",
+      "tr": "Göğüste bulunan iki solunum organından biri; akciğer.",
+      "example": "The doctor examined the image of her left lung.",
+      "exampleTr": "Doktor sol akciğerinin görüntüsünü inceledi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "muscle",
+      "clue": "Body tissue that tightens to produce movement.",
+      "tr": "Kasılıp hareket oluşturan vücut dokusu; kas.",
+      "example": "He strained a muscle while lifting the box.",
+      "exampleTr": "Kutuyu kaldırırken bir kasını incitti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "N",
+      "word": "nostril",
+      "clue": "One of the two openings in the nose.",
+      "tr": "Burundaki iki açıklıktan biri; burun deliği.",
+      "example": "One nostril was blocked by his cold.",
+      "exampleTr": "Soğuk algınlığı nedeniyle bir burun deliği tıkalıydı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "rib",
+      "clue": "One of the curved bones surrounding the chest.",
+      "tr": "Göğsü çevreleyen kavisli kemiklerden biri; kaburga.",
+      "example": "The fall left her with a broken rib.",
+      "exampleTr": "Düşme sonucu bir kaburgası kırıldı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "scar",
+      "clue": "A mark left on the skin after a wound heals.",
+      "tr": "Yara iyileştikten sonra deride kalan iz.",
+      "example": "A small scar remained above his eyebrow.",
+      "exampleTr": "Kaşının üzerinde küçük bir yara izi kaldı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "shin",
+      "clue": "The front part of the lower leg.",
+      "tr": "Bacağın diz altındaki ön bölümü; kaval bölgesi.",
+      "example": "I hit my shin on the low table.",
+      "exampleTr": "Kaval kemiğimi alçak masaya çarptım.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "shoulder",
+      "clue": "The body part where the arm joins the upper body.",
+      "tr": "Kolun gövdenin üst kısmına bağlandığı bölge; omuz.",
+      "example": "She carried the bag over one shoulder.",
+      "exampleTr": "Çantayı bir omzunda taşıdı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "spine",
+      "clue": "The line of bones running down the back.",
+      "tr": "Sırt boyunca uzanan kemik dizisi; omurga.",
+      "example": "The model shows every bone in the spine.",
+      "exampleTr": "Model omurgadaki her kemiği gösteriyor.",
+      "synonyms": [
+        "backbone",
+        "vertebral column"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "thigh",
+      "clue": "The upper part of the leg between the hip and knee.",
+      "tr": "Bacağın kalça ile diz arasındaki üst bölümü; uyluk.",
+      "example": "The ball struck him on the thigh.",
+      "exampleTr": "Top uyluğuna çarptı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "throat",
+      "clue": "The passage inside the neck used for swallowing and breathing.",
+      "tr": "Boynun içinde yutma ve solunumda kullanılan geçit; boğaz.",
+      "example": "My throat felt dry after the long speech.",
+      "exampleTr": "Uzun konuşmadan sonra boğazım kurudu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "thumb",
+      "clue": "The short thick finger at the side of the hand.",
+      "tr": "Elin yanındaki kısa ve kalın parmak; başparmak.",
+      "example": "She pressed the button with her thumb.",
+      "exampleTr": "Düğmeye başparmağıyla bastı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "toe",
+      "clue": "One of the small digits at the end of the foot.",
+      "tr": "Ayağın ucundaki küçük parmaklardan biri.",
+      "example": "I hurt my big toe against the chair leg.",
+      "exampleTr": "Ayak başparmağımı sandalye bacağına çarptım.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "tongue",
+      "clue": "The soft moving organ inside the mouth used for tasting and speaking.",
+      "tr": "Tat alma ve konuşmaya yarayan hareketli ağız içi organ; dil.",
+      "example": "The hot tea burned my tongue.",
+      "exampleTr": "Sıcak çay dilimi yaktı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "V",
+      "word": "vein",
+      "clue": "A blood vessel that carries blood toward the heart.",
+      "tr": "Kanı kalbe doğru taşıyan damar; toplardamar.",
+      "example": "A thin vein was visible beneath the skin.",
+      "exampleTr": "Derinin altında ince bir toplardamar görünüyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "wrist",
+      "clue": "The joint between the hand and arm.",
+      "tr": "El ile kol arasındaki eklem; el bileği.",
+      "example": "She wore a watch on her left wrist.",
+      "exampleTr": "Sol bileğine saat taktı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "aisle",
+      "clue": "A passage between rows of seats or shelves.",
+      "tr": "Koltuk veya raf sıraları arasındaki geçiş yolu; koridor.",
+      "example": "I prefer a seat beside the aisle.",
+      "exampleTr": "Koridor kenarında bir koltuğu tercih ederim.",
+      "synonyms": [
+        "passageway"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "anchor",
+      "clue": "A heavy object that holds a boat in place.",
+      "tr": "Tekneyi yerinde tutan ağır nesne; çapa.",
+      "example": "The captain lowered the anchor near the shore.",
+      "exampleTr": "Kaptan kıyı yakınında çapayı indirdi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "baggage",
+      "clue": "Bags and cases taken on a journey.",
+      "tr": "Yolculuğa götürülen çantalar ve valizler; bagaj.",
+      "example": "We collected our baggage after the flight.",
+      "exampleTr": "Uçuştan sonra bagajımızı aldık.",
+      "synonyms": [
+        "luggage"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "brake",
+      "clue": "A device used to slow or stop a vehicle.",
+      "tr": "Aracı yavaşlatan veya durduran düzenek; fren.",
+      "example": "Press the brake gently on the wet road.",
+      "exampleTr": "Islak yolda frene hafifçe bas.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cabin",
+      "clue": "A small room on a ship or a small simple house.",
+      "tr": "Gemide küçük oda ya da küçük, sade ev; kabin veya kulübe.",
+      "example": "Our cabin on the ferry had two beds.",
+      "exampleTr": "Vapurdaki kamarımızda iki yatak vardı.",
+      "synonyms": [
+        "compartment"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "canoe",
+      "clue": "A narrow boat moved using paddles.",
+      "tr": "Kürekle hareket ettirilen dar tekne; kano.",
+      "example": "We paddled the canoe across the quiet lake.",
+      "exampleTr": "Kanoyla sakin gölü kürek çekerek geçtik.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "compass",
+      "clue": "An instrument with a needle that points north.",
+      "tr": "İbresi kuzeyi gösteren yön bulma aracı; pusula.",
+      "example": "Use the compass to check which way is north.",
+      "exampleTr": "Kuzeyin hangi yönde olduğunu kontrol etmek için pusulayı kullan.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "crossroads",
+      "clue": "A place where two roads cross.",
+      "tr": "İki yolun kesiştiği yer; kavşak.",
+      "example": "Turn left at the next crossroads.",
+      "exampleTr": "Sonraki kavşakta sola dön.",
+      "synonyms": [
+        "intersection",
+        "junction"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "ferry",
+      "clue": "A boat that regularly carries people or vehicles across water.",
+      "tr": "İnsanları veya araçları su üzerinden düzenli taşıyan tekne; vapur veya feribot.",
+      "example": "The ferry leaves for the island at noon.",
+      "exampleTr": "Adaya giden vapur öğlen kalkıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "handlebar",
+      "clue": "The bar used to steer a bicycle or motorcycle.",
+      "tr": "Bisiklet ya da motosikleti yönlendiren çubuk; gidon.",
+      "example": "He adjusted the handlebar before the ride.",
+      "exampleTr": "Sürüşten önce gidonu ayarladı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "harbor",
+      "clue": "A sheltered area of water where boats can stop safely.",
+      "tr": "Teknelerin güvenle durabildiği korunaklı su alanı; liman.",
+      "example": "The fishing boats returned to the harbor.",
+      "exampleTr": "Balıkçı tekneleri limana döndü.",
+      "synonyms": [
+        "port",
+        "haven"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "highway",
+      "clue": "A major road connecting towns or cities.",
+      "tr": "Kasabaları veya şehirleri bağlayan ana yol; karayolu.",
+      "example": "We joined the highway just outside the city.",
+      "exampleTr": "Şehrin hemen dışında ana yola girdik.",
+      "synonyms": [
+        "main road"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "hostel",
+      "clue": "An inexpensive place to stay, often with shared rooms.",
+      "tr": "Genellikle odaları paylaşılan ekonomik konaklama yeri; hostel.",
+      "example": "We booked two beds in a hostel near the station.",
+      "exampleTr": "İstasyon yakınındaki hostelde iki yatak ayırttık.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "itinerary",
+      "clue": "A plan showing the route and stops of a journey.",
+      "tr": "Yolculuğun güzergâhını ve duraklarını gösteren plan.",
+      "example": "Our itinerary includes three days in Rome.",
+      "exampleTr": "Seyahat planımız Roma'da üç gün içeriyor.",
+      "synonyms": [
+        "travel plan"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "K",
+      "word": "kayak",
+      "clue": "A small narrow boat moved with a double-ended paddle.",
+      "tr": "Çift taraflı kürekle hareket ettirilen küçük dar tekne; kano türü.",
+      "example": "She guided the kayak between the rocks.",
+      "exampleTr": "Kanoyu kayaların arasından yönlendirdi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "lighthouse",
+      "clue": "A tall building with a strong light that guides ships.",
+      "tr": "Gemilere yol gösteren güçlü ışıklı yüksek yapı; deniz feneri.",
+      "example": "The lighthouse flashed above the rocky coast.",
+      "exampleTr": "Deniz feneri kayalık kıyının üzerinde ışık saçtı.",
+      "synonyms": [
+        "beacon"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "luggage",
+      "clue": "The bags and cases used when traveling.",
+      "tr": "Seyahat ederken kullanılan çanta ve valizler; bagaj.",
+      "example": "Please keep your luggage beside your seat.",
+      "exampleTr": "Lütfen bagajınızı koltuğunuzun yanında tutun.",
+      "synonyms": [
+        "baggage"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "passport",
+      "clue": "An official document used to identify a person when traveling abroad.",
+      "tr": "Yurt dışına giderken kimlik belirten resmî belge; pasaport.",
+      "example": "Check that your passport is in your bag.",
+      "exampleTr": "Pasaportunun çantanda olduğundan emin ol.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "airbed",
+      "clue": "A mattress filled with air that can be emptied for storage.",
+      "tr": "Şişme yatak.",
+      "example": "We brought an airbed for our camping trip.",
+      "exampleTr": "Kamp gezimiz için şişme yatak getirdik.",
+      "synonyms": [
+        "inflatable mattress"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bedside table",
+      "clue": "A small piece of furniture beside a bed for a lamp or personal items.",
+      "tr": "Komodin; yatağın yanındaki küçük masa.",
+      "example": "I left my glasses on the bedside table.",
+      "exampleTr": "Gözlüğümü komodinin üzerinde bıraktım.",
+      "synonyms": [
+        "nightstand"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "coathook",
+      "clue": "A curved piece fixed to a wall for hanging outdoor clothing.",
+      "tr": "Palto veya ceket asmak için kullanılan duvar kancası.",
+      "example": "Hang your jacket on the coathook by the door.",
+      "exampleTr": "Ceketini kapının yanındaki askı kancasına as.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "drainpipe",
+      "clue": "A tube that carries rainwater or wastewater away from a building.",
+      "tr": "Bir binadan yağmur suyunu veya atık suyu taşıyan boru.",
+      "example": "Leaves blocked the drainpipe during the storm.",
+      "exampleTr": "Fırtına sırasında yapraklar su tahliye borusunu tıkadı.",
+      "synonyms": [
+        "drainage pipe"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "ferryboat",
+      "clue": "A vessel that carries people or vehicles across a short stretch of water.",
+      "tr": "İnsanları veya araçları kısa bir su yolu üzerinden taşıyan feribot.",
+      "example": "The ferryboat took us across the lake.",
+      "exampleTr": "Feribot bizi gölün karşı kıyısına götürdü.",
+      "synonyms": [
+        "ferry"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "footbath",
+      "clue": "A small tub of water used to soak and wash your feet.",
+      "tr": "Ayakları yıkamak veya suda dinlendirmek için kullanılan küçük küvet.",
+      "example": "After the long walk, she prepared a warm footbath.",
+      "exampleTr": "Uzun yürüyüşten sonra ayakları için ılık su dolu bir küvet hazırladı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "headrest",
+      "clue": "A padded support behind your head on a seat.",
+      "tr": "Koltukta başı destekleyen yastıklı bölüm; başlık.",
+      "example": "Adjust the headrest before you start driving.",
+      "exampleTr": "Araba kullanmaya başlamadan önce koltuk başlığını ayarla.",
+      "synonyms": [
+        "head restraint"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "M",
+      "word": "mudflat",
+      "clue": "An area of wet, soft ground beside the sea that is exposed at low tide.",
+      "tr": "Gelgit çekildiğinde ortaya çıkan kıyıdaki çamurlu düzlük.",
+      "example": "Birds searched for food on the mudflat.",
+      "exampleTr": "Kuşlar kıyıdaki çamurlu düzlükte yiyecek aradı.",
+      "synonyms": [
+        "tidal flat"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "windbreak",
+      "clue": "A line of trees or a barrier that protects an area from strong moving air.",
+      "tr": "Bir alanı kuvvetli rüzgârdan koruyan ağaç sırası veya engel.",
+      "example": "The farmer planted trees to create a windbreak.",
+      "exampleTr": "Çiftçi rüzgârı kesen bir engel oluşturmak için ağaç dikti.",
+      "synonyms": [
+        "shelterbelt"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "toothache",
+      "clue": "Pain in or around one of the hard structures used for biting food.",
+      "tr": "Diş ağrısı.",
+      "example": "A terrible toothache kept me awake all night.",
+      "exampleTr": "Korkunç bir diş ağrısı beni bütün gece uyutmadı.",
+      "synonyms": [
+        "dental pain"
+      ]
+    }
+  ]
+}

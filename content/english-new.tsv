@@ -1,0 +1,776 @@
+a1|word|animal|A living creature such as a dog or bird.|Köpek veya kuş gibi canlı.|My favorite animal is the dolphin.|En sevdiğim hayvan yunus.
+a1|word|bread|Food made from flour and baked in an oven.|Undan yapılıp fırında pişirilen yiyecek.|We bought fresh bread.|Taze ekmek aldık.
+a1|word|bottle|A container with a narrow neck for liquids.|Sıvılar için dar ağızlı kap.|Fill the bottle with water.|Şişeyi suyla doldur.
+a1|word|bridge|A structure that carries a road over water or a gap.|Yolu suyun veya boşluğun üzerinden geçiren yapı.|We crossed the bridge on foot.|Köprüyü yürüyerek geçtik.
+a1|word|cheese|A solid food made from milk.|Sütten yapılan katı yiyecek.|I like cheese with bread.|Peyniri ekmekle severim.
+a1|word|clock|An object on a wall or desk that shows the time.|Duvar veya masa üzerinde zamanı gösteren nesne.|The clock says ten.|Saat onu gösteriyor.
+a1|word|desert|A large dry area with very little rain.|Çok az yağış alan geniş kurak alan.|Days are hot in the desert.|Çölde gündüzler sıcaktır.
+a1|word|dream|Images and events you experience while sleeping.|Uyurken zihinde yaşanan görüntü ve olaylar.|I had a strange dream.|Tuhaf bir rüya gördüm.
+a1|word|empty|Containing nothing.|İçinde hiçbir şey olmayan.|The glass is empty.|Bardak boş.
+a1|word|forest|A large area covered with trees.|Ağaçlarla kaplı geniş alan.|We walked through the forest.|Ormanın içinden yürüdük.
+a1|word|friend|Someone you like and know well.|Sevdiğin ve iyi tanıdığın kişi.|My friend lives nearby.|Arkadaşım yakında yaşıyor.
+a1|word|gift|Something you give without expecting payment.|Karşılık beklemeden verilen şey.|This gift is for you.|Bu hediye senin için.
+a1|word|hope|To want something good to happen.|İyi bir şey olmasını istemek.|I hope you feel better soon.|Umarım yakında daha iyi hissedersin.
+a1|word|inside|In the inner part of something.|Bir şeyin iç bölümünde.|The children are inside.|Çocuklar içeride.
+a1|word|jump|To push yourself off the ground with your legs.|Bacaklarla kendini yerden yukarı itmek.|Can you jump over this line?|Bu çizginin üzerinden atlayabilir misin?
+a1|word|kind|Caring about others and willing to help.|Başkalarını önemseyen ve yardıma hazır.|That was very kind of you.|Bu yaptığın çok nazikçeydi.
+a1|word|light|The brightness that lets you see.|Görmeyi sağlayan aydınlık.|There is not enough light here.|Burada yeterli ışık yok.
+a1|word|money|What you use to pay for things.|Bir şeyin ücretini ödemek için kullanılan araç.|I am saving money for a trip.|Seyahat için para biriktiriyorum.
+a1|word|night|The dark part of each day.|Günün karanlık bölümü.|The streets are quiet at night.|Geceleri sokaklar sessizdir.
+a1|word|open|Not closed.|Kapalı olmayan.|The shop is open.|Dükkân açık.
+a1|word|plate|A flat dish used to serve food.|Yemek servis edilen düz kap.|Put the sandwich on a plate.|Sandviçi bir tabağa koy.
+a1|word|rabbit|A small animal with long ears and a short tail.|Uzun kulaklı, kısa kuyruklu küçük hayvan.|The rabbit ate a carrot.|Tavşan bir havuç yedi.
+a1|word|smile|To show happiness by moving the corners of your mouth.|Ağız kenarlarını kaldırarak mutluluk göstermek.|You always make me smile.|Beni her zaman gülümsetirsin.
+a1|word|tree|A tall plant with a wooden trunk.|Odunsu gövdesi olan uzun bitki.|There is a tree outside my window.|Penceremin dışında bir ağaç var.
+a1|word|useful|Helping you do or achieve something.|Bir işi yapmaya yardımcı olan.|This map is useful.|Bu harita faydalı.
+a1|word|warm|Slightly hot in a pleasant way.|Hoş sayılabilecek ölçüde sıcak.|The water is warm.|Su ılık.
+b1|word|awareness|Knowledge that a situation exists.|Bir durumun varlığının bilincinde olma.|The campaign raised awareness of waste.|Kampanya israf konusunda farkındalık yarattı.
+b1|word|benefit|An advantage or helpful effect.|Avantaj veya yararlı etki.|Regular practice has a clear benefit.|Düzenli pratiğin açık bir faydası var.
+b1|word|confidence|Belief in your own ability.|Kendi yeteneğine duyulan güven.|Speaking practice builds confidence.|Konuşma pratiği özgüveni geliştirir.
+b1|word|decline|To politely refuse an invitation or offer.|Davet veya teklifi nazikçe reddetmek.|I had to decline the invitation.|Daveti reddetmek zorunda kaldım.
+b1|word|essential|Completely necessary.|Kesinlikle gerekli olan.|Sleep is essential for learning.|Uyku öğrenme için gereklidir.
+b1|word|eventually|In the end, after some time or difficulty.|Bir süre veya güçlükten sonra sonunda.|We eventually found the station.|Sonunda istasyonu bulduk.
+b1|word|familiar|Known from previous experience.|Önceki deneyimlerden bilinen.|That voice sounds familiar.|O ses tanıdık geliyor.
+b1|word|generous|Willing to give more than expected.|Beklenenden fazlasını vermeye istekli.|That was a generous offer.|Bu cömert bir teklifti.
+b1|word|handle|To deal with a situation successfully.|Bir durumu başarıyla ele almak.|Can you handle this task?|Bu işi halledebilir misin?
+b1|word|improve|To become or make something better.|Daha iyi hâle gelmek veya getirmek.|I want to improve my pronunciation.|Telaffuzumu geliştirmek istiyorum.
+b1|word|independent|Not relying on others for support.|Destek için başkalarına bağlı olmayan.|She wants to be financially independent.|Maddi açıdan bağımsız olmak istiyor.
+b1|word|judgment|An opinion formed after careful thought.|Dikkatle düşündükten sonra varılan yargı.|Trust your judgment.|Kendi değerlendirmene güven.
+b1|word|limit|The greatest amount allowed or possible.|İzin verilen veya mümkün olan en yüksek miktar.|There is a limit to the budget.|Bütçenin bir sınırı var.
+b1|word|measure|To find the size or amount of something.|Bir şeyin boyutunu veya miktarını belirlemek.|How do you measure progress?|İlerlemeyi nasıl ölçüyorsun?
+b1|word|notice|To become aware of something.|Bir şeyin farkına varmak.|Did you notice the difference?|Farkı fark ettin mi?
+b1|word|occasionally|Sometimes, but not often.|Bazen, çok sık olmadan.|I occasionally work from home.|Ara sıra evden çalışırım.
+b1|word|overwhelming|So strong or large that it is hard to manage.|Başa çıkılması zor olacak kadar güçlü veya büyük.|The amount of work felt overwhelming.|İş miktarı bunaltıcı geliyordu.
+b1|word|patience|The ability to wait calmly.|Sakin biçimde bekleyebilme yeteneği.|Learning requires patience.|Öğrenmek sabır gerektirir.
+b1|word|require|To need something or make it necessary.|Bir şeye ihtiyaç duymak veya onu gerekli kılmak.|Does the job require experience?|İş deneyim gerektiriyor mu?
+b1|word|struggle|To try hard to do something difficult.|Zor bir işi yapmak için çabalamak.|I sometimes struggle to find the right word.|Bazen doğru kelimeyi bulmakta zorlanıyorum.
+b1|word|thorough|Careful and complete.|Dikkatli ve eksiksiz.|We need a thorough check.|Kapsamlı bir kontrole ihtiyacımız var.
+b1|word|unusual|Different from what is normal.|Normalden farklı olan.|That is an unusual idea.|Bu alışılmadık bir fikir.
+b1|word|willing|Ready and happy to do something.|Bir şeyi yapmaya hazır ve istekli.|I am willing to help.|Yardım etmeye hazırım.
+b1|word|avoid|To keep away from something.|Bir şeyden uzak durmak.|Try to avoid distractions.|Dikkat dağıtıcı şeylerden kaçınmaya çalış.
+b1|word|convince|To make someone believe something is true.|Birini bir şeyin doğruluğuna inandırmak.|The evidence did not convince me.|Kanıt beni ikna etmedi.
+b1|word|despite|Without being prevented by something.|Bir engelleyici duruma rağmen.|We went out despite the rain.|Yağmura rağmen dışarı çıktık.
+c1|word|ambiguous|Having more than one possible meaning.|Birden çok anlama gelebilen.|The instructions were ambiguous.|Talimatlar belirsizdi.
+c1|word|bias|An unfair preference that affects judgment.|Yargıyı etkileyen taraflı eğilim.|The study tries to reduce bias.|Araştırma yanlılığı azaltmaya çalışıyor.
+c1|word|consensus|General agreement among a group.|Bir grup içindeki genel fikir birliği.|We reached a consensus.|Fikir birliğine vardık.
+c1|word|discrepancy|A difference between things expected to match.|Uyuşması beklenen şeyler arasındaki farklılık.|There is a discrepancy in the figures.|Rakamlarda bir tutarsızlık var.
+c1|word|exacerbate|To make a problem worse.|Bir sorunu daha kötü hâle getirmek.|Delays could exacerbate the shortage.|Gecikmeler kıtlığı ağırlaştırabilir.
+c1|word|facilitate|To make an action or process easier.|Bir eylemi veya süreci kolaylaştırmak.|Clear instructions facilitate learning.|Açık talimatlar öğrenmeyi kolaylaştırır.
+c1|word|gratify|To give someone pleasure or satisfaction.|Birini memnun etmek veya tatmin etmek.|The results will gratify the team.|Sonuçlar ekibi memnun edecek.
+c1|word|hierarchy|A system that ranks people or things by importance.|Kişileri veya şeyleri önem sırasına koyan sistem.|The company has a strict hierarchy.|Şirketin katı bir hiyerarşisi var.
+c1|word|inadvertent|Not intended or deliberate.|Kasıtlı olmayan.|It was an inadvertent omission.|Bu istemeden yapılmış bir atlamaydı.
+c1|word|jeopardize|To put something at risk.|Bir şeyi tehlikeye atmak.|Delays could jeopardize the project.|Gecikmeler projeyi tehlikeye atabilir.
+c1|word|lucrative|Producing a lot of money.|Çok para kazandıran.|It became a lucrative business.|Kazançlı bir işe dönüştü.
+c1|word|mundane|Ordinary and not very interesting.|Sıradan ve pek ilginç olmayan.|Even mundane tasks require attention.|Sıradan işler bile dikkat gerektirir.
+c1|word|notwithstanding|Despite a particular fact.|Belirli bir gerçeğe rağmen.|Notwithstanding the delay, we finished on time.|Gecikmeye rağmen zamanında bitirdik.
+c1|word|opaque|Difficult to understand or see through.|Anlaşılması veya içinden görülmesi güç.|The rules are opaque.|Kurallar anlaşılmaz.
+c1|word|prevalent|Common in a place or time.|Bir yerde veya dönemde yaygın olan.|This belief is prevalent.|Bu inanış yaygın.
+c1|word|reconcile|To make conflicting ideas or people compatible.|Çelişen düşünce veya kişileri uzlaştırmak.|We must reconcile these conflicting goals.|Bu çelişen hedefleri uzlaştırmalıyız.
+c1|word|skeptical|Doubting whether something is true.|Bir şeyin doğruluğundan kuşku duyan.|I remain skeptical about the claim.|İddia konusunda kuşkucuyum.
+c1|word|trade-off|A balance in which gaining one thing means losing another.|Bir kazanım için başka bir şeyden vazgeçme dengesi.|There is a trade-off between speed and accuracy.|Hız ile doğruluk arasında bir ödünleşim var.
+c1|word|unprecedented|Never having happened before.|Daha önce hiç yaşanmamış.|Demand reached an unprecedented level.|Talep daha önce görülmemiş bir düzeye çıktı.
+c1|word|versatile|Able to be used for many different purposes.|Birçok farklı amaç için kullanılabilen.|This is a versatile tool.|Bu çok yönlü bir araç.
+c2|word|alacrity|Cheerful readiness to act.|Neşeli ve istekli biçimde harekete hazır olma.|She accepted with alacrity.|Büyük bir hevesle kabul etti.
+c2|word|bifurcate|To divide into two branches.|İki kola ayrılmak.|The road will bifurcate near the river.|Yol nehrin yakınında ikiye ayrılacak.
+c2|word|cogent|Clear, logical and convincing.|Açık, mantıklı ve ikna edici.|She presented a cogent argument.|İkna edici bir sav sundu.
+c2|word|deleterious|Causing harm or damage.|Zarara yol açan.|The policy had deleterious effects.|Politikanın zararlı etkileri oldu.
+c2|word|efficacy|The ability to produce the desired result.|İstenen sonucu ortaya çıkarma gücü.|The study tests the efficacy of the method.|Araştırma yöntemin etkililiğini sınar.
+c2|word|fatuous|Silly and lacking serious thought.|Aptalca ve ciddi düşünceden yoksun.|It was a fatuous comment.|Bu düşüncesizce yapılmış saçma bir yorumdu.
+c2|word|garrulous|Talking too much, often about trivial things.|Genellikle önemsiz konularda çok konuşan.|The garrulous passenger told endless stories.|Geveze yolcu bitmek bilmeyen hikâyeler anlattı.
+c2|word|harangue|A lengthy and aggressive speech.|Uzun ve saldırgan konuşma.|The meeting ended with a harangue.|Toplantı uzun bir azarlama konuşmasıyla bitti.
+c2|word|inchoate|Only partly formed or developed.|Henüz tam biçimlenmemiş.|The idea is still inchoate.|Fikir henüz tam şekillenmiş değil.
+c2|word|judicious|Showing careful and sensible judgment.|Dikkatli ve sağduyulu değerlendirme gösteren.|A judicious choice saved time.|İsabetli bir seçim zaman kazandırdı.
+c2|word|languid|Lacking energy or moving slowly.|Enerjisi az veya yavaş hareket eden.|She gave a languid wave.|Yavaşça, isteksiz bir el hareketi yaptı.
+c2|word|mendacious|Dishonest or untruthful.|Dürüst olmayan, yalan söyleyen.|The article contained mendacious claims.|Makale yalan iddialar içeriyordu.
+c2|word|nascent|Just beginning to exist.|Yeni oluşmaya başlayan.|They invested in a nascent industry.|Yeni gelişen bir sektöre yatırım yaptılar.
+c2|word|obviate|To remove the need for something.|Bir şeye duyulan ihtiyacı ortadan kaldırmak.|Automation can obviate repetitive work.|Otomasyon tekrarlanan işlere duyulan ihtiyacı kaldırabilir.
+c2|word|probity|Strong moral honesty.|Güçlü ahlaki dürüstlük.|Her probity was never questioned.|Onun dürüstlüğü hiç sorgulanmadı.
+c2|word|quiescent|Temporarily inactive or quiet.|Geçici olarak hareketsiz veya sessiz.|The volcano remains quiescent.|Yanardağ sessizliğini koruyor.
+c2|word|redolent|Strongly reminding you of something.|Bir şeyi güçlü biçimde hatırlatan.|The room was redolent of childhood summers.|Oda çocukluk yazlarını hatırlatıyordu.
+c2|word|salient|Most noticeable or important.|En belirgin veya önemli.|Let us discuss the salient points.|Öne çıkan noktaları tartışalım.
+c2|word|tendentious|Promoting a particular view in a biased way.|Belirli bir görüşü taraflı biçimde destekleyen.|The report offers a tendentious account.|Rapor taraflı bir anlatım sunuyor.
+c2|word|vitiate|To spoil or weaken the effectiveness of something.|Bir şeyin geçerliliğini veya etkisini bozmak.|Poor data can vitiate the analysis.|Kötü veriler analizin geçerliliğini bozabilir.
+a1|phrasal|eat out|To have a meal at a restaurant.|Restoranda yemek yemek.|We eat out on Saturdays.|Cumartesileri dışarıda yemek yeriz.
+a1|phrasal|go away|To leave a place.|Bir yerden uzaklaşmak.|Please do not go away.|Lütfen gitme.
+a1|phrasal|lie down|To put your body in a flat resting position.|Uzanarak dinlenme konumuna geçmek.|I need to lie down.|Uzanmam gerekiyor.
+a1|phrasal|take out|To remove something from a place.|Bir şeyi bulunduğu yerden çıkarmak.|Please take out your notebook.|Lütfen defterini çıkar.
+a1|phrasal|wash up|To wash dishes after a meal.|Yemekten sonra bulaşıkları yıkamak.|I will wash up after dinner.|Yemekten sonra bulaşıkları yıkayacağım.
+b1|phrasal|break in|To enter a building illegally by force.|Bir binaya zorla ve yasa dışı girmek.|Someone tried to break in last night.|Dün gece biri zorla içeri girmeye çalıştı.
+b1|phrasal|call back|To return a telephone call.|Telefon aramasına geri dönmek.|I will call back after lunch.|Öğle yemeğinden sonra geri arayacağım.
+b1|phrasal|deal with|To take action about a problem or task.|Bir sorun veya işle ilgilenmek.|I can deal with this problem.|Bu sorunla ilgilenebilirim.
+b1|phrasal|fall behind|To make less progress than others.|Başkalarına göre daha yavaş ilerleyip geride kalmak.|I do not want to fall behind.|Geride kalmak istemiyorum.
+b1|phrasal|turn out|To prove to be a particular way in the end.|Sonunda belirli biçimde sonuçlanmak.|Things may turn out better than expected.|İşler beklenenden iyi sonuçlanabilir.
+c1|phrasal|abide by|To obey a rule or agreement.|Bir kurala veya anlaşmaya uymak.|Everyone must abide by the rules.|Herkes kurallara uymalı.
+c1|phrasal|bank on|To depend confidently on something happening.|Bir şeyin gerçekleşeceğine güvenmek.|We cannot bank on good weather.|Havanın iyi olacağına güvenemeyiz.
+c1|phrasal|iron out|To resolve small problems or disagreements.|Küçük sorunları veya anlaşmazlıkları gidermek.|We need to iron out a few details.|Birkaç ayrıntıyı halletmeliyiz.
+c1|phrasal|lay out|To explain or present something clearly.|Bir şeyi açıkça sunmak veya anlatmak.|Please lay out the options.|Lütfen seçenekleri açıkça ortaya koy.
+c1|phrasal|own up to|To admit responsibility for something wrong.|Bir yanlışın sorumluluğunu kabul etmek.|He refused to own up to the mistake.|Hatayı üstlenmeyi reddetti.
+c2|phrasal|bear out|To support a statement with evidence.|Bir ifadeyi kanıtlarla desteklemek.|The results bear out our prediction.|Sonuçlar tahminimizi doğruluyor.
+c2|phrasal|paper over|To hide a problem without solving it.|Bir sorunu çözmeden üstünü örtmek.|Promises cannot paper over the cracks.|Vaatler sorunların üstünü örtemez.
+c2|phrasal|pore over|To read or examine something very carefully.|Bir şeyi çok dikkatle okuyup incelemek.|She likes to pore over old maps.|Eski haritaları dikkatle incelemeyi sever.
+c2|phrasal|shore up|To support something weak or failing.|Zayıflayan bir şeyi desteklemek.|The funds will shore up the business.|Fonlar işletmeyi ayakta tutacak.
+c2|phrasal|tide over|To help someone through a short difficult period.|Kısa bir zor dönemi atlatmaya yardım etmek.|This money will tide us over until Friday.|Bu para cumaya kadar idare etmemizi sağlayacak.
+b1|word|accept|To agree to receive or do something.|Bir şeyi almayı veya yapmayı kabul etmek.|I accept your offer.|Teklifini kabul ediyorum.
+b1|word|accident|An unexpected event that causes damage or injury.|Zarar veya yaralanmaya yol açan beklenmedik olay.|The accident blocked the road.|Kaza yolu kapattı.
+b1|word|accommodation|A place where you stay temporarily.|Geçici olarak kalınan yer.|We found affordable accommodation.|Uygun fiyatlı konaklama bulduk.
+b1|word|accompany|To go somewhere with someone.|Biriyle bir yere birlikte gitmek.|May I accompany you?|Sana eşlik edebilir miyim?
+b1|word|accomplish|To complete something successfully.|Bir şeyi başarıyla tamamlamak.|We can accomplish this together.|Bunu birlikte başarabiliriz.
+b1|word|account|An arrangement with a bank for keeping money.|Bankada para tutmaya yarayan düzenleme.|I opened a savings account.|Bir tasarruf hesabı açtım.
+b1|word|active|Doing many things or moving regularly.|Hareketli olan veya düzenli etkinlik yapan.|My grandfather is still active.|Dedem hâlâ aktif.
+b1|word|adapt|To change to suit new conditions.|Yeni koşullara uyacak şekilde değişmek.|We need to adapt to change.|Değişime uyum sağlamalıyız.
+b1|word|addicted|Unable to stop doing or using something.|Bir şeyi yapmayı veya kullanmayı bırakamayan.|He felt addicted to online games.|Çevrim içi oyunlara bağımlı olduğunu hissediyordu.
+b1|word|admire|To respect someone for their qualities.|Birine özellikleri nedeniyle hayranlık duymak.|I admire your patience.|Sabrına hayranım.
+b1|word|admit|To agree that something is true, often unwillingly.|Bir şeyin doğru olduğunu, bazen istemeyerek kabul etmek.|I admit I was wrong.|Hatalı olduğumu kabul ediyorum.
+b1|word|adult|A fully grown person.|Büyümesini tamamlamış kişi.|Each child needs an adult.|Her çocuğun yanında bir yetişkin gerekiyor.
+b1|word|advantage|Something that puts you in a better position.|Seni daha iyi konuma getiren özellik.|Experience is an advantage.|Deneyim bir avantajdır.
+b1|word|advertise|To tell people about a product to encourage sales.|Satışı artırmak için ürünü tanıtmak.|They advertise on local radio.|Yerel radyoda reklam veriyorlar.
+b1|word|affect|To cause a change in someone or something.|Birinde veya bir şeyde değişikliğe yol açmak.|Noise can affect concentration.|Gürültü odaklanmayı etkileyebilir.
+b1|word|aggressive|Behaving in an angry or threatening way.|Öfkeli veya tehditkâr davranan.|The dog became aggressive.|Köpek saldırganlaştı.
+b1|word|agreement|A decision accepted by two or more people.|İki veya daha çok kişinin kabul ettiği karar.|We signed an agreement.|Bir anlaşma imzaladık.
+b1|word|allow|To give permission.|İzin vermek.|They allow pets here.|Burada evcil hayvanlara izin veriyorlar.
+b1|word|alternative|Another possibility or choice.|Başka bir olasılık veya seçenek.|We need a cheaper alternative.|Daha ucuz bir alternatife ihtiyacımız var.
+b1|word|amazed|Extremely surprised.|Son derece şaşırmış.|I was amazed by the view.|Manzara karşısında hayrete düştüm.
+b1|word|amount|How much of something there is.|Bir şeyin ne kadar olduğu.|Add a small amount of salt.|Az miktarda tuz ekle.
+b1|word|announce|To make information publicly known.|Bir bilgiyi kamuya duyurmak.|They will announce the winner.|Kazananı duyuracaklar.
+b1|word|annoyed|Slightly angry or irritated.|Hafif kızgın veya rahatsız.|She was annoyed by the noise.|Gürültüye sinirlenmişti.
+b1|word|annual|Happening once every year.|Her yıl bir kez gerçekleşen.|This is our annual meeting.|Bu yıllık toplantımız.
+b1|word|anxious|Worried about what might happen.|Olabilecekler konusunda kaygılı.|I feel anxious before interviews.|Mülakatlardan önce kaygılanırım.
+b1|word|apologize|To say that you are sorry.|Üzgün olduğunu söylemek, özür dilemek.|I apologize for the delay.|Gecikme için özür dilerim.
+b1|word|appear|To become visible or seem a certain way.|Görünür olmak veya belli biçimde görünmek.|Stars appear after sunset.|Gün batımından sonra yıldızlar görünür.
+b1|word|application|A formal request for a job or opportunity.|İş veya fırsat için yapılan resmî başvuru.|I submitted my application.|Başvurumu gönderdim.
+b1|word|appointment|An arrangement to meet at a particular time.|Belirli saatte görüşmek için yapılan düzenleme.|I have an appointment at two.|Saat ikide randevum var.
+b1|word|appreciate|To recognize the value of something.|Bir şeyin değerini anlamak.|I appreciate your help.|Yardımını takdir ediyorum.
+b1|word|argue|To disagree using words.|Sözlü olarak karşı çıkıp tartışmak.|They argue about small things.|Küçük şeyler yüzünden tartışırlar.
+b1|word|arrange|To plan or organize something.|Bir şeyi planlamak veya düzenlemek.|Can you arrange a meeting?|Bir toplantı ayarlayabilir misin?
+b1|word|assist|To help someone.|Birine yardım etmek.|I can assist with the project.|Projeye yardım edebilirim.
+b1|word|attempt|An effort to do something.|Bir şeyi yapmaya yönelik girişim.|It was my first attempt.|Bu ilk denememdi.
+b1|word|attract|To make someone interested in something.|Birinin ilgisini çekmek.|Bright colors attract attention.|Canlı renkler dikkat çeker.
+b1|word|audience|People watching or listening to a performance.|Bir gösteriyi izleyen veya dinleyen kişiler.|The audience applauded loudly.|Seyirciler yüksek sesle alkışladı.
+b1|word|average|The usual or typical amount or level.|Olağan veya tipik miktar ya da düzey.|Sales were above average.|Satışlar ortalamanın üzerindeydi.
+b1|word|aware|Knowing that something exists.|Bir şeyin varlığından haberdar.|Are you aware of the risks?|Risklerin farkında mısın?
+b1|word|awkward|Uncomfortable or difficult to deal with.|Rahatsız edici veya ele alınması zor.|There was an awkward silence.|Rahatsız edici bir sessizlik oldu.
+b1|word|belief|An idea that you think is true.|Doğru olduğunu düşündüğün fikir.|That is a common belief.|Bu yaygın bir inanış.
+b1|word|belong|To be someone's property or part of a group.|Birine ait veya bir grubun parçası olmak.|These keys belong to me.|Bu anahtarlar bana ait.
+b1|word|blessing|Something that brings happiness or benefit.|Mutluluk veya yarar getiren şey.|Your help was a blessing.|Yardımın büyük bir nimetti.
+b1|word|borrow|To take something with permission and return it later.|İzinle alıp sonra geri vermek üzere kullanmak.|May I borrow your pen?|Kalemini ödünç alabilir miyim?
+b1|word|bother|To annoy or disturb someone.|Birini rahatsız etmek.|Does the noise bother you?|Gürültü seni rahatsız ediyor mu?
+b1|word|brave|Willing to face danger or difficulty.|Tehlike veya zorlukla yüzleşmeye cesaret eden.|That was a brave decision.|Bu cesur bir karardı.
+b1|word|brief|Lasting only a short time.|Kısa süre devam eden.|We had a brief conversation.|Kısa bir konuşma yaptık.
+b1|word|brilliant|Extremely clever or very good.|Çok zeki veya çok iyi.|That is a brilliant idea.|Bu harika bir fikir.
+b1|word|broad|Wide from side to side.|Bir yandan diğer yana geniş.|The river is broad here.|Nehir burada geniş.
+b1|word|cancel|To decide that a planned event will not happen.|Planlanmış etkinliği yapmama kararı almak.|We had to cancel the trip.|Geziyi iptal etmek zorunda kaldık.
+b1|word|candidate|Someone applying for a job or position.|Bir işe veya göreve başvuran kişi.|She is a strong candidate.|O güçlü bir aday.
+b1|word|career|The series of jobs you do during your working life.|Çalışma yaşamındaki mesleki ilerleyiş.|I want a career in data analysis.|Veri analizinde kariyer istiyorum.
+b1|word|cause|The reason something happens.|Bir şeyin gerçekleşme nedeni.|What was the cause of the delay?|Gecikmenin nedeni neydi?
+b1|word|celebrate|To do something enjoyable for a special event.|Özel bir olay için kutlama yapmak.|Let us celebrate your success.|Başarını kutlayalım.
+b1|word|certain|Having no doubt about something.|Bir konuda şüphesi olmayan.|I am certain she will come.|Geleceğinden eminim.
+b1|word|charity|An organization that helps people in need.|İhtiyaç sahiplerine yardım eden kuruluş.|She works for a charity.|Bir yardım kuruluşunda çalışıyor.
+b1|word|cheerful|Happy and positive.|Mutlu ve olumlu.|He sounded cheerful today.|Bugün sesi neşeli geliyordu.
+b1|word|choice|The act or possibility of choosing.|Seçme eylemi veya olanağı.|The choice is yours.|Seçim senin.
+b1|word|citizen|A person who legally belongs to a country.|Bir ülkeye hukuken bağlı kişi.|Every citizen has responsibilities.|Her vatandaşın sorumlulukları vardır.
+b1|word|claim|To say something is true without necessarily proving it.|Doğruluğunu kanıtlamadan ileri sürmek.|They claim the product lasts longer.|Ürünün daha uzun dayandığını iddia ediyorlar.
+b1|word|climate|The usual weather conditions of a region.|Bir bölgenin genel hava koşulları.|The climate here is mild.|Burada iklim ılıman.
+b1|word|colleague|A person you work with.|Birlikte çalıştığın kişi.|My colleague helped me.|İş arkadaşım bana yardım etti.
+b1|word|collect|To gather things together.|Şeyleri bir araya toplamak.|We collect data every week.|Her hafta veri toplarız.
+b1|word|comfortable|Making you feel relaxed and free from pain.|Rahat ve ağrısız hissettiren.|This chair is comfortable.|Bu sandalye rahat.
+b1|word|commercial|Related to business or selling goods.|Ticaret veya satışla ilgili.|This area has commercial buildings.|Bu bölgede ticari binalar var.
+b1|word|commit|To promise to do something seriously.|Bir şeyi yapmaya ciddi biçimde söz vermek.|I can commit to two hours daily.|Günde iki saat ayırmayı taahhüt edebilirim.
+b1|word|communicate|To share information or ideas.|Bilgi veya fikir paylaşmak.|We communicate by email.|E-postayla iletişim kuruyoruz.
+b1|word|community|People living together or sharing interests.|Aynı yerde yaşayan veya ilgi paylaşan kişiler.|The community organized a festival.|Topluluk bir festival düzenledi.
+b1|word|competition|An event in which people try to win.|İnsanların kazanmak için yarıştığı etkinlik.|She entered a writing competition.|Bir yazı yarışmasına katıldı.
+b1|word|complain|To say that you are unhappy about something.|Bir şeyden hoşnut olmadığını söylemek.|Customers often complain about delays.|Müşteriler sık sık gecikmelerden şikâyet eder.
+b1|word|complete|To finish doing something.|Bir işi bitirmek.|Please complete the form.|Lütfen formu tamamla.
+b1|word|concentrate|To give all your attention to something.|Tüm dikkati bir şeye vermek.|I cannot concentrate here.|Burada odaklanamıyorum.
+b1|word|condition|The state that something is in.|Bir şeyin bulunduğu durum.|The bike is in good condition.|Bisiklet iyi durumda.
+b1|word|confirm|To say that something is definite or correct.|Bir şeyin kesin veya doğru olduğunu doğrulamak.|Please confirm your booking.|Lütfen rezervasyonunu onayla.
+b1|word|confused|Unable to understand something clearly.|Bir şeyi açıkça anlayamayan.|I am confused by the instructions.|Talimatlar kafamı karıştırdı.
+b1|word|connect|To join things together.|Şeyleri birbirine bağlamak.|Connect the cable to the screen.|Kabloyu ekrana bağla.
+b1|word|conscious|Awake and able to understand what is happening.|Uyanık ve olanların farkında.|The patient is conscious.|Hastanın bilinci açık.
+b1|word|consist|To be formed from particular parts.|Belirli parçalardan oluşmak.|The course will consist of six lessons.|Kurs altı dersten oluşacak.
+b1|word|contact|Communication with another person.|Başka bir kişiyle iletişim.|We kept in contact.|İletişimi sürdürdük.
+b1|word|contain|To have something inside.|İçinde bir şey bulundurmak.|This box contains old letters.|Bu kutuda eski mektuplar var.
+b1|word|content|The information in a book, website or program.|Kitap, site veya programdaki bilgi bütünü.|The content is easy to understand.|İçerik kolay anlaşılıyor.
+b1|word|contract|A formal agreement between people or organizations.|Kişiler veya kuruluşlar arası resmî anlaşma.|Read the contract carefully.|Sözleşmeyi dikkatle oku.
+b1|word|convenient|Suitable and easy for your needs.|İhtiyaçlara uygun ve kolaylık sağlayan.|Is this time convenient for you?|Bu saat senin için uygun mu?
+b1|word|cooperate|To work together toward a shared goal.|Ortak hedef için birlikte çalışmak.|The teams need to cooperate.|Ekiplerin iş birliği yapması gerek.
+b1|word|cope|To manage a difficult situation.|Zor bir durumla başa çıkmak.|How do you cope with stress?|Stresle nasıl başa çıkıyorsun?
+b1|word|courage|The ability to act despite fear.|Korkuya rağmen harekete geçebilme gücü.|It takes courage to ask for help.|Yardım istemek cesaret gerektirir.
+b1|word|creative|Good at producing new ideas.|Yeni fikir üretmekte iyi olan.|We need a creative solution.|Yaratıcı bir çözüm gerek.
+b1|word|crowded|Full of people.|İnsanlarla dolu.|The bus was crowded.|Otobüs kalabalıktı.
+b1|word|damage|Harm that makes something less useful or valuable.|Bir şeyin yararını veya değerini azaltan zarar.|The storm caused damage.|Fırtına hasara yol açtı.
+b1|word|debate|A discussion with different opinions.|Farklı görüşlerin ele alındığı tartışma.|The issue sparked a debate.|Konu bir tartışma başlattı.
+b1|word|decent|Of an acceptable or fairly good standard.|Kabul edilebilir, oldukça iyi düzeyde.|We found a decent hotel.|Düzgün bir otel bulduk.
+b1|word|decision|A choice made after thinking.|Düşündükten sonra yapılan seçim.|It was a difficult decision.|Zor bir karardı.
+b1|word|decrease|To become smaller in number or amount.|Sayı veya miktar bakımından azalmak.|Costs should decrease next month.|Maliyetler gelecek ay azalmalı.
+b1|word|defend|To protect someone or something from attack.|Birini veya bir şeyi saldırıdan korumak.|They tried to defend the village.|Köyü savunmaya çalıştılar.
+b1|word|delay|A period when something happens later than planned.|Bir şeyin planlanandan geç gerçekleşmesi.|There was a short delay.|Kısa bir gecikme oldu.
+b1|word|delighted|Very pleased.|Çok memnun.|I am delighted to see you.|Seni gördüğüme çok sevindim.
+b1|word|deliver|To take something to a person or place.|Bir şeyi kişiye veya yere götürüp ulaştırmak.|They deliver food until midnight.|Gece yarısına kadar yemek getiriyorlar.
+b1|word|depend|To rely on someone or something.|Birine veya bir şeye bağlı olmak.|We depend on public transport.|Toplu taşımaya bağımlıyız.
+b1|word|describe|To say what someone or something is like.|Birinin veya bir şeyin nasıl olduğunu anlatmak.|Can you describe the house?|Evi tarif edebilir misin?
+b1|word|deserve|To have earned something through your actions.|Davranışlarıyla bir şeyi hak etmiş olmak.|You deserve a break.|Bir molayı hak ediyorsun.
+b1|word|destination|The place you are traveling to.|Yolculukta ulaşılacak yer.|We reached our destination.|Varış noktamıza ulaştık.
+b1|word|detail|A small piece of information.|Küçük bir bilgi parçası.|I forgot one detail.|Bir ayrıntıyı unuttum.
+b1|word|disappointed|Unhappy because something was not as good as hoped.|Beklediği gibi olmadığı için üzgün.|I was disappointed with the result.|Sonuç beni hayal kırıklığına uğrattı.
+b1|word|disaster|An event causing great damage or suffering.|Büyük zarar veya acıya yol açan olay.|The flood was a disaster.|Sel bir felaketti.
+b1|word|discount|A reduction in the usual price.|Normal fiyattan yapılan indirim.|Students get a discount.|Öğrenciler indirim alır.
+b1|word|discuss|To talk about something with others.|Bir konuyu başkalarıyla konuşmak.|Let us discuss the plan.|Planı konuşalım.
+b1|word|disease|An illness affecting people, animals or plants.|İnsan, hayvan veya bitkiyi etkileyen hastalık.|The disease spread quickly.|Hastalık hızla yayıldı.
+b1|word|distance|The space between two places.|İki yer arasındaki uzaklık.|What is the distance to the station?|İstasyona uzaklık ne kadar?
+b1|word|distract|To take attention away from something.|Dikkati bir şeyden uzaklaştırmak.|Notifications distract me.|Bildirimler dikkatimi dağıtıyor.
+b1|word|distribute|To give things to several people or places.|Bir şeyi birden fazla kişi veya yere dağıtmak.|They distribute food every Friday.|Her cuma yiyecek dağıtıyorlar.
+b1|word|district|A part of a city or country.|Şehir veya ülkenin bir bölümü.|This district is very quiet.|Bu semt çok sakin.
+b1|word|divide|To separate into parts.|Parçalara ayırmak.|Divide the cake into six pieces.|Pastayı altı parçaya böl.
+b1|word|donate|To give money or goods to help others.|Yardım amacıyla para veya eşya vermek.|We donate clothes every winter.|Her kış kıyafet bağışlarız.
+b1|word|duty|Something you are expected or required to do.|Yapılması beklenen veya gereken görev.|It is my duty to help.|Yardım etmek benim görevim.
+b1|word|earn|To receive money for work.|Çalışma karşılığında para kazanmak.|She wants to earn more.|Daha fazla kazanmak istiyor.
+b1|word|education|The process of teaching and learning.|Öğretme ve öğrenme süreci.|Education creates opportunities.|Eğitim fırsatlar yaratır.
+b1|word|effect|A change caused by something.|Bir şeyin neden olduğu değişiklik.|The effect was immediate.|Etkisi hemen görüldü.
+b1|word|effort|Physical or mental energy used to do something.|Bir iş için harcanan zihinsel veya fiziksel güç.|Your effort will pay off.|Çabanın karşılığını alacaksın.
+b1|word|elderly|Old, especially when speaking politely about people.|Özellikle insanlar için nazikçe kullanılan yaşlı ifadesi.|An elderly man asked for directions.|Yaşlı bir adam yol tarifi sordu.
+b1|word|embarrassed|Feeling uncomfortable because others may judge you.|Başkalarının değerlendirmesi yüzünden mahcup hissetmek.|I felt embarrassed by my mistake.|Hatam yüzünden utandım.
+b1|word|emergency|A dangerous situation needing immediate action.|Acil müdahale gerektiren tehlikeli durum.|Keep the exit clear in an emergency.|Acil durumda çıkışı açık tut.
+b1|word|emotion|A strong feeling such as joy or anger.|Sevinç veya öfke gibi güçlü his.|Her voice was full of emotion.|Sesi duygu doluydu.
+b1|word|employee|Someone paid to work for another person or company.|Bir kişi veya şirket için ücretle çalışan.|Each employee received training.|Her çalışan eğitim aldı.
+b1|word|employer|A person or organization that pays people to work.|İnsanları ücretle çalıştıran kişi veya kuruluş.|My employer offers flexible hours.|İşverenim esnek saatler sunuyor.
+b1|word|entertain|To amuse or interest people.|İnsanları eğlendirmek veya ilgilerini çekmek.|The games entertain the children.|Oyunlar çocukları eğlendiriyor.
+b1|word|environment|The natural world or the conditions around you.|Doğal dünya veya çevredeki koşullar.|We should protect the environment.|Çevreyi korumalıyız.
+b1|word|equal|The same in amount, size or value.|Miktar, boyut veya değer olarak aynı.|The two sides are equal.|İki taraf eşit.
+b1|word|equipment|The tools needed for a particular activity.|Bir etkinlik için gereken araçlar.|The equipment is expensive.|Ekipman pahalı.
+b1|word|escape|To get away from danger or a place where you are held.|Tehlikeden veya tutulduğun yerden kurtulmak.|The bird managed to escape.|Kuş kaçmayı başardı.
+b1|word|especially|More than usual or more than others.|Özellikle, diğerlerinden daha çok.|I like fruit, especially grapes.|Meyveyi, özellikle üzümü severim.
+b1|word|establish|To create a system, organization or relationship.|Sistem, kuruluş veya ilişki kurmak.|We need to establish clear rules.|Net kurallar koymalıyız.
+b1|word|evaluate|To judge the value or quality of something.|Bir şeyin değerini veya niteliğini değerlendirmek.|We evaluate the results weekly.|Sonuçları her hafta değerlendiririz.
+b1|word|examine|To look at something carefully.|Bir şeyi dikkatle incelemek.|Please examine the report.|Lütfen raporu incele.
+b1|word|except|Not including someone or something.|Biri veya bir şey hariç.|Everyone came except Tom.|Tom dışında herkes geldi.
+b1|word|exchange|To give something and receive another thing.|Bir şey verip karşılığında başka şey almak.|We exchange ideas regularly.|Düzenli olarak fikir alışverişi yaparız.
+b1|word|exhausted|Extremely tired.|Aşırı yorgun.|I was exhausted after the journey.|Yolculuktan sonra bitkindim.
+b1|word|exhibit|To display something publicly.|Bir şeyi halka açık sergilemek.|They exhibit local art.|Yerel sanat eserlerini sergiliyorlar.
+b1|word|experience|Knowledge gained by doing or living through things.|Yaparak veya yaşayarak kazanılan bilgi.|Experience helps you improve.|Deneyim gelişmene yardımcı olur.
+b1|word|experiment|A test designed to discover something.|Bir şeyi keşfetmek için yapılan kontrollü sınama.|We repeated the experiment.|Deneyi tekrarladık.
+b1|word|explain|To make something clear or easy to understand.|Bir şeyi açık ve anlaşılır hâle getirmek.|Can you explain this rule?|Bu kuralı açıklayabilir misin?
+b1|word|explore|To travel through or examine something unfamiliar.|Bilinmeyen bir yeri gezmek veya konuyu incelemek.|Let us explore the city.|Şehri keşfedelim.
+b1|word|express|To show a thought or feeling.|Bir düşünce veya duyguyu ifade etmek.|It is hard to express my feelings.|Duygularımı ifade etmek zor.
+b1|word|fair|Treating people equally and reasonably.|İnsanlara eşit ve makul davranan.|That seems fair to me.|Bu bana adil geliyor.
+b1|word|fancy|To want something, in informal British English.|Günlük İngiliz İngilizcesinde bir şeyi istemek.|Do you fancy a cup of tea?|Bir fincan çay ister misin?
+b1|word|fault|Responsibility for a mistake or problem.|Hata veya sorunun sorumluluğu.|It was not your fault.|Bu senin hatan değildi.
+b1|word|fee|Money paid for a service.|Bir hizmet için ödenen ücret.|There is no entrance fee.|Giriş ücreti yok.
+b1|word|feedback|Comments about how well something was done.|Bir işin nasıl yapıldığına dair değerlendirme.|Your feedback is useful.|Geri bildirimin faydalı.
+b1|word|female|Relating to women or girls.|Kadınlarla veya kızlarla ilgili.|The team has a female captain.|Takımın kadın bir kaptanı var.
+b1|word|fetch|To go and bring something back.|Gidip bir şeyi getirmek.|Could you fetch my bag?|Çantamı getirir misin?
+b1|word|firm|Strongly held and unlikely to change.|Sağlam veya değişmesi zor olan.|She gave a firm answer.|Kararlı bir cevap verdi.
+b1|word|fluent|Able to speak a language smoothly and easily.|Bir dili rahat ve akıcı konuşabilen.|She is fluent in English.|İngilizceyi akıcı konuşuyor.
+b1|word|foreign|From or related to another country.|Başka bir ülkeden olan veya onunla ilgili.|I enjoy learning foreign languages.|Yabancı dil öğrenmeyi severim.
+b1|word|former|Having had a role in the past.|Geçmişte bir görevi veya durumu olan.|My former colleague called me.|Eski iş arkadaşım beni aradı.
+b1|word|fortunate|Having good luck.|Şanslı olan.|We were fortunate with the weather.|Hava konusunda şanslıydık.
+b1|word|freedom|The ability to act without unnecessary restriction.|Gereksiz kısıtlama olmadan davranabilme.|The job gives me freedom.|İş bana özgürlük veriyor.
+b1|word|frequent|Happening often.|Sık gerçekleşen.|There are frequent buses.|Sık otobüs seferleri var.
+b1|word|frightened|Feeling afraid.|Korkmuş hisseden.|The child was frightened.|Çocuk korkmuştu.
+b1|word|further|At a greater distance or to a greater degree.|Daha uzak veya daha ileri düzeyde.|We need further information.|Daha fazla bilgiye ihtiyacımız var.
+b1|word|gain|To obtain or increase something useful.|Yararlı bir şey elde etmek veya artırmak.|You will gain experience.|Deneyim kazanacaksın.
+b1|word|gather|To bring people or things together.|Kişi veya şeyleri bir araya toplamak.|We gather information first.|Önce bilgi toplarız.
+b1|word|gentle|Kind, calm and not rough.|Nazik, sakin ve sert olmayan.|Be gentle with the kitten.|Yavru kediye nazik davran.
+b1|word|graduate|To finish a course at a school or university.|Okul veya üniversitedeki eğitimi tamamlamak.|I will graduate this summer.|Bu yaz mezun olacağım.
+b1|word|grateful|Feeling thankful.|Minnettar hisseden.|I am grateful for your support.|Desteğin için minnettarım.
+b1|word|guilty|Responsible for doing something wrong.|Bir yanlışın sorumlusu olan.|He felt guilty about lying.|Yalan söylediği için suçluluk duydu.
+b1|word|habit|Something you do regularly, often without thinking.|Düzenli, çoğu zaman düşünmeden yapılan davranış.|Reading is a useful habit.|Okumak yararlı bir alışkanlıktır.
+b1|word|harm|Physical or emotional damage.|Fiziksel veya duygusal zarar.|The mistake caused no harm.|Hata zarara yol açmadı.
+b1|word|headline|The title of a news story.|Bir haberin başlığı.|The headline caught my attention.|Manşet dikkatimi çekti.
+b1|word|hire|To give someone a job.|Birine iş vermek.|They plan to hire more staff.|Daha fazla çalışan almayı planlıyorlar.
+b1|word|honest|Truthful and not likely to cheat.|Doğru söyleyen, hile yapmayan.|Please be honest with me.|Lütfen bana karşı dürüst ol.
+b1|word|household|All the people living together in one home.|Aynı evde yaşayan kişilerin bütünü.|Each household received a letter.|Her haneye bir mektup geldi.
+b1|word|humble|Not thinking you are better than others.|Kendini başkalarından üstün görmeyen.|He remained humble after his success.|Başarısından sonra alçak gönüllü kaldı.
+b1|word|humor|The ability to find things funny.|Bir şeylerin komik yönünü görebilme.|She has a great sense of humor.|Harika bir mizah anlayışı var.
+b1|word|ignore|To intentionally pay no attention to something.|Bir şeye bilerek dikkat etmemek.|Do not ignore the instructions.|Talimatları görmezden gelme.
+b1|word|illegal|Not allowed by law.|Yasaların izin vermediği.|Parking here is illegal.|Buraya park etmek yasak.
+b1|word|imagine|To form a picture or idea in your mind.|Zihinde bir görüntü veya fikir oluşturmak.|Imagine living near the sea.|Deniz kenarında yaşadığını hayal et.
+b1|word|immediate|Happening without delay.|Gecikmeden gerçekleşen.|We need an immediate response.|Hemen yanıt almamız gerekiyor.
+b1|word|impress|To make someone admire you.|Birinin beğenisini kazanmak.|Her skills will impress them.|Becerileri onları etkileyecek.
+b1|word|income|Money received regularly from work or other sources.|İşten veya başka kaynaklardan düzenli gelen para.|His income increased.|Geliri arttı.
+b1|word|indeed|Used to emphasize that something is true.|Bir şeyin gerçekten doğru olduğunu vurgular.|It was indeed a surprise.|Gerçekten sürpriz oldu.
+b1|word|individual|One person considered separately.|Ayrı olarak ele alınan tek kişi.|Every individual learns differently.|Her birey farklı öğrenir.
+b1|word|industry|Businesses producing a particular type of goods or services.|Belirli mal veya hizmetleri üreten işletmeler bütünü.|The tourism industry creates jobs.|Turizm sektörü iş yaratır.
+b1|word|inform|To tell someone about something.|Birine bilgi vermek.|Please inform us of any changes.|Lütfen değişiklikleri bize bildir.
+b1|word|injury|Physical harm to a person's body.|İnsan bedeninde oluşan fiziksel zarar.|The injury kept him at home.|Sakatlık onu evde tuttu.
+b1|word|insist|To say firmly that something must happen.|Bir şeyin olması gerektiğini kararlılıkla söylemek.|I insist on paying.|Ödeme yapmakta ısrar ediyorum.
+b1|word|inspire|To make someone want to act or create.|Birinde üretme veya harekete geçme isteği uyandırmak.|Your story will inspire others.|Hikâyen başkalarına ilham verecek.
+b1|word|intend|To plan or mean to do something.|Bir şeyi yapmayı planlamak veya amaçlamak.|I intend to apply tomorrow.|Yarın başvurmayı düşünüyorum.
+b1|word|interrupt|To stop someone while they are speaking or working.|Konuşan veya çalışan birinin sözünü ya da işini kesmek.|Sorry to interrupt you.|Sözünü kestiğim için üzgünüm.
+b1|word|interview|A meeting in which someone answers questions.|Birinin soruları cevapladığı görüşme.|My interview is tomorrow.|Mülakatım yarın.
+b1|word|introduce|To tell people who someone is for the first time.|Birini ilk kez başkalarına tanıtmak.|Let me introduce my friend.|Arkadaşımı tanıtayım.
+b1|word|invest|To put money into something hoping for a benefit.|Kazanç umuduyla bir şeye para ayırmak.|They invest in new equipment.|Yeni ekipmana yatırım yapıyorlar.
+b1|word|involve|To include someone or something as part of an activity.|Birini veya bir şeyi etkinliğe dahil etmek.|The job may involve travel.|İş seyahat gerektirebilir.
+b1|word|jealous|Unhappy because someone has something you want.|Başkası istediğin şeye sahip olduğu için mutsuz.|He felt jealous of her success.|Onun başarısını kıskandı.
+b1|word|judge|To form an opinion about someone or something.|Biri veya bir şey hakkında değerlendirme yapmak.|Do not judge by appearances.|Görünüşe göre yargılama.
+b1|word|landscape|The visible natural features of an area.|Bir bölgenin görünen doğal özellikleri.|The landscape was beautiful.|Manzara güzeldi.
+b1|word|lately|Recently or in the recent period.|Son zamanlarda.|Have you seen her lately?|Son zamanlarda onu gördün mü?
+b1|word|launch|To start or introduce a new project or product.|Yeni proje veya ürünü başlatmak ya da tanıtmak.|We will launch the website soon.|Siteyi yakında açacağız.
+b1|word|legal|Allowed by law.|Yasaların izin verdiği.|Is this a legal requirement?|Bu yasal bir zorunluluk mu?
+b1|word|lend|To give something temporarily and expect it back.|Geri almak üzere geçici olarak vermek.|Could you lend me your pen?|Kalemini bana ödünç verir misin?
+b1|word|likely|Probably going to happen.|Gerçekleşmesi olası.|Rain is likely tomorrow.|Yarın yağmur olası.
+b1|word|local|Related to the nearby area.|Yakındaki bölgeyle ilgili.|We visited a local market.|Yerel bir pazarı ziyaret ettik.
+b1|word|loyal|Continuing to support someone.|Birine desteğini sürdürüp bağlı kalan.|She is a loyal friend.|O sadık bir arkadaş.
+b1|word|manage|To succeed in doing something difficult.|Zor bir şeyi yapmayı başarmak.|Did you manage to finish?|Bitirmeyi başarabildin mi?
+b1|word|manner|The way someone behaves or does something.|Birinin davranış veya iş yapış biçimi.|He spoke in a calm manner.|Sakin bir şekilde konuştu.
+b1|word|meanwhile|During the time something else is happening.|Başka bir şey olurken aynı zaman içinde.|I cooked; meanwhile, she set the table.|Ben yemek yaptım; o sırada o masayı kurdu.
+b1|word|mention|To speak briefly about something.|Bir şeyden kısaca söz etmek.|Did he mention the meeting?|Toplantıdan söz etti mi?
+b1|word|mess|A dirty or untidy state.|Kirli veya dağınık durum.|The kitchen is a mess.|Mutfak darmadağın.
+b1|word|method|A particular way of doing something.|Bir şeyi yapmanın belirli yolu.|This method works well.|Bu yöntem iyi çalışıyor.
+b1|word|mild|Not strong, severe or extreme.|Sert veya aşırı olmayan.|The weather is mild today.|Bugün hava ılıman.
+b1|word|mistake|Something done incorrectly.|Yanlış yapılan şey.|Everyone makes a mistake sometimes.|Herkes bazen hata yapar.
+b1|word|modest|Not large or not showing off.|Büyük olmayan veya gösteriş yapmayan.|We have a modest budget.|Mütevazı bir bütçemiz var.
+b1|word|narrow|Not wide.|Geniş olmayan.|The street is narrow.|Sokak dar.
+b1|word|nearly|Almost, but not completely.|Neredeyse ama tamamen değil.|I nearly missed the bus.|Az daha otobüsü kaçırıyordum.
+b1|word|necessary|Needed for a particular purpose.|Bir amaç için gereken.|Is a reservation necessary?|Rezervasyon gerekli mi?
+b1|word|neither|Not one and not the other of two.|İki şeyden hiçbirisi.|Neither answer is correct.|İki cevap da doğru değil.
+b1|word|nervous|Worried or uneasy about something.|Bir şey konusunda gergin veya kaygılı.|I was nervous before the exam.|Sınavdan önce gergindim.
+b1|word|obvious|Easy to see or understand.|Görmesi veya anlaması kolay.|The answer seems obvious.|Cevap açık görünüyor.
+b1|word|occupy|To fill or use a place or time.|Bir yeri veya zamanı doldurmak, kullanmak.|These boxes occupy too much space.|Bu kutular fazla yer kaplıyor.
+b1|word|offer|To say you are willing to give or do something.|Bir şeyi vermeyi veya yapmayı önermek.|Can I offer you some tea?|Sana biraz çay ikram edebilir miyim?
+b1|word|operate|To control or use a machine.|Bir makineyi çalıştırmak veya kullanmak.|Can you operate this machine?|Bu makineyi kullanabilir misin?
+b1|word|opinion|What you think about something.|Bir konu hakkındaki düşüncen.|What is your opinion?|Senin fikrin ne?
+b1|word|organize|To arrange things in a useful order.|Şeyleri yararlı bir düzene koymak.|I need to organize my notes.|Notlarımı düzenlemeliyim.
+b1|word|owe|To need to pay or give something back.|Bir şeyi geri ödemek veya vermek zorunda olmak.|I owe you ten liras.|Sana on lira borcum var.
+b1|word|painful|Causing physical or emotional pain.|Fiziksel veya duygusal acı veren.|It was a painful experience.|Acı verici bir deneyimdi.
+b1|word|particular|One specific thing rather than others.|Diğerlerinden ayrı belirli bir şey.|Is there a particular reason?|Belirli bir nedeni var mı?
+b1|word|passion|A very strong interest or feeling.|Çok güçlü ilgi veya duygu.|Music is her passion.|Müzik onun tutkusu.
+b1|word|patient|Able to wait without getting annoyed.|Sinirlenmeden bekleyebilen.|Please be patient.|Lütfen sabırlı ol.
+b1|word|peaceful|Calm and free from violence or noise.|Sakin, şiddet veya gürültüden uzak.|The village is peaceful.|Köy huzurlu.
+b1|word|permission|Official agreement that you may do something.|Bir şeyi yapabileceğine dair izin.|You need permission to enter.|Girmek için izne ihtiyacın var.
+b1|word|personality|The qualities that make someone different from others.|Birini diğerlerinden ayıran karakter özellikleri.|She has a friendly personality.|Cana yakın bir kişiliği var.
+b1|word|polite|Showing good manners and respect.|Görgülü ve saygılı davranan.|He gave a polite reply.|Nazik bir cevap verdi.
+b1|word|population|All the people living in an area.|Bir bölgede yaşayan insanların bütünü.|The population is growing.|Nüfus artıyor.
+b1|word|position|The place where someone or something is.|Birinin veya bir şeyin bulunduğu yer.|Change the position of the chair.|Sandalyenin yerini değiştir.
+b1|word|possess|To have or own something.|Bir şeye sahip olmak.|She may possess the skills we need.|İhtiyacımız olan becerilere sahip olabilir.
+b1|word|practical|Useful in real situations.|Gerçek durumlarda işe yarayan.|That is practical advice.|Bu uygulanabilir bir tavsiye.
+b1|word|prefer|To like one thing more than another.|Bir şeyi diğerinden daha çok sevmek.|I prefer tea to coffee.|Çayı kahveye tercih ederim.
+b1|word|prepare|To get ready for something.|Bir şeye hazırlanmak.|I need to prepare for the interview.|Mülakata hazırlanmalıyım.
+b1|word|pressure|Stress caused by demands or expectations.|Talep veya beklentilerin yarattığı baskı.|He works well under pressure.|Baskı altında iyi çalışır.
+b1|word|pretend|To act as if something is true when it is not.|Gerçek olmayan bir şey öyleymiş gibi davranmak.|Do not pretend to know everything.|Her şeyi biliyormuş gibi yapma.
+b1|word|previous|Existing or happening before the present one.|Şimdikinden önce var olan veya gerçekleşen.|I liked the previous version.|Önceki sürümü beğendim.
+b1|word|private|For one person or a limited group, not everyone.|Herkese değil, belirli kişi veya gruba ait.|This is a private conversation.|Bu özel bir konuşma.
+b1|word|probably|Used when something is likely to be true.|Bir şeyin olma olasılığı yüksekken kullanılır.|I will probably arrive late.|Muhtemelen geç geleceğim.
+b1|word|profit|Money left after business costs are paid.|İşletme giderlerinden sonra kalan para.|The shop made a profit.|Dükkân kâr etti.
+b1|word|promise|To say firmly that you will do something.|Bir şeyi yapacağını kesin biçimde söylemek.|I promise to call.|Arayacağıma söz veriyorum.
+b1|word|promote|To give someone a more senior job.|Birine daha üst düzey görev vermek.|They plan to promote her.|Onu terfi ettirmeyi planlıyorlar.
+b1|word|proper|Correct or suitable.|Doğru veya uygun.|Use the proper tools.|Uygun araçları kullan.
+b1|word|proud|Pleased about something you or someone else has achieved.|Bir başarıdan dolayı memnun ve gururlu.|I am proud of your progress.|İlerlemenle gurur duyuyorum.
+b1|word|prove|To show that something is true.|Bir şeyin doğru olduğunu göstermek.|Can you prove your claim?|İddianı kanıtlayabilir misin?
+b1|word|public|Available or related to everyone.|Herkese açık veya herkesle ilgili.|The park is open to the public.|Park halka açık.
+b1|word|purchase|To buy something.|Bir şeyi satın almak.|You can purchase tickets online.|Biletleri internetten satın alabilirsin.
+b1|word|range|A variety of different things of the same general type.|Aynı türden farklı şeylerin çeşitliliği.|The shop offers a wide range of books.|Dükkân geniş bir kitap çeşitliliği sunuyor.
+b1|word|rare|Not common or not happening often.|Yaygın olmayan veya sık gerçekleşmeyen.|This bird is rare.|Bu kuş nadirdir.
+b1|word|rather|To some degree or more than expected.|Bir ölçüde veya beklenenden fazla.|The test was rather difficult.|Test oldukça zordu.
+b1|word|reach|To arrive at a place or level.|Bir yere veya düzeye varmak.|We will reach the city soon.|Şehre yakında ulaşacağız.
+b1|word|realize|To understand something you did not understand before.|Daha önce anlamadığın bir şeyi fark etmek.|I realize I need more practice.|Daha çok pratiğe ihtiyacım olduğunu fark ediyorum.
+b1|word|reasonable|Fair, sensible or not too expensive.|Adil, mantıklı veya fazla pahalı olmayan.|That is a reasonable price.|Bu makul bir fiyat.
+b1|word|receive|To get something that is given or sent.|Verilen veya gönderilen bir şeyi almak.|Did you receive my message?|Mesajımı aldın mı?
+b1|word|recommend|To suggest something as a good choice.|Bir şeyi iyi seçenek olarak önermek.|Can you recommend a book?|Bir kitap önerebilir misin?
+b1|word|recover|To become well again after illness or difficulty.|Hastalık veya zorluktan sonra iyileşmek.|I hope you recover soon.|Umarım yakında iyileşirsin.
+b1|word|recruit|To find new people to work for an organization.|Kuruluşta çalışacak yeni kişiler bulmak.|They recruit graduates every year.|Her yıl mezunları işe alıyorlar.
+b1|word|refer|To direct attention to a source or subject.|Dikkati bir kaynağa veya konuya yöneltmek.|Please refer to the instructions.|Lütfen talimatlara bak.
+b1|word|reflect|To show an image on a surface or express something.|Yüzeyde görüntü oluşturmak veya bir şeyi yansıtmak.|The lake can reflect the sky.|Göl gökyüzünü yansıtabilir.
+b1|word|refuse|To say that you will not do something.|Bir şeyi yapmayacağını söylemek.|I refuse to give up.|Vazgeçmeyi reddediyorum.
+b1|word|regard|To think of someone in a particular way.|Birini belirli biçimde görmek veya değerlendirmek.|I regard her as a friend.|Onu arkadaş olarak görüyorum.
+b1|word|regular|Happening at fixed intervals or often.|Belirli aralıklarla veya sık gerçekleşen.|Regular practice helps.|Düzenli pratik yardımcı olur.
+b1|word|relate|To show a connection between things.|Şeyler arasında bağlantı kurmak.|How does this relate to our topic?|Bunun konumuzla ilgisi ne?
+b1|word|release|To let someone or something go free.|Birini veya bir şeyi serbest bırakmak.|They will release the bird.|Kuşu serbest bırakacaklar.
+b1|word|relief|A relaxed feeling after worry or pain ends.|Kaygı veya ağrı bittiğinde gelen rahatlık.|It was a relief to hear the news.|Haberi duymak rahatlatıcıydı.
+b1|word|rely|To trust or depend on someone or something.|Birine güvenmek veya bir şeye dayanmak.|You can rely on me.|Bana güvenebilirsin.
+b1|word|remain|To stay in the same place or condition.|Aynı yerde veya durumda kalmak.|Please remain seated.|Lütfen oturmaya devam et.
+b1|word|remind|To make someone remember something.|Birinin bir şeyi hatırlamasını sağlamak.|Remind me to call her.|Onu aramamı hatırlat.
+b1|word|remove|To take something away.|Bir şeyi bulunduğu yerden almak.|Remove the old label.|Eski etiketi çıkar.
+b1|word|rent|Money paid regularly to use a property.|Bir mülkü kullanmak için düzenli ödenen para.|The rent is expensive.|Kira pahalı.
+b1|word|repair|To make something broken work again.|Bozulan bir şeyi yeniden çalışır hâle getirmek.|Can you repair this chair?|Bu sandalyeyi onarabilir misin?
+b1|word|replace|To put something new in the place of another.|Bir şeyin yerine yenisini koymak.|We need to replace the battery.|Pili değiştirmeliyiz.
+b1|word|reply|To answer someone.|Birine cevap vermek.|Please reply when you can.|Müsait olduğunda cevap ver.
+b1|word|represent|To act or speak for another person or group.|Başka kişi veya grup adına davranmak ya da konuşmak.|She will represent our team.|Ekibimizi temsil edecek.
+b1|word|request|An act of asking for something politely or formally.|Nazik veya resmî biçimde bir şey isteme.|I sent a request for information.|Bilgi talebi gönderdim.
+b1|word|research|Careful study to discover new knowledge.|Yeni bilgi bulmak için dikkatli inceleme.|The research took two years.|Araştırma iki yıl sürdü.
+b1|word|reserve|To arrange for something to be kept for you.|Bir şeyin senin için ayrılmasını sağlamak.|Can I reserve a table?|Masa ayırtabilir miyim?
+b1|word|resolve|To find a solution to a problem.|Bir soruna çözüm bulmak.|We can resolve this together.|Bunu birlikte çözebiliriz.
+b1|word|respect|Admiration or consideration for someone.|Birine duyulan saygı veya özen.|Treat everyone with respect.|Herkese saygılı davran.
+b1|word|response|An answer or reaction.|Cevap veya tepki.|I am waiting for a response.|Yanıt bekliyorum.
+b1|word|result|Something that happens because of an action.|Bir eylemden dolayı ortaya çıkan şey.|The result surprised us.|Sonuç bizi şaşırttı.
+b1|word|retire|To stop working because of age or choice.|Yaş veya tercihle çalışma hayatını bırakmak.|She plans to retire next year.|Gelecek yıl emekli olmayı planlıyor.
+b1|word|reward|Something given for a good action or achievement.|İyi davranış veya başarı için verilen şey.|You deserve a reward.|Bir ödülü hak ediyorsun.
+b1|word|risk|The possibility of something bad happening.|Kötü bir şey olma olasılığı.|There is always some risk.|Her zaman biraz risk vardır.
+b1|word|rough|Not smooth or not gentle.|Pürüzsüz veya nazik olmayan.|The surface feels rough.|Yüzey pürüzlü geliyor.
+b1|word|route|The way taken to reach a place.|Bir yere ulaşmak için izlenen yol.|This route is shorter.|Bu güzergâh daha kısa.
+b1|word|rude|Not polite.|Nazik olmayan.|That comment was rude.|O yorum kabaydı.
+b1|word|salary|A fixed regular payment for work.|İş karşılığı düzenli ve sabit ödeme.|Her salary increased.|Maaşı arttı.
+b1|word|satisfied|Pleased because something meets your needs.|Bir şey ihtiyacını karşıladığı için memnun.|Are you satisfied with the service?|Hizmetten memnun musun?
+b1|word|schedule|A plan showing when things will happen.|İşlerin ne zaman yapılacağını gösteren plan.|Check the train schedule.|Tren tarifesini kontrol et.
+b1|word|search|To try to find something.|Bir şeyi bulmaya çalışmak.|We searched the room.|Odayı aradık.
+b1|word|secure|Safe from danger or loss.|Tehlike veya kayıptan korunmuş.|Keep your password secure.|Şifreni güvende tut.
+b1|word|sensible|Showing good judgment.|Sağduyulu karar veren.|That is a sensible choice.|Bu akıllıca bir seçim.
+b1|word|sensitive|Easily affected by feelings or conditions.|Duygulardan veya koşullardan kolay etkilenen.|My skin is sensitive.|Cildim hassas.
+b1|word|separate|Not joined or connected.|Birleşik veya bağlantılı olmayan.|We used separate rooms.|Ayrı odalar kullandık.
+b1|word|serious|Important and needing careful attention.|Önemli ve dikkat gerektiren.|This is a serious problem.|Bu ciddi bir sorun.
+b1|word|settle|To end an argument by reaching agreement.|Anlaşarak tartışmayı bitirmek.|Let us settle this issue.|Bu meseleyi çözelim.
+b1|word|several|More than two but not many.|İkiden fazla ama çok olmayan.|I tried several methods.|Birkaç yöntem denedim.
+b1|word|share|To let others use something with you.|Başkalarının bir şeyi seninle kullanmasına izin vermek.|We share an office.|Bir ofisi paylaşıyoruz.
+b1|word|shelter|A place giving protection from danger or weather.|Tehlike veya havadan koruyan yer.|We found shelter from the rain.|Yağmurdan korunacak yer bulduk.
+b1|word|shift|A period of work for a group of workers.|Bir grup çalışanın çalışma zaman dilimi.|My shift starts at eight.|Vardiyam sekizde başlıyor.
+b1|word|shortage|A situation in which there is not enough of something.|Bir şeyin yeterli miktarda bulunmaması.|There is a water shortage.|Su sıkıntısı var.
+b1|word|shy|Nervous around other people.|Başkalarının yanında çekingen.|She is shy at first.|İlk başta çekingendir.
+b1|word|similar|Nearly the same but not exactly.|Tam aynı değil ama çok benzeyen.|Our ideas are similar.|Fikirlerimiz benzer.
+b1|word|sincere|Expressing what you really feel.|Gerçekten hissedileni ifade eden.|Please accept my sincere thanks.|Lütfen içten teşekkürlerimi kabul et.
+b1|word|skill|An ability gained through learning or practice.|Öğrenme veya pratikle kazanılan yetenek.|Listening is an important skill.|Dinlemek önemli bir beceridir.
+b1|word|smooth|Having an even surface without bumps.|Çıkıntısız ve düzgün yüzeyli.|The stone is smooth.|Taş pürüzsüz.
+b1|word|society|People living together in an organized community.|Düzenli bir topluluk içinde yaşayan insanlar.|Education benefits society.|Eğitim topluma fayda sağlar.
+b1|word|solve|To find the answer to a problem.|Bir problemin çözümünü bulmak.|Can you solve this puzzle?|Bu bulmacayı çözebilir misin?
+b1|word|spare|Extra and available if needed.|Fazladan bulunan, gerektiğinde kullanılabilen.|Do you have a spare key?|Yedek anahtarın var mı?
+b1|word|spread|To cover a wider area.|Daha geniş alana yayılmak.|The news spread quickly.|Haber hızla yayıldı.
+b1|word|staff|The people working for an organization.|Bir kuruluşta çalışan kişiler.|The staff were helpful.|Çalışanlar yardımseverdi.
+b1|word|standard|A level of quality used for comparison.|Karşılaştırmada kullanılan kalite düzeyi.|The work meets our standard.|İş standardımızı karşılıyor.
+b1|word|steady|Not changing suddenly.|Aniden değişmeyen.|We are making steady progress.|İstikrarlı biçimde ilerliyoruz.
+b1|word|strict|Demanding that rules are followed.|Kurallara uyulmasını sıkı biçimde isteyen.|Our teacher is strict but fair.|Öğretmenimiz katı ama adil.
+b1|word|succeed|To achieve what you wanted.|İstenen şeyi başarmak.|You can succeed with practice.|Pratikle başarabilirsin.
+b1|word|suffer|To experience pain or difficulty.|Acı veya zorluk yaşamak.|Many people suffer from stress.|Birçok insan stresten muzdarip.
+b1|word|suggest|To offer an idea for consideration.|Değerlendirilmesi için fikir sunmak.|What do you suggest?|Ne öneriyorsun?
+b1|word|suitable|Right for a particular purpose.|Belirli amaç için uygun.|Is this suitable for beginners?|Bu yeni başlayanlar için uygun mu?
+b1|word|supply|An amount available for use.|Kullanılabilecek miktar veya stok.|We have a limited supply.|Sınırlı stokumuz var.
+b1|word|suppose|To think something is probably true.|Bir şeyin muhtemelen doğru olduğunu düşünmek.|I suppose you are right.|Sanırım haklısın.
+b1|word|surround|To be all around something.|Bir şeyin her yanında bulunmak.|Mountains surround the town.|Kasabayı dağlar çevreliyor.
+b1|word|survey|Questions used to collect information from people.|İnsanlardan bilgi toplamak için kullanılan sorular bütünü.|We completed a short survey.|Kısa bir anket doldurduk.
+b1|word|suspect|To think something may be true without proof.|Kanıt olmadan doğru olabileceğini düşünmek.|I suspect there is a mistake.|Bir hata olduğundan şüpheleniyorum.
+b1|word|talent|A natural ability to do something well.|Bir işi iyi yapmaya yönelik doğal yetenek.|She has a talent for music.|Müziğe yeteneği var.
+b1|word|task|A piece of work that needs to be done.|Yapılması gereken iş.|This task takes ten minutes.|Bu görev on dakika sürer.
+b1|word|technique|A particular way of doing a skilled activity.|Beceri gerektiren işi yapmanın belirli yolu.|Try a different technique.|Farklı bir teknik dene.
+b1|word|tend|To usually behave in a particular way.|Genellikle belirli biçimde davranmak.|I tend to wake up early.|Erken uyanma eğilimindeyim.
+b1|word|terrible|Very bad or unpleasant.|Çok kötü veya hoş olmayan.|The traffic was terrible.|Trafik berbattı.
+b1|word|therefore|For that reason.|Bu nedenle.|It rained; therefore, we stayed inside.|Yağmur yağdı; bu yüzden içeride kaldık.
+b1|word|though|Despite the fact that.|Bir gerçeğe rağmen.|Though tired, she kept working.|Yorgun olmasına rağmen çalışmayı sürdürdü.
+b1|word|throughout|During the whole period or in every part.|Bütün süre boyunca veya her bölümde.|It rained throughout the night.|Gece boyunca yağmur yağdı.
+b1|word|tough|Difficult or strong.|Zor veya dayanıklı.|It was a tough decision.|Zor bir karardı.
+b1|word|track|A path or a line left by movement.|Yol veya hareketin bıraktığı iz.|Follow the track through the woods.|Ormandaki patikayı izle.
+b1|word|training|Practice and teaching to improve skills.|Becerileri geliştirmeye yönelik eğitim ve pratik.|The job includes training.|İş kapsamında eğitim var.
+b1|word|treat|To behave toward someone in a certain way.|Birine belirli biçimde davranmak.|Treat others kindly.|Başkalarına nazik davran.
+b1|word|trust|Belief that someone is honest or reliable.|Birinin dürüst veya güvenilir olduğuna inanma.|Trust takes time to build.|Güven oluşturmak zaman alır.
+b1|word|typical|Having the usual qualities of a group.|Bir grubun olağan özelliklerine sahip.|This is a typical example.|Bu tipik bir örnek.
+b1|word|unable|Not having the ability to do something.|Bir şeyi yapabilecek durumda olmayan.|I am unable to attend.|Katılamıyorum.
+b1|word|uncomfortable|Not feeling physically or socially relaxed.|Fiziksel veya sosyal açıdan rahat olmayan.|These shoes are uncomfortable.|Bu ayakkabılar rahatsız.
+b1|word|unemployed|Without a paid job.|Ücretli işi olmayan.|He is currently unemployed.|Şu anda işsiz.
+b1|word|unexpected|Not thought likely to happen.|Olması beklenmeyen.|We had an unexpected visitor.|Beklenmedik bir ziyaretçimiz oldu.
+b1|word|unfair|Not treating people equally or reasonably.|İnsanlara eşit veya makul davranmayan.|That decision was unfair.|O karar adaletsizdi.
+b1|word|upset|Unhappy or worried.|Üzgün veya kaygılı.|She was upset by the news.|Haber onu üzdü.
+b1|word|urgent|Needing attention immediately.|Hemen ilgilenilmesi gereken.|This is an urgent message.|Bu acil bir mesaj.
+b1|word|variety|Several different types of something.|Bir şeyin farklı türlerinin bütünü.|We need more variety.|Daha fazla çeşitliliğe ihtiyacımız var.
+b1|word|vehicle|A machine used to transport people or things.|İnsan veya eşya taşımak için kullanılan araç.|No vehicle can enter this street.|Bu sokağa araç giremez.
+b1|word|view|An opinion or what can be seen from a place.|Görüş veya bir yerden görülen manzara.|The room has a sea view.|Oda deniz manzaralı.
+b1|word|waste|To use something carelessly without benefit.|Bir şeyi fayda sağlamadan dikkatsizce harcamak.|Do not waste your time.|Zamanını boşa harcama.
+b1|word|wealth|A large amount of money or valuable possessions.|Çok miktarda para veya değerli varlık.|Wealth does not guarantee happiness.|Zenginlik mutluluğu garanti etmez.
+b1|word|whole|All of something.|Bir şeyin tamamı.|I spent the whole day reading.|Bütün günü okuyarak geçirdim.
+b1|word|wonder|To ask yourself about something.|Bir şeyi kendi kendine merak etmek.|I wonder what happened.|Ne olduğunu merak ediyorum.
+b1|word|decide|To choose after thinking about possibilities.|Olasılıkları düşünerek karar vermek.|I need to decide today.|Bugün karar vermeliyim.
+a1|word|afternoon|The time after noon and before evening.|Öğle ile akşam arasındaki zaman.|See you this afternoon.|Bu öğleden sonra görüşürüz.
+a1|word|alone|Without other people.|Başka insanlar olmadan.|I live alone.|Yalnız yaşıyorum.
+a1|word|always|On every occasion.|Her zaman.|I always carry water.|Her zaman su taşırım.
+a1|word|arm|The body part between the shoulder and the hand.|Omuz ile el arasındaki vücut bölümü.|My arm hurts.|Kolum ağrıyor.
+a1|word|baby|A very young child.|Çok küçük çocuk.|The baby is sleeping.|Bebek uyuyor.
+a1|word|bag|A container used to carry things.|Eşya taşımaya yarayan kap.|My bag is heavy.|Çantam ağır.
+a1|word|ball|A round object used in games.|Oyunlarda kullanılan yuvarlak nesne.|Throw me the ball.|Topu bana at.
+a1|word|bathroom|A room with a bath or shower.|Küvet veya duş bulunan oda.|The bathroom is upstairs.|Banyo üst katta.
+a1|word|bed|Furniture you sleep on.|Üzerinde uyunan mobilya.|The bed is comfortable.|Yatak rahat.
+a1|word|bedroom|A room used for sleeping.|Uyumak için kullanılan oda.|My bedroom is small.|Yatak odam küçük.
+a1|word|bee|An insect that makes honey.|Bal yapan böcek.|A bee landed on the flower.|Çiçeğe bir arı kondu.
+a1|word|behind|At the back of something.|Bir şeyin arka tarafında.|The garden is behind the house.|Bahçe evin arkasında.
+a1|word|below|In a lower position.|Daha aşağı konumda.|Write your name below.|Adını aşağıya yaz.
+a1|word|between|In the space separating two things.|İki şeyi ayıran boşlukta.|Sit between us.|İkimizin arasına otur.
+a1|word|bird|An animal with feathers and wings.|Tüyleri ve kanatları olan hayvan.|A bird is singing.|Bir kuş ötüyor.
+a1|word|black|The darkest color.|En koyu renk.|He has a black coat.|Siyah bir montu var.
+a1|word|blue|The color of a clear daytime sky.|Bulutsuz gündüz göğünün rengi.|Her eyes are blue.|Gözleri mavi.
+a1|word|boat|A small vehicle that travels on water.|Suda giden küçük taşıt.|We crossed by boat.|Tekneyle karşıya geçtik.
+a1|word|body|All the physical parts of a person or animal.|İnsan veya hayvanın fiziksel bütünü.|Exercise strengthens the body.|Egzersiz vücudu güçlendirir.
+a1|word|bowl|A round deep dish for food.|Yemek için yuvarlak derin kap.|Put the soup in a bowl.|Çorbayı kaseye koy.
+a1|word|brown|The color of chocolate or soil.|Çikolata veya toprağın rengi.|The dog is brown.|Köpek kahverengi.
+a1|word|bus|A large road vehicle carrying many passengers.|Çok yolcu taşıyan büyük kara taşıtı.|The bus is late.|Otobüs geç kaldı.
+a1|word|busy|Having a lot to do.|Yapacak çok işi olan.|I am busy today.|Bugün meşgulüm.
+a1|word|cake|A sweet baked food often served at birthdays.|Doğum günlerinde de sunulan tatlı fırın yiyeceği.|She made a cake.|Bir pasta yaptı.
+a1|word|camera|A device for taking photographs.|Fotoğraf çekme cihazı.|My camera is in the bag.|Fotoğraf makinem çantada.
+a1|word|candle|A stick of wax that gives light when lit.|Yakıldığında ışık veren balmumu çubuğu.|Light the candle.|Mumu yak.
+a1|word|car|A road vehicle with four wheels for a few people.|Az sayıda insan için dört tekerlekli taşıt.|Our car is outside.|Arabamız dışarıda.
+a1|word|cheap|Costing little money.|Az paraya mal olan.|The tickets are cheap.|Biletler ucuz.
+a1|word|chicken|A farm bird kept for meat and eggs.|Eti ve yumurtası için beslenen kümes hayvanı.|The chicken laid an egg.|Tavuk bir yumurta yumurtladı.
+a1|word|child|A young person who is not yet an adult.|Henüz yetişkin olmayan genç insan.|The child is playing.|Çocuk oynuyor.
+a1|word|cinema|A place where people watch films.|İnsanların film izlediği yer.|We went to the cinema.|Sinemaya gittik.
+a1|word|city|A large place where many people live.|Çok insanın yaşadığı büyük yerleşim.|This city is crowded.|Bu şehir kalabalık.
+a1|word|clean|Not dirty.|Kirli olmayan.|The room is clean.|Oda temiz.
+a1|word|cold|Having a low temperature.|Sıcaklığı düşük.|The water is cold.|Su soğuk.
+a1|word|computer|An electronic machine for processing information.|Bilgi işleyen elektronik makine.|I use a computer at work.|İşte bilgisayar kullanırım.
+a1|word|cook|To prepare food using heat.|Yiyeceği ısı kullanarak hazırlamak.|I can cook pasta.|Makarna yapabilirim.
+a1|word|cow|A large farm animal that produces milk.|Süt veren büyük çiftlik hayvanı.|The cow is eating grass.|İnek ot yiyor.
+a1|word|cup|A small container with a handle for drinking.|İçecek için küçük saplı kap.|This cup is empty.|Bu fincan boş.
+a1|word|dark|With little or no light.|Işığı az olan veya hiç olmayan.|It is dark outside.|Dışarısı karanlık.
+a1|word|day|A period of twenty-four hours.|Yirmi dört saatlik süre.|Have a nice day.|İyi günler.
+a1|word|desk|A table used for studying or office work.|Ders veya ofis işi için kullanılan masa.|My books are on the desk.|Kitaplarım çalışma masasında.
+a1|word|dress|A one-piece garment covering the body and legs.|Gövdeyi ve bacakları örten tek parçalı giysi.|She wore a green dress.|Yeşil bir elbise giydi.
+a1|word|drink|To take liquid into your mouth and swallow.|Sıvıyı ağza alıp yutmak.|I drink water with meals.|Yemeklerde su içerim.
+a1|word|duck|A water bird with a broad flat bill.|Geniş ve yassı gagalı su kuşu.|The duck is swimming.|Ördek yüzüyor.
+a1|word|easy|Not difficult.|Zor olmayan.|This game is easy.|Bu oyun kolay.
+a1|word|eat|To put food in your mouth and swallow it.|Yiyeceği ağza alıp yutmak.|Let us eat together.|Birlikte yemek yiyelim.
+a1|word|eye|The body part used for seeing.|Görmeye yarayan organ.|Close your left eye.|Sol gözünü kapat.
+a1|word|face|The front part of the head.|Başın ön bölümü.|Wash your face.|Yüzünü yıka.
+a1|word|fast|Moving at high speed.|Yüksek hızla hareket eden.|This train is fast.|Bu tren hızlı.
+a1|word|father|A male parent.|Erkek ebeveyn.|My father is cooking.|Babam yemek yapıyor.
+a1|word|flower|The colorful part of a plant.|Bitkinin renkli bölümü.|This flower smells nice.|Bu çiçek güzel kokuyor.
+a1|word|fly|To move through the air.|Havada ilerlemek.|Birds can fly.|Kuşlar uçabilir.
+a1|word|food|Things that people or animals eat.|İnsan veya hayvanların yediği şeyler.|The food is delicious.|Yemek lezzetli.
+a1|word|foot|The body part at the end of the leg.|Bacağın ucundaki vücut bölümü.|My right foot hurts.|Sağ ayağım ağrıyor.
+a1|word|Friday|The day after Thursday.|Perşembeden sonraki gün.|We finish work early on Friday.|Cuma günü işi erken bitiririz.
+a1|word|frog|A small animal that jumps and lives near water.|Suyun yakınında yaşayan, zıplayan küçük hayvan.|A frog jumped into the pond.|Bir kurbağa gölete atladı.
+a1|word|fruit|The edible part of a plant containing seeds.|Bitkinin tohum içeren yenilebilir bölümü.|I eat fruit every day.|Her gün meyve yerim.
+a1|word|glass|A hard transparent material used in windows.|Pencerelerde kullanılan sert saydam madde.|The door is made of glass.|Kapı camdan yapılmış.
+a1|word|green|The color of grass.|Çimenin rengi.|The leaves are green.|Yapraklar yeşil.
+a1|word|hand|The body part at the end of the arm.|Kolun ucundaki vücut bölümü.|Raise your hand.|Elini kaldır.
+a1|word|happy|Feeling pleased.|Mutlu hisseden.|I am happy to help.|Yardım etmekten mutluyum.
+a1|word|head|The body part containing your brain.|Beynin bulunduğu vücut bölümü.|My head hurts.|Başım ağrıyor.
+a1|word|heavy|Weighing a lot.|Ağırlığı fazla olan.|This suitcase is heavy.|Bu bavul ağır.
+a1|word|horse|A large animal people can ride.|İnsanların binebildiği büyük hayvan.|The horse ran across the field.|At tarlada koştu.
+a1|word|hot|Having a high temperature.|Sıcaklığı yüksek olan.|The tea is hot.|Çay sıcak.
+a1|word|hour|Sixty minutes.|Altmış dakika.|The lesson lasts an hour.|Ders bir saat sürüyor.
+a1|word|husband|The man someone is married to.|Birinin evli olduğu erkek.|Her husband is a teacher.|Kocası öğretmen.
+a1|word|lake|A large area of water surrounded by land.|Karayla çevrili büyük su alanı.|We walked around the lake.|Gölün etrafında yürüdük.
+a1|word|leg|One of the body parts used for standing and walking.|Ayakta durmayı ve yürümeyi sağlayan uzuv.|He hurt his leg.|Bacağını incitti.
+a1|word|lion|A large wild cat; males usually have a mane.|Erkeği genellikle yeleli olan büyük yabani kedi.|The lion is resting.|Aslan dinleniyor.
+a1|word|long|Measuring a great distance from end to end.|Bir uçtan öbür uca mesafesi fazla.|It is a long road.|Bu uzun bir yol.
+a1|word|meat|The flesh of animals eaten as food.|Yiyecek olarak tüketilen hayvan dokusu.|She does not eat meat.|Et yemiyor.
+a1|word|minute|Sixty seconds.|Altmış saniye.|Wait one minute.|Bir dakika bekle.
+a1|word|mother|A female parent.|Kadın ebeveyn.|My mother called me.|Annem beni aradı.
+a1|word|mouth|The opening in your face used for eating and speaking.|Yemek ve konuşma için yüzdeki açıklık.|Open your mouth.|Ağzını aç.
+a1|word|mouse|A small animal with a long thin tail.|Uzun ince kuyruklu küçük hayvan.|A mouse ran under the table.|Masanın altına bir fare koştu.
+a1|word|music|Sounds arranged to be listened to and enjoyed.|Dinlemek için düzenlenen sesler.|I love music.|Müziği severim.
+a1|word|near|Not far away.|Uzak olmayan.|The school is near my home.|Okul evime yakın.
+a1|word|new|Made or received recently.|Yakın zamanda yapılmış veya alınmış.|I bought a new bag.|Yeni bir çanta aldım.
+a1|word|old|Having existed for a long time.|Uzun süredir var olan.|This is an old building.|Bu eski bir bina.
+a1|word|outside|Not inside a building or area.|Bina veya alanın içinde olmayan.|Let us wait outside.|Dışarıda bekleyelim.
+a1|word|paper|Thin material used for writing or printing.|Yazı veya baskı için kullanılan ince malzeme.|I need a piece of paper.|Bir kâğıda ihtiyacım var.
+a1|word|pen|A writing tool that uses ink.|Mürekkep kullanan yazı aracı.|This pen is blue.|Bu kalem mavi.
+a1|word|potato|A round vegetable that grows underground.|Toprak altında yetişen yuvarlak sebze.|Peel the potato.|Patatesi soy.
+a1|word|red|The color of ripe tomatoes.|Olgun domatesin rengi.|The car is red.|Araba kırmızı.
+a1|word|rice|Small white or brown grains cooked as food.|Pişirilerek yenilen küçük beyaz veya kahverengi taneler.|We had rice for dinner.|Akşam yemeğinde pilav yedik.
+a1|word|sad|Not happy.|Mutlu olmayan.|The story made me sad.|Hikâye beni üzdü.
+a1|word|school|A place where children have lessons.|Çocukların ders gördüğü yer.|The school is nearby.|Okul yakında.
+a1|word|sea|A large area of salt water.|Büyük tuzlu su alanı.|The sea is calm today.|Deniz bugün sakin.
+a1|word|shirt|Clothing for the upper body, often with buttons.|Genellikle düğmeli üst gövde giysisi.|He wore a white shirt.|Beyaz bir gömlek giydi.
+a1|word|short|Not long or not tall.|Uzun olmayan.|The film is short.|Film kısa.
+a1|word|sky|The space above the earth that you see outdoors.|Dışarı bakıldığında yeryüzünün üstünde görülen alan.|The sky is clear.|Gökyüzü açık.
+a1|word|sleep|To rest with your eyes closed and mind inactive.|Gözler kapalı ve bilinç azalmış hâlde dinlenmek.|I need to sleep.|Uyumam gerekiyor.
+a1|word|small|Not large.|Büyük olmayan.|We have a small garden.|Küçük bir bahçemiz var.
+a1|word|son|A male child of a parent.|Bir ebeveynin erkek çocuğu.|Their son is five.|Oğulları beş yaşında.
+a1|word|spring|The season between winter and summer.|Kış ile yaz arasındaki mevsim.|Flowers bloom in spring.|İlkbaharda çiçekler açar.
+a1|word|street|A road in a town with buildings beside it.|Şehirde binaların arasından geçen yol.|Our street is quiet.|Sokağımız sakin.
+a1|word|summer|The warmest season of the year.|Yılın en sıcak mevsimi.|We swim in summer.|Yazın yüzeriz.
+a1|word|Sunday|The day after Saturday.|Cumartesiden sonraki gün.|We rest on Sunday.|Pazar günü dinleniriz.
+a1|word|tea|A drink made by putting leaves in hot water.|Yaprakların sıcak suda demlenmesiyle yapılan içecek.|Would you like some tea?|Biraz çay ister misin?
+a1|word|Thursday|The day after Wednesday.|Çarşambadan sonraki gün.|The meeting is on Thursday.|Toplantı perşembe günü.
+a1|word|today|The day that is happening now.|İçinde bulunulan gün.|Today is my birthday.|Bugün doğum günüm.
+a1|word|tooth|One of the hard white objects in your mouth.|Ağızdaki sert beyaz yapılardan biri.|My tooth hurts.|Dişim ağrıyor.
+a1|word|Tuesday|The day after Monday.|Pazartesiden sonraki gün.|I have a lesson on Tuesday.|Salı günü dersim var.
+a1|word|walk|To move using your feet at a normal speed.|Ayaklarla normal hızda ilerlemek.|I walk to work.|İşe yürürüm.
+a1|word|wall|A vertical structure dividing rooms or surrounding an area.|Odaları ayıran veya alanı çevreleyen dik yapı.|The wall is white.|Duvar beyaz.
+a1|word|Wednesday|The day after Tuesday.|Salıdan sonraki gün.|We meet on Wednesday.|Çarşamba buluşuyoruz.
+a1|word|white|The color of fresh snow.|Yeni yağmış karın rengi.|She wore white shoes.|Beyaz ayakkabılar giydi.
+a1|word|wife|The woman someone is married to.|Birinin evli olduğu kadın.|His wife works nearby.|Eşi yakında çalışıyor.
+a1|word|yesterday|The day before today.|Bugünden önceki gün.|I called you yesterday.|Dün seni aradım.
+a1|phrasal|look around|To look in different directions to see a place.|Bir yeri görmek için çevreye bakmak.|Let us look around the shop.|Dükkâna bir göz atalım.
+a1|phrasal|come on|To encourage someone to hurry or try.|Birini acele etmeye veya denemeye teşvik etmek.|Come on, you can do it!|Haydi, yapabilirsin!
+a1|phrasal|go in|To enter a place.|Bir yere girmek.|It is cold; let us go in.|Hava soğuk; içeri girelim.
+a1|phrasal|get on|To enter a bus or train.|Otobüse veya trene binmek.|We get on the bus here.|Otobüse burada bineriz.
+a1|phrasal|get off|To leave a bus or train.|Otobüs veya trenden inmek.|Get off at the next stop.|Sonraki durakta in.
+a1|phrasal|come along|To go somewhere with another person.|Başka biriyle birlikte gitmek.|You can come along with us.|Bizimle gelebilirsin.
+a1|phrasal|go up|To move to a higher place.|Daha yüksek yere çıkmak.|Go up the stairs.|Merdivenlerden yukarı çık.
+a1|phrasal|go down|To move to a lower place.|Daha aşağı yere inmek.|Go down to the kitchen.|Mutfağa aşağı in.
+a1|phrasal|fall down|To drop to the ground.|Yere düşmek.|Be careful not to fall down.|Düşmemeye dikkat et.
+a1|phrasal|grow back|To grow again after being cut.|Kesildikten sonra yeniden uzamak.|Your hair will grow back.|Saçın yeniden uzayacak.
+a1|phrasal|put back|To return something to its earlier place.|Bir şeyi önceki yerine geri koymak.|Put back the book, please.|Kitabı yerine koy lütfen.
+a1|phrasal|take away|To remove something.|Bir şeyi alıp götürmek.|Please take away the empty plates.|Lütfen boş tabakları götür.
+a1|phrasal|try out|To test something to see how it works.|Nasıl çalıştığını görmek için denemek.|Can I try out this bike?|Bu bisikleti deneyebilir miyim?
+a1|phrasal|switch on|To start an electrical device.|Elektrikli cihazı çalıştırmak.|Switch on the lamp.|Lambayı aç.
+a1|phrasal|switch off|To stop an electrical device.|Elektrikli cihazı kapatmak.|Switch off the lights.|Işıkları kapat.
+a1|phrasal|dress up|To wear special clothes for an occasion.|Bir etkinlik için özel giysiler giymek.|We dress up for the party.|Parti için şık giyiniriz.
+a1|phrasal|go ahead|To begin or continue after getting permission.|İzin aldıktan sonra başlamak veya sürdürmek.|You may go ahead now.|Şimdi başlayabilirsin.
+a1|phrasal|come out|To leave an enclosed place.|Kapalı bir yerden çıkmak.|Please come out of the room.|Lütfen odadan çık.
+a1|phrasal|go over|To move toward someone or something.|Birine veya bir şeye doğru gitmek.|Let us go over to the table.|Masanın yanına gidelim.
+a1|phrasal|move in|To start living in a new home.|Yeni bir evde yaşamaya başlamak.|We move in next week.|Gelecek hafta taşınıyoruz.
+b1|phrasal|add up|To calculate a total.|Toplamı hesaplamak.|Can you add up these numbers?|Bu sayıları toplayabilir misin?
+b1|phrasal|ask around|To ask several people for information.|Bilgi için birkaç kişiye sormak.|I will ask around for a good mechanic.|İyi bir tamirci için çevreye soracağım.
+b1|phrasal|ask out|To invite someone on a date.|Birini romantik buluşmaya davet etmek.|He wants to ask her out.|Onu çıkmaya davet etmek istiyor.
+b1|phrasal|break out|To begin suddenly, especially something unpleasant.|Özellikle kötü bir şeyin aniden başlaması.|A fire could break out.|Yangın çıkabilir.
+b1|phrasal|bring along|To take someone or something with you.|Birini veya bir şeyi yanında getirmek.|Bring along a friend.|Yanında bir arkadaş getir.
+b1|phrasal|call for|To require or demand something.|Bir şeyi gerektirmek veya talep etmek.|This situation will call for patience.|Bu durum sabır gerektirecek.
+b1|phrasal|care for|To look after someone.|Birine bakmak, bakımını üstlenmek.|She helps care for her grandmother.|Büyükannesine bakmaya yardım eder.
+b1|phrasal|catch up|To reach the same level as others.|Başkalarının düzeyine yetişmek.|I need to catch up with the class.|Sınıfa yetişmem gerekiyor.
+b1|phrasal|cheer up|To become happier or make someone happier.|Neşelenmek veya birini neşelendirmek.|These songs always cheer me up.|Bu şarkılar beni hep neşelendirir.
+b1|phrasal|clear up|To solve confusion or make something clear.|Karışıklığı gidermek veya açıklığa kavuşturmak.|Let us clear up this misunderstanding.|Bu yanlış anlaşılmayı giderelim.
+b1|phrasal|come round|To visit someone's home, especially in British English.|Özellikle İngiliz İngilizcesinde birinin evine uğramak.|Come round for tea.|Çaya uğra.
+b1|phrasal|cut off|To stop the supply or connection of something.|Bir şeyin bağlantısını veya akışını kesmek.|The storm may cut off the electricity.|Fırtına elektriği kesebilir.
+b1|phrasal|do without|To manage when you do not have something.|Bir şey olmadan idare etmek.|We can do without a car.|Arabasız idare edebiliriz.
+b1|phrasal|drop by|To visit briefly without a formal plan.|Resmî plan yapmadan kısa ziyarette bulunmak.|Feel free to drop by.|İstediğin zaman uğrayabilirsin.
+b1|phrasal|fill out|To complete a form by writing information.|Bir formu bilgi yazarak doldurmak.|Please fill out the application.|Lütfen başvuru formunu doldur.
+b1|phrasal|get back|To return to a place.|Bir yere geri dönmek.|When will you get back?|Ne zaman döneceksin?
+b1|phrasal|get together|To meet socially.|Sosyal amaçla bir araya gelmek.|Let us get together on Sunday.|Pazar günü buluşalım.
+b1|phrasal|give back|To return something to its owner.|Bir şeyi sahibine geri vermek.|Please give back my pen.|Lütfen kalemimi geri ver.
+b1|phrasal|go on|To continue happening or doing something.|Olmaya veya yapmaya devam etmek.|Please go on with your story.|Lütfen hikâyene devam et.
+b1|phrasal|go off|To make a sudden noise, like an alarm.|Alarm gibi aniden ses çıkarmak.|My alarm will go off at six.|Alarmım altıda çalacak.
+b1|phrasal|hand out|To give something to each person in a group.|Bir gruptaki kişilere tek tek dağıtmak.|Can you hand out these sheets?|Bu kâğıtları dağıtabilir misin?
+b1|phrasal|hang up|To end a telephone call.|Telefon görüşmesini bitirmek.|Do not hang up yet.|Henüz telefonu kapatma.
+b1|phrasal|head for|To go toward a place.|Bir yere doğru yönelmek.|We should head for the station.|İstasyona doğru gitmeliyiz.
+b1|phrasal|help out|To give help when it is needed.|Gerektiğinde yardım etmek.|Can you help out today?|Bugün yardım edebilir misin?
+b1|phrasal|hold up|To cause a delay.|Gecikmeye yol açmak.|Traffic may hold us up.|Trafik bizi geciktirebilir.
+b1|phrasal|join in|To take part in an activity already happening.|Devam eden bir etkinliğe katılmak.|Everyone can join in.|Herkes katılabilir.
+b1|phrasal|keep away|To remain at a distance.|Uzak durmak.|Keep away from the edge.|Kenardan uzak dur.
+b1|phrasal|keep down|To prevent an amount or noise from rising.|Miktarın veya sesin artmasını önlemek.|We need to keep down costs.|Maliyetleri düşük tutmalıyız.
+b1|phrasal|let in|To allow someone to enter.|Birinin girmesine izin vermek.|Please let the cat in.|Lütfen kediyi içeri al.
+b1|phrasal|log out|To leave an online account securely.|Çevrim içi hesaptan çıkış yapmak.|Remember to log out.|Çıkış yapmayı unutma.
+b1|phrasal|look back|To think about the past.|Geçmişi düşünmek.|I look back on school with joy.|Okul günlerini sevinçle hatırlıyorum.
+b1|phrasal|look out|To be careful because of danger.|Tehlikeye karşı dikkatli olmak.|Look out! A car is coming.|Dikkat et! Araba geliyor.
+b1|phrasal|mix up|To confuse two people or things.|İki kişiyi veya şeyi birbirine karıştırmak.|I often mix up their names.|İsimlerini sık sık karıştırırım.
+b1|phrasal|move out|To stop living in a particular home.|Bir evde yaşamayı bırakıp taşınmak.|They move out tomorrow.|Yarın evden taşınıyorlar.
+b1|phrasal|pay off|To produce a good result after effort.|Çabadan sonra iyi sonuç vermek.|Your hard work will pay off.|Çalışmanın karşılığını alacaksın.
+b1|phrasal|put through|To connect someone by telephone.|Telefonla birine bağlamak.|Could you put me through to reception?|Beni resepsiyona bağlar mısınız?
+b1|phrasal|read out|To read something aloud.|Bir şeyi sesli okumak.|Please read out the question.|Lütfen soruyu sesli oku.
+b1|phrasal|ring up|To call someone by telephone.|Birini telefonla aramak.|I will ring you up tonight.|Seni bu akşam arayacağım.
+b1|phrasal|save up|To keep money until you have enough for something.|Yeterli olana kadar para biriktirmek.|I am trying to save up for a trip.|Seyahat için para biriktirmeye çalışıyorum.
+b1|phrasal|send back|To return something by sending it.|Bir şeyi göndererek iade etmek.|I will send back the wrong item.|Yanlış ürünü geri göndereceğim.
+b1|phrasal|set off|To begin a journey.|Yolculuğa başlamak.|We set off at dawn.|Şafakta yola çıktık.
+b1|phrasal|sign up|To register to join something.|Katılmak için kayıt olmak.|I want to sign up for the course.|Kursa kaydolmak istiyorum.
+b1|phrasal|stay up|To remain awake later than usual.|Normalden daha geç saate kadar uyanık kalmak.|Do not stay up too late.|Çok geç saate kadar uyanık kalma.
+b1|phrasal|take back|To return something to a shop or person.|Bir şeyi dükkâna veya kişiye geri götürmek.|I need to take back these shoes.|Bu ayakkabıları iade etmeliyim.
+b1|phrasal|take down|To write information so you remember it.|Hatırlamak için bilgiyi yazmak.|Please take down my number.|Lütfen numaramı not al.
+b1|phrasal|tidy up|To make a place neat.|Bir yeri düzenli hâle getirmek.|Let us tidy up the room.|Odayı toparlayalım.
+b1|phrasal|warm up|To prepare the body for exercise.|Vücudu egzersize hazırlamak.|Always warm up before running.|Koşmadan önce daima ısın.
+b1|phrasal|wear out|To become unusable from repeated use.|Tekrarlı kullanımdan yıpranıp kullanılamaz olmak.|Cheap shoes wear out quickly.|Ucuz ayakkabılar çabuk yıpranır.
+b1|phrasal|wrap up|To finish something.|Bir işi bitirmek.|Let us wrap up the meeting.|Toplantıyı bitirelim.
+b1|phrasal|write back|To answer a letter or message in writing.|Mektup veya mesaja yazıyla cevap vermek.|Please write back soon.|Lütfen yakında cevap yaz.
+c1|phrasal|adhere to|To follow a rule or principle closely.|Kural veya ilkeye sıkı biçimde bağlı kalmak.|We adhere to strict standards.|Sıkı standartlara bağlı kalırız.
+c1|phrasal|allude to|To mention something indirectly.|Bir şeye dolaylı olarak değinmek.|She may allude to the disagreement.|Anlaşmazlığa dolaylı değinebilir.
+c1|phrasal|amount to|To be equal to something in effect or total.|Sonuç veya toplam olarak bir şeye eşit olmak.|These changes amount to a new policy.|Bu değişiklikler yeni bir politika anlamına geliyor.
+c1|phrasal|break through|To overcome an important barrier.|Önemli bir engeli aşmak.|We need to break through the resistance.|Direnci aşmamız gerekiyor.
+c1|phrasal|bring about|To cause something to happen.|Bir şeyin gerçekleşmesine yol açmak.|Education can bring about change.|Eğitim değişim yaratabilir.
+c1|phrasal|bring out|To make a quality more noticeable.|Bir özelliği daha belirgin hâle getirmek.|Pressure can bring out hidden strengths.|Baskı gizli güçleri ortaya çıkarabilir.
+c1|phrasal|call upon|To formally ask someone to act.|Birinden resmî olarak harekete geçmesini istemek.|We call upon leaders to listen.|Liderleri dinlemeye çağırıyoruz.
+c1|phrasal|come up against|To face a difficulty or opponent.|Bir zorluk veya rakiple karşılaşmak.|We may come up against resistance.|Direnişle karşılaşabiliriz.
+c1|phrasal|count on|To confidently rely on someone or something.|Birine veya bir şeye güvenmek.|You can count on our support.|Desteğimize güvenebilirsin.
+c1|phrasal|cut out|To remove something unwanted.|İstenmeyen bir şeyi çıkarmak.|We should cut out unnecessary steps.|Gereksiz adımları kaldırmalıyız.
+c1|phrasal|embark on|To start a significant project or journey.|Önemli bir projeye veya yolculuğa başlamak.|They will embark on a new venture.|Yeni bir girişime başlayacaklar.
+c1|phrasal|factor in|To include something when calculating or deciding.|Hesaplarken veya karar verirken bir şeyi dahil etmek.|Remember to factor in travel time.|Yol süresini hesaba katmayı unutma.
+c1|phrasal|follow up|To take further action after an earlier event.|Önceki olaydan sonra ek işlem yapmak.|I will follow up on your request.|Talebinizin takibini yapacağım.
+c1|phrasal|go against|To oppose a rule or someone's wishes.|Kurala veya birinin isteğine karşı gelmek.|That would go against our principles.|Bu ilkelerimize aykırı olurdu.
+c1|phrasal|hold off|To delay doing something.|Bir şeyi yapmayı ertelemek.|Let us hold off until Monday.|Pazartesiye kadar bekleyelim.
+c1|phrasal|keep track of|To remain informed about progress or location.|Gelişmelerden veya konumdan haberdar kalmak.|Keep track of your spending.|Harcamalarını takip et.
+c1|phrasal|lay down|To establish a rule or requirement.|Kural veya şart belirlemek.|We must lay down clear guidelines.|Açık yönergeler belirlemeliyiz.
+c1|phrasal|make up for|To compensate for something bad or missing.|Kötü veya eksik bir şeyi telafi etmek.|I will make up for the delay.|Gecikmeyi telafi edeceğim.
+c1|phrasal|pass on|To give information to another person.|Bilgiyi başka birine iletmek.|Please pass on the message.|Lütfen mesajı ilet.
+c1|phrasal|press for|To repeatedly demand something.|Bir şeyi ısrarla talep etmek.|They will press for an explanation.|Açıklama için baskı yapacaklar.
+c1|phrasal|reach out|To contact someone to offer or ask for help.|Yardım istemek veya sunmak için iletişim kurmak.|Do not hesitate to reach out.|İletişime geçmekten çekinme.
+c1|phrasal|resort to|To use something because better choices have failed.|Daha iyi seçenekler kalmadığı için bir yola başvurmak.|We should not resort to threats.|Tehditlere başvurmamalıyız.
+c1|phrasal|see through|To recognize the truth behind a deception.|Aldatmanın arkasındaki gerçeği görmek.|I can see through that excuse.|O bahanenin gerçek yüzünü görebiliyorum.
+c1|phrasal|step down|To leave an important job or position.|Önemli görev veya makamdan ayrılmak.|The chair will step down.|Başkan görevden ayrılacak.
+c1|phrasal|step up|To increase the amount or intensity.|Miktarı veya yoğunluğu artırmak.|We need to step up our efforts.|Çabalarımızı artırmalıyız.
+c2|phrasal|balk at|To hesitate or refuse because something seems difficult or excessive.|Zor veya aşırı bulduğu için çekinmek ya da reddetmek.|Investors may balk at the cost.|Yatırımcılar maliyetten çekinebilir.
+c2|phrasal|bat around|To discuss ideas informally.|Fikirleri gayriresmî biçimde tartışmak.|Let us bat around some ideas.|Birkaç fikir üzerine konuşalım.
+c2|phrasal|bottle up|To hide strong feelings rather than expressing them.|Güçlü duyguları açıklamak yerine içine atmak.|Do not bottle up your feelings.|Duygularını içine atma.
+c2|phrasal|branch off|To separate from a main route or organization.|Ana yol veya kuruluştan ayrılmak.|A narrow path will branch off here.|Burada dar bir patika ayrılacak.
+c2|phrasal|cave in|To finally agree after resisting.|Direndikten sonra sonunda kabul etmek.|They refused to cave in to demands.|Taleplere boyun eğmeyi reddettiler.
+c2|phrasal|chip away at|To gradually weaken something.|Bir şeyi yavaşça zayıflatmak.|Small doubts chip away at trust.|Küçük şüpheler güveni aşındırır.
+c2|phrasal|conjure up|To bring a vivid image or memory to mind.|Canlı görüntü veya anıyı zihne getirmek.|The smell can conjure up childhood memories.|Koku çocukluk anılarını canlandırabilir.
+c2|phrasal|drum up|To try to create interest or support.|İlgi veya destek oluşturmaya çalışmak.|They want to drum up support.|Destek toplamaya çalışıyorlar.
+c2|phrasal|flesh out|To add details to an outline or idea.|Taslak veya fikre ayrıntı eklemek.|We need to flesh out the proposal.|Öneriyi ayrıntılandırmalıyız.
+c2|phrasal|frown upon|To disapprove of something.|Bir şeyi hoş karşılamamak.|They frown upon unnecessary delays.|Gereksiz gecikmeleri hoş karşılamazlar.
+c2|phrasal|hash out|To discuss details until an agreement is reached.|Anlaşana kadar ayrıntıları tartışmak.|Let us hash out the terms.|Şartları konuşup netleştirelim.
+c2|phrasal|home in on|To move or focus toward a precise target.|Tam hedefe yönelmek veya odaklanmak.|The analysis will home in on the cause.|Analiz nedene odaklanacak.
+c2|phrasal|knock back|To reject a proposal or request.|Öneri veya isteği reddetmek.|They might knock back our proposal.|Önerimizi reddedebilirler.
+c2|phrasal|latch onto|To quickly adopt an idea or attach yourself to something.|Bir fikri hemen benimsemek veya bir şeye tutunmak.|People latch onto simple explanations.|İnsanlar basit açıklamalara sarılır.
+c2|phrasal|fend off|To protect yourself from an attack or unwanted approach.|Saldırıyı veya istenmeyen yaklaşımı savuşturmak.|She had to fend off criticism.|Eleştirileri savuşturmak zorunda kaldı.
+c2|phrasal|pare down|To reduce something to its essential parts.|Bir şeyi temel parçalarına indirgemek.|Pare down the report to ten pages.|Raporu on sayfaya indir.
+c2|phrasal|peter out|To gradually weaken and stop.|Yavaşça zayıflayıp bitmek.|The applause began to peter out.|Alkışlar yavaşça sona erdi.
+c2|phrasal|rake up|To mention unpleasant past events again.|Geçmişteki hoş olmayan olayları yeniden açmak.|Do not rake up old arguments.|Eski tartışmaları yeniden açma.
+c2|phrasal|ride out|To survive a difficult period without major change.|Zor dönemi büyük değişiklik yapmadan atlatmak.|The business hopes to ride out the crisis.|İşletme krizi atlatmayı umuyor.
+c2|phrasal|rope in|To persuade someone to help with a task.|Birini işe yardım etmeye razı etmek.|We can rope in some volunteers.|Birkaç gönüllüyü yardıma dahil edebiliriz.
+c2|phrasal|scale back|To reduce the size or amount of an activity.|Bir faaliyetin boyutunu veya miktarını azaltmak.|They will scale back production.|Üretimi azaltacaklar.
+c2|phrasal|sift through|To examine many things carefully to find what matters.|Önemli olanı bulmak için birçok şeyi dikkatle incelemek.|We must sift through the evidence.|Kanıtları dikkatle incelemeliyiz.
+c2|phrasal|smooth over|To make a disagreement seem less serious.|Anlaşmazlığı yumuşatıp yatıştırmak.|She tried to smooth over the dispute.|Anlaşmazlığı yatıştırmaya çalıştı.
+c2|phrasal|square with|To agree or be consistent with something.|Bir şeyle uyuşmak veya tutarlı olmak.|That does not square with the evidence.|Bu kanıtlarla uyuşmuyor.
+c2|phrasal|taper off|To gradually become smaller or weaker.|Yavaşça azalmak veya zayıflamak.|Demand began to taper off.|Talep yavaşça azalmaya başladı.
+c1|word|accountability|The duty to explain and accept responsibility for actions.|Eylemleri açıklama ve sorumluluğunu üstlenme yükümlülüğü.|Clear roles improve accountability.|Net roller hesap verebilirliği artırır.
+c1|word|allocate|To give resources to a particular purpose.|Kaynakları belirli amaca ayırmak.|We allocate time for research.|Araştırmaya zaman ayırırız.
+c1|word|anticipate|To expect something and prepare for it.|Bir şeyi beklemek ve ona hazırlanmak.|We anticipate higher demand.|Daha yüksek talep bekliyoruz.
+c1|word|arbitrary|Based on personal choice rather than a clear reason.|Açık gerekçe yerine kişisel tercihe dayanan.|The limit seemed arbitrary.|Sınır keyfî görünüyordu.
+c1|word|autonomy|The freedom to make your own decisions.|Kendi kararını verme özgürlüğü.|The team needs greater autonomy.|Ekibin daha fazla özerkliğe ihtiyacı var.
+c1|word|benchmark|A standard used to compare performance.|Performansı karşılaştırmada kullanılan ölçüt.|This result sets a benchmark.|Bu sonuç bir ölçüt oluşturuyor.
+c1|word|candid|Honest and direct, even about difficult matters.|Zor konularda bile dürüst ve açık.|We had a candid discussion.|Açık sözlü bir görüşme yaptık.
+c1|word|clarify|To make something less confusing.|Bir şeyi daha anlaşılır hâle getirmek.|Could you clarify your point?|Demek istediğini netleştirir misin?
+c1|word|collaborate|To work with others on a shared project.|Ortak projede başkalarıyla çalışmak.|We collaborate with local schools.|Yerel okullarla iş birliği yapıyoruz.
+c1|word|compensate|To provide something in return for a loss.|Bir kaybı giderecek karşılık sağlamak.|They will compensate the customers.|Müşterilerin zararını karşılayacaklar.
+c1|word|concurrent|Happening at the same time.|Aynı anda gerçekleşen.|There are two concurrent sessions.|Aynı anda iki oturum var.
+c1|word|consolidate|To combine things into a stronger whole.|Şeyleri daha güçlü bütün hâline getirmek.|We need to consolidate our notes.|Notlarımızı birleştirmemiz gerekiyor.
+c1|word|contingency|A possible future event requiring preparation.|Hazırlık gerektiren olası gelecek durum.|We have a contingency plan.|Beklenmedik durum planımız var.
+c1|word|deviate|To move away from a usual route or standard.|Olağan yol veya standarttan sapmak.|Do not deviate from the procedure.|Prosedürden sapma.
+c1|word|disseminate|To spread information widely.|Bilgiyi geniş çevreye yaymak.|We disseminate the findings online.|Bulguları internet üzerinden yayıyoruz.
+c1|word|endorse|To publicly express support for something.|Bir şeyi açıkça desteklemek.|Experts endorse the proposal.|Uzmanlar öneriyi destekliyor.
+c1|word|equitable|Fair and just for everyone involved.|İlgili herkes için adil olan.|We need an equitable solution.|Adil bir çözüm gerek.
+c1|word|exemplify|To be a clear example of something.|Bir şeyin açık örneği olmak.|These cases exemplify the problem.|Bu vakalar sorunu örneklendiriyor.
+c1|word|foster|To encourage something to develop.|Bir şeyin gelişmesini desteklemek.|Good feedback can foster confidence.|İyi geri bildirim güveni geliştirebilir.
+c1|word|impartial|Not favoring one side over another.|Bir tarafı diğerine üstün tutmayan.|The judge must remain impartial.|Hakem tarafsız kalmalı.
+c1|word|infrastructure|Basic systems needed for a society or organization.|Toplum veya kurum için gereken temel sistemler.|The city needs better infrastructure.|Şehrin daha iyi altyapıya ihtiyacı var.
+c1|word|integrate|To combine parts into a functioning whole.|Parçaları işleyen bir bütün hâline getirmek.|We will integrate the new software.|Yeni yazılımı sisteme entegre edeceğiz.
+c1|word|intervene|To become involved to change a situation.|Bir durumu değiştirmek için araya girmek.|The teacher had to intervene.|Öğretmen müdahale etmek zorunda kaldı.
+c1|word|intrinsic|Belonging naturally to something itself.|Bir şeyin kendi doğasında bulunan.|The task has intrinsic value.|Görevin kendi içinde değeri var.
+c1|word|merit|A quality that deserves praise or attention.|Övgü veya dikkat hak eden özellik.|The proposal has considerable merit.|Önerinin önemli yararları var.
+c1|word|offset|To balance or reduce the effect of something.|Bir etkinin karşılığını dengelemek veya azaltmak.|Savings can offset the extra costs.|Tasarruflar ek maliyetleri dengeleyebilir.
+c1|word|pertinent|Directly relevant to a subject.|Konuyla doğrudan ilgili.|She asked a pertinent question.|Konuyla ilgili bir soru sordu.
+c1|word|prerequisite|Something required before another thing can happen.|Başka şeyin olması için gereken ön koşul.|Experience is not a prerequisite.|Deneyim ön koşul değil.
+c1|word|reciprocal|Given or felt equally by both sides.|İki tarafın da karşılıklı gösterdiği.|The agreement creates reciprocal obligations.|Anlaşma karşılıklı yükümlülükler oluşturuyor.
+c1|word|redundant|No longer needed because it repeats something or has no purpose.|Tekrarlı veya amaçsız olduğu için artık gerekmeyen.|Remove the redundant steps.|Gereksiz adımları kaldır.
+c1|word|retain|To keep something rather than lose it.|Bir şeyi kaybetmeyip korumak.|Examples help us retain vocabulary.|Örnekler kelimeleri hatırda tutmamıza yardımcı olur.
+c1|word|scope|The range of things a subject or project covers.|Konu veya projenin kapsadığı alan.|We need to define the scope.|Kapsamı belirlememiz gerekiyor.
+c1|word|specify|To state something exactly and clearly.|Bir şeyi kesin ve açık belirtmek.|Please specify the date.|Lütfen tarihi açıkça belirt.
+c1|word|stipulate|To state a condition as part of an agreement.|Anlaşmanın parçası olarak koşul koymak.|The rules stipulate a minimum age.|Kurallar asgari yaş şartı koyuyor.
+c1|word|streamline|To make a process simpler and more efficient.|Süreci sadeleştirip daha verimli yapmak.|We will streamline the application process.|Başvuru sürecini kolaylaştıracağız.
+c1|word|subtle|Not obvious and requiring attention to notice.|Belirgin olmayan, fark etmek için dikkat isteyen.|There is a subtle difference.|İnce bir fark var.
+c1|word|surplus|An amount greater than what is needed.|Gerekenden fazla miktar.|We donated the surplus food.|Fazla yiyeceği bağışladık.
+c1|word|undergo|To experience a process or change.|Bir süreç veya değişimden geçmek.|The building will undergo repairs.|Bina onarımdan geçecek.
+c1|word|validate|To check or demonstrate that something is sound.|Bir şeyin geçerli olduğunu sınamak veya göstermek.|We must validate the results.|Sonuçları doğrulamalıyız.
+c1|word|warrant|To justify or make something necessary.|Bir şeyi haklı veya gerekli kılmak.|The findings warrant further research.|Bulgular daha fazla araştırmayı gerektiriyor.
+c2|word|abrogate|To officially end a law or agreement.|Yasa veya anlaşmayı resmen yürürlükten kaldırmak.|They voted to abrogate the treaty.|Antlaşmayı kaldırmak için oy verdiler.
+c2|word|acumen|The ability to make quick and sound judgments.|Hızlı ve isabetli değerlendirme yetisi.|Her business acumen impressed us.|Ticari zekâsı bizi etkiledi.
+c2|word|ameliorate|To make a bad situation better.|Kötü durumu iyileştirmek.|The measures may ameliorate the problem.|Önlemler sorunu hafifletebilir.
+c2|word|anodyne|Unlikely to upset anyone, but often uninteresting.|Kimseyi rahatsız etmeyen ama çoğu zaman sıkıcı.|The statement was deliberately anodyne.|Açıklama bilerek suya sabuna dokunmuyordu.
+c2|word|approbation|Official or strong approval.|Resmî veya güçlü onay.|The work earned widespread approbation.|Çalışma geniş takdir topladı.
+c2|word|attenuate|To reduce the strength or intensity of something.|Gücü veya yoğunluğu azaltmak.|The walls attenuate outside noise.|Duvarlar dış gürültüyü azaltır.
+c2|word|auspicious|Suggesting that future success is likely.|Gelecekte başarıya işaret eden.|It was an auspicious start.|Umut verici bir başlangıçtı.
+c2|word|blithe|Carelessly unconcerned about something serious.|Ciddi bir şeye karşı kaygısızca umursamaz.|He showed blithe disregard for the risks.|Riskleri umursamazca göz ardı etti.
+c2|word|cacophony|A harsh mixture of unpleasant sounds.|Rahatsız edici seslerin sert karışımı.|Traffic created a cacophony.|Trafik bir ses karmaşası oluşturdu.
+c2|word|complacent|Too satisfied to notice possible problems.|Sorunları göremeyecek kadar kendinden memnun.|Success made the team complacent.|Başarı ekibi rehavete sürükledi.
+c2|word|concomitant|Occurring together with something else.|Başka bir şeyle birlikte ortaya çıkan.|Growth brought concomitant challenges.|Büyüme beraberinde zorluklar getirdi.
+c2|word|convivial|Friendly and enjoyable in a social setting.|Sosyal ortamda sıcak ve neşeli.|The dinner had a convivial atmosphere.|Yemeğin samimi bir havası vardı.
+c2|word|deleteriousness|The quality of being harmful.|Zararlı olma niteliği.|The study examines the substance's deleteriousness.|Araştırma maddenin zararlılığını inceliyor.
+c2|word|desultory|Lacking a clear plan or sustained effort.|Net planı veya devamlı çabası olmayan.|They held a desultory conversation.|Dağınık bir sohbet yaptılar.
+c2|word|didactic|Intended to teach, sometimes too obviously.|Öğretmeyi amaçlayan, bazen bunu fazla öne çıkaran.|The novel has a didactic tone.|Romanın öğretici bir üslubu var.
+c2|word|disingenuous|Pretending to be sincere while hiding the truth.|Gerçeği gizlerken samimi görünmeye çalışan.|That argument seems disingenuous.|O sav samimiyetsiz görünüyor.
+c2|word|effusive|Showing feelings in a very enthusiastic way.|Duyguları çok coşkulu biçimde gösteren.|She gave us an effusive welcome.|Bizi büyük coşkuyla karşıladı.
+c2|word|elide|To leave out or pass over something.|Bir şeyi atlamak veya üzerinden geçmek.|The summary may elide key details.|Özet önemli ayrıntıları atlayabilir.
+c2|word|encomium|A speech or text expressing high praise.|Büyük övgü ifade eden konuşma veya metin.|He wrote an encomium to his mentor.|Akıl hocasına bir övgü metni yazdı.
+c2|word|equanimity|Mental calmness in difficult circumstances.|Zor koşullarda zihinsel sakinlik.|She accepted the news with equanimity.|Haberi soğukkanlılıkla karşıladı.
+c2|word|execrable|Extremely bad.|Son derece kötü.|The service was execrable.|Hizmet berbattı.
+c2|word|expedient|Useful for an immediate purpose, perhaps not principled.|İlkelere uymasa da kısa vadede işe yarayan.|It was politically expedient.|Siyasi açıdan işlerine geliyordu.
+c2|word|fractious|Easily irritated and difficult to control.|Çabuk huzursuzlanan ve yönetilmesi zor.|The discussion became fractious.|Tartışma huysuz ve çekişmeli hâle geldi.
+c2|word|fulminate|To express strong criticism loudly.|Güçlü eleştiriyi yüksek sesle dile getirmek.|He continued to fulminate against the policy.|Politikaya karşı öfkeyle konuşmayı sürdürdü.
+c2|word|hackneyed|Used so often that it is no longer interesting.|Çok kullanıldığı için ilginçliğini yitirmiş.|Avoid hackneyed phrases.|Basmakalıp ifadelerden kaçın.
+c2|word|inimical|Harmful or opposed to something.|Bir şeye zararlı veya karşıt.|Secrecy is inimical to trust.|Gizlilik güvene zarar verir.
+c2|word|inured|Accustomed to something unpleasant.|Hoş olmayan bir şeye alışmış.|They became inured to the noise.|Gürültüye alışıp duyarsızlaştılar.
+c2|word|inveterate|Having a long-established habit.|Uzun süredir yerleşmiş alışkanlığı olan.|He is an inveterate traveler.|O iflah olmaz bir gezgindir.
+c2|word|limpid|Clear and easily understood or seen through.|Berrak veya kolay anlaşılır.|Her prose is limpid.|Düzyazısı duru.
+c2|word|magnanimous|Generous toward someone you have defeated or could punish.|Yendiği veya cezalandırabileceği kişiye cömert davranan.|She was magnanimous in victory.|Zaferinde alicenap davrandı.
+c2|word|moribund|No longer active or close to ending.|Artık faal olmayan veya sona yaklaşan.|They revived a moribund project.|Can çekişen projeyi canlandırdılar.
+c2|word|nonplussed|So surprised that you do not know how to react.|Nasıl tepki vereceğini bilemeyecek kadar şaşkın.|The question left him nonplussed.|Soru onu şaşkına çevirdi.
+c2|word|ostensible|Appearing to be true, but possibly hiding another reason.|Doğru gibi görünen ama başka neden gizleyebilen.|The ostensible aim was efficiency.|Görünürdeki amaç verimlilikti.
+c2|word|pellucid|Extremely clear in meaning or appearance.|Anlamı veya görünümü son derece açık.|The explanation was pellucid.|Açıklama son derece açıktı.
+c2|word|peremptory|Allowing no refusal or disagreement.|İtiraz veya reddetmeye izin vermeyen.|He gave a peremptory order.|Kesin ve buyurgan bir emir verdi.
+c2|word|prescient|Showing knowledge of what will happen.|Olacakları önceden sezmiş gibi bilgi gösteren.|Her warning proved prescient.|Uyarısı öngörülü çıktı.
+c2|word|puerile|Silly in a childish way.|Çocukça ve saçma.|The joke was puerile.|Şaka çocukçaydı.
+c2|word|recalcitrance|Stubborn resistance to control or authority.|Otorite veya denetime inatla direnme.|Their recalcitrance delayed the talks.|İnatçı direnişleri görüşmeleri geciktirdi.
+c2|word|sagacious|Showing wise practical judgment.|Bilgece ve isabetli değerlendirme gösteren.|It was a sagacious decision.|Bilgece bir karardı.
+c2|word|surreptitious|Done secretly to avoid notice.|Fark edilmemek için gizlice yapılan.|He took a surreptitious glance.|Gizlice bir bakış attı.

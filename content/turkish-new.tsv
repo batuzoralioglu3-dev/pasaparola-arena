@@ -1,0 +1,922 @@
+easy|Araba|Yolda insan taşımak için kullanılan dört tekerlekli motorlu taşıt.
+easy|Ağaç|Gövdesi odunsu, dalları ve yaprakları olan uzun bitki.
+easy|Bardak|Su veya çay içmek için kullanılan küçük kap.
+easy|Bebek|Yeni doğmuş veya çok küçük yaştaki çocuk.
+easy|Bıçak|Kesmek için kullanılan keskin ağızlı araç.
+easy|Cüzdan|Para ve kartların taşındığı küçük eşya.
+easy|Çekiç|Çivi çakmaya yarayan el aleti.
+easy|Çilek|Üzerinde küçük çekirdekler bulunan kırmızı meyve.
+easy|Defter|Yazı yazmak için bir araya getirilmiş kâğıt yaprakları.
+easy|Deniz|Karalar arasında uzanan büyük tuzlu su kütlesi.
+easy|Dolap|Eşyaları saklamaya yarayan kapaklı mobilya.
+easy|Ekmek|Un, su ve mayayla hazırlanıp fırında pişirilen temel yiyecek.
+easy|Elma|Kırmızı, sarı veya yeşil olabilen yuvarlak meyve.
+easy|Fırın|Ekmek ve yemek pişirmeye yarayan kapalı ısıtıcı.
+easy|Fil|Hortumu olan çok büyük kara hayvanı.
+easy|Güneş|Gündüz dünyamızı aydınlatan yıldız.
+easy|Gözlük|Görmeyi düzeltmek için gözlerin önüne takılan eşya.
+easy|Havuç|Turuncu renkli, uzun köklü sebze.
+easy|Havlu|Yıkandıktan sonra kurulanmak için kullanılan kumaş.
+easy|Işık|Nesneleri görmemizi sağlayan aydınlık.
+easy|İğne|Dikiş dikmeye yarayan sivri ve delikli küçük araç.
+easy|İp|Bağlamak veya asmak için kullanılan uzun ince lif demeti.
+easy|Jet|Çok hızlı uçabilen motorlu hava aracı.
+easy|Kaşık|Çorba gibi yiyecekleri yemeye yarayan saplı araç.
+easy|Kapı|Bir odaya girerken açıp kapattığımız bölüm.
+easy|Karpuz|İçi genellikle kırmızı, kabuğu yeşil büyük yaz meyvesi.
+easy|Limon|Sarı renkli ve ekşi turunçgil.
+easy|Lamba|Elektrikle ortamı aydınlatan araç.
+easy|Masa|Yemek yemek veya çalışmak için kullanılan düz yüzeyli mobilya.
+easy|Muz|Sarı kabuklu, uzun ve kıvrık meyve.
+easy|Nar|Kalın kabuğunun içinde çok sayıda kırmızı tane olan meyve.
+easy|Nehir|Denize veya göle doğru akan büyük akarsu.
+easy|Orman|Çok sayıda ağacın bir arada bulunduğu geniş alan.
+easy|Otobüs|Çok sayıda yolcu taşıyan büyük motorlu kara taşıtı.
+easy|Öğretmen|Okulda öğrencilere ders veren kişi.
+easy|Ördek|Geniş gagalı, perdeli ayaklı su kuşu.
+easy|Pencere|Bir odaya ışık ve hava girmesini sağlayan camlı açıklık.
+easy|Peynir|Sütten yapılan, kahvaltıda da yenilen yiyecek.
+easy|Radyo|Sesli yayınları dinlemeye yarayan cihaz.
+easy|Resim|Çizilerek veya boyanarak oluşturulan görüntü.
+easy|Saat|Zamanı gösteren araç.
+easy|Sabun|El ve vücut temizliğinde kullanılan köpüren madde.
+easy|Şapka|Başa takılan giysi.
+easy|Şemsiye|Yağmurdan korunmak için başın üstünde açılan eşya.
+easy|Tabak|Yemeğin konduğu, genellikle yuvarlak ve yayvan kap.
+easy|Tren|Raylar üzerinde hareket eden taşıt.
+easy|Uçak|Kanatları ve motorlarıyla havada yol alan taşıt.
+easy|Uyku|Dinlenirken bilincin ve hareketlerin azaldığı doğal durum.
+easy|Üzüm|Asmada salkım hâlinde yetişen meyve.
+easy|Ütü|Kıyafetlerdeki kırışıklıkları ısıyla düzelten araç.
+easy|Vapur|Denizde, genellikle kısa mesafelerde yolcu taşıyan gemi.
+easy|Vazo|İçine çiçek konan süs kabı.
+easy|Yastık|Uyurken başın altına konan yumuşak eşya.
+easy|Yaprak|Bitkinin genellikle yeşil ve yassı bölümü.
+easy|Zebra|Siyah beyaz çizgileri olan atgillerden hayvan.
+easy|Zeytin|Kahvaltıda yenilen ve yağ elde edilen küçük meyve.
+medium|Adalet|Herkese hakkını verme ilkesi.
+medium|Ahenk|Parçalar arasındaki uyum.
+medium|Alfabe|Bir dilin harflerinin belirli sırayla dizilmiş bütünü.
+medium|Anıt|Önemli bir kişi veya olayı yaşatmak için yapılan eser.
+medium|Arkeoloji|Geçmiş toplumları maddi kalıntılardan inceleyen bilim.
+medium|Atlas|Haritaların bir araya getirildiği kitap.
+medium|Atmosfer|Bir gezegeni çevreleyen gaz tabakası.
+medium|Avize|Tavana asılan, genellikle süslü aydınlatma aracı.
+medium|Bakteri|Tek hücreli mikroskobik canlı türü.
+medium|Baraj|Suyu biriktirmek için akarsu üzerine yapılan set.
+medium|Bellek|Bilgileri zihinde saklama ve hatırlama yetisi.
+medium|Biyografi|Bir kişinin yaşamını anlatan yazı türü.
+medium|Bütçe|Belirli dönemin gelir ve gider planı.
+medium|Bulmaca|Bilgi veya düşünmeyle çözülmesi gereken eğlenceli soru bütünü.
+medium|Cesaret|Tehlike veya güçlük karşısında yılmadan davranma gücü.
+medium|Cömertlik|Elindekini başkalarıyla paylaşmaktan kaçınmama özelliği.
+medium|Cereyan|Kapalı yerde karşılıklı açıklıklardan oluşan hava akımı.
+medium|Cazibe|Bir şeyin kendine çekme gücü, çekicilik.
+medium|Çelişki|İki düşüncenin birbirini tutmaması durumu.
+medium|Çevre|Bir canlının içinde yaşadığı koşulların ve ortamın bütünü.
+medium|Çırak|Bir mesleği ustanın yanında öğrenen kişi.
+medium|Çözelti|Bir maddenin başka bir madde içinde homojen dağıldığı karışım.
+medium|Denge|Karşıt güçlerin birbirini eşitlediği durum.
+medium|Deney|Bir düşünceyi sınamak için kontrollü koşullarda yapılan işlem.
+medium|Deyim|Gerçek anlamından farklı özel anlam taşıyan kalıplaşmış söz grubu.
+medium|Dürbün|Uzaktaki nesneleri yakından görmeye yarayan optik araç.
+medium|Destan|Kahramanlıkları olağanüstü olaylarla anlatan uzun edebî eser.
+medium|Diyalog|İki veya daha fazla kişi arasındaki karşılıklı konuşma.
+medium|Efsane|Dilden dile aktarılan, olağanüstü olaylar içeren anlatı.
+medium|Ekonomi|Üretim, tüketim ve kaynakların dağılımını inceleyen alan.
+medium|Empati|Kendini başkasının yerine koyarak onu anlamaya çalışma.
+medium|Enlem|Bir noktanın Ekvator'a olan açısal uzaklığı.
+medium|Erozyon|Toprağın su veya rüzgârla aşınıp taşınması.
+medium|Estetik|Güzelliği ve sanatın algılanışını inceleyen alan.
+medium|Felsefe|Varlık, bilgi ve değerler üzerine sistemli düşünme alanı.
+medium|Fosil|Geçmişte yaşamış canlıların taşlaşmış kalıntısı veya izi.
+medium|Frekans|Tekrarlanan bir olayın birim zamandaki tekrar sayısı.
+medium|Fedakârlık|Başkası için kendi çıkarından vazgeçme.
+medium|Gelenek|Bir toplumda kuşaktan kuşağa aktarılan alışkanlık.
+medium|Göç|İnsanların veya hayvanların yaşadıkları yeri değiştirmesi.
+medium|Gözlem|Bir olayı dikkatle izleyip bilgi toplama.
+medium|Güvence|Bir durumun güven içinde olmasını sağlayan teminat.
+medium|Hafıza|Yaşananları ve öğrenilenleri zihinde tutma yetisi.
+medium|Harita|Yeryüzünün tamamının veya bir bölümünün ölçekli çizimi.
+medium|Heykel|Taş, metal gibi malzemelerle yapılan üç boyutlu sanat eseri.
+medium|Hipotez|Sınanmak üzere ileri sürülen geçici açıklama.
+medium|Hoşgörü|Farklı düşünce ve davranışlara anlayış gösterme.
+medium|Isı|Sıcaklık farkı nedeniyle aktarılan enerji.
+medium|Islah|Bozulmuş bir şeyi düzeltme, daha iyi duruma getirme.
+medium|Işın|Bir noktadan başlayıp tek yönde sonsuza uzanan geometrik çizgi.
+medium|İklim|Bir bölgedeki uzun yıllara ait genel hava koşulları.
+medium|İlham|Yaratıcı bir düşünceyi doğuran esin.
+medium|İmge|Zihinde oluşan görüntü veya tasarım.
+medium|İrade|Bir şeyi yapıp yapmamaya karar verme gücü.
+medium|İstatistik|Veri toplama, çözümleme ve yorumlama bilimi.
+medium|Jeoloji|Yer kabuğunun yapısını ve tarihini inceleyen bilim.
+medium|Jest|Bir duygu veya düşünceyi anlatan el, kol veya baş hareketi.
+medium|Jüri|Bir yarışmada veya yargılamada değerlendirme yapan kurul.
+medium|Jeneratör|Mekanik enerjiyi elektrik enerjisine dönüştüren makine.
+medium|Kanıt|Bir iddianın doğruluğunu gösteren bulgu.
+medium|Kavram|Bir nesne veya düşüncenin zihindeki genel tasarımı.
+medium|Kıta|Yeryüzündeki çok büyük kara parçalarından her biri.
+medium|Kronoloji|Olayları gerçekleşme zamanlarına göre sıralama.
+medium|Kültür|Bir toplumun maddi ve manevi birikiminin bütünü.
+medium|Kutup|Dünya'nın dönme ekseninin yüzeyi kestiği iki uçtan biri.
+medium|Lider|Bir gruba yön veren kişi.
+medium|Lojistik|Mal ve kaynakların taşınma, depolanma ve dağıtımının düzenlenmesi.
+medium|Lügat|Sözlük anlamına gelen sözcük.
+medium|Levha|Yassı ve ince, genellikle metalden yapılmış parça.
+medium|Mantık|Doğru akıl yürütmenin kurallarını inceleyen alan.
+medium|Mecaz|Bir kelimenin gerçek anlamından uzak bir anlamda kullanılması.
+medium|Mesafe|İki nokta arasındaki uzaklık.
+medium|Miras|Ölen birinden kalan mal, hak veya kültürel birikim.
+medium|Mizah|Olayların güldürücü yönlerini ortaya çıkaran anlatım.
+medium|Müze|Tarihî veya sanatsal eserlerin sergilendiği kurum.
+medium|Nesil|Yaklaşık aynı dönemde doğmuş kişiler topluluğu.
+medium|Nezaket|Başkalarına karşı incelikli ve saygılı davranma.
+medium|Nitelik|Bir şeyi diğerlerinden ayıran özellik, vasıf.
+medium|Nüfus|Belirli bir yerde yaşayan insanların toplamı.
+medium|Olasılık|Bir olayın gerçekleşme ihtimalini ifade eden ölçü.
+medium|Orkestra|Birlikte müzik yapan çalgıcılar topluluğu.
+medium|Önyargı|Yeterli bilgi olmadan önceden verilmiş hüküm.
+medium|Özveri|Bir amaç uğruna kendi çıkarından vazgeçme.
+medium|Ölçek|Haritadaki uzunluğun gerçekteki uzunluğa oranı.
+medium|Özet|Bir metnin ana noktalarını kısaca anlatan bölüm.
+medium|Paragraf|Bir düşünce çevresinde oluşan cümleler topluluğu.
+medium|Pusula|Yön bulmaya yarayan mıknatıslı araç.
+medium|Proje|Belirli amaca ulaşmak için planlanmış çalışma.
+medium|Perspektif|Nesneleri uzaklık ve derinlik etkisiyle gösterme yöntemi.
+medium|Rastlantı|Önceden planlanmadan gerçekleşen karşılaşma veya olay.
+medium|Ritim|Ses veya hareketlerin düzenli tekrarı.
+medium|Röportaj|Sorulara verilen cevaplarla hazırlanan görüşme yazısı.
+medium|Rekabet|Aynı amaca ulaşmak isteyenler arasındaki yarışma.
+medium|Sabır|Güçlük veya bekleyiş karşısında dayanabilme gücü.
+medium|Sanayi|Ham maddeleri işleyip ürün üretmeye dayalı ekonomik alan.
+medium|Senaryo|Bir filmdeki olay ve konuşmaları içeren yazılı metin.
+medium|Simetri|Bir şeklin iki bölümünün bir eksene göre birbirini karşılaması.
+medium|Sorumluluk|Kişinin kendi davranışlarının sonuçlarını üstlenmesi.
+medium|Şafak|Güneş doğmadan önce beliren aydınlık.
+medium|Şeffaf|Arkasını gösterecek kadar saydam olan.
+medium|Şüphe|Bir şeyin doğruluğu konusunda kesin olamama.
+medium|Şiir|Duygu ve düşünceleri yoğun, ritimli bir dille anlatan tür.
+medium|Tasarruf|Kaynakları gereksiz harcamadan kullanma.
+medium|Tecrübe|Yaşayarak veya yaparak kazanılan bilgi.
+medium|Teleskop|Uzak gök cisimlerini gözlemlemeye yarayan optik araç.
+medium|Tutarlılık|Düşüncelerin veya davranışların birbiriyle çelişmemesi.
+medium|Uygarlık|Bir toplumun bilim, sanat ve yaşam düzeninde ulaştığı gelişmişlik.
+medium|Uzlaşma|Tarafların ortak bir noktada anlaşması.
+medium|Uyarlama|Bir eseri başka bir sanat türüne veya ortama uygun hâle getirme.
+medium|Üretim|Mal veya hizmet ortaya çıkarma süreci.
+medium|Üslup|Bir kişinin anlatım veya yapış biçimi.
+medium|Ütopya|Gerçekte bulunmayan ideal toplum tasarımı.
+medium|Varsayım|Doğruluğu henüz kanıtlanmadan kabul edilen düşünce.
+medium|Verim|Harcanan kaynağa karşılık elde edilen sonuç.
+medium|Vicdan|Kişinin davranışlarını ahlaken değerlendiren iç duygusu.
+medium|Yalıtım|Isı, ses veya elektriğin geçişini azaltma işlemi.
+medium|Yetenek|Bir işi öğrenme veya yapma konusunda doğal kapasite.
+medium|Yörünge|Bir gök cisminin başka bir cisim çevresinde izlediği yol.
+medium|Yönetmelik|Bir işin uygulanmasına ilişkin kuralları açıklayan düzenleme.
+medium|Zanaat|El becerisi ve ustalık gerektiren meslek.
+medium|Zirve|Bir dağın en yüksek noktası.
+medium|Zıtlık|İki şeyin birbirinin karşıtı olması.
+hard|Aforizma|Özlü ve çarpıcı bir düşünceyi dile getiren kısa söz.
+hard|Akis|Sesin veya ışığın geri yansıması, yankı.
+hard|Aliterasyon|Yakın kelimelerde aynı ünsüzlerin tekrarlanmasıyla kurulan ahenk.
+hard|Anakronizm|Bir şeyi ait olmadığı tarihsel dönemde gösterme hatası.
+hard|Antitez|Bir düşüncenin karşısına konan zıt düşünce.
+hard|Arketip|Benzerlerinin temelini oluşturan ilk veya evrensel örnek.
+hard|Asimilasyon|Bir topluluğun başka bir kültür içinde ayırt edici özelliklerini yitirmesi.
+hard|Atalet|Eylemsizlik, harekete geçmeme durumu.
+hard|Banal|Özgünlük taşımayan, sıradan ve bayağı.
+hard|Basiret|Gerçeği doğru görüp ileriyi sezme yetisi.
+hard|Bedihi|Kanıt gerektirmeyecek kadar açık olan.
+hard|Beyhude|Boş yere yapılan, sonuç vermeyen.
+hard|Bilakis|Tam tersine anlamında kullanılan söz.
+hard|Burjuvazi|Üretim ve ticaret araçlarına sahip toplumsal sınıf.
+hard|Cevher|Bir şeyin özü; ayrıca işlenebilir maden içeren doğal madde.
+hard|Cüret|Çekinmeden girişme cesareti, gözü peklik.
+hard|Cüzi|Çok az, küçük miktarda olan.
+hard|Cinas|Söylenişleri aynı, anlamları farklı kelimelerle yapılan söz sanatı.
+hard|Çeper|Bir nesnenin çevresini saran sınır veya duvar.
+hard|Çıkarsama|Önermelerden hareketle yeni bir yargıya varma.
+hard|Çoğulculuk|Farklı görüş ve toplulukların birlikte varlığını benimseyen anlayış.
+hard|Çetrefil|Anlaşılması veya çözülmesi güç, dolaşık.
+hard|Demagoji|Duyguları kullanarak insanları yanıltan söz sanatı, laf cambazlığı.
+hard|Determinizm|Olayların önceki nedenlerce belirlendiğini savunan anlayış.
+hard|Diyalektik|Çelişkiler ve karşıtlıklar üzerinden ilerleyen düşünme yöntemi.
+hard|Dogma|Doğruluğu sorgulanmadan kabul edilen öğreti.
+hard|Düstur|Davranışa yön veren temel ilke.
+hard|Devinim|Hareket, yer değiştirme veya değişme.
+hard|Eklektik|Farklı kaynaklardan seçilen öğeleri birleştiren.
+hard|Epistemoloji|Bilginin kaynağını ve sınırlarını inceleyen felsefe dalı.
+hard|Ereksel|Bir amaca yönelmiş olan, amaçla ilgili.
+hard|Ezoterik|Yalnızca belirli bir çevrenin anlayabileceği kapalı bilgiyle ilgili.
+hard|Etimoloji|Kelimelerin kökenini inceleyen bilim.
+hard|Edilgen|Eylemden etkilenen, etkin rol almayan.
+hard|Feraset|Bir durumu çabuk ve doğru kavrama, sezgiyle anlama yetisi.
+hard|Fenomen|Gözlenebilen olay veya olgu.
+hard|Feyiz|Verimlilik, bolluk veya manevi esin.
+hard|Fütursuz|Çekinmeden ve umursamadan davranan.
+hard|Güdüm|Bir gücün yönlendirmesi ve yönetmesi.
+hard|Girift|Birbirine geçmiş, karmaşık.
+hard|Gıpta|Başkasındaki iyi bir şeye imrenme duygusu.
+hard|Gerekçe|Bir kararın dayandığı nedenleri açıklayan ifade.
+hard|Hegemonya|Bir grubun diğerleri üzerindeki baskınlığı.
+hard|Heterojen|Yapısı her yerde aynı olmayan, farklı öğeler içeren.
+hard|Hiciv|Kişi veya olayları alaycı bir dille eleştiren edebî tür.
+hard|Hümanizm|İnsanı ve insani değerleri merkeze alan düşünce.
+hard|Hülasa|Kısacası, özet anlamında kullanılan sözcük.
+hard|Hamaset|Kahramanlık duygularını abartılı biçimde dile getirme.
+hard|Israr|Bir düşünce veya istekte direnme.
+hard|Iztırap|Derin acı ve sıkıntı.
+hard|İçkin|Bir şeyin kendi yapısında bulunan, ona ait olan.
+hard|İhtiyat|Olası tehlikeyi düşünerek tedbirli davranma.
+hard|İkilem|İki seçenek arasında karar vermeyi zorlaştıran durum.
+hard|İlinti|İki şey arasındaki ilişki veya bağlantı.
+hard|İmtiyaz|Başkalarına tanınmayan özel hak veya ayrıcalık.
+hard|İstiare|Benzetmenin yalnızca bir tarafının söylendiği söz sanatı.
+hard|İstikrar|Bir durumun düzenli ve kararlı biçimde sürmesi.
+hard|İzafi|Başka bir şeye göre değişen, göreli.
+hard|Jargon|Belirli meslek veya topluluğa özgü özel dil.
+hard|Jeopolitik|Coğrafi etkenlerin devletler arası siyasete etkisini inceleyen alan.
+hard|Jestüel|El, kol ve beden hareketlerine ilişkin.
+hard|Kakofoni|Uyumsuz ve rahatsız edici sesler bütünü.
+hard|Katalizör|Bir tepkimenin hızını değiştirip sonunda kimyasal olarak tüketilmeyen madde.
+hard|Kıstas|Bir şeyi değerlendirmede kullanılan ölçüt.
+hard|Kümülatif|Birikerek artan.
+hard|Kanıksamak|Sık karşılaşılan bir duruma alışıp tepki vermez olmak.
+hard|Korelasyon|İki değişkenin birlikte değişme derecesini gösteren ilişki.
+hard|Konsensüs|Bir grup içindeki genel görüş birliği.
+hard|Liyakat|Bir işi yapmaya uygunluk ve yeterlilik.
+hard|Lakayt|İlgisiz ve umursamaz.
+hard|Lümpen|Sınıfsal bilinçten yoksun, yerleşik üretim ilişkileri dışında kalan kesimle ilgili.
+hard|Lirizm|Duyguların coşkulu ve içten anlatımı.
+hard|Müphem|Belirsiz, açık olmayan.
+hard|Mütevazı|Alçak gönüllü, kendini öne çıkarmayan.
+hard|Mütemadiyen|Aralıksız, sürekli olarak.
+hard|Müşterek|Ortak olan, birlikte paylaşılan.
+hard|Müktesebat|Önceden kazanılmış bilgi, hak veya birikim bütünü.
+hard|Mütereddit|Kararsız, tereddüt eden.
+hard|Mübalağa|Bir şeyi olduğundan büyük veya küçük göstererek abartma.
+hard|Metafor|Bir şeyi benzerlik yoluyla başka bir kavramla anlatma.
+hard|Nispi|Bir başka şeye göre değerlendirilen, göreli.
+hard|Nüans|İki benzer şey arasındaki ince fark.
+hard|Nihilizm|Yerleşik değer ve anlamları reddeden felsefi yaklaşım.
+hard|Nedensellik|Olaylar arasındaki neden-sonuç bağı.
+hard|Nüfuz|Bir kişinin veya grubun başkaları üzerindeki etki gücü.
+hard|Ontoloji|Varlığı ve var olmanın ne demek olduğunu inceleyen felsefe dalı.
+hard|Oligarşi|Yönetimin küçük bir grubun elinde bulunduğu düzen.
+hard|Oportünizm|İlkelere bağlı kalmadan fırsatları kendi çıkarına kullanma.
+hard|Otodidakt|Öğretmen olmadan kendi kendini yetiştirmiş kişi.
+hard|Öykünme|Başka birini veya eseri örnek alarak taklit etme.
+hard|Özdeşlik|İki şeyin her bakımdan aynı olması.
+hard|Özerklik|Bir kurumun kendi işlerini kendi yönetebilmesi.
+hard|Öznel|Kişisel duygu ve değerlendirmelere bağlı olan.
+hard|Paradigma|Bir alanda kabul gören temel düşünce ve model çerçevesi.
+hard|Paradoks|Görünüşte çelişkili olsa da üzerinde düşünmeyi gerektiren durum.
+hard|Pragmatizm|Düşünceleri pratik sonuçları ve yararlarıyla değerlendiren yaklaşım.
+hard|Pejoratif|Küçültücü veya olumsuz anlam taşıyan.
+hard|Polemik|Bir konu çevresinde yürütülen sert yazılı veya sözlü tartışma.
+hard|Rasyonel|Akla ve mantığa dayanan.
+hard|Retorik|Etkili ve ikna edici konuşma sanatı.
+hard|Reaksiyoner|Toplumsal değişime karşı eski düzeni savunan.
+hard|Rezonans|Bir sistemin doğal frekansına yakın zorlamayla güçlü titreşmesi.
+hard|Sarih|Açık ve kolay anlaşılır.
+hard|Sentez|Parçaları bir araya getirerek yeni bir bütün oluşturma.
+hard|Sathî|Yüzeysel, derinliği olmayan.
+hard|Sağduyu|Gündelik durumlarda isabetli ve ölçülü karar verebilme yetisi.
+hard|Sükûnet|Sakinlik, dinginlik.
+hard|Spekülatif|Kesin bilgi yerine varsayımlara dayanan.
+hard|Şiar|Benimsenen temel düşünce veya parola.
+hard|Şümul|Bir şeyin kapsadığı alan, kapsam.
+hard|Şecaat|Yiğitlik, kahramanca cesaret.
+hard|Şerh|Bir metni açıklamak için düşülen not veya açıklama.
+hard|Tasavvur|Bir şeyi zihinde canlandırma veya tasarlama.
+hard|Tezat|Birbirinin karşıtı olma, zıtlık.
+hard|Tevazu|Alçak gönüllülük.
+hard|Temayül|Bir şeye yönelme, eğilim.
+hard|Tecessüs|Merak ederek öğrenmeye çalışma.
+hard|Telakki|Bir konuyu anlayış veya değerlendiriş biçimi.
+hard|Tahayyül|Hayalde canlandırma.
+hard|Us|Akıl anlamına gelen kısa sözcük.
+hard|Ussal|Akla ilişkin, akla dayanan.
+hard|Uhrevi|Öte dünya ile ilgili olan.
+hard|Uzam|Nesnelerin kapladığı yer veya mekânsal boyut.
+hard|Ünsiyet|Birine veya bir şeye alışmışlıktan doğan yakınlık.
+hard|Ültimatom|Uyulmadığında sonuç doğuracağı bildirilen kesin ve son talep.
+hard|Ütopik|Gerçekleşmesi çok güç olan ideal tasarıya ilişkin.
+hard|Vecize|Kısa ve özlü, düşündürücü söz.
+hard|Vukuf|Bir konuda derin bilgi sahibi olma.
+hard|Vakar|Ağırbaşlılık ve ölçülü duruş.
+hard|Vasat|Orta düzeyde, sıradan.
+hard|Yadsıma|Bir gerçeği kabul etmeyip inkâr etme.
+hard|Yeknesak|Değişmeden aynı biçimde süren, tekdüze.
+hard|Yetke|Emir verme ve yaptırım uygulama gücü, otorite.
+hard|Yazın|Edebiyat anlamındaki sözcük.
+hard|Zımni|Açıkça söylenmeyen, örtük biçimde anlaşılan.
+hard|Zuhur|Ortaya çıkma, görünür olma.
+hard|Zerafet|İncelik ve hoş görünüş.
+hard|Zaruret|Kaçınılmaz gereklilik, zorunluluk.
+easy|Abajur|Işığı yumuşatan şapkası bulunan masa lambası.
+easy|Ada|Dört tarafı suyla çevrili kara parçası.
+easy|Ahır|At ve büyükbaş hayvanların barındırıldığı yapı.
+easy|Akşam|Gündüzün bitip gecenin başladığı zaman.
+easy|Akrep|Kuyruğunda zehirli iğnesi bulunan küçük eklembacaklı.
+easy|Altın|Takı yapımında kullanılan sarı renkli değerli metal.
+easy|Ambulans|Hastaları hastaneye taşıyan özel araç.
+easy|Ananas|Dışı sert ve pullu, tepesinde yaprakları olan tropik meyve.
+easy|Anne|Bir çocuğu doğuran veya annelik eden kadın.
+easy|Arıza|Bir aracın düzgün çalışmasını engelleyen bozukluk.
+easy|Atkı|Soğuktan korunmak için boyna dolanan uzun giysi.
+easy|Ateş|Yanma sırasında ortaya çıkan ısı ve alev.
+easy|Ay|Dünya'nın doğal uydusu.
+easy|Ayı|Kalın postlu, iri gövdeli yabani memeli.
+easy|Ayran|Yoğurdun suyla karıştırılmasıyla yapılan içecek.
+easy|Baba|Bir çocuğun erkek ebeveyni.
+easy|Badem|Sert kabuğun içinde bulunan, uzun oval yemiş.
+easy|Bal|Arıların ürettiği koyu kıvamlı tatlı besin.
+easy|Balkon|Binanın dışına taşan, korkulukla çevrili açık bölüm.
+easy|Balon|Hava veya gazla şişirilen esnek süs eşyası.
+easy|Banka|Para yatırma ve çekme gibi işlemlerin yapıldığı kuruluş.
+easy|Banyo|Yıkanmak için kullanılan oda.
+easy|Bavul|Yolculukta giysi ve eşya taşınan büyük çanta.
+easy|Baykuş|Büyük gözlü, çoğu türü gece avlanan kuş.
+easy|Bayrak|Bir ülkeyi veya kuruluşu simgeleyen renkli kumaş.
+easy|Bezelye|Yeşil kabuk içinde sıralanan yuvarlak taneli sebze.
+easy|Biber|Yeşil veya kırmızı olabilen, acı veya tatlı sebze.
+easy|Bilet|Yolculuk veya etkinliğe giriş hakkını gösteren belge.
+easy|Bilezik|Bileğe takılan halka biçiminde takı.
+easy|Bilgisayar|Veri işleyen ve program çalıştıran elektronik cihaz.
+easy|Binici|At gibi hayvanlara binmeyi bilen kişi.
+easy|Boru|İçinden su veya gaz geçirilebilen uzun boş silindir.
+easy|Boyun|Baş ile gövdeyi birleştiren vücut bölümü.
+easy|Böcek|Genellikle altı bacaklı, küçük eklembacaklı hayvan.
+easy|Börek|Yufka veya hamurun içine peynir gibi malzemeler konarak yapılan yiyecek.
+easy|Burun|Yüzün koku almaya yarayan organı.
+easy|Buz|Suyun donmuş hâli.
+easy|Cam|Pencerelerde kullanılan saydam ve kırılgan madde.
+easy|Cetvel|Uzunluk ölçmeye ve düz çizgi çizmeye yarayan araç.
+easy|Ceviz|Sert kabuklu, içi kıvrımlı yemiş.
+easy|Cımbız|Küçük nesneleri tutmaya veya kıl çekmeye yarayan iki uçlu araç.
+easy|Civciv|Yumurtadan yeni çıkmış tavuk yavrusu.
+easy|Çadır|Kamp yaparken barınmak için kurulan taşınabilir örtülü yapı.
+easy|Çatal|Yemek yerken kullanılan, ucunda birkaç dişi olan araç.
+easy|Çatı|Bir binanın en üstünü örten bölüm.
+easy|Çekmece|Dolap veya masada çekilerek açılan eşya bölümü.
+easy|Çikolata|Kakaoyla yapılan tatlı yiyecek.
+easy|Çimen|Toprağı kaplayan kısa yeşil ot.
+easy|Çizme|Ayağı ve bacağın bir bölümünü örten uzun ayakkabı.
+easy|Çöp|Kullanılmayıp atılan şeyler.
+easy|Dağ|Çevresindeki araziden çok daha yüksek kara oluşumu.
+easy|Davul|Gergin deriye vurularak çalınan müzik aleti.
+easy|Dere|Nehirden daha küçük akarsu.
+easy|Diş|Ağızda yiyecekleri parçalamaya yarayan sert beyaz yapı.
+easy|Diz|Bacakta uyluk ile baldırı birleştiren eklem.
+easy|Domates|Salatalarda kullanılan, olgunlaşınca çoğunlukla kırmızı olan ürün.
+easy|Düdük|Üflenince ince ses çıkaran küçük araç.
+easy|Düğme|Giysilerin iki bölümünü birbirine tutturmaya yarayan küçük parça.
+easy|Eldiven|Elleri soğuktan veya zarardan koruyan giysi.
+easy|Elbise|Tek parça olarak vücuda giyilen kıyafet.
+easy|Erik|Çekirdekli, yeşil veya mor olabilen küçük meyve.
+easy|Ev|İnsanların yaşadığı konut.
+easy|Fener|Taşınabilen, ışık vermeye yarayan araç.
+easy|Fırça|Temizlemek veya boyamak için kılları bulunan saplı araç.
+easy|Fındık|Yuvarlak, sert kabuklu küçük yemiş.
+easy|Fıstık|Kabuklu, yağlı ve yenilebilir tohumları olan bitkilerin ürünü.
+easy|Fincan|Kahve veya çay içilen küçük, çoğunlukla kulplu kap.
+easy|Fok|Yüzgeç biçiminde ayakları olan deniz memelisi.
+easy|Gaga|Kuşların ağzındaki sert çıkıntı.
+easy|Gece|Güneş battıktan sonra başlayan karanlık zaman.
+easy|Gelin|Evlenmekte olan kadın.
+easy|Göl|Karalarla çevrili durgun su kütlesi.
+easy|Gömlek|Üst gövdeye giyilen, genellikle yakalı ve düğmeli giysi.
+easy|Göz|Görme organı.
+easy|Gül|Dikenli dalları ve hoş kokulu çiçekleriyle tanınan bitki.
+easy|Gümüş|Takı yapımında da kullanılan parlak beyaz değerli metal.
+easy|Halı|Yere serilen kalın dokuma örtü.
+easy|Hamur|Unun suyla karıştırılmasıyla elde edilen yoğrulabilir karışım.
+easy|Harçlık|Küçük günlük ihtiyaçlar için verilen para.
+easy|Havuz|Yüzmek veya su biriktirmek için yapılmış çukur yapı.
+easy|Helikopter|Üstündeki dönen pervaneyle havalanan araç.
+easy|Horoz|Tavuğun erkeği.
+easy|Hurma|Sıcak iklimlerde yetişen, kahverengi ve tatlı meyve.
+easy|Irmak|Büyük akarsu anlamındaki, I ile başlayan kelime.
+easy|Isıtıcı|Ortamın sıcaklığını artıran cihaz.
+easy|İncir|İçi çok sayıda küçük çekirdekli, tatlı ve yumuşak meyve.
+easy|İnci|Bazı deniz canlılarının kabuğunda oluşan parlak değerli tanecik.
+easy|İtfaiye|Yangın söndürmekle görevli kuruluş.
+easy|İşçi|Ücret karşılığında iş yapan kişi.
+easy|Jip|Engebeli arazide de kullanılabilen yüksek motorlu taşıt.
+easy|Jokey|Yarışlarda ata binen kişi.
+easy|Kabak|Yeşil veya sarı olabilen, yemek yapılan sebze.
+easy|Kafes|Kuş gibi hayvanları içinde tutmaya yarayan telli yapı.
+easy|Kalem|Yazı yazmak veya çizmek için kullanılan araç.
+easy|Kalp|Vücutta kanı pompalayan organ.
+easy|Kanepe|Birden çok kişinin oturabildiği uzun koltuk.
+easy|Kar|Bulutlardan beyaz buz kristalleri hâlinde yağan su.
+easy|Karınca|Koloniler hâlinde yaşayan küçük böcek.
+easy|Kartal|Keskin görüşlü, büyük yırtıcı kuş.
+easy|Kavun|Sarı kabuklu, tatlı ve kokulu büyük yaz meyvesi.
+easy|Kayık|Kürekle de hareket ettirilebilen küçük su taşıtı.
+easy|Kaz|Uzun boyunlu, ördeğe benzeyen büyük su kuşu.
+easy|Kazak|Örülmüş, üst bedene giyilen kışlık giysi.
+easy|Keçi|Boynuzlu, sakallı olabilen küçükbaş hayvan.
+easy|Kemik|Vücudun iskeletini oluşturan sert yapı.
+easy|Kiraz|Kırmızı ve küçük, saplı çekirdekli meyve.
+easy|Kitap|Ciltlenmiş sayfalardan oluşan okuma eseri.
+easy|Kivi|Kahverengi tüylü kabuğu ve yeşil içi olan meyve.
+easy|Kol|Omuzdan ele kadar uzanan uzuv.
+easy|Kolye|Boyna takılan süs eşyası.
+easy|Kova|Su veya başka maddeleri taşımaya yarayan kulplu kap.
+easy|Koyun|Yünü ve sütü için yetiştirilen küçükbaş hayvan.
+easy|Köpek|Havlayan yaygın evcil hayvan.
+easy|Köprü|İki yakayı veya aradaki boşluğu birleştiren geçit.
+easy|Kulak|İşitme organı.
+easy|Kum|Çok küçük taş parçacıklarından oluşan madde.
+easy|Kutu|Eşyaları saklamak veya taşımak için kullanılan kap.
+easy|Kuzu|Koyunun yavrusu.
+easy|Kürek|Kayığı hareket ettirmek veya toprak kazmak için kullanılan saplı araç.
+easy|Lahana|Üst üste sarılan geniş yapraklardan oluşan sebze.
+easy|Lastik|Araç tekerleklerinin dışındaki esnek halka.
+easy|Leblebi|Nohudun kavrulmasıyla yapılan kuru yemiş.
+easy|Leke|Bir yüzeyde renk değişimi oluşturan kir veya iz.
+easy|Liman|Gemilerin yanaşıp yük ve yolcu aldığı yer.
+easy|Makarna|Un ve sudan yapılıp çeşitli şekillerde kurutulan yiyecek.
+easy|Makas|İki keskin parçanın birleşmesiyle oluşan kesme aracı.
+easy|Mantar|Şapkalı türleri de bulunan, bazıları yenilen canlı.
+easy|Marul|Yaprakları salatada yenilen yeşil sebze.
+easy|Mendil|Burun veya el temizlemek için kullanılan küçük bez ya da kâğıt.
+easy|Merdiven|Katlar arasında çıkmayı sağlayan basamaklı yapı.
+easy|Mısır|Koçan üzerinde sarı taneleri bulunan tahıl.
+easy|Motor|Enerjiyi harekete dönüştüren makine.
+easy|Mutfak|Yemeklerin hazırlandığı oda.
+easy|Naylon|Poşet ve ip yapımında da kullanılan sentetik madde.
+easy|Nilüfer|Su yüzeyinde geniş yaprakları ve çiçekleri bulunan bitki.
+easy|Nota|Müzikte bir sesi gösteren işaret.
+easy|Odun|Yakacak olarak kullanılan ağaç parçası.
+easy|Oğul|Bir kişinin erkek çocuğu.
+easy|Ok|Yayla fırlatılan sivri uçlu çubuk.
+easy|Omuz|Kolun gövdeye bağlandığı üst bölüm.
+easy|Oyuncak|Çocukların oynayıp eğlendiği eşya.
+easy|Önlük|Giysiyi kirden korumak için ön tarafa takılan örtü.
+easy|Örgü|İpliklerin şiş veya tığla birbirine geçirilmesiyle yapılan doku.
+easy|Pantolon|Belden ayaklara uzanan, iki bacağı ayrı örten giysi.
+easy|Parmak|El ve ayağın hareketli uç bölümlerinden biri.
+easy|Patlıcan|Genellikle mor renkli, uzun veya yuvarlak sebze.
+easy|Pelikan|Gagasının altında geniş kese bulunan büyük su kuşu.
+easy|Perde|Pencereyi örtmek için asılan kumaş.
+easy|Pirinç|Pilav yapımında kullanılan küçük beyaz tahıl taneleri.
+easy|Polis|Toplumun güvenliğini sağlamaya çalışan görevli.
+easy|Portakal|Turuncu kabuklu, sulu turunçgil.
+easy|Postacı|Mektup ve gönderileri dağıtan kişi.
+easy|Raf|Kitap veya eşya koymak için kullanılan yatay yüzey.
+easy|Robot|Programlanmış işleri otomatik yapan makine.
+easy|Rüzgâr|Havanın yatay yönde hareketi.
+easy|Saç|Başın üzerinde uzayan kıllar.
+easy|Salatalık|Yeşil kabuklu, sulu ve uzun sebze.
+easy|Salıncak|İplere veya zincirlere asılan, ileri geri sallanan oturak.
+easy|Sarımsak|Dişlere ayrılan, keskin kokulu yemeklik bitki.
+easy|Sepet|Örgü malzemeden yapılmış taşıma kabı.
+easy|Serçe|Küçük, kahverengi-gri renkli yaygın şehir kuşu.
+easy|Silgi|Kurşun kalem yazısını silmeye yarayan araç.
+easy|Simit|Üzeri susamlı, halka biçimindeki hamur işi.
+easy|Soğan|Katmanlı yapısı olan, doğranırken göz yaşartabilen sebze.
+easy|Sünger|Su emen, temizlikte kullanılan gözenekli malzeme.
+easy|Süpürge|Yerdeki tozu toplamaya yarayan araç.
+easy|Şeftali|Tüylü kabuklu, sulu ve çekirdekli yaz meyvesi.
+easy|Şelale|Suyun yüksekten aşağıya döküldüğü akarsu bölümü.
+easy|Şişe|İçecekleri saklamak için kullanılan dar ağızlı kap.
+easy|Şort|Bacakları diz üstünde bırakan kısa pantolon.
+easy|Tahta|Ağaç gövdesinden kesilerek elde edilen düz malzeme.
+easy|Tarçın|Ağaç kabuğundan elde edilen hoş kokulu baharat.
+easy|Tarak|Saçı düzeltmek için kullanılan dişli araç.
+easy|Tava|Kızartma yapmak için kullanılan saplı, yayvan kap.
+easy|Tavuk|Yumurtası ve eti için beslenen kümes hayvanı.
+easy|Telefon|Uzak kişilerle konuşmayı sağlayan cihaz.
+easy|Tencere|Yemek pişirmek için kullanılan derin mutfak kabı.
+easy|Terlik|Evde veya yazın giyilen hafif, kolay çıkarılan ayakkabı.
+easy|Tilki|Sivri kulaklı, uzun ve kabarık kuyruklu yabani hayvan.
+easy|Top|Oyun ve sporlarda kullanılan yuvarlak nesne.
+easy|Tuz|Yemeklere tat vermek için kullanılan beyaz mineral.
+easy|Un|Tahılların öğütülmesiyle elde edilen toz.
+easy|Uçurtma|Rüzgârla havalanan ve iple tutulan oyuncak.
+easy|Üşümek|Soğuğu hissederek titreme veya rahatsızlık duyma.
+easy|Üvey|Öz anne, baba veya kardeş olmayan aile bağı için kullanılan sıfat.
+easy|Vantilatör|Dönen pervanesiyle hava akımı oluşturan cihaz.
+easy|Vişne|Kiraza benzeyen, daha ekşi küçük kırmızı meyve.
+easy|Yağ|Yemek pişirmekte kullanılan kaygan besin maddesi.
+easy|Yatak|Uyumak için kullanılan mobilya.
+easy|Yelken|Rüzgârı kullanarak tekneyi hareket ettiren geniş bez.
+easy|Yılan|Bacakları olmayan, sürünerek hareket eden sürüngen.
+easy|Yıldız|Gece gökyüzünde ışıklı nokta gibi görülen gök cismi.
+easy|Yoğurt|Sütün mayalanmasıyla yapılan koyu kıvamlı yiyecek.
+easy|Yunus|Denizde yaşayan, zeki ve sosyal memeli.
+easy|Yüzük|Parmağa takılan halka biçimli takı.
+easy|Zencefil|Kökü baharat olarak kullanılan keskin aromalı bitki.
+easy|Zürafa|Çok uzun boyunlu Afrika memelisi.
+medium|Abone|Bir yayını veya hizmeti düzenli almak üzere kaydolan kişi.
+medium|Acil|Gecikmeden ele alınması gereken durum için kullanılan sıfat.
+medium|Açıklık|Bir anlatımın kolay anlaşılır olması özelliği.
+medium|Adaptasyon|Yeni çevre veya koşullara uyum sağlama.
+medium|Aday|Bir görev veya yarışma için kendini sunan kişi.
+medium|Aidat|Bir kuruluşa üyelik için düzenli ödenen para.
+medium|Akarsu|Yatak içinde sürekli veya dönemsel akan su.
+medium|Akciğer|Göğüs boşluğunda bulunan solunum organı.
+medium|Akıntı|Suyun belirli yönde hareketi.
+medium|Akraba|Kan veya evlilik bağıyla ilişkili kişi.
+medium|Akustik|Sesin oluşumunu, yayılmasını ve özelliklerini inceleyen alan.
+medium|Alacak|Bir kişinin başkasından istemeye hakkı olan para.
+medium|Alışkanlık|Tekrarlana tekrarlana yerleşen davranış.
+medium|Amatör|Bir işi meslek edinmeden, ilgi için yapan kişi.
+medium|Anket|Belirli konularda bilgi toplamak için hazırlanan soru listesi.
+medium|Antika|Eskiliği ve niteliği nedeniyle değer taşıyan eşya.
+medium|Arşiv|Belgelerin düzenli biçimde saklandığı yer veya bütün.
+medium|Asansör|Katlar arasında insan veya yük taşıyan hareketli kabin.
+medium|Astronomi|Gök cisimlerini ve evreni inceleyen bilim.
+medium|Atölye|Üretim veya sanat çalışması yapılan işlik.
+medium|Avantaj|Birini diğerlerine göre daha elverişli duruma getiren özellik.
+medium|Ayrıntı|Bir bütünün küçük parçalarından veya özelliklerinden biri.
+medium|Azim|Zorluklara rağmen hedefe bağlı kalma kararlılığı.
+medium|Bağımsızlık|Başkasının yönetimine veya desteğine bağlı olmama durumu.
+medium|Bağış|Karşılıksız verilen para veya eşya.
+medium|Bahane|Gerçek nedeni gizlemek için ileri sürülen gerekçe.
+medium|Bakiye|Bir hesaptaki kalan tutar.
+medium|Bakış|Bir konuyu ele alma veya görme biçimi.
+medium|Başvuru|Bir iş veya hizmet için ilgili yere yapılan istek.
+medium|Bayram|Toplumca kutlanan özel gün veya günler.
+medium|Beceri|Öğrenme ve uygulamayla kazanılan iş yapabilme yetisi.
+medium|Belge|Bir bilgiyi veya işlemi kanıtlayan yazılı ya da dijital kayıt.
+medium|Benzetme|Bir şeyi ortak özellik üzerinden başka şeye benzeterek anlatma.
+medium|Bereket|Ürün veya kazancın bol olması.
+medium|Besin|Canlıların yaşamı için gerekli olan yiyecek maddesi.
+medium|Bilanço|Bir işletmenin belirli tarihteki varlık ve kaynaklarını gösteren tablo.
+medium|Bilinç|Kişinin kendisinin ve çevresinin farkında olma durumu.
+medium|Birlik|Ortak amaç için bir araya gelme durumu.
+medium|Biyoloji|Canlıları inceleyen bilim.
+medium|Boylam|Bir noktanın başlangıç meridyenine açısal uzaklığı.
+medium|Buhar|Bir maddenin, özellikle suyun gaz hâli.
+medium|Celse|Mahkemenin bir oturumu.
+medium|Cemiyet|Belirli amaçla bir araya gelmiş topluluk veya dernek.
+medium|Cerrah|Ameliyat yapan uzman doktor.
+medium|Ceza|Bir yanlış veya suç karşılığında uygulanan yaptırım.
+medium|Cilt|Kitabın sayfalarını bir arada tutan dış kaplama.
+medium|Cisim|Uzayda yer kaplayan maddi varlık.
+medium|Coğrafya|Yeryüzünü ve insanla çevre arasındaki ilişkileri inceleyen alan.
+medium|Çaba|Bir işi başarmak için harcanan güç ve emek.
+medium|Çağrı|Birini davet etmek veya harekete geçirmek için sesleniş.
+medium|Çarpan|Bir çarpma işlemindeki sayılardan her biri.
+medium|Çeşitlilik|Farklı tür ve özelliklerin bir arada bulunması.
+medium|Çevrim|Aşamaları tamamlanıp başlangıca dönen süreç.
+medium|Çıkar|Bir kişinin elde ettiği yarar veya menfaat.
+medium|Çizelge|Bilgilerin satır ve sütunlarda düzenlendiği tablo.
+medium|Çömlek|Kilden yapılıp pişirilen kap.
+medium|Danışman|Bilgisiyle yol gösteren uzman kişi.
+medium|Davranış|Bir kişinin dışarıdan gözlenebilen hareket veya tutumu.
+medium|Dayanışma|Bir topluluğun üyelerinin birbirine destek olması.
+medium|Defne|Yaprakları yemeklere koku veren, her dem yeşil bitki.
+medium|Değer|Bir şeyin önemi veya parasal karşılığı.
+medium|Denek|Bir deneyde incelenen kişi veya canlı.
+medium|Deprem|Yer kabuğundaki ani hareketlerin oluşturduğu sarsıntı.
+medium|Dernek|Ortak amaçla kurulan, üyeleri olan topluluk.
+medium|Dikkat|Zihni belirli bir noktaya yöneltme.
+medium|Dilekçe|Resmî makama istek veya şikâyet bildiren yazı.
+medium|Dinleti|Müzik veya edebiyat eserlerinin dinleyiciye sunulduğu etkinlik.
+medium|Diploma|Bir okul veya programın tamamlandığını gösteren belge.
+medium|Direnç|Bir etkiye karşı koyma gücü.
+medium|Disiplin|Kurallı ve düzenli davranma alışkanlığı.
+medium|Doku|Benzer görevli hücrelerin oluşturduğu yapı.
+medium|Dönence|Ekvator'un kuzeyinde ve güneyinde bulunan iki özel enlem çemberi.
+medium|Dönem|Belirli özellikleri olan zaman aralığı.
+medium|Duyuru|Bir bilgiyi topluluğa bildiren açıklama.
+medium|Edebiyat|Duygu ve düşünceleri dil yoluyla sanatlı anlatma alanı.
+medium|Eğilim|Bir şeye yönelmeye yatkın olma.
+medium|Ekip|Birlikte çalışan kişiler grubu.
+medium|Elçilik|Bir devletin başka ülkedeki diplomatik temsilciliği.
+medium|Emek|Bir iş için harcanan beden veya zihin gücü.
+medium|Endişe|Olumsuz bir şey olacağı düşüncesiyle duyulan kaygı.
+medium|Enerji|İş yapabilme kapasitesi.
+medium|Engel|Bir hareketi veya ilerlemeyi durduran şey.
+medium|Eşitlik|Aynı haklara veya aynı değere sahip olma durumu.
+medium|Etken|Bir sonucu oluşturmada etkili olan unsur.
+medium|Etki|Bir şeyin başka şey üzerinde oluşturduğu değişim.
+medium|Etkinlik|Belirli amaçla düzenlenen faaliyet.
+medium|Evrak|İşlemlerde kullanılan belgeler bütünü.
+medium|Fatura|Satılan mal veya hizmetin bedelini gösteren belge.
+medium|Fayda|Bir şeyden sağlanan yarar.
+medium|Fidan|Yeni yetişen genç ağaç.
+medium|Fikir|Bir konu üzerine zihinde oluşan düşünce.
+medium|Filtre|Bir karışımdaki istenmeyen parçaları ayıran araç.
+medium|Final|Bir yarışma veya sürecin son aşaması.
+medium|Fırsat|Bir işi yapmak için elverişli durum.
+medium|Fizyoloji|Canlıların organ ve sistemlerinin işleyişini inceleyen bilim.
+medium|Formül|Bir ilişkiyi simgelerle ifade eden kısa gösterim.
+medium|Gaye|Ulaşılmak istenen amaç.
+medium|Gelir|Bir kişi veya kuruluşun elde ettiği para.
+medium|Girişim|Bir işi başlatmaya yönelik atılım.
+medium|Gizem|Açıklanmamış, merak uyandıran sır.
+medium|Görev|Bir kişiden yapması beklenen iş.
+medium|Grafik|Verilerin çizgi, sütun gibi biçimlerle görsel sunumu.
+medium|Gündem|Bir toplantıda görüşülecek konular bütünü.
+medium|Güven|Birine veya bir şeye inanıp dayanabilme duygusu.
+medium|Hacim|Bir cismin uzayda kapladığı yerin ölçüsü.
+medium|Hakem|Bir karşılaşmada kuralların uygulanmasını sağlayan kişi.
+medium|Hasat|Yetişen tarım ürünlerini toplama işi.
+medium|Hayal|Zihinde canlandırılan, gerçekte olmayabilen görüntü veya düşünce.
+medium|Hedef|Ulaşılmak istenen sonuç veya nokta.
+medium|Hekim|Doktor anlamına gelen, H ile başlayan sözcük.
+medium|Hesap|Sayılarla yapılan işlem veya işlem sonucu.
+medium|Hizmet|Birinin ihtiyacını karşılamak için yapılan iş.
+medium|Hukuk|Toplumsal ilişkileri düzenleyen bağlayıcı kurallar bütünü.
+medium|İcat|Daha önce bulunmayan bir araç veya yöntem ortaya çıkarma.
+medium|İddia|Doğru olduğu ileri sürülen düşünce.
+medium|İhale|Bir işi uygun teklifi verene bırakma usulü.
+medium|İhracat|Bir ülkeden başka ülkeye mal satışı.
+medium|İhtiyaç|Giderilmesi gereken eksiklik veya gereksinim.
+medium|İkamet|Bir yerde oturma, yerleşme durumu.
+medium|İkram|Konuğa yiyecek veya içecek sunma.
+medium|İletişim|Kişiler arasında bilgi veya duygu alışverişi.
+medium|İmkân|Bir şeyi yapmayı mümkün kılan olanak.
+medium|İndirim|Bir fiyatın önceki tutardan düşürülmesi.
+medium|İnşaat|Bina veya başka yapı yapma işi.
+medium|İşlev|Bir şeyin yerine getirdiği görev.
+medium|İthalat|Başka ülkeden mal satın alıp ülkeye getirme.
+medium|İtiraz|Bir görüş veya karara karşı çıkma.
+medium|İzin|Bir şeyi yapmaya verilen onay.
+medium|Jelatin|Hayvansal kollajenden elde edilen, gıdalarda kıvam verici madde.
+medium|Jenerik|Film veya programdaki görevli adlarını gösteren bölüm.
+medium|Jübile|Bir sporcunun kariyerini bitirirken düzenlenen veda etkinliği.
+medium|Kabiliyet|Bir işi yapabilme yeteneği.
+medium|Kadastro|Arazilerin sınırlarını ve hukuki durumlarını belirleme işlemi.
+medium|Kampanya|Belirli amaca yönelik planlı etkinlikler dizisi.
+medium|Kamu|Bir ülkede halkın bütünü.
+medium|Kapasite|Bir şeyin alabileceği veya üretebileceği en yüksek miktar.
+medium|Karar|Düşünme veya görüşme sonunda varılan kesin seçim.
+medium|Kaynak|Bir şeyin çıktığı yer veya yararlanılan bilgi ve imkân.
+medium|Kazanç|Bir işten elde edilen gelir veya yarar.
+medium|Kira|Bir malı geçici kullanmak için ödenen bedel.
+medium|Komisyon|Belirli işi incelemek üzere oluşturulan kurul.
+medium|Konferans|Bir konuda dinleyicilere bilgi vermek için yapılan konuşma.
+medium|Konuk|Davet edilen veya ziyarete gelen kişi.
+medium|Koşul|Bir olayın gerçekleşmesi için gereken durum.
+medium|Kural|Davranışa veya işleyişe yön veren ilke.
+medium|Kuram|Olayları açıklamak için geliştirilmiş sistemli düşünce bütünü.
+medium|Kurgu|Bir anlatıda olayların tasarlanıp düzenlenmesi.
+medium|Kuvvet|Bir cismin hareketini veya biçimini değiştirebilen etki.
+medium|Küre|Yüzeyindeki noktaların merkezden eşit uzaklıkta olduğu geometrik cisim.
+medium|Laboratuvar|Deney ve bilimsel incelemelerin yapıldığı yer.
+medium|Lisans|Üniversitedeki temel yükseköğretim derecesi.
+medium|Liste|Kişi veya şeylerin alt alta sıralanmış yazımı.
+medium|Maliyet|Bir ürün veya hizmeti ortaya çıkarmak için yapılan toplam harcama.
+medium|Malzeme|Bir işte kullanılan maddelerin bütünü.
+medium|Manzara|Bir yerden bakıldığında görülen görünüş.
+medium|Mayalanma|Mikroorganizmaların etkisiyle gıdanın kimyasal dönüşüme uğraması.
+medium|Meclis|Görüşme ve karar için toplanan kurul.
+medium|Merak|Bir şeyi öğrenmeye veya anlamaya yönelik istek.
+medium|Meslek|Geçim sağlamak için yapılan, bilgi veya beceri gerektiren iş.
+medium|Mezun|Bir okulun öğrenimini tamamlamış kişi.
+medium|Miktar|Bir şeyin sayısı veya ölçülebilen niceliği.
+medium|Misafir|Bir yere ziyarete gelen kişi.
+medium|Model|Bir şeyin yapısını açıklayan veya örnek oluşturan temsil.
+medium|Muhabir|Haber toplayıp aktaran gazeteci.
+medium|Mülakat|Birini tanımak veya değerlendirmek için yapılan görüşme.
+medium|Müşteri|Ürün veya hizmet satın alan kişi.
+medium|Nabız|Kalp atışlarının damarlarda hissedilen ritmi.
+medium|Nakliye|Mal veya eşyanın bir yerden başka yere taşınması.
+medium|Nem|Havada veya maddede bulunan su miktarı.
+medium|Netice|Bir olay veya işlemin sonucu.
+medium|Nicelik|Bir şeyin ölçülebilen veya sayılabilen özelliği.
+medium|Nizam|Düzen anlamındaki, N ile başlayan sözcük.
+medium|Onay|Bir işleme veya görüşe uygun bulma bildirimi.
+medium|Oran|İki büyüklüğün birbirine göre sayısal ilişkisi.
+medium|Ortam|Bir olayın içinde gerçekleştiği koşullar bütünü.
+medium|Oturum|Bir toplantının kesintisiz süren bölümü.
+medium|Ödenek|Belirli iş için ayrılan para.
+medium|Öneri|Değerlendirilmesi için ileri sürülen düşünce.
+medium|Örneklem|Bir evrenden incelemek üzere seçilen alt grup.
+medium|Özgüven|Kişinin kendi yeteneğine ve değerine inanması.
+medium|Özlem|Uzakta olan birini veya geçmişteki bir durumu görme isteği.
+medium|Özne|Cümlede işi yapanı veya durumu taşıyanı belirten öğe.
+medium|Paket|Taşımak veya saklamak için sarılmış eşya bütünü.
+medium|Panel|Bir konunun birkaç kişi tarafından dinleyici önünde tartışıldığı toplantı.
+medium|Patent|Buluş sahibine belirli süre için verilen özel kullanım hakkı.
+medium|Pazar|Alıcı ve satıcıların buluştuğu ticari alan.
+medium|Pazarlık|Fiyat veya koşullar üzerinde karşılıklı görüşme.
+medium|Personel|Bir kurumda çalışanların bütünü.
+medium|Plan|Bir işi gerçekleştirmek için önceden hazırlanan düzen.
+medium|Prova|Gösteri öncesinde yapılan hazırlık çalışması.
+medium|Rapor|Bir incelemenin sonuçlarını bildiren yazı.
+medium|Rehber|Bir konuda yol gösteren kişi veya kaynak.
+medium|Reklam|Bir ürün veya hizmeti tanıtıp ilgi çekmeyi amaçlayan duyuru.
+medium|Rıhtım|Gemilerin yanaştığı, kıyıda yapılmış düz yapı.
+medium|Rota|Bir taşıtın veya yolcunun izleyeceği yön ve yol.
+medium|Ruhsat|Bir işi yapmaya resmen izin veren belge.
+medium|Saha|Çalışma veya oyun için ayrılmış alan.
+medium|Sakin|Heyecanlı veya hareketli olmayan, dingin.
+medium|Salgın|Bir hastalığın çok sayıda kişiye kısa sürede yayılması.
+medium|Sebep|Bir olayı doğuran neden.
+medium|Sempozyum|Uzmanların bilimsel bir konuyu çeşitli yönleriyle ele aldığı toplantı.
+medium|Sermaye|Bir işi kurmak veya yürütmek için kullanılan para ve varlıklar.
+medium|Sertifika|Bir eğitim veya yeterliliği belgeleyen yazı.
+medium|Sınır|İki bölgeyi veya alanı ayıran çizgi.
+medium|Sıvı|Belirli hacmi olup kabının biçimini alan madde hâli.
+medium|Slogan|Bir düşünceyi kısa ve çarpıcı biçimde anlatan söz.
+medium|Sözleşme|Tarafların karşılıklı hak ve yükümlülüklerini belirleyen anlaşma.
+medium|Staj|Mesleki bilgiyi uygulamada öğrenmek için yapılan geçici çalışma.
+medium|Stok|Gerektiğinde kullanılmak veya satılmak üzere elde tutulan mal.
+medium|Sunum|Bir konuyu dinleyicilere düzenli biçimde anlatma.
+medium|Süreç|Birbirini izleyen aşamalar bütünü.
+medium|Şahit|Bir olayı doğrudan görmüş kişi.
+medium|Şart|Bir şeyin gerçekleşmesi için gerekli koşul.
+medium|Şifre|Bir hesaba erişmek veya bilgiyi gizlemek için kullanılan işaretler.
+medium|Şirket|Ticari faaliyette bulunmak için kurulmuş ortaklık.
+medium|Tahmin|Kesin bilgi olmadan yaklaşık sonuç çıkarma.
+medium|Talep|Bir ürün, hizmet veya işle ilgili istek.
+medium|Tanık|Bir olaya doğrudan şahit olmuş kişi.
+medium|Tartı|Ağırlık ölçmek için kullanılan araç.
+medium|Tasarım|Bir ürünün biçim ve işleyişini önceden planlama.
+medium|Tavsiye|Ne yapılmasının iyi olacağına ilişkin öneri.
+medium|Tedbir|Olası bir tehlikeye karşı önceden alınan önlem.
+medium|Teklif|Kabul edilmesi için sunulan öneri.
+medium|Temsil|Bir kişi veya topluluk adına hareket etme.
+medium|Teşvik|Birini bir işi yapmaya özendirme.
+medium|Ticaret|Mal veya hizmet alıp satma faaliyeti.
+medium|Toplantı|Belirli konu için bir araya gelinen görüşme.
+medium|Trafik|Taşıtların yollardaki hareketi.
+medium|Tüketim|Mal veya hizmetin kullanılarak harcanması.
+medium|Ulaşım|Bir yerden başka yere gitmeyi sağlayan düzen.
+medium|Uyarı|Bir tehlike veya hataya dikkat çekme bildirimi.
+medium|Uzman|Bir konuda derin bilgi ve beceri sahibi kişi.
+medium|Üye|Bir topluluğa veya kuruluşa katılmış kişi.
+medium|Vade|Bir borcun ödenmesi veya işin yapılması için belirlenen süre.
+medium|Vardiya|Çalışanların dönüşümlü görev yaptığı zaman dilimi.
+medium|Vergi|Kamu giderleri için devletçe toplanan ödeme.
+medium|Veri|İnceleme veya hesaplama için toplanan bilgi parçaları.
+medium|Vesika|Belge anlamındaki, V ile başlayan sözcük.
+medium|Vize|Bir ülkeye giriş için verilen resmî izin.
+medium|Vizyon|Geleceğe yönelik geniş bakış veya ulaşılmak istenen görünüm.
+medium|Yankı|Bir yüzeyden yansıyıp yeniden duyulan ses.
+medium|Yargı|Bir durum hakkında varılan değerlendirme veya hüküm.
+medium|Yatırım|Gelecekte yarar sağlamak amacıyla kaynak ayırma.
+medium|Yedek|Asıl olanın yerine gerektiğinde kullanılmak üzere tutulan.
+medium|Yetki|Bir işi yapma veya karar verme hakkı.
+medium|Yöntem|Bir işi yapmak için izlenen düzenli yol.
+medium|Yüklem|Cümlede yargıyı bildiren temel öğe.
+medium|Zam|Bir fiyat veya ücretin artırılması.
+medium|Zarar|Bir olayın doğurduğu kayıp veya olumsuz etki.
+medium|Ziyaret|Birini veya bir yeri görmeye gitme.
+hard|Aksiyom|Bir sistemde kanıtlanmadan başlangıç doğrusu kabul edilen önerme.
+hard|Aleni|Gizli olmayan, herkesin görebileceği biçimde açık.
+hard|Analoji|Benzerliklerden yola çıkarak kurulan karşılaştırma veya çıkarım.
+hard|Anomali|Beklenen düzenden sapma, olağandışı durum.
+hard|Antropoloji|İnsanı biyolojik ve kültürel yönleriyle inceleyen bilim.
+hard|Aritmetik|Sayılar ve temel hesap işlemleriyle ilgilenen matematik alanı.
+hard|Arınma|Kirden veya manevi yükten temizlenme.
+hard|Aşkın|Bir deneyimin veya alanın sınırlarını aşan.
+hard|Aykırılık|Yerleşik düzene veya kurala uymama durumu.
+hard|Bağdaşmak|Birbiriyle uyuşmak, çelişmeden bir arada bulunabilmek.
+hard|Bağlam|Bir sözün anlamını belirleyen çevresindeki söz ve koşullar.
+hard|Bağnaz|Kendi inancı dışındaki görüşlere kapalı olan.
+hard|Belagat|Sözü etkili, güzel ve yerinde söyleme yeteneği.
+hard|Betimleme|Bir varlığı özellikleriyle zihinde canlanacak biçimde anlatma.
+hard|Beşerî|İnsanla ilgili olan.
+hard|Biçem|Bir yazarın kendine özgü anlatım tarzı.
+hard|Bireşim|Ayrı öğeleri birleştirerek bütün oluşturma, sentez.
+hard|Bütüncül|Parçaları tek tek değil, bütünüyle ele alan.
+hard|Cebir|Sayılar yerine harflerle de işlem yapan matematik dalı.
+hard|Cemaat|Ortak inanç veya aidiyet çevresinde bir araya gelen topluluk.
+hard|Cezbe|Bir düşünce veya duyguya kendini kaptırma hâli.
+hard|Cürüm|Suç anlamındaki eski sözcük.
+hard|Çekince|Bir konuda kabulü sınırlayan kayıt veya tereddüt.
+hard|Çıkmaz|İçinden çıkılması güç, çözüm yolu görünmeyen durum.
+hard|Çözümleme|Bir bütünü parçalarına ayırarak inceleme.
+hard|Değişken|Farklı değerler alabilen özellik veya nicelik.
+hard|Demografi|İnsan topluluklarının sayısal yapısını inceleyen alan.
+hard|Deneysellik|Bilginin gözlem ve sınamayla elde edilmesine dayanma özelliği.
+hard|Deontoloji|Bir mesleğin ahlaki görev ve kurallarını inceleyen alan.
+hard|Dikotomi|Bir bütünü birbirinden keskin biçimde ayrılan ikiye bölme.
+hard|Durağan|Hareket etmeyen veya zaman içinde değişmeyen.
+hard|Duyumsama|Bir şeyi duyular yoluyla algılama.
+hard|Egoizm|Kendi çıkarını başkalarının önüne koyma anlayışı.
+hard|Eleştiri|Bir eseri veya düşünceyi güçlü ve zayıf yönleriyle değerlendirme.
+hard|Empirik|Gözlem ve deneye dayalı olan.
+hard|Endemik|Yalnızca belirli bir coğrafi bölgede doğal olarak bulunan.
+hard|Eşsüremli|Bir olguyu aynı zaman dilimi içindeki ilişkileriyle ele alan.
+hard|Evrensel|Bütün insanlık veya her yer için geçerli olan.
+hard|Fani|Ölümlü, geçici olan.
+hard|Farazi|Varsayıma dayanan, gerçekte olması gerekmeyen.
+hard|Fasıl|Bir eserin bölümü; ayrıca birbiri ardına çalınan makamlı eserler dizisi.
+hard|Ferman|Hükümdarın yazılı buyruğu.
+hard|Fıkıh|İslam hukukunu inceleyen bilgi alanı.
+hard|Filoloji|Dilleri ve yazılı metinleri tarihsel yönleriyle inceleyen alan.
+hard|Gaflet|Dalgınlık veya gerekli dikkati göstermeme hâli.
+hard|Gayriresmî|Resmî niteliği bulunmayan.
+hard|Gerekircilik|Her olayın zorunlu nedenlerle belirlendiğini savunan görüş.
+hard|Göstergebilim|İşaretleri ve anlam oluşturma süreçlerini inceleyen alan.
+hard|Görecelik|Bir değerlendirmenin bakışa veya koşullara bağlı olması.
+hard|Hâkimiyet|Egemenlik, yönetme ve denetleme gücü.
+hard|Haysiyet|Kişinin saygınlığı ve onuru.
+hard|Heterodoks|Yerleşik ve kabul edilmiş öğretinin dışında kalan.
+hard|Himaye|Koruma ve gözetme.
+hard|Homojen|Her tarafında aynı özellikleri gösteren.
+hard|Hususi|Bir kişiye veya duruma özel olan.
+hard|Hüviyet|Kimlik, birini tanıtan özelliklerin bütünü.
+hard|İbraz|Bir belgeyi yetkili kişiye gösterme, sunma.
+hard|İcazet|Bir işi yapma veya öğretme yetkisi veren izin.
+hard|İçselleştirme|Bir düşünce veya kuralı benimseyip kendi davranışına katma.
+hard|İfşa|Gizli olanı açığa çıkarma.
+hard|İhtilaf|Görüş ayrılığı veya anlaşmazlık.
+hard|İkame|Bir şeyin yerine başka bir şeyi koyma.
+hard|İktibas|Başka bir metinden alıntı yapma.
+hard|İndirgeme|Karmaşık bir olguyu daha basit öğelerle açıklama işlemi.
+hard|İntibak|Yeni duruma veya çevreye uyum sağlama.
+hard|İntikal|Bir yerden başka yere geçme veya aktarılma.
+hard|İrdeleme|Bir konuyu ayrıntılarıyla araştırıp değerlendirme.
+hard|İroni|Söylenenle kastedilenin farklı olduğu alaylı anlatım.
+hard|İstisna|Genel kuralın dışında tutulan durum.
+hard|İtibar|Başkalarının duyduğu saygı ve güven.
+hard|İvedi|Acele yapılması gereken, geciktirilemeyen.
+hard|Jurnal|Birinin aleyhine yapılan gizli ihbar yazısı.
+hard|Kamulaştırma|Özel mülkün kamu yararı için bedeli ödenerek devletçe alınması.
+hard|Kanon|Bir alanda temel ve yetkin sayılan eserler veya kurallar bütünü.
+hard|Karine|Bir olayın varlığına işaret eden belirti veya dolaylı kanıt.
+hard|Katarsis|Sanat veya duygusal yaşantı yoluyla arınma.
+hard|Kesinlik|Kuşkuya veya değişme ihtimaline yer bırakmama.
+hard|Kıyas|İki şeyi ortak ölçütlerle karşılaştırma.
+hard|Kolektif|Bir topluluk tarafından ortaklaşa yapılan.
+hard|Konjonktür|Belirli bir dönemdeki koşulların bütünü.
+hard|Kozmopolit|Farklı ülke ve kültürlerden insanları barındıran.
+hard|Lafzi|Sözün gerçek ve doğrudan anlamına bağlı olan.
+hard|Latife|İnce şaka, şaka yollu söylenen söz.
+hard|Mahiyet|Bir şeyin özü ve niteliği.
+hard|Makbul|Kabul gören, beğenilen.
+hard|Makul|Akla uygun, ölçülü.
+hard|Mecra|Bir olayın veya iletişimin gerçekleştiği yol ya da ortam.
+hard|Meşru|Hukuka veya kabul edilen kurallara uygun.
+hard|Metodoloji|Bir alanda kullanılan yöntemleri inceleyen yaklaşım.
+hard|Mistik|Sezgiye ve manevi deneyime dayalı olan.
+hard|Monografi|Tek bir konu veya kişi üzerine ayrıntılı inceleme.
+hard|Muarız|Bir görüşe veya kişiye karşı çıkan.
+hard|Muvafakat|Bir işleme uygun bulma ve kabul bildirimi.
+hard|Müessese|Kurum veya kuruluş anlamındaki sözcük.
+hard|Mülahaza|Bir konu üzerine düşünme ve değerlendirme.
+hard|Müspet|Olumlu anlamındaki eski sözcük.
+hard|Müstakil|Başkasına bağlı olmayan, bağımsız.
+hard|Nesnel|Kişisel duygu ve değerlendirmelerden bağımsız olan.
+hard|Nirengi|Bir konuyu anlamada temel alınan dayanak noktası.
+hard|Normatif|Nasıl olması gerektiğine ilişkin ölçüt koyan.
+hard|Nostalji|Geçmişe duyulan özlem.
+hard|Nükte|İnce anlamlı ve düşündürücü espri.
+hard|Olgu|Gerçekleşmiş veya gözlenebilir durum.
+hard|Ontik|Varlığın kendisine ilişkin olan.
+hard|Ortodoks|Yerleşik ve kabul edilmiş öğretiye bağlı kalan.
+hard|Önerme|Doğru veya yanlış olabilen yargı cümlesi.
+hard|Öngörü|Gelecekte olabilecekleri önceden kestirme.
+hard|Özgecilik|Başkalarının yararını kendi çıkarının önünde tutma.
+hard|Özsel|Bir şeyin temel niteliğine ilişkin olan.
+hard|Panteizm|Tanrı ile evreni özdeş gören felsefi inanç.
+hard|Paydaş|Bir işten etkilenen veya işte çıkarı bulunan taraf.
+hard|Praksis|Kuramsal düşüncenin uygulamaya dönüştüğü etkinlik.
+hard|Prototip|Bir ürünün ilk örnek modeli.
+hard|Psikometri|Psikolojik özelliklerin ölçülmesini inceleyen alan.
+hard|Rastgelelik|Önceden belirli bir düzene bağlı olmama özelliği.
+hard|Realizm|Gerçekliği olduğu gibi yansıtmayı amaçlayan yaklaşım.
+hard|Revizyon|Yeniden gözden geçirip düzeltme.
+hard|Riyakârlık|İnandığından farklı görünerek ikiyüzlü davranma.
+hard|Semantik|Anlamı inceleyen dil bilimi dalıyla ilgili alan.
+hard|Sentaks|Kelimelerin cümle içinde sıralanma kuralları, söz dizimi.
+hard|Sezgi|Açık akıl yürütme olmadan doğrudan kavrayış.
+hard|Simgesel|Doğrudan nesne yerine sembollerle anlatılan.
+hard|Soyutlama|Ortak özellikleri ayırıp genel kavram oluşturma.
+hard|Süreklilik|Kesilmeden devam etme özelliği.
+hard|Şahsi|Kişiye özgü veya kişiyle ilgili.
+hard|Şifahî|Yazılı değil, sözlü olan.
+hard|Şuur|Bilinç anlamındaki eski sözcük.
+hard|Taahhüt|Bir işi yapmayı üstlenme ve söz verme.
+hard|Tasnif|Şeyleri tür veya özelliklerine göre sınıflandırma.
+hard|Teamül|Yerleşmiş uygulama ve alışkanlık.
+hard|Tecrit|Birini veya bir şeyi çevresinden ayırma.
+hard|Tedricen|Birden değil, aşamalı olarak.
+hard|Tekâmül|Gelişerek daha olgun hâle gelme.
+hard|Telafi|Bir eksikliği veya zararı giderme.
+hard|Telif|Özgün eser oluşturma; ayrıca eser üzerindeki hakla ilgili sözcük.
+hard|Temellendirme|Bir görüşü gerekçelerle destekleme.
+hard|Tenzih|Birini olumsuz nitelik veya suçlamadan uzak tutma.
+hard|Teşbih|Benzetme anlamındaki söz sanatı adı.
+hard|Tezahür|Bir durumun belirgin biçimde ortaya çıkması.
+hard|Töz|Bir varlığın değişmeyen temel özü.
+hard|Tümevarım|Tekil gözlemlerden genel sonuca ulaşan akıl yürütme.
+hard|Tümdengelim|Genel önermelerden özel sonuca ulaşan akıl yürütme.
+hard|Ukde|İçte kalan, çözülememiş istek veya sıkıntı.
+hard|Ulvi|Yüce, yüksek manevi nitelikte olan.
+hard|Umde|Temel ilke veya prensip.
+hard|Uzlaşı|Tarafların ortak noktada anlaşmış olması.
+hard|Üslupbilim|Dil kullanımının biçimsel ve anlatımsal özelliklerini inceleyen alan.
+hard|Üstkurmaca|Bir anlatının kendi kurmaca oluşuna dikkat çekmesi.
+hard|Vahamet|Bir durumun çok ciddi veya tehlikeli olması.
+hard|Vakıa|Gerçekleşmiş olay, olgu.
+hard|Varoluşçuluk|İnsanın varlığını, özgürlüğünü ve seçimlerini merkeze alan felsefe.
+hard|Vecd|Yoğun coşku içinde kendinden geçme durumu.
+hard|Vesayet|Birinin işlerini onun adına yürütmeye ilişkin gözetim.
+hard|Yapısalcılık|Olguları öğeler arasındaki ilişkilerden oluşan sistemler olarak inceleyen yaklaşım.
+hard|Yekpare|Tek parçadan oluşan, bölünmemiş.
+hard|Yordama|Verilerden hareketle geleceğe ilişkin tahminde bulunma.
+hard|Zahiri|Dış görünüşe ait, görünürde olan.
+hard|Zanni|Kesin bilgiye değil tahmine dayanan.
+hard|Zımnen|Açıkça söylemeden, dolaylı biçimde.

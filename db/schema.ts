@@ -1,0 +1,3 @@
+import { sqliteTable, text, integer, uniqueIndex } from 'drizzle-orm/sqlite-core';
+export const challenges = sqliteTable('challenges',{day:text('day').primaryKey(),cards:text('cards').notNull()});
+export const attempts = sqliteTable('attempts',{id:text('id').primaryKey(),owner:text('owner').notNull(),day:text('day').notNull(),name:text('name').notNull(),state:text('state').notNull(),revision:integer('revision').notNull().default(0),published:integer('published').notNull().default(0),score:integer('score').notNull().default(0),correct:integer('correct').notNull().default(0),wrong:integer('wrong').notNull().default(0),elapsed:integer('elapsed').notNull().default(0)},t=>[uniqueIndex('one_attempt_daily').on(t.owner,t.day)]);

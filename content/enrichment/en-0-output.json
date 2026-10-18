@@ -1,0 +1,7161 @@
+{
+  "existing": [
+    {
+      "word": "abandon",
+      "synonyms": [
+        "leave",
+        "desert"
+      ]
+    },
+    {
+      "word": "abrogate",
+      "synonyms": [
+        "repeal",
+        "revoke"
+      ]
+    },
+    {
+      "word": "accident",
+      "synonyms": [
+        "mishap"
+      ]
+    },
+    {
+      "word": "accomplish",
+      "synonyms": [
+        "achieve",
+        "complete"
+      ]
+    },
+    {
+      "word": "accountability",
+      "synonyms": [
+        "responsibility",
+        "answerability"
+      ]
+    },
+    {
+      "word": "acquiesce",
+      "synonyms": [
+        "consent",
+        "agree"
+      ]
+    },
+    {
+      "word": "acumen",
+      "synonyms": [
+        "shrewdness",
+        "insight"
+      ]
+    },
+    {
+      "word": "addicted",
+      "synonyms": [
+        "dependent",
+        "hooked"
+      ]
+    },
+    {
+      "word": "adjust",
+      "synonyms": [
+        "adapt",
+        "modify"
+      ]
+    },
+    {
+      "word": "adroit",
+      "synonyms": [
+        "skillful",
+        "dexterous"
+      ]
+    },
+    {
+      "word": "adverse",
+      "synonyms": [
+        "unfavorable",
+        "harmful"
+      ]
+    },
+    {
+      "word": "advocate",
+      "synonyms": [
+        "support",
+        "champion"
+      ]
+    },
+    {
+      "word": "afford",
+      "synonyms": [
+        "have the means for"
+      ]
+    },
+    {
+      "word": "agreement",
+      "synonyms": [
+        "accord",
+        "consensus"
+      ]
+    },
+    {
+      "word": "alienate",
+      "synonyms": [
+        "estrange",
+        "isolate"
+      ]
+    },
+    {
+      "word": "allude to",
+      "synonyms": [
+        "hint at",
+        "refer to"
+      ]
+    },
+    {
+      "word": "always",
+      "synonyms": [
+        "invariably"
+      ]
+    },
+    {
+      "word": "ambition",
+      "synonyms": [
+        "aspiration",
+        "drive"
+      ]
+    },
+    {
+      "word": "amount",
+      "synonyms": [
+        "quantity"
+      ]
+    },
+    {
+      "word": "analyze",
+      "synonyms": [
+        "examine",
+        "study"
+      ]
+    },
+    {
+      "word": "animal",
+      "synonyms": [
+        "creature"
+      ]
+    },
+    {
+      "word": "annual",
+      "synonyms": [
+        "yearly"
+      ]
+    },
+    {
+      "word": "ant",
+      "synonyms": []
+    },
+    {
+      "word": "anxiety",
+      "synonyms": [
+        "worry",
+        "unease"
+      ]
+    },
+    {
+      "word": "apocryphal",
+      "synonyms": [
+        "unverified",
+        "doubtful"
+      ]
+    },
+    {
+      "word": "appear",
+      "synonyms": [
+        "emerge"
+      ]
+    },
+    {
+      "word": "appointment",
+      "synonyms": [
+        "meeting"
+      ]
+    },
+    {
+      "word": "approbation",
+      "synonyms": [
+        "approval",
+        "praise"
+      ]
+    },
+    {
+      "word": "arm",
+      "synonyms": []
+    },
+    {
+      "word": "ask out",
+      "synonyms": [
+        "invite on a date"
+      ]
+    },
+    {
+      "word": "assist",
+      "synonyms": [
+        "help",
+        "aid"
+      ]
+    },
+    {
+      "word": "attenuate",
+      "synonyms": [
+        "weaken",
+        "reduce"
+      ]
+    },
+    {
+      "word": "attribute",
+      "synonyms": [
+        "ascribe"
+      ]
+    },
+    {
+      "word": "auspicious",
+      "synonyms": [
+        "promising",
+        "favorable"
+      ]
+    },
+    {
+      "word": "autumn",
+      "synonyms": [
+        "fall"
+      ]
+    },
+    {
+      "word": "avoid",
+      "synonyms": [
+        "evade",
+        "shun"
+      ]
+    },
+    {
+      "word": "awkward",
+      "synonyms": [
+        "uncomfortable",
+        "clumsy"
+      ]
+    },
+    {
+      "word": "back down",
+      "synonyms": [
+        "yield",
+        "retreat"
+      ]
+    },
+    {
+      "word": "background",
+      "synonyms": [
+        "history",
+        "experience"
+      ]
+    },
+    {
+      "word": "balk at",
+      "synonyms": [
+        "hesitate over",
+        "shrink from"
+      ]
+    },
+    {
+      "word": "bank on",
+      "synonyms": [
+        "rely on",
+        "count on"
+      ]
+    },
+    {
+      "word": "bathroom",
+      "synonyms": [
+        "washroom"
+      ]
+    },
+    {
+      "word": "bear with",
+      "synonyms": [
+        "be patient with"
+      ]
+    },
+    {
+      "word": "bee",
+      "synonyms": []
+    },
+    {
+      "word": "behind",
+      "synonyms": [
+        "at the back of"
+      ]
+    },
+    {
+      "word": "belligerent",
+      "synonyms": [
+        "hostile",
+        "aggressive"
+      ]
+    },
+    {
+      "word": "benchmark",
+      "synonyms": [
+        "standard",
+        "reference point"
+      ]
+    },
+    {
+      "word": "between",
+      "synonyms": []
+    },
+    {
+      "word": "bifurcate",
+      "synonyms": [
+        "fork",
+        "divide"
+      ]
+    },
+    {
+      "word": "blame",
+      "synonyms": [
+        "fault",
+        "accuse"
+      ]
+    },
+    {
+      "word": "blow up",
+      "synonyms": [
+        "explode"
+      ]
+    },
+    {
+      "word": "boat",
+      "synonyms": [
+        "vessel",
+        "craft"
+      ]
+    },
+    {
+      "word": "bolster",
+      "synonyms": [
+        "strengthen",
+        "support"
+      ]
+    },
+    {
+      "word": "bother",
+      "synonyms": [
+        "annoy",
+        "disturb"
+      ]
+    },
+    {
+      "word": "boundary",
+      "synonyms": [
+        "border",
+        "limit"
+      ]
+    },
+    {
+      "word": "box",
+      "synonyms": []
+    },
+    {
+      "word": "brave",
+      "synonyms": [
+        "courageous",
+        "bold"
+      ]
+    },
+    {
+      "word": "break in",
+      "synonyms": [
+        "force entry"
+      ]
+    },
+    {
+      "word": "break up",
+      "synonyms": [
+        "split up",
+        "separate"
+      ]
+    },
+    {
+      "word": "brief",
+      "synonyms": [
+        "short",
+        "concise"
+      ]
+    },
+    {
+      "word": "bring along",
+      "synonyms": [
+        "take along"
+      ]
+    },
+    {
+      "word": "bring up",
+      "synonyms": [
+        "mention",
+        "raise"
+      ]
+    },
+    {
+      "word": "brown",
+      "synonyms": []
+    },
+    {
+      "word": "buckle down",
+      "synonyms": [
+        "apply oneself"
+      ]
+    },
+    {
+      "word": "build on",
+      "synonyms": [
+        "develop",
+        "extend"
+      ]
+    },
+    {
+      "word": "butter",
+      "synonyms": []
+    },
+    {
+      "word": "calendar",
+      "synonyms": []
+    },
+    {
+      "word": "call off",
+      "synonyms": [
+        "cancel"
+      ]
+    },
+    {
+      "word": "camera",
+      "synonyms": []
+    },
+    {
+      "word": "candidate",
+      "synonyms": [
+        "applicant",
+        "contender"
+      ]
+    },
+    {
+      "word": "capricious",
+      "synonyms": [
+        "unpredictable",
+        "fickle"
+      ]
+    },
+    {
+      "word": "career",
+      "synonyms": [
+        "profession",
+        "occupation"
+      ]
+    },
+    {
+      "word": "carry out",
+      "synonyms": [
+        "perform",
+        "execute"
+      ]
+    },
+    {
+      "word": "catch up",
+      "synonyms": [
+        "draw level"
+      ]
+    },
+    {
+      "word": "cave in",
+      "synonyms": [
+        "yield",
+        "give in"
+      ]
+    },
+    {
+      "word": "chair",
+      "synonyms": []
+    },
+    {
+      "word": "cheap",
+      "synonyms": [
+        "inexpensive",
+        "low-cost"
+      ]
+    },
+    {
+      "word": "cheer up",
+      "synonyms": [
+        "brighten",
+        "become happier"
+      ]
+    },
+    {
+      "word": "chicanery",
+      "synonyms": [
+        "deception",
+        "trickery"
+      ]
+    },
+    {
+      "word": "chip away at",
+      "synonyms": [
+        "gradually weaken"
+      ]
+    },
+    {
+      "word": "cinema",
+      "synonyms": [
+        "movie theater"
+      ]
+    },
+    {
+      "word": "citizen",
+      "synonyms": [
+        "national"
+      ]
+    },
+    {
+      "word": "clamp down on",
+      "synonyms": [
+        "suppress",
+        "restrict"
+      ]
+    },
+    {
+      "word": "claw back",
+      "synonyms": [
+        "recover",
+        "reclaim"
+      ]
+    },
+    {
+      "word": "clear up",
+      "synonyms": [
+        "clarify",
+        "resolve"
+      ]
+    },
+    {
+      "word": "cloud",
+      "synonyms": []
+    },
+    {
+      "word": "coherent",
+      "synonyms": [
+        "logical",
+        "consistent"
+      ]
+    },
+    {
+      "word": "colleague",
+      "synonyms": [
+        "coworker"
+      ]
+    },
+    {
+      "word": "come across",
+      "synonyms": [
+        "encounter",
+        "find by chance"
+      ]
+    },
+    {
+      "word": "come down to",
+      "synonyms": [
+        "depend on",
+        "amount to"
+      ]
+    },
+    {
+      "word": "come in",
+      "synonyms": [
+        "enter"
+      ]
+    },
+    {
+      "word": "come over",
+      "synonyms": [
+        "visit"
+      ]
+    },
+    {
+      "word": "come up against",
+      "synonyms": [
+        "encounter",
+        "face"
+      ]
+    },
+    {
+      "word": "commercial",
+      "synonyms": [
+        "business-related"
+      ]
+    },
+    {
+      "word": "community",
+      "synonyms": [
+        "group",
+        "society"
+      ]
+    },
+    {
+      "word": "compensate",
+      "synonyms": [
+        "make up for",
+        "reimburse"
+      ]
+    },
+    {
+      "word": "complain",
+      "synonyms": [
+        "protest",
+        "grumble"
+      ]
+    },
+    {
+      "word": "comprehensive",
+      "synonyms": [
+        "thorough",
+        "complete"
+      ]
+    },
+    {
+      "word": "concede",
+      "synonyms": [
+        "admit",
+        "acknowledge"
+      ]
+    },
+    {
+      "word": "concomitant",
+      "synonyms": [
+        "accompanying",
+        "concurrent"
+      ]
+    },
+    {
+      "word": "confidence",
+      "synonyms": [
+        "self-assurance",
+        "belief"
+      ]
+    },
+    {
+      "word": "confused",
+      "synonyms": [
+        "puzzled",
+        "bewildered"
+      ]
+    },
+    {
+      "word": "conscious",
+      "synonyms": [
+        "aware",
+        "awake"
+      ]
+    },
+    {
+      "word": "consider",
+      "synonyms": [
+        "contemplate",
+        "think about"
+      ]
+    },
+    {
+      "word": "conspicuous",
+      "synonyms": [
+        "noticeable",
+        "obvious"
+      ]
+    },
+    {
+      "word": "contain",
+      "synonyms": [
+        "hold",
+        "include"
+      ]
+    },
+    {
+      "word": "contingency",
+      "synonyms": [
+        "possibility",
+        "eventuality"
+      ]
+    },
+    {
+      "word": "contrite",
+      "synonyms": [
+        "remorseful",
+        "repentant"
+      ]
+    },
+    {
+      "word": "convenient",
+      "synonyms": [
+        "handy",
+        "suitable"
+      ]
+    },
+    {
+      "word": "convivial",
+      "synonyms": [
+        "friendly",
+        "sociable"
+      ]
+    },
+    {
+      "word": "cope",
+      "synonyms": [
+        "manage",
+        "deal with"
+      ]
+    },
+    {
+      "word": "courage",
+      "synonyms": [
+        "bravery",
+        "valor"
+      ]
+    },
+    {
+      "word": "crack on",
+      "synonyms": [
+        "get on with",
+        "proceed"
+      ]
+    },
+    {
+      "word": "crowded",
+      "synonyms": [
+        "packed",
+        "full"
+      ]
+    },
+    {
+      "word": "cup",
+      "synonyms": []
+    },
+    {
+      "word": "cut across",
+      "synonyms": [
+        "transcend"
+      ]
+    },
+    {
+      "word": "cut off",
+      "synonyms": [
+        "disconnect",
+        "sever"
+      ]
+    },
+    {
+      "word": "dark",
+      "synonyms": [
+        "unlit",
+        "dim"
+      ]
+    },
+    {
+      "word": "deadline",
+      "synonyms": [
+        "time limit"
+      ]
+    },
+    {
+      "word": "decent",
+      "synonyms": [
+        "acceptable",
+        "respectable"
+      ]
+    },
+    {
+      "word": "decline",
+      "synonyms": [
+        "decrease",
+        "refuse"
+      ]
+    },
+    {
+      "word": "defend",
+      "synonyms": [
+        "protect",
+        "guard"
+      ]
+    },
+    {
+      "word": "delay",
+      "synonyms": [
+        "postpone",
+        "defer"
+      ]
+    },
+    {
+      "word": "deliberate",
+      "synonyms": [
+        "intentional",
+        "considered"
+      ]
+    },
+    {
+      "word": "demagogue",
+      "synonyms": [
+        "agitator"
+      ]
+    },
+    {
+      "word": "depend",
+      "synonyms": [
+        "rely"
+      ]
+    },
+    {
+      "word": "derision",
+      "synonyms": [
+        "ridicule",
+        "mockery"
+      ]
+    },
+    {
+      "word": "desert",
+      "synonyms": [
+        "arid land"
+      ]
+    },
+    {
+      "word": "despite",
+      "synonyms": [
+        "in spite of"
+      ]
+    },
+    {
+      "word": "detail",
+      "synonyms": [
+        "particular"
+      ]
+    },
+    {
+      "word": "deviate",
+      "synonyms": [
+        "diverge",
+        "stray"
+      ]
+    },
+    {
+      "word": "didactic",
+      "synonyms": [
+        "instructive",
+        "educational"
+      ]
+    },
+    {
+      "word": "dilemma",
+      "synonyms": [
+        "predicament",
+        "quandary"
+      ]
+    },
+    {
+      "word": "dirty",
+      "synonyms": [
+        "unclean",
+        "filthy"
+      ]
+    },
+    {
+      "word": "disclose",
+      "synonyms": [
+        "reveal",
+        "divulge"
+      ]
+    },
+    {
+      "word": "discrepancy",
+      "synonyms": [
+        "inconsistency",
+        "difference"
+      ]
+    },
+    {
+      "word": "dish out",
+      "synonyms": [
+        "distribute",
+        "hand out"
+      ]
+    },
+    {
+      "word": "disparate",
+      "synonyms": [
+        "different",
+        "dissimilar"
+      ]
+    },
+    {
+      "word": "distance",
+      "synonyms": [
+        "separation"
+      ]
+    },
+    {
+      "word": "distribute",
+      "synonyms": [
+        "hand out",
+        "allocate"
+      ]
+    },
+    {
+      "word": "divide",
+      "synonyms": [
+        "split",
+        "separate"
+      ]
+    },
+    {
+      "word": "dogmatic",
+      "synonyms": [
+        "opinionated",
+        "inflexible"
+      ]
+    },
+    {
+      "word": "door",
+      "synonyms": []
+    },
+    {
+      "word": "draw on",
+      "synonyms": [
+        "use",
+        "tap into"
+      ]
+    },
+    {
+      "word": "dress",
+      "synonyms": []
+    },
+    {
+      "word": "drop by",
+      "synonyms": [
+        "visit",
+        "stop by"
+      ]
+    },
+    {
+      "word": "duck",
+      "synonyms": []
+    },
+    {
+      "word": "ear",
+      "synonyms": []
+    },
+    {
+      "word": "easy",
+      "synonyms": [
+        "simple",
+        "straightforward"
+      ]
+    },
+    {
+      "word": "ebullient",
+      "synonyms": [
+        "exuberant",
+        "enthusiastic"
+      ]
+    },
+    {
+      "word": "efficacy",
+      "synonyms": [
+        "effectiveness"
+      ]
+    },
+    {
+      "word": "effusive",
+      "synonyms": [
+        "enthusiastic",
+        "unrestrained"
+      ]
+    },
+    {
+      "word": "eke out",
+      "synonyms": [
+        "stretch",
+        "supplement"
+      ]
+    },
+    {
+      "word": "elephant",
+      "synonyms": []
+    },
+    {
+      "word": "embark on",
+      "synonyms": [
+        "begin",
+        "start"
+      ]
+    },
+    {
+      "word": "emotion",
+      "synonyms": [
+        "feeling"
+      ]
+    },
+    {
+      "word": "employee",
+      "synonyms": [
+        "worker",
+        "staff member"
+      ]
+    },
+    {
+      "word": "enable",
+      "synonyms": [
+        "allow",
+        "permit"
+      ]
+    },
+    {
+      "word": "end up",
+      "synonyms": [
+        "finish up"
+      ]
+    },
+    {
+      "word": "enervate",
+      "synonyms": [
+        "weaken",
+        "exhaust"
+      ]
+    },
+    {
+      "word": "entertain",
+      "synonyms": [
+        "amuse",
+        "delight"
+      ]
+    },
+    {
+      "word": "equal",
+      "synonyms": [
+        "equivalent",
+        "identical"
+      ]
+    },
+    {
+      "word": "equitable",
+      "synonyms": [
+        "fair",
+        "just"
+      ]
+    },
+    {
+      "word": "erudite",
+      "synonyms": [
+        "learned",
+        "scholarly"
+      ]
+    },
+    {
+      "word": "especially",
+      "synonyms": [
+        "particularly"
+      ]
+    },
+    {
+      "word": "estimate",
+      "synonyms": [
+        "approximate",
+        "assess"
+      ]
+    },
+    {
+      "word": "eventually",
+      "synonyms": [
+        "finally",
+        "in the end"
+      ]
+    },
+    {
+      "word": "exacting",
+      "synonyms": [
+        "demanding",
+        "strict"
+      ]
+    },
+    {
+      "word": "exchange",
+      "synonyms": [
+        "swap",
+        "trade"
+      ]
+    },
+    {
+      "word": "exercise",
+      "synonyms": [
+        "workout",
+        "physical activity"
+      ]
+    },
+    {
+      "word": "exonerate",
+      "synonyms": [
+        "absolve",
+        "clear"
+      ]
+    },
+    {
+      "word": "expedient",
+      "synonyms": [
+        "practical",
+        "convenient"
+      ]
+    },
+    {
+      "word": "experiment",
+      "synonyms": [
+        "test",
+        "trial"
+      ]
+    },
+    {
+      "word": "explore",
+      "synonyms": [
+        "investigate",
+        "examine"
+      ]
+    },
+    {
+      "word": "eye",
+      "synonyms": []
+    },
+    {
+      "word": "factor in",
+      "synonyms": [
+        "allow for",
+        "consider"
+      ]
+    },
+    {
+      "word": "fall apart",
+      "synonyms": [
+        "disintegrate",
+        "collapse"
+      ]
+    },
+    {
+      "word": "fall down",
+      "synonyms": [
+        "fall",
+        "collapse"
+      ]
+    },
+    {
+      "word": "family",
+      "synonyms": [
+        "relatives",
+        "kin"
+      ]
+    },
+    {
+      "word": "farmer",
+      "synonyms": [
+        "grower"
+      ]
+    },
+    {
+      "word": "father",
+      "synonyms": [
+        "dad"
+      ]
+    },
+    {
+      "word": "feasible",
+      "synonyms": [
+        "possible",
+        "practicable"
+      ]
+    },
+    {
+      "word": "fee",
+      "synonyms": [
+        "charge",
+        "payment"
+      ]
+    },
+    {
+      "word": "fend off",
+      "synonyms": [
+        "repel",
+        "ward off"
+      ]
+    },
+    {
+      "word": "fetch",
+      "synonyms": [
+        "bring",
+        "get"
+      ]
+    },
+    {
+      "word": "fill out",
+      "synonyms": [
+        "complete"
+      ]
+    },
+    {
+      "word": "finger",
+      "synonyms": []
+    },
+    {
+      "word": "fizzle out",
+      "synonyms": [
+        "fade away",
+        "peter out"
+      ]
+    },
+    {
+      "word": "flexible",
+      "synonyms": [
+        "adaptable",
+        "pliable"
+      ]
+    },
+    {
+      "word": "fluent",
+      "synonyms": [
+        "proficient",
+        "articulate"
+      ]
+    },
+    {
+      "word": "focus",
+      "synonyms": [
+        "concentrate"
+      ]
+    },
+    {
+      "word": "food",
+      "synonyms": [
+        "nourishment"
+      ]
+    },
+    {
+      "word": "forecast",
+      "synonyms": [
+        "predict",
+        "project"
+      ]
+    },
+    {
+      "word": "fork",
+      "synonyms": []
+    },
+    {
+      "word": "fortuitous",
+      "synonyms": [
+        "accidental",
+        "chance"
+      ]
+    },
+    {
+      "word": "fox",
+      "synonyms": []
+    },
+    {
+      "word": "frequent",
+      "synonyms": [
+        "regular",
+        "common"
+      ]
+    },
+    {
+      "word": "frightened",
+      "synonyms": [
+        "scared",
+        "afraid"
+      ]
+    },
+    {
+      "word": "fruit",
+      "synonyms": []
+    },
+    {
+      "word": "function",
+      "synonyms": [
+        "purpose",
+        "role"
+      ]
+    },
+    {
+      "word": "gain",
+      "synonyms": [
+        "obtain",
+        "acquire"
+      ]
+    },
+    {
+      "word": "garrulous",
+      "synonyms": [
+        "talkative",
+        "chatty"
+      ]
+    },
+    {
+      "word": "generous",
+      "synonyms": [
+        "giving",
+        "liberal"
+      ]
+    },
+    {
+      "word": "germane",
+      "synonyms": [
+        "relevant",
+        "pertinent"
+      ]
+    },
+    {
+      "word": "get around",
+      "synonyms": [
+        "circumvent"
+      ]
+    },
+    {
+      "word": "get by",
+      "synonyms": [
+        "manage",
+        "cope"
+      ]
+    },
+    {
+      "word": "get on",
+      "synonyms": [
+        "board"
+      ]
+    },
+    {
+      "word": "get rid of",
+      "synonyms": [
+        "remove",
+        "discard"
+      ]
+    },
+    {
+      "word": "gift",
+      "synonyms": [
+        "present"
+      ]
+    },
+    {
+      "word": "give in",
+      "synonyms": [
+        "yield",
+        "surrender"
+      ]
+    },
+    {
+      "word": "glasses",
+      "synonyms": [
+        "spectacles"
+      ]
+    },
+    {
+      "word": "go ahead",
+      "synonyms": [
+        "proceed"
+      ]
+    },
+    {
+      "word": "go back",
+      "synonyms": [
+        "return"
+      ]
+    },
+    {
+      "word": "go off",
+      "synonyms": [
+        "explode",
+        "sound"
+      ]
+    },
+    {
+      "word": "go over",
+      "synonyms": [
+        "review",
+        "examine"
+      ]
+    },
+    {
+      "word": "goal",
+      "synonyms": [
+        "aim",
+        "objective"
+      ]
+    },
+    {
+      "word": "grape",
+      "synonyms": []
+    },
+    {
+      "word": "gratuity",
+      "synonyms": [
+        "tip"
+      ]
+    },
+    {
+      "word": "grocery",
+      "synonyms": [
+        "food shop"
+      ]
+    },
+    {
+      "word": "growth",
+      "synonyms": [
+        "increase",
+        "expansion"
+      ]
+    },
+    {
+      "word": "guitar",
+      "synonyms": []
+    },
+    {
+      "word": "hair",
+      "synonyms": []
+    },
+    {
+      "word": "hand in",
+      "synonyms": [
+        "submit"
+      ]
+    },
+    {
+      "word": "hang out",
+      "synonyms": [
+        "spend time together"
+      ]
+    },
+    {
+      "word": "harangue",
+      "synonyms": [
+        "lecture",
+        "berate"
+      ]
+    },
+    {
+      "word": "hash out",
+      "synonyms": [
+        "discuss thoroughly"
+      ]
+    },
+    {
+      "word": "head for",
+      "synonyms": [
+        "go toward"
+      ]
+    },
+    {
+      "word": "heavy",
+      "synonyms": [
+        "weighty"
+      ]
+    },
+    {
+      "word": "hesitate",
+      "synonyms": [
+        "pause",
+        "falter"
+      ]
+    },
+    {
+      "word": "hinge on",
+      "synonyms": [
+        "depend on"
+      ]
+    },
+    {
+      "word": "hold off",
+      "synonyms": [
+        "delay",
+        "wait"
+      ]
+    },
+    {
+      "word": "holiday",
+      "synonyms": [
+        "vacation"
+      ]
+    },
+    {
+      "word": "honest",
+      "synonyms": [
+        "truthful",
+        "sincere"
+      ]
+    },
+    {
+      "word": "hospital",
+      "synonyms": []
+    },
+    {
+      "word": "house",
+      "synonyms": [
+        "home",
+        "dwelling"
+      ]
+    },
+    {
+      "word": "humble",
+      "synonyms": [
+        "modest",
+        "unassuming"
+      ]
+    },
+    {
+      "word": "hurry up",
+      "synonyms": [
+        "be quick"
+      ]
+    },
+    {
+      "word": "ice",
+      "synonyms": []
+    },
+    {
+      "word": "illegal",
+      "synonyms": [
+        "unlawful"
+      ]
+    },
+    {
+      "word": "impact",
+      "synonyms": [
+        "effect",
+        "influence"
+      ]
+    },
+    {
+      "word": "imperious",
+      "synonyms": [
+        "domineering",
+        "bossy"
+      ]
+    },
+    {
+      "word": "implicit",
+      "synonyms": [
+        "implied",
+        "unspoken"
+      ]
+    },
+    {
+      "word": "inadvertent",
+      "synonyms": [
+        "accidental",
+        "unintentional"
+      ]
+    },
+    {
+      "word": "include",
+      "synonyms": [
+        "contain",
+        "involve"
+      ]
+    },
+    {
+      "word": "incongruous",
+      "synonyms": [
+        "out of place",
+        "incompatible"
+      ]
+    },
+    {
+      "word": "independent",
+      "synonyms": [
+        "self-reliant",
+        "autonomous"
+      ]
+    },
+    {
+      "word": "industry",
+      "synonyms": [
+        "sector"
+      ]
+    },
+    {
+      "word": "inexorable",
+      "synonyms": [
+        "unstoppable",
+        "relentless"
+      ]
+    },
+    {
+      "word": "infrastructure",
+      "synonyms": []
+    },
+    {
+      "word": "injury",
+      "synonyms": [
+        "harm",
+        "wound"
+      ]
+    },
+    {
+      "word": "inside",
+      "synonyms": [
+        "within"
+      ]
+    },
+    {
+      "word": "insist",
+      "synonyms": [
+        "demand",
+        "maintain"
+      ]
+    },
+    {
+      "word": "integrity",
+      "synonyms": [
+        "honesty",
+        "uprightness"
+      ]
+    },
+    {
+      "word": "interrupt",
+      "synonyms": [
+        "interject",
+        "disrupt"
+      ]
+    },
+    {
+      "word": "intransigent",
+      "synonyms": [
+        "unyielding",
+        "uncompromising"
+      ]
+    },
+    {
+      "word": "introduce",
+      "synonyms": [
+        "present"
+      ]
+    },
+    {
+      "word": "inveterate",
+      "synonyms": [
+        "habitual",
+        "entrenched"
+      ]
+    },
+    {
+      "word": "iron out",
+      "synonyms": [
+        "resolve",
+        "smooth out"
+      ]
+    },
+    {
+      "word": "issue",
+      "synonyms": [
+        "problem",
+        "matter"
+      ]
+    },
+    {
+      "word": "jealous",
+      "synonyms": [
+        "envious"
+      ]
+    },
+    {
+      "word": "join in",
+      "synonyms": [
+        "participate"
+      ]
+    },
+    {
+      "word": "judge",
+      "synonyms": [
+        "assess",
+        "evaluate"
+      ]
+    },
+    {
+      "word": "juice",
+      "synonyms": []
+    },
+    {
+      "word": "juxtapose",
+      "synonyms": [
+        "place side by side"
+      ]
+    },
+    {
+      "word": "keep away",
+      "synonyms": [
+        "stay away"
+      ]
+    },
+    {
+      "word": "keep track of",
+      "synonyms": [
+        "monitor",
+        "follow"
+      ]
+    },
+    {
+      "word": "keyboard",
+      "synonyms": []
+    },
+    {
+      "word": "kitchen",
+      "synonyms": []
+    },
+    {
+      "word": "knuckle down",
+      "synonyms": [
+        "apply oneself"
+      ]
+    },
+    {
+      "word": "labyrinthine",
+      "synonyms": [
+        "complicated",
+        "maze-like"
+      ]
+    },
+    {
+      "word": "lake",
+      "synonyms": []
+    },
+    {
+      "word": "languid",
+      "synonyms": [
+        "listless",
+        "lethargic"
+      ]
+    },
+    {
+      "word": "lately",
+      "synonyms": [
+        "recently"
+      ]
+    },
+    {
+      "word": "lay down",
+      "synonyms": [
+        "establish",
+        "stipulate"
+      ]
+    },
+    {
+      "word": "leave out",
+      "synonyms": [
+        "omit",
+        "exclude"
+      ]
+    },
+    {
+      "word": "legal",
+      "synonyms": [
+        "lawful",
+        "legitimate"
+      ]
+    },
+    {
+      "word": "lend",
+      "synonyms": [
+        "loan"
+      ]
+    },
+    {
+      "word": "let in",
+      "synonyms": [
+        "admit"
+      ]
+    },
+    {
+      "word": "library",
+      "synonyms": []
+    },
+    {
+      "word": "likelihood",
+      "synonyms": [
+        "probability",
+        "chance"
+      ]
+    },
+    {
+      "word": "limpid",
+      "synonyms": [
+        "clear",
+        "transparent"
+      ]
+    },
+    {
+      "word": "live down",
+      "synonyms": [
+        "overcome the shame of"
+      ]
+    },
+    {
+      "word": "log in",
+      "synonyms": [
+        "sign in"
+      ]
+    },
+    {
+      "word": "long",
+      "synonyms": [
+        "lengthy",
+        "extended"
+      ]
+    },
+    {
+      "word": "look at",
+      "synonyms": [
+        "examine",
+        "view"
+      ]
+    },
+    {
+      "word": "look for",
+      "synonyms": [
+        "seek",
+        "search for"
+      ]
+    },
+    {
+      "word": "look out",
+      "synonyms": [
+        "be careful"
+      ]
+    },
+    {
+      "word": "loquacious",
+      "synonyms": [
+        "talkative",
+        "voluble"
+      ]
+    },
+    {
+      "word": "lunch",
+      "synonyms": []
+    },
+    {
+      "word": "majority",
+      "synonyms": [
+        "greater part"
+      ]
+    },
+    {
+      "word": "make up for",
+      "synonyms": [
+        "compensate for"
+      ]
+    },
+    {
+      "word": "mandatory",
+      "synonyms": [
+        "compulsory",
+        "required"
+      ]
+    },
+    {
+      "word": "marginal",
+      "synonyms": [
+        "slight",
+        "minor"
+      ]
+    },
+    {
+      "word": "measure",
+      "synonyms": [
+        "assess",
+        "gauge"
+      ]
+    },
+    {
+      "word": "mellifluous",
+      "synonyms": [
+        "sweet-sounding",
+        "melodious"
+      ]
+    },
+    {
+      "word": "mercurial",
+      "synonyms": [
+        "changeable",
+        "volatile"
+      ]
+    },
+    {
+      "word": "method",
+      "synonyms": [
+        "procedure",
+        "approach"
+      ]
+    },
+    {
+      "word": "milk",
+      "synonyms": []
+    },
+    {
+      "word": "mirror",
+      "synonyms": []
+    },
+    {
+      "word": "mix up",
+      "synonyms": [
+        "confuse"
+      ]
+    },
+    {
+      "word": "money",
+      "synonyms": []
+    },
+    {
+      "word": "mother",
+      "synonyms": [
+        "mom",
+        "mum"
+      ]
+    },
+    {
+      "word": "mountain",
+      "synonyms": []
+    },
+    {
+      "word": "move in",
+      "synonyms": []
+    },
+    {
+      "word": "mull over",
+      "synonyms": [
+        "consider",
+        "ponder"
+      ]
+    },
+    {
+      "word": "music",
+      "synonyms": []
+    },
+    {
+      "word": "nascent",
+      "synonyms": [
+        "emerging",
+        "developing"
+      ]
+    },
+    {
+      "word": "nebulous",
+      "synonyms": [
+        "vague",
+        "unclear"
+      ]
+    },
+    {
+      "word": "negotiate",
+      "synonyms": [
+        "bargain",
+        "discuss terms"
+      ]
+    },
+    {
+      "word": "nervous",
+      "synonyms": [
+        "anxious",
+        "uneasy"
+      ]
+    },
+    {
+      "word": "newspaper",
+      "synonyms": []
+    },
+    {
+      "word": "nonchalant",
+      "synonyms": [
+        "casual",
+        "unconcerned"
+      ]
+    },
+    {
+      "word": "notice",
+      "synonyms": [
+        "observe",
+        "spot"
+      ]
+    },
+    {
+      "word": "number",
+      "synonyms": [
+        "figure"
+      ]
+    },
+    {
+      "word": "obfuscate",
+      "synonyms": [
+        "obscure",
+        "confuse"
+      ]
+    },
+    {
+      "word": "obsequious",
+      "synonyms": [
+        "fawning",
+        "servile"
+      ]
+    },
+    {
+      "word": "obtain",
+      "synonyms": [
+        "get",
+        "acquire"
+      ]
+    },
+    {
+      "word": "occasionally",
+      "synonyms": [
+        "sometimes"
+      ]
+    },
+    {
+      "word": "October",
+      "synonyms": []
+    },
+    {
+      "word": "old",
+      "synonyms": [
+        "aged"
+      ]
+    },
+    {
+      "word": "open",
+      "synonyms": [
+        "unclosed"
+      ]
+    },
+    {
+      "word": "opinion",
+      "synonyms": [
+        "view",
+        "belief"
+      ]
+    },
+    {
+      "word": "opt out of",
+      "synonyms": [
+        "withdraw from"
+      ]
+    },
+    {
+      "word": "ordinary",
+      "synonyms": [
+        "normal",
+        "usual"
+      ]
+    },
+    {
+      "word": "ostentatious",
+      "synonyms": [
+        "showy",
+        "pretentious"
+      ]
+    },
+    {
+      "word": "overlook",
+      "synonyms": [
+        "miss",
+        "fail to notice"
+      ]
+    },
+    {
+      "word": "own up to",
+      "synonyms": [
+        "admit",
+        "confess"
+      ]
+    },
+    {
+      "word": "paper",
+      "synonyms": []
+    },
+    {
+      "word": "pare down",
+      "synonyms": [
+        "reduce",
+        "trim"
+      ]
+    },
+    {
+      "word": "participate",
+      "synonyms": [
+        "take part"
+      ]
+    },
+    {
+      "word": "pass off as",
+      "synonyms": [
+        "misrepresent as"
+      ]
+    },
+    {
+      "word": "passion",
+      "synonyms": [
+        "enthusiasm",
+        "ardor"
+      ]
+    },
+    {
+      "word": "patient",
+      "synonyms": [
+        "tolerant",
+        "forbearing"
+      ]
+    },
+    {
+      "word": "peaceful",
+      "synonyms": [
+        "calm",
+        "tranquil"
+      ]
+    },
+    {
+      "word": "pencil",
+      "synonyms": []
+    },
+    {
+      "word": "perform",
+      "synonyms": [
+        "carry out",
+        "execute"
+      ]
+    },
+    {
+      "word": "pernicious",
+      "synonyms": [
+        "harmful",
+        "destructive"
+      ]
+    },
+    {
+      "word": "persuade",
+      "synonyms": [
+        "convince"
+      ]
+    },
+    {
+      "word": "petulant",
+      "synonyms": [
+        "sulky",
+        "peevish"
+      ]
+    },
+    {
+      "word": "pick up",
+      "synonyms": [
+        "collect"
+      ]
+    },
+    {
+      "word": "pin down",
+      "synonyms": [
+        "identify precisely"
+      ]
+    },
+    {
+      "word": "plate",
+      "synonyms": []
+    },
+    {
+      "word": "play into",
+      "synonyms": [
+        "serve inadvertently"
+      ]
+    },
+    {
+      "word": "polite",
+      "synonyms": [
+        "courteous",
+        "respectful"
+      ]
+    },
+    {
+      "word": "position",
+      "synonyms": [
+        "location",
+        "place"
+      ]
+    },
+    {
+      "word": "potential",
+      "synonyms": [
+        "possibility",
+        "capacity"
+      ]
+    },
+    {
+      "word": "prefer",
+      "synonyms": [
+        "favor"
+      ]
+    },
+    {
+      "word": "prerequisite",
+      "synonyms": [
+        "requirement",
+        "precondition"
+      ]
+    },
+    {
+      "word": "press ahead",
+      "synonyms": [
+        "continue",
+        "proceed"
+      ]
+    },
+    {
+      "word": "pretend",
+      "synonyms": [
+        "feign",
+        "make believe"
+      ]
+    },
+    {
+      "word": "previous",
+      "synonyms": [
+        "earlier",
+        "prior"
+      ]
+    },
+    {
+      "word": "probably",
+      "synonyms": [
+        "likely"
+      ]
+    },
+    {
+      "word": "proclivity",
+      "synonyms": [
+        "tendency",
+        "inclination"
+      ]
+    },
+    {
+      "word": "profound",
+      "synonyms": [
+        "deep"
+      ]
+    },
+    {
+      "word": "promote",
+      "synonyms": [
+        "advance",
+        "encourage"
+      ]
+    },
+    {
+      "word": "prospective",
+      "synonyms": [
+        "potential",
+        "future"
+      ]
+    },
+    {
+      "word": "provide",
+      "synonyms": [
+        "supply",
+        "give"
+      ]
+    },
+    {
+      "word": "puerile",
+      "synonyms": [
+        "childish",
+        "immature"
+      ]
+    },
+    {
+      "word": "purpose",
+      "synonyms": [
+        "aim",
+        "intention"
+      ]
+    },
+    {
+      "word": "put down",
+      "synonyms": [
+        "set down"
+      ]
+    },
+    {
+      "word": "put on",
+      "synonyms": [
+        "wear"
+      ]
+    },
+    {
+      "word": "qualify",
+      "synonyms": [
+        "be eligible"
+      ]
+    },
+    {
+      "word": "queen",
+      "synonyms": [
+        "monarch"
+      ]
+    },
+    {
+      "word": "quickly",
+      "synonyms": [
+        "rapidly",
+        "swiftly"
+      ]
+    },
+    {
+      "word": "quintessential",
+      "synonyms": [
+        "typical",
+        "definitive"
+      ]
+    },
+    {
+      "word": "rabbit",
+      "synonyms": []
+    },
+    {
+      "word": "range",
+      "synonyms": [
+        "scope",
+        "extent"
+      ]
+    },
+    {
+      "word": "ratchet up",
+      "synonyms": [
+        "increase",
+        "escalate"
+      ]
+    },
+    {
+      "word": "reach out",
+      "synonyms": [
+        "contact"
+      ]
+    },
+    {
+      "word": "reasonable",
+      "synonyms": [
+        "sensible",
+        "fair"
+      ]
+    },
+    {
+      "word": "receive",
+      "synonyms": [
+        "get",
+        "accept"
+      ]
+    },
+    {
+      "word": "recognize",
+      "synonyms": [
+        "identify"
+      ]
+    },
+    {
+      "word": "recondite",
+      "synonyms": [
+        "obscure",
+        "esoteric"
+      ]
+    },
+    {
+      "word": "red",
+      "synonyms": []
+    },
+    {
+      "word": "redundant",
+      "synonyms": [
+        "unnecessary",
+        "superfluous"
+      ]
+    },
+    {
+      "word": "reflect",
+      "synonyms": [
+        "consider",
+        "ponder"
+      ]
+    },
+    {
+      "word": "regret",
+      "synonyms": [
+        "rue"
+      ]
+    },
+    {
+      "word": "reinforce",
+      "synonyms": [
+        "strengthen",
+        "bolster"
+      ]
+    },
+    {
+      "word": "relationship",
+      "synonyms": [
+        "connection",
+        "bond"
+      ]
+    },
+    {
+      "word": "reliable",
+      "synonyms": [
+        "dependable",
+        "trustworthy"
+      ]
+    },
+    {
+      "word": "rely",
+      "synonyms": [
+        "depend"
+      ]
+    },
+    {
+      "word": "remove",
+      "synonyms": [
+        "take away",
+        "eliminate"
+      ]
+    },
+    {
+      "word": "replace",
+      "synonyms": [
+        "substitute"
+      ]
+    },
+    {
+      "word": "represent",
+      "synonyms": [
+        "stand for",
+        "symbolize"
+      ]
+    },
+    {
+      "word": "rescind",
+      "synonyms": [
+        "revoke",
+        "cancel"
+      ]
+    },
+    {
+      "word": "resilient",
+      "synonyms": [
+        "adaptable",
+        "tough"
+      ]
+    },
+    {
+      "word": "resource",
+      "synonyms": [
+        "asset",
+        "supply"
+      ]
+    },
+    {
+      "word": "response",
+      "synonyms": [
+        "reply",
+        "answer"
+      ]
+    },
+    {
+      "word": "result",
+      "synonyms": [
+        "outcome",
+        "consequence"
+      ]
+    },
+    {
+      "word": "retire",
+      "synonyms": [
+        "stop working"
+      ]
+    },
+    {
+      "word": "rice",
+      "synonyms": []
+    },
+    {
+      "word": "rile up",
+      "synonyms": [
+        "anger",
+        "provoke"
+      ]
+    },
+    {
+      "word": "river",
+      "synonyms": []
+    },
+    {
+      "word": "room",
+      "synonyms": [
+        "chamber"
+      ]
+    },
+    {
+      "word": "rough",
+      "synonyms": [
+        "uneven",
+        "coarse"
+      ]
+    },
+    {
+      "word": "rude",
+      "synonyms": [
+        "impolite",
+        "discourteous"
+      ]
+    },
+    {
+      "word": "run into",
+      "synonyms": [
+        "encounter"
+      ]
+    },
+    {
+      "word": "sagacious",
+      "synonyms": [
+        "wise",
+        "judicious"
+      ]
+    },
+    {
+      "word": "sanguine",
+      "synonyms": [
+        "optimistic",
+        "hopeful"
+      ]
+    },
+    {
+      "word": "saturday",
+      "synonyms": []
+    },
+    {
+      "word": "schedule",
+      "synonyms": [
+        "timetable",
+        "agenda"
+      ]
+    },
+    {
+      "word": "scrupulous",
+      "synonyms": [
+        "conscientious",
+        "meticulous"
+      ]
+    },
+    {
+      "word": "sea",
+      "synonyms": []
+    },
+    {
+      "word": "see through",
+      "synonyms": [
+        "detect",
+        "recognize"
+      ]
+    },
+    {
+      "word": "sensitive",
+      "synonyms": [
+        "delicate",
+        "responsive"
+      ]
+    },
+    {
+      "word": "serious",
+      "synonyms": [
+        "grave",
+        "earnest"
+      ]
+    },
+    {
+      "word": "set up",
+      "synonyms": [
+        "establish",
+        "arrange"
+      ]
+    },
+    {
+      "word": "several",
+      "synonyms": [
+        "a few"
+      ]
+    },
+    {
+      "word": "shift",
+      "synonyms": [
+        "move",
+        "change"
+      ]
+    },
+    {
+      "word": "shoes",
+      "synonyms": []
+    },
+    {
+      "word": "shortage",
+      "synonyms": [
+        "scarcity",
+        "deficiency"
+      ]
+    },
+    {
+      "word": "shut down",
+      "synonyms": [
+        "close",
+        "stop"
+      ]
+    },
+    {
+      "word": "sift through",
+      "synonyms": [
+        "examine carefully"
+      ]
+    },
+    {
+      "word": "similar",
+      "synonyms": [
+        "alike",
+        "comparable"
+      ]
+    },
+    {
+      "word": "sister",
+      "synonyms": []
+    },
+    {
+      "word": "skill",
+      "synonyms": [
+        "ability",
+        "expertise"
+      ]
+    },
+    {
+      "word": "slow down",
+      "synonyms": [
+        "decelerate"
+      ]
+    },
+    {
+      "word": "smoke out",
+      "synonyms": [
+        "expose",
+        "uncover"
+      ]
+    },
+    {
+      "word": "snow",
+      "synonyms": []
+    },
+    {
+      "word": "solution",
+      "synonyms": [
+        "answer",
+        "remedy"
+      ]
+    },
+    {
+      "word": "sort out",
+      "synonyms": [
+        "organize",
+        "resolve"
+      ]
+    },
+    {
+      "word": "spare",
+      "synonyms": [
+        "extra"
+      ]
+    },
+    {
+      "word": "specify",
+      "synonyms": [
+        "state",
+        "stipulate"
+      ]
+    },
+    {
+      "word": "spurious",
+      "synonyms": [
+        "false",
+        "bogus"
+      ]
+    },
+    {
+      "word": "stand by",
+      "synonyms": [
+        "support"
+      ]
+    },
+    {
+      "word": "standard",
+      "synonyms": [
+        "norm",
+        "criterion"
+      ]
+    },
+    {
+      "word": "steady",
+      "synonyms": [
+        "stable",
+        "constant"
+      ]
+    },
+    {
+      "word": "step up",
+      "synonyms": [
+        "increase",
+        "intensify"
+      ]
+    },
+    {
+      "word": "strategy",
+      "synonyms": [
+        "plan",
+        "approach"
+      ]
+    },
+    {
+      "word": "strict",
+      "synonyms": [
+        "firm",
+        "rigorous"
+      ]
+    },
+    {
+      "word": "struggle",
+      "synonyms": [
+        "strive",
+        "wrestle"
+      ]
+    },
+    {
+      "word": "substantial",
+      "synonyms": [
+        "considerable",
+        "significant"
+      ]
+    },
+    {
+      "word": "suffer",
+      "synonyms": [
+        "endure"
+      ]
+    },
+    {
+      "word": "suggest",
+      "synonyms": [
+        "propose",
+        "recommend"
+      ]
+    },
+    {
+      "word": "sun",
+      "synonyms": []
+    },
+    {
+      "word": "supply",
+      "synonyms": [
+        "stock",
+        "provision"
+      ]
+    },
+    {
+      "word": "surplus",
+      "synonyms": [
+        "excess"
+      ]
+    },
+    {
+      "word": "survey",
+      "synonyms": [
+        "questionnaire",
+        "poll"
+      ]
+    },
+    {
+      "word": "sustain",
+      "synonyms": [
+        "maintain",
+        "continue"
+      ]
+    },
+    {
+      "word": "sycophant",
+      "synonyms": [
+        "flatterer",
+        "toady"
+      ]
+    },
+    {
+      "word": "take away",
+      "synonyms": [
+        "remove"
+      ]
+    },
+    {
+      "word": "take down",
+      "synonyms": [
+        "write down",
+        "record"
+      ]
+    },
+    {
+      "word": "take out",
+      "synonyms": [
+        "remove"
+      ]
+    },
+    {
+      "word": "talent",
+      "synonyms": [
+        "gift",
+        "ability"
+      ]
+    },
+    {
+      "word": "tangible",
+      "synonyms": [
+        "concrete",
+        "perceptible"
+      ]
+    },
+    {
+      "word": "task",
+      "synonyms": [
+        "job",
+        "assignment"
+      ]
+    },
+    {
+      "word": "tear into",
+      "synonyms": [
+        "attack",
+        "berate"
+      ]
+    },
+    {
+      "word": "tenacious",
+      "synonyms": [
+        "persistent",
+        "determined"
+      ]
+    },
+    {
+      "word": "tendentious",
+      "synonyms": [
+        "biased",
+        "partisan"
+      ]
+    },
+    {
+      "word": "terrible",
+      "synonyms": [
+        "awful",
+        "dreadful"
+      ]
+    },
+    {
+      "word": "thorough",
+      "synonyms": [
+        "comprehensive",
+        "complete"
+      ]
+    },
+    {
+      "word": "threshold",
+      "synonyms": [
+        "starting point"
+      ]
+    },
+    {
+      "word": "Thursday",
+      "synonyms": []
+    },
+    {
+      "word": "tidy up",
+      "synonyms": [
+        "clean up",
+        "organize"
+      ]
+    },
+    {
+      "word": "tolerate",
+      "synonyms": [
+        "endure",
+        "put up with"
+      ]
+    },
+    {
+      "word": "touch on",
+      "synonyms": [
+        "mention",
+        "refer to"
+      ]
+    },
+    {
+      "word": "track",
+      "synonyms": [
+        "path",
+        "trail"
+      ]
+    },
+    {
+      "word": "train",
+      "synonyms": []
+    },
+    {
+      "word": "transparent",
+      "synonyms": [
+        "open",
+        "clear"
+      ]
+    },
+    {
+      "word": "tree",
+      "synonyms": []
+    },
+    {
+      "word": "trigger",
+      "synonyms": [
+        "cause",
+        "initiate"
+      ]
+    },
+    {
+      "word": "try on",
+      "synonyms": [
+        "test the fit of"
+      ]
+    },
+    {
+      "word": "tune out",
+      "synonyms": [
+        "ignore"
+      ]
+    },
+    {
+      "word": "turn into",
+      "synonyms": [
+        "become",
+        "transform into"
+      ]
+    },
+    {
+      "word": "turn out",
+      "synonyms": [
+        "prove to be"
+      ]
+    },
+    {
+      "word": "ubiquitous",
+      "synonyms": [
+        "omnipresent",
+        "widespread"
+      ]
+    },
+    {
+      "word": "uncertainty",
+      "synonyms": [
+        "doubt",
+        "unpredictability"
+      ]
+    },
+    {
+      "word": "unctuous",
+      "synonyms": [
+        "insincerely flattering",
+        "smarmy"
+      ]
+    },
+    {
+      "word": "undergo",
+      "synonyms": [
+        "experience"
+      ]
+    },
+    {
+      "word": "unemployed",
+      "synonyms": [
+        "jobless"
+      ]
+    },
+    {
+      "word": "unfair",
+      "synonyms": [
+        "unjust",
+        "inequitable"
+      ]
+    },
+    {
+      "word": "unless",
+      "synonyms": [
+        "except if"
+      ]
+    },
+    {
+      "word": "update",
+      "synonyms": [
+        "bring up to date"
+      ]
+    },
+    {
+      "word": "use up",
+      "synonyms": [
+        "consume",
+        "exhaust"
+      ]
+    },
+    {
+      "word": "vacuous",
+      "synonyms": [
+        "empty",
+        "mindless"
+      ]
+    },
+    {
+      "word": "variety",
+      "synonyms": [
+        "diversity",
+        "assortment"
+      ]
+    },
+    {
+      "word": "vehicle",
+      "synonyms": []
+    },
+    {
+      "word": "viable",
+      "synonyms": [
+        "workable",
+        "feasible"
+      ]
+    },
+    {
+      "word": "vilify",
+      "synonyms": [
+        "defame",
+        "malign"
+      ]
+    },
+    {
+      "word": "violin",
+      "synonyms": []
+    },
+    {
+      "word": "vitriolic",
+      "synonyms": [
+        "venomous",
+        "scathing"
+      ]
+    },
+    {
+      "word": "volunteer",
+      "synonyms": []
+    },
+    {
+      "word": "wake up",
+      "synonyms": [
+        "awaken"
+      ]
+    },
+    {
+      "word": "wane",
+      "synonyms": [
+        "decline",
+        "diminish"
+      ]
+    },
+    {
+      "word": "warm up",
+      "synonyms": [
+        "prepare for exercise"
+      ]
+    },
+    {
+      "word": "wash up",
+      "synonyms": [
+        "wash the dishes"
+      ]
+    },
+    {
+      "word": "water",
+      "synonyms": []
+    },
+    {
+      "word": "wear out",
+      "synonyms": [
+        "deteriorate"
+      ]
+    },
+    {
+      "word": "weed out",
+      "synonyms": [
+        "eliminate",
+        "remove"
+      ]
+    },
+    {
+      "word": "whereas",
+      "synonyms": [
+        "while"
+      ]
+    },
+    {
+      "word": "whittle down",
+      "synonyms": [
+        "reduce",
+        "trim"
+      ]
+    },
+    {
+      "word": "wife",
+      "synonyms": [
+        "spouse"
+      ]
+    },
+    {
+      "word": "window",
+      "synonyms": []
+    },
+    {
+      "word": "withstand",
+      "synonyms": [
+        "resist",
+        "endure"
+      ]
+    },
+    {
+      "word": "wonder",
+      "synonyms": [
+        "ponder"
+      ]
+    },
+    {
+      "word": "worthwhile",
+      "synonyms": [
+        "valuable",
+        "rewarding"
+      ]
+    },
+    {
+      "word": "write down",
+      "synonyms": [
+        "record",
+        "note"
+      ]
+    },
+    {
+      "word": "yearning",
+      "synonyms": [
+        "longing",
+        "desire"
+      ]
+    },
+    {
+      "word": "yesteryear",
+      "synonyms": [
+        "the past"
+      ]
+    },
+    {
+      "word": "young",
+      "synonyms": [
+        "youthful"
+      ]
+    },
+    {
+      "word": "zebra",
+      "synonyms": []
+    },
+    {
+      "word": "zigzag",
+      "synonyms": [
+        "swerve"
+      ]
+    }
+  ],
+  "new": [
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "A",
+      "word": "actor",
+      "clue": "A person who performs roles in films or plays.",
+      "tr": "Film veya tiyatroda rol yapan oyuncu.",
+      "example": "The actor forgot his lines.",
+      "exampleTr": "Oyuncu repliklerini unuttu.",
+      "synonyms": [
+        "performer"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "A",
+      "word": "actress",
+      "clue": "A woman who performs roles in films or plays.",
+      "tr": "Film veya tiyatroda rol yapan kadın oyuncu.",
+      "example": "The actress won an award.",
+      "exampleTr": "Kadın oyuncu bir ödül kazandı.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "A",
+      "word": "artist",
+      "clue": "A person who creates paintings or other works of art.",
+      "tr": "Resim veya başka sanat eserleri üreten sanatçı.",
+      "example": "The artist painted a village.",
+      "exampleTr": "Sanatçı bir köy resmi yaptı.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "A",
+      "word": "art",
+      "clue": "Creative work such as painting and sculpture.",
+      "tr": "Resim ve heykel gibi yaratıcı çalışmalar; sanat.",
+      "example": "We study art on Fridays.",
+      "exampleTr": "Cuma günleri sanat eğitimi alıyoruz.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "author",
+      "clue": "A person who writes a book or other text.",
+      "tr": "Bir kitabı veya metni yazan kişi; yazar.",
+      "example": "The author signed my book.",
+      "exampleTr": "Yazar kitabımı imzaladı.",
+      "synonyms": [
+        "writer"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "poet",
+      "clue": "A person who writes poems.",
+      "tr": "Şiir yazan kişi; şair.",
+      "example": "The poet described the sea.",
+      "exampleTr": "Şair denizi betimledi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "poem",
+      "clue": "A piece of writing often arranged in lines with rhythm.",
+      "tr": "Genellikle ritimli dizelerden oluşan edebî metin; şiir.",
+      "example": "She read a poem aloud.",
+      "exampleTr": "Bir şiiri sesli okudu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "poetry",
+      "clue": "Poems considered as a form of literature.",
+      "tr": "Bir edebiyat türü olarak şiir.",
+      "example": "He enjoys reading poetry.",
+      "exampleTr": "Şiir okumaktan hoşlanır.",
+      "synonyms": [
+        "verse"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "N",
+      "word": "novel",
+      "clue": "A long fictional story in book form.",
+      "tr": "Kitap uzunluğunda kurgusal anlatı; roman.",
+      "example": "This novel has a surprising ending.",
+      "exampleTr": "Bu romanın şaşırtıcı bir sonu var.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "N",
+      "word": "novelist",
+      "clue": "A writer of long fictional books.",
+      "tr": "Roman yazan kişi; romancı.",
+      "example": "The novelist lives in Ankara.",
+      "exampleTr": "Romancı Ankara'da yaşıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "S",
+      "word": "story",
+      "clue": "An account of imaginary or real events.",
+      "tr": "Gerçek veya hayalî olayları anlatan öykü.",
+      "example": "Tell me a story tonight.",
+      "exampleTr": "Bu gece bana bir hikâye anlat.",
+      "synonyms": [
+        "tale"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "storyteller",
+      "clue": "A person who tells or writes stories.",
+      "tr": "Hikâye anlatan veya yazan kişi.",
+      "example": "My grandmother is a wonderful storyteller.",
+      "exampleTr": "Büyükannem harika bir hikâye anlatıcısı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "fiction",
+      "clue": "Literature describing invented people and events.",
+      "tr": "Hayal edilmiş kişi ve olayları anlatan kurmaca edebiyat.",
+      "example": "She prefers fiction to history books.",
+      "exampleTr": "Tarih kitapları yerine kurmaca eserleri tercih ediyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "N",
+      "word": "nonfiction",
+      "clue": "Writing about facts and real events.",
+      "tr": "Gerçeklere ve yaşanmış olaylara dayanan kurmaca dışı yazı.",
+      "example": "The library has a nonfiction section.",
+      "exampleTr": "Kütüphanenin kurmaca dışı kitaplar bölümü var.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "biography",
+      "clue": "A book about another person's life.",
+      "tr": "Bir başkasının hayatını anlatan eser; biyografi.",
+      "example": "I bought a biography of a scientist.",
+      "exampleTr": "Bir bilim insanının biyografisini aldım.",
+      "synonyms": [
+        "life story"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "autobiography",
+      "clue": "An account of someone's life written by that person.",
+      "tr": "Kişinin kendi hayatını anlattığı eser; otobiyografi.",
+      "example": "She published her autobiography last year.",
+      "exampleTr": "Geçen yıl otobiyografisini yayımladı.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "D",
+      "word": "diary",
+      "clue": "A private book for recording daily experiences.",
+      "tr": "Günlük yaşantıların yazıldığı kişisel defter; günlük.",
+      "example": "I write in my diary every night.",
+      "exampleTr": "Her gece günlüğüme yazarım.",
+      "synonyms": [
+        "journal"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "chapter",
+      "clue": "One of the main numbered sections of a book.",
+      "tr": "Bir kitabın ana bölümlerinden biri.",
+      "example": "The final chapter made me cry.",
+      "exampleTr": "Son bölüm beni ağlattı.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "T",
+      "word": "title",
+      "clue": "The name given to a book, film, or other work.",
+      "tr": "Bir kitap, film veya esere verilen ad; başlık.",
+      "example": "I cannot remember the title.",
+      "exampleTr": "Başlığı hatırlayamıyorum.",
+      "synonyms": [
+        "name"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "character",
+      "clue": "A person represented in a story, play, or film.",
+      "tr": "Öykü, oyun veya filmde yer alan kişi; karakter.",
+      "example": "My favorite character is the detective.",
+      "exampleTr": "En sevdiğim karakter dedektif.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "plot",
+      "clue": "The connected events that form a story.",
+      "tr": "Bir hikâyenin olay örgüsü.",
+      "example": "The plot becomes more exciting.",
+      "exampleTr": "Olay örgüsü daha heyecanlı hâle geliyor.",
+      "synonyms": [
+        "storyline"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "ending",
+      "clue": "The final part of a story or event.",
+      "tr": "Bir öykünün veya olayın son kısmı.",
+      "example": "The film has a happy ending.",
+      "exampleTr": "Filmin mutlu bir sonu var.",
+      "synonyms": [
+        "conclusion"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "N",
+      "word": "narrator",
+      "clue": "The person or voice that tells a story.",
+      "tr": "Bir hikâyeyi aktaran kişi veya ses; anlatıcı.",
+      "example": "The narrator knows everyone's secrets.",
+      "exampleTr": "Anlatıcı herkesin sırlarını biliyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "dialogue",
+      "clue": "A conversation between people in a story or real life.",
+      "tr": "İnsanlar arasında geçen karşılıklı konuşma; diyalog.",
+      "example": "The dialogue sounds very natural.",
+      "exampleTr": "Diyalog çok doğal geliyor.",
+      "synonyms": [
+        "conversation"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "C",
+      "word": "conversation",
+      "clue": "An exchange of spoken ideas between people.",
+      "tr": "İnsanlar arasında sözlü fikir alışverişi; sohbet.",
+      "example": "We had a long conversation.",
+      "exampleTr": "Uzun bir sohbet ettik.",
+      "synonyms": [
+        "chat"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "C",
+      "word": "chat",
+      "clue": "An informal and friendly conversation.",
+      "tr": "Samimi ve resmî olmayan konuşma; sohbet.",
+      "example": "Let's have a chat after lunch.",
+      "exampleTr": "Öğle yemeğinden sonra sohbet edelim.",
+      "synonyms": [
+        "conversation"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "discussion",
+      "clue": "A conversation in which people examine a subject.",
+      "tr": "Bir konunun ele alındığı karşılıklı konuşma; tartışma.",
+      "example": "Our discussion lasted an hour.",
+      "exampleTr": "Tartışmamız bir saat sürdü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "speech",
+      "clue": "A formal talk given to an audience.",
+      "tr": "Bir topluluğa yapılan konuşma.",
+      "example": "Her speech inspired the students.",
+      "exampleTr": "Konuşması öğrencilere ilham verdi.",
+      "synonyms": [
+        "address"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "speaker",
+      "clue": "A person who gives a talk to an audience.",
+      "tr": "Bir topluluğa hitap eden kişi; konuşmacı.",
+      "example": "The speaker answered our questions.",
+      "exampleTr": "Konuşmacı sorularımızı yanıtladı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "listener",
+      "clue": "A person who pays attention to what is being said.",
+      "tr": "Söylenenleri dikkatle dinleyen kişi; dinleyici.",
+      "example": "A good listener lets others finish.",
+      "exampleTr": "İyi bir dinleyici başkalarının sözünü bitirmesine izin verir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pronunciation",
+      "clue": "The way a word is spoken.",
+      "tr": "Bir sözcüğün söyleniş biçimi; telaffuz.",
+      "example": "Please check my pronunciation.",
+      "exampleTr": "Lütfen telaffuzumu kontrol et.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "accent",
+      "clue": "A way of speaking associated with a region or country.",
+      "tr": "Bir bölge veya ülkeye özgü konuşma biçimi; aksan.",
+      "example": "She speaks with a Scottish accent.",
+      "exampleTr": "İskoç aksanıyla konuşuyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "V",
+      "word": "vocabulary",
+      "clue": "The words known or used by a person.",
+      "tr": "Bir kişinin bildiği veya kullandığı sözcükler; kelime hazinesi.",
+      "example": "Reading improves your vocabulary.",
+      "exampleTr": "Okumak kelime hazineni geliştirir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "grammar",
+      "clue": "The rules for arranging words in a language.",
+      "tr": "Bir dilde sözcüklerin kullanım ve sıralama kuralları; dil bilgisi.",
+      "example": "We practice grammar every morning.",
+      "exampleTr": "Her sabah dil bilgisi çalışıyoruz.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "N",
+      "word": "noun",
+      "clue": "A word that names a person, place, thing, or idea.",
+      "tr": "Kişi, yer, nesne veya kavram bildiren sözcük; isim.",
+      "example": "Teacher is a noun.",
+      "exampleTr": "Teacher bir isimdir.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "V",
+      "word": "verb",
+      "clue": "A word expressing an action or state.",
+      "tr": "Eylem veya durum bildiren sözcük; fiil.",
+      "example": "Run is a verb.",
+      "exampleTr": "Run bir fiildir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "adjective",
+      "clue": "A word that describes a noun.",
+      "tr": "Bir ismi niteleyen sözcük; sıfat.",
+      "example": "Happy is an adjective.",
+      "exampleTr": "Happy bir sıfattır.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "adverb",
+      "clue": "A word that modifies a verb, adjective, or another such word.",
+      "tr": "Fiili, sıfatı veya başka bir zarfı niteleyen sözcük; zarf.",
+      "example": "Quickly is an adverb.",
+      "exampleTr": "Quickly bir zarftır.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pronoun",
+      "clue": "A word used instead of a noun or noun phrase.",
+      "tr": "İsim veya isim öbeği yerine kullanılan sözcük; zamir.",
+      "example": "She is a personal pronoun.",
+      "exampleTr": "She bir kişi zamiridir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "preposition",
+      "clue": "A word such as in or under that shows a relationship.",
+      "tr": "In veya under gibi ilişki bildiren sözcük; edat.",
+      "example": "Choose the correct preposition for this sentence.",
+      "exampleTr": "Bu cümle için doğru edatı seç.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "paragraph",
+      "clue": "A section of writing dealing with one main idea.",
+      "tr": "Bir ana düşünceyi ele alan metin bölümü; paragraf.",
+      "example": "Read the first paragraph again.",
+      "exampleTr": "İlk paragrafı tekrar oku.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "punctuation",
+      "clue": "Marks used to organize and clarify written sentences.",
+      "tr": "Yazılı cümleleri düzenleyen ve açıklığa kavuşturan işaretler; noktalama.",
+      "example": "This text needs better punctuation.",
+      "exampleTr": "Bu metnin noktalaması düzeltilmeli.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "comma",
+      "clue": "The punctuation mark used to separate items or clauses.",
+      "tr": "Ögeleri veya cümlecikleri ayıran noktalama işareti; virgül.",
+      "example": "Put a comma after this word.",
+      "exampleTr": "Bu sözcükten sonra virgül koy.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "apostrophe",
+      "clue": "A mark used in English for possession or missing letters.",
+      "tr": "İngilizcede sahiplik veya düşen harfleri gösteren işaret; kesme işareti.",
+      "example": "You forgot an apostrophe in don't.",
+      "exampleTr": "Don't sözcüğünde kesme işaretini unuttun.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "S",
+      "word": "spelling",
+      "clue": "The correct order of letters in a word.",
+      "tr": "Bir sözcüğün harflerinin doğru sıralanışı; yazım.",
+      "example": "Check the spelling of your name.",
+      "exampleTr": "Adının yazımını kontrol et.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "A",
+      "word": "alphabet",
+      "clue": "The complete set of letters used in a language.",
+      "tr": "Bir dilde kullanılan harflerin bütünü; alfabe.",
+      "example": "Children learn the alphabet at school.",
+      "exampleTr": "Çocuklar alfabeyi okulda öğrenir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "syllable",
+      "clue": "A unit of pronunciation containing one vowel sound.",
+      "tr": "Tek ünlü ses çevresinde oluşan söyleyiş birimi; hece.",
+      "example": "Cat has one syllable.",
+      "exampleTr": "Cat tek hecelidir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "V",
+      "word": "vowel",
+      "clue": "A speech sound made without blocking air in the mouth.",
+      "tr": "Ağızdaki hava akışı engellenmeden çıkarılan ses; ünlü.",
+      "example": "A is a vowel.",
+      "exampleTr": "A bir ünlüdür.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "consonant",
+      "clue": "A speech sound made by partly or fully blocking airflow.",
+      "tr": "Hava akışı kısmen veya tamamen engellenerek çıkarılan ses; ünsüz.",
+      "example": "B is a consonant.",
+      "exampleTr": "B bir ünsüzdür.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "handwriting",
+      "clue": "The style of letters someone writes by hand.",
+      "tr": "Bir kişinin elle yazdığı harflerin biçimi; el yazısı.",
+      "example": "Your handwriting is easy to read.",
+      "exampleTr": "El yazın kolay okunuyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "translation",
+      "clue": "A text or speech expressed in another language.",
+      "tr": "Bir metnin veya konuşmanın başka dildeki karşılığı; çeviri.",
+      "example": "This translation is clear and accurate.",
+      "exampleTr": "Bu çeviri açık ve doğru.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "translator",
+      "clue": "A person who converts written text into another language.",
+      "tr": "Yazılı metni başka dile aktaran kişi; çevirmen.",
+      "example": "The translator checked every sentence.",
+      "exampleTr": "Çevirmen her cümleyi kontrol etti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "interpreter",
+      "clue": "A person who translates spoken language as people speak.",
+      "tr": "Konuşma sırasında sözlü çeviri yapan kişi; tercüman.",
+      "example": "An interpreter helped during the interview.",
+      "exampleTr": "Görüşme sırasında bir tercüman yardımcı oldu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bilingual",
+      "clue": "Able to use two languages.",
+      "tr": "İki dili kullanabilen; iki dilli.",
+      "example": "Our bilingual guide speaks Turkish and English.",
+      "exampleTr": "İki dilli rehberimiz Türkçe ve İngilizce konuşuyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "literature",
+      "clue": "Written works valued for their artistic qualities.",
+      "tr": "Sanatsal nitelikleriyle değerlendirilen yazılı eserler; edebiyat.",
+      "example": "She studies French literature.",
+      "exampleTr": "Fransız edebiyatı okuyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "R",
+      "word": "reader",
+      "clue": "A person who reads.",
+      "tr": "Okuyan kişi; okuyucu.",
+      "example": "This book challenges the reader.",
+      "exampleTr": "Bu kitap okuyucuyu zorluyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "W",
+      "word": "writer",
+      "clue": "A person who creates written works.",
+      "tr": "Yazılı eserler üreten kişi; yazar.",
+      "example": "My uncle is a writer.",
+      "exampleTr": "Amcam yazar.",
+      "synonyms": [
+        "author"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "editor",
+      "clue": "A person who prepares and corrects material for publication.",
+      "tr": "Metni yayıma hazırlayıp düzenleyen kişi; editör.",
+      "example": "The editor corrected two mistakes.",
+      "exampleTr": "Editör iki hatayı düzeltti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "publisher",
+      "clue": "A person or company that produces books for sale.",
+      "tr": "Kitapları basıp satışa sunan kişi veya şirket; yayıncı.",
+      "example": "The publisher accepted her novel.",
+      "exampleTr": "Yayıncı onun romanını kabul etti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "essay",
+      "clue": "A short piece of writing on a particular subject.",
+      "tr": "Belirli bir konuda yazılan kısa metin; kompozisyon veya deneme.",
+      "example": "I wrote an essay about friendship.",
+      "exampleTr": "Arkadaşlık hakkında bir kompozisyon yazdım.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "assignment",
+      "clue": "A piece of work given to a student.",
+      "tr": "Bir öğrenciye verilen çalışma; ödev.",
+      "example": "Our assignment is due on Monday.",
+      "exampleTr": "Ödevimizin teslim günü pazartesi.",
+      "synonyms": [
+        "task"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "H",
+      "word": "homework",
+      "clue": "Schoolwork that students complete outside lessons.",
+      "tr": "Ders dışında yapılması istenen okul çalışması; ev ödevi.",
+      "example": "I finished my homework before dinner.",
+      "exampleTr": "Ödevimi akşam yemeğinden önce bitirdim.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "worksheet",
+      "clue": "A sheet containing questions or exercises for learners.",
+      "tr": "Öğrencilere yönelik soru veya alıştırmalar içeren kâğıt.",
+      "example": "Complete this worksheet in pairs.",
+      "exampleTr": "Bu çalışma kâğıdını ikişerli tamamlayın.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "textbook",
+      "clue": "A book used to teach a particular school subject.",
+      "tr": "Belirli bir dersin öğretiminde kullanılan kitap; ders kitabı.",
+      "example": "Open your textbook to page ten.",
+      "exampleTr": "Ders kitabınızın onuncu sayfasını açın.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "N",
+      "word": "notebook",
+      "clue": "A book of blank pages for writing notes.",
+      "tr": "Not yazmak için kullanılan boş sayfalı defter.",
+      "example": "I keep new words in a notebook.",
+      "exampleTr": "Yeni kelimeleri bir deftere yazıyorum.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "C",
+      "word": "classroom",
+      "clue": "A room where students are taught.",
+      "tr": "Öğrencilere ders verilen oda; sınıf.",
+      "example": "Our classroom has large windows.",
+      "exampleTr": "Sınıfımızın büyük pencereleri var.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "C",
+      "word": "classmate",
+      "clue": "Someone in the same class as you.",
+      "tr": "Aynı sınıfta öğrenim gören kişi; sınıf arkadaşı.",
+      "example": "My classmate helped me study.",
+      "exampleTr": "Sınıf arkadaşım ders çalışmama yardım etti.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "R",
+      "word": "roommate",
+      "clue": "Someone who shares your room or home.",
+      "tr": "Aynı odayı veya evi paylaştığın kişi.",
+      "example": "My roommate studies medicine.",
+      "exampleTr": "Ev arkadaşım tıp okuyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "teammate",
+      "clue": "Someone who belongs to the same team.",
+      "tr": "Aynı takımda yer alan kişi; takım arkadaşı.",
+      "example": "I thanked my teammate after the match.",
+      "exampleTr": "Maçtan sonra takım arkadaşıma teşekkür ettim.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "K",
+      "word": "kindergarten",
+      "clue": "An early school for young children before primary education.",
+      "tr": "İlkokul öncesi küçük çocuklara eğitim veren kurum; anaokulu.",
+      "example": "My daughter starts kindergarten tomorrow.",
+      "exampleTr": "Kızım yarın anaokuluna başlıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pupil",
+      "clue": "A child who is taught at school.",
+      "tr": "Okulda eğitim gören çocuk; öğrenci.",
+      "example": "Each pupil received a book.",
+      "exampleTr": "Her öğrenciye bir kitap verildi.",
+      "synonyms": [
+        "student"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "tutor",
+      "clue": "A teacher who gives individual or small-group lessons.",
+      "tr": "Bireysel veya küçük gruplara özel ders veren öğretmen.",
+      "example": "My tutor explains grammar clearly.",
+      "exampleTr": "Özel öğretmenim dil bilgisini açıkça anlatıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "lecture",
+      "clue": "A formal educational talk, usually at a university.",
+      "tr": "Genellikle üniversitede verilen öğretici konuşma; ders veya konferans.",
+      "example": "The lecture begins at nine.",
+      "exampleTr": "Ders dokuzda başlıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "professor",
+      "clue": "A senior university teacher with a high academic rank.",
+      "tr": "Yüksek akademik unvana sahip üniversite öğretim üyesi; profesör.",
+      "example": "The professor welcomed new students.",
+      "exampleTr": "Profesör yeni öğrencileri karşıladı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "seminar",
+      "clue": "A small academic meeting for study and discussion.",
+      "tr": "Bir konuyu incelemek ve tartışmak için yapılan akademik toplantı.",
+      "example": "We discussed the article in a seminar.",
+      "exampleTr": "Makaleyi bir seminerde tartıştık.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "workshop",
+      "clue": "A practical meeting where people learn a skill.",
+      "tr": "Bir becerinin uygulamayla öğrenildiği etkinlik; atölye çalışması.",
+      "example": "I joined a creative writing workshop.",
+      "exampleTr": "Yaratıcı yazarlık atölyesine katıldım.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "T",
+      "word": "timetable",
+      "clue": "A schedule showing when classes or events happen.",
+      "tr": "Ders veya etkinliklerin saatlerini gösteren çizelge.",
+      "example": "The new timetable is on the wall.",
+      "exampleTr": "Yeni ders programı duvarda.",
+      "synonyms": [
+        "schedule"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "E",
+      "word": "exam",
+      "clue": "A formal test of knowledge or ability.",
+      "tr": "Bilgi veya beceriyi ölçen resmî sınav.",
+      "example": "My English exam is tomorrow.",
+      "exampleTr": "İngilizce sınavım yarın.",
+      "synonyms": [
+        "examination"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "Q",
+      "word": "quiz",
+      "clue": "A short test with a few questions.",
+      "tr": "Birkaç sorudan oluşan kısa sınav.",
+      "example": "We took a vocabulary quiz.",
+      "exampleTr": "Bir kelime sınavına girdik.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "grade",
+      "clue": "A score showing how well a student performed.",
+      "tr": "Öğrencinin başarısını gösteren not.",
+      "example": "She received a high grade.",
+      "exampleTr": "Yüksek bir not aldı.",
+      "synonyms": [
+        "mark"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "certificate",
+      "clue": "An official document confirming an achievement or qualification.",
+      "tr": "Başarı veya yeterliliği doğrulayan resmî belge; sertifika.",
+      "example": "He received a certificate after the course.",
+      "exampleTr": "Kurstan sonra sertifika aldı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "scholarship",
+      "clue": "Money given to support a student's education.",
+      "tr": "Öğrencinin eğitimini desteklemek için verilen para; burs.",
+      "example": "She won a scholarship to university.",
+      "exampleTr": "Üniversite için burs kazandı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "graduation",
+      "clue": "The event or act of successfully completing a course of study.",
+      "tr": "Bir eğitim programını başarıyla bitirme; mezuniyet.",
+      "example": "We celebrated his graduation together.",
+      "exampleTr": "Mezuniyetini birlikte kutladık.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "revision",
+      "clue": "Study done again to prepare for an exam.",
+      "tr": "Sınava hazırlanmak için konuları yeniden çalışma; tekrar.",
+      "example": "I need more revision before Friday.",
+      "exampleTr": "Cumadan önce daha fazla tekrar yapmalıyım.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "memorize",
+      "clue": "To learn something so that you can remember it exactly.",
+      "tr": "Bir şeyi aynen hatırlayacak biçimde öğrenmek; ezberlemek.",
+      "example": "Try to memorize this short poem.",
+      "exampleTr": "Bu kısa şiiri ezberlemeye çalış.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "recite",
+      "clue": "To say a poem or text aloud from memory.",
+      "tr": "Bir şiiri veya metni ezberden sesli söylemek.",
+      "example": "Can you recite the first verse?",
+      "exampleTr": "İlk dizeyi ezberden söyleyebilir misin?",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "rehearse",
+      "clue": "To practice a performance before presenting it.",
+      "tr": "Bir gösteriyi sunmadan önce çalışmak; prova yapmak.",
+      "example": "We rehearse the play after school.",
+      "exampleTr": "Okuldan sonra oyunun provasını yapıyoruz.",
+      "synonyms": [
+        "practice"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "practice",
+      "clue": "To do an activity repeatedly to improve.",
+      "tr": "Gelişmek için bir etkinliği tekrar tekrar yapmak; pratik yapmak.",
+      "example": "I practice English with my friends.",
+      "exampleTr": "Arkadaşlarımla İngilizce pratiği yapıyorum.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "S",
+      "word": "study",
+      "clue": "To spend time learning about a subject.",
+      "tr": "Bir konuyu öğrenmek için çalışmak.",
+      "example": "We study together every evening.",
+      "exampleTr": "Her akşam birlikte ders çalışıyoruz.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "L",
+      "word": "learn",
+      "clue": "To gain knowledge or a new skill.",
+      "tr": "Bilgi veya yeni beceri edinmek; öğrenmek.",
+      "example": "I want to learn Spanish.",
+      "exampleTr": "İspanyolca öğrenmek istiyorum.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "T",
+      "word": "teach",
+      "clue": "To help someone gain knowledge or a skill.",
+      "tr": "Birine bilgi veya beceri kazandırmak; öğretmek.",
+      "example": "My sister can teach you chess.",
+      "exampleTr": "Kız kardeşim sana satranç öğretebilir.",
+      "synonyms": [
+        "instruct"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "mentor",
+      "clue": "An experienced person who guides someone less experienced.",
+      "tr": "Daha az deneyimli birine rehberlik eden deneyimli kişi.",
+      "example": "My mentor gave me useful advice.",
+      "exampleTr": "Rehberim bana yararlı tavsiyeler verdi.",
+      "synonyms": [
+        "adviser"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "guidance",
+      "clue": "Help and advice about what to do.",
+      "tr": "Ne yapılacağı konusunda yardım ve yönlendirme; rehberlik.",
+      "example": "Students need guidance when choosing courses.",
+      "exampleTr": "Öğrenciler ders seçerken rehberliğe ihtiyaç duyar.",
+      "synonyms": [
+        "advice"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "explanation",
+      "clue": "Information that makes something easier to understand.",
+      "tr": "Bir şeyi anlamayı kolaylaştıran bilgi; açıklama.",
+      "example": "Your explanation helped me understand.",
+      "exampleTr": "Açıklaman anlamama yardımcı oldu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "example",
+      "clue": "Something used to show what an idea or rule means.",
+      "tr": "Bir düşünce veya kuralı göstermek için kullanılan örnek.",
+      "example": "Please give me another example.",
+      "exampleTr": "Lütfen bana başka bir örnek ver.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "diagram",
+      "clue": "A simple drawing that explains how something works.",
+      "tr": "Bir şeyin işleyişini açıklayan sade çizim; şema.",
+      "example": "This diagram shows the water cycle.",
+      "exampleTr": "Bu şema su döngüsünü gösteriyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "M",
+      "word": "map",
+      "clue": "A drawing showing places and their positions.",
+      "tr": "Yerleri ve konumlarını gösteren çizim; harita.",
+      "example": "Find our school on the map.",
+      "exampleTr": "Haritada okulumuzu bul.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "argument",
+      "clue": "A disagreement in which people express opposing opinions.",
+      "tr": "Karşıt görüşlerin dile getirildiği anlaşmazlık; tartışma.",
+      "example": "Their argument lasted ten minutes.",
+      "exampleTr": "Tartışmaları on dakika sürdü.",
+      "synonyms": [
+        "dispute"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "misunderstanding",
+      "clue": "A situation caused by interpreting something incorrectly.",
+      "tr": "Bir şeyin yanlış yorumlanmasından doğan durum; yanlış anlama.",
+      "example": "A simple misunderstanding caused the problem.",
+      "exampleTr": "Basit bir yanlış anlama soruna yol açtı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "correction",
+      "clue": "A change that makes something accurate or right.",
+      "tr": "Bir şeyi doğru hâle getiren değişiklik; düzeltme.",
+      "example": "The teacher made one correction.",
+      "exampleTr": "Öğretmen bir düzeltme yaptı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "criticism",
+      "clue": "Comments pointing out problems or faults.",
+      "tr": "Sorunları veya kusurları belirten değerlendirme; eleştiri.",
+      "example": "Constructive criticism helps me improve.",
+      "exampleTr": "Yapıcı eleştiri gelişmeme yardımcı oluyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "praise",
+      "clue": "Words expressing approval of someone's achievements.",
+      "tr": "Birinin başarısını takdir eden sözler; övgü.",
+      "example": "The team deserves praise.",
+      "exampleTr": "Takım övgüyü hak ediyor.",
+      "synonyms": [
+        "commendation"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "compliment",
+      "clue": "A polite expression of admiration.",
+      "tr": "Beğeniyi belirten nazik söz; iltifat.",
+      "example": "She gave me a lovely compliment.",
+      "exampleTr": "Bana güzel bir iltifat etti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "insult",
+      "clue": "A remark or action intended to offend someone.",
+      "tr": "Birini incitmek amacı taşıyan söz veya davranış; hakaret.",
+      "example": "That comment was an insult.",
+      "exampleTr": "O yorum bir hakaretti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "apology",
+      "clue": "Words saying that you are sorry for a mistake.",
+      "tr": "Bir hatadan dolayı üzgün olunduğunu bildiren söz; özür.",
+      "example": "He offered a sincere apology.",
+      "exampleTr": "İçten bir özür diledi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "gratitude",
+      "clue": "A feeling of thankfulness.",
+      "tr": "Teşekkür duyma hissi; minnettarlık.",
+      "example": "She expressed gratitude for our help.",
+      "exampleTr": "Yardımımız için minnettarlığını dile getirdi.",
+      "synonyms": [
+        "thankfulness"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "K",
+      "word": "kindness",
+      "clue": "Friendly and caring behavior toward others.",
+      "tr": "Başkalarına karşı iyi ve düşünceli davranma; nezaket.",
+      "example": "I will never forget your kindness.",
+      "exampleTr": "İyiliğini asla unutmayacağım.",
+      "synonyms": [
+        "benevolence"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "generosity",
+      "clue": "A willingness to give or share freely.",
+      "tr": "Karşılık beklemeden verme veya paylaşma isteği; cömertlik.",
+      "example": "His generosity helped many families.",
+      "exampleTr": "Cömertliği birçok aileye yardım etti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "honesty",
+      "clue": "The quality of telling the truth.",
+      "tr": "Doğruyu söyleme niteliği; dürüstlük.",
+      "example": "I appreciate your honesty.",
+      "exampleTr": "Dürüstlüğünü takdir ediyorum.",
+      "synonyms": [
+        "truthfulness"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "loyalty",
+      "clue": "Continued support for a person or group.",
+      "tr": "Bir kişiye veya gruba bağlı kalma; sadakat.",
+      "example": "Her loyalty to her friends is strong.",
+      "exampleTr": "Arkadaşlarına olan sadakati güçlü.",
+      "synonyms": [
+        "faithfulness"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bravery",
+      "clue": "The ability to act despite fear or danger.",
+      "tr": "Korku veya tehlikeye rağmen davranabilme; cesaret.",
+      "example": "The firefighter showed great bravery.",
+      "exampleTr": "İtfaiyeci büyük cesaret gösterdi.",
+      "synonyms": [
+        "courage"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "fairness",
+      "clue": "The quality of treating people equally and reasonably.",
+      "tr": "İnsanlara eşit ve makul davranma; adillik.",
+      "example": "Children care deeply about fairness.",
+      "exampleTr": "Çocuklar adilliği çok önemser.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "J",
+      "word": "justice",
+      "clue": "Fair treatment according to moral or legal principles.",
+      "tr": "Ahlaki veya hukuki ilkelere uygun adil davranış; adalet.",
+      "example": "Everyone deserves justice.",
+      "exampleTr": "Herkes adaleti hak eder.",
+      "synonyms": [
+        "fairness"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "mercy",
+      "clue": "Kindness shown instead of punishment.",
+      "tr": "Ceza vermek yerine gösterilen bağışlayıcılık; merhamet.",
+      "example": "The prisoner asked for mercy.",
+      "exampleTr": "Mahkûm merhamet istedi.",
+      "synonyms": [
+        "leniency"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "compassion",
+      "clue": "Concern for someone who is suffering.",
+      "tr": "Acı çeken birine duyulan yakınlık ve yardım isteği; şefkat.",
+      "example": "She treated the injured animal with compassion.",
+      "exampleTr": "Yaralı hayvana şefkatle davrandı.",
+      "synonyms": [
+        "sympathy"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "empathy",
+      "clue": "The ability to understand another person's feelings.",
+      "tr": "Başkasının duygularını anlayabilme; empati.",
+      "example": "Listening carefully helps develop empathy.",
+      "exampleTr": "Dikkatle dinlemek empatiyi geliştirmeye yardımcı olur.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sympathy",
+      "clue": "A feeling of concern for someone in difficulty.",
+      "tr": "Zor durumdaki birine karşı duyulan anlayış ve üzüntü.",
+      "example": "I expressed sympathy after his loss.",
+      "exampleTr": "Kaybından sonra üzüntüsünü paylaştığımı söyledim.",
+      "synonyms": [
+        "compassion"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "affection",
+      "clue": "A gentle feeling of love or fondness.",
+      "tr": "Birine karşı duyulan sıcak sevgi veya yakınlık.",
+      "example": "The dog shows affection by wagging its tail.",
+      "exampleTr": "Köpek kuyruğunu sallayarak sevgisini gösteriyor.",
+      "synonyms": [
+        "fondness"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "L",
+      "word": "love",
+      "clue": "A strong feeling of deep affection.",
+      "tr": "Güçlü ve derin sevgi duygusu.",
+      "example": "Her love for music began early.",
+      "exampleTr": "Müziğe olan sevgisi erken yaşta başladı.",
+      "synonyms": [
+        "affection"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "F",
+      "word": "friendship",
+      "clue": "A close and friendly relationship between people.",
+      "tr": "İnsanlar arasındaki yakın dostluk ilişkisi.",
+      "example": "Our friendship began at school.",
+      "exampleTr": "Dostluğumuz okulda başladı.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "C",
+      "word": "companionship",
+      "clue": "The pleasant feeling of having someone with you.",
+      "tr": "Birinin yanında olmasından duyulan yakınlık; arkadaşlık.",
+      "example": "Older people often value companionship.",
+      "exampleTr": "Yaşlı insanlar çoğu zaman arkadaşlığa değer verir.",
+      "synonyms": [
+        "company"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "romance",
+      "clue": "A loving relationship or the feelings connected with it.",
+      "tr": "Aşk ilişkisi veya onunla bağlantılı duygular.",
+      "example": "Their romance began during a trip.",
+      "exampleTr": "Aşkları bir gezi sırasında başladı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "romantic",
+      "clue": "Connected with love between partners.",
+      "tr": "Sevgililer arasındaki aşkla ilgili; romantik.",
+      "example": "They enjoyed a romantic dinner.",
+      "exampleTr": "Romantik bir akşam yemeği yediler.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "J",
+      "word": "jealousy",
+      "clue": "Unhappiness caused by fear of losing someone's affection.",
+      "tr": "Birinin sevgisini kaybetme korkusundan doğan kıskançlık.",
+      "example": "His jealousy damaged their relationship.",
+      "exampleTr": "Kıskançlığı ilişkilerine zarar verdi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "envy",
+      "clue": "A wish to have something that someone else has.",
+      "tr": "Başkasında olan bir şeye sahip olma isteği; imrenme veya haset.",
+      "example": "She felt envy when she saw his new car.",
+      "exampleTr": "Yeni arabasını görünce ona imrendi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "anger",
+      "clue": "A strong feeling of displeasure about something wrong.",
+      "tr": "Yanlış bir durum karşısında hissedilen güçlü kızgınlık; öfke.",
+      "example": "He struggled to control his anger.",
+      "exampleTr": "Öfkesini kontrol etmekte zorlandı.",
+      "synonyms": [
+        "rage"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "rage",
+      "clue": "Very strong and uncontrolled anger.",
+      "tr": "Çok güçlü ve kontrolsüz öfke.",
+      "example": "He shook with rage.",
+      "exampleTr": "Öfkeden titriyordu.",
+      "synonyms": [
+        "fury"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sadness",
+      "clue": "The feeling of being unhappy.",
+      "tr": "Mutsuz olma duygusu; üzüntü.",
+      "example": "There was sadness in her voice.",
+      "exampleTr": "Sesinde üzüntü vardı.",
+      "synonyms": [
+        "sorrow"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sorrow",
+      "clue": "Deep sadness, especially after a loss.",
+      "tr": "Özellikle kayıptan sonra yaşanan derin üzüntü; keder.",
+      "example": "We shared their sorrow.",
+      "exampleTr": "Onların kederini paylaştık.",
+      "synonyms": [
+        "grief"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "grief",
+      "clue": "Intense sadness after someone dies or something important is lost.",
+      "tr": "Ölüm veya önemli bir kayıp sonrası duyulan büyük acı; yas.",
+      "example": "Everyone experiences grief differently.",
+      "exampleTr": "Herkes yası farklı yaşar.",
+      "synonyms": [
+        "sorrow"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "H",
+      "word": "happiness",
+      "clue": "The feeling of being pleased with life.",
+      "tr": "Hayattan memnun olma duygusu; mutluluk.",
+      "example": "Small moments bring me happiness.",
+      "exampleTr": "Küçük anlar bana mutluluk getiriyor.",
+      "synonyms": [
+        "joy"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "J",
+      "word": "joy",
+      "clue": "A feeling of great happiness.",
+      "tr": "Büyük mutluluk hissi; sevinç.",
+      "example": "Her face was full of joy.",
+      "exampleTr": "Yüzü sevinç doluydu.",
+      "synonyms": [
+        "delight"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "delight",
+      "clue": "A feeling of great pleasure.",
+      "tr": "Büyük hoşnutluk ve sevinç duygusu.",
+      "example": "The children shouted with delight.",
+      "exampleTr": "Çocuklar sevinçle bağırdı.",
+      "synonyms": [
+        "joy"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "excitement",
+      "clue": "A strong feeling of eager interest or happiness.",
+      "tr": "Yoğun heves veya mutluluk hissi; heyecan.",
+      "example": "I could not hide my excitement.",
+      "exampleTr": "Heyecanımı gizleyemedim.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "enthusiasm",
+      "clue": "Strong interest and eagerness about something.",
+      "tr": "Bir şeye karşı duyulan güçlü ilgi ve istek; coşku.",
+      "example": "She spoke with enthusiasm about the project.",
+      "exampleTr": "Proje hakkında coşkuyla konuştu.",
+      "synonyms": [
+        "eagerness"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "boredom",
+      "clue": "The state of having nothing interesting to do.",
+      "tr": "İlgi çekici bir uğraş bulamamaktan doğan can sıkıntısı.",
+      "example": "Reading helps me escape boredom.",
+      "exampleTr": "Okumak can sıkıntısından kurtulmama yardım ediyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "L",
+      "word": "loneliness",
+      "clue": "Sadness caused by feeling without friends or company.",
+      "tr": "Arkadaş veya yakınlık eksikliğinden duyulan yalnızlık.",
+      "example": "Moving abroad can bring loneliness.",
+      "exampleTr": "Yurt dışına taşınmak yalnızlık getirebilir.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "N",
+      "word": "nostalgia",
+      "clue": "A warm but sad feeling when remembering the past.",
+      "tr": "Geçmişi hatırlarken duyulan tatlı hüzün; nostalji.",
+      "example": "Old songs fill me with nostalgia.",
+      "exampleTr": "Eski şarkılar içimi nostaljiyle dolduruyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "homesickness",
+      "clue": "Sadness caused by being away from home.",
+      "tr": "Evden uzakta olmaktan duyulan üzüntü; sıla hasreti.",
+      "example": "Calling my family eased my homesickness.",
+      "exampleTr": "Ailemi aramak memleket özlemimi hafifletti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "O",
+      "word": "optimism",
+      "clue": "The belief that good things are likely to happen.",
+      "tr": "İyi şeylerin olacağına inanma eğilimi; iyimserlik.",
+      "example": "Her optimism encouraged the whole team.",
+      "exampleTr": "İyimserliği bütün takımı cesaretlendirdi.",
+      "synonyms": [
+        "hopefulness"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pessimism",
+      "clue": "The tendency to expect bad outcomes.",
+      "tr": "Kötü sonuçlar bekleme eğilimi; kötümserlik.",
+      "example": "His pessimism made planning difficult.",
+      "exampleTr": "Kötümserliği plan yapmayı zorlaştırdı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "disappointment",
+      "clue": "Sadness when something is worse than expected.",
+      "tr": "Beklenenin gerçekleşmemesinden doğan üzüntü; hayal kırıklığı.",
+      "example": "Losing the match was a disappointment.",
+      "exampleTr": "Maçı kaybetmek hayal kırıklığıydı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "embarrassment",
+      "clue": "An uncomfortable feeling about an awkward situation.",
+      "tr": "Mahcup edici bir durumdaki rahatsızlık; utanma.",
+      "example": "She laughed to hide her embarrassment.",
+      "exampleTr": "Mahcubiyetini gizlemek için güldü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "shame",
+      "clue": "A painful feeling about doing something wrong or dishonorable.",
+      "tr": "Yanlış veya onursuz davranıştan duyulan utanç.",
+      "example": "He felt shame about lying.",
+      "exampleTr": "Yalan söylediği için utandı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "guilt",
+      "clue": "A bad feeling about having done something wrong.",
+      "tr": "Yanlış bir şey yapmış olmaktan duyulan suçluluk.",
+      "example": "She felt guilt after breaking her promise.",
+      "exampleTr": "Sözünü tutmayınca suçluluk duydu.",
+      "synonyms": [
+        "remorse"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pride",
+      "clue": "Pleasure in your own or another person's achievements.",
+      "tr": "Kendinin veya başkasının başarısından duyulan gurur.",
+      "example": "His parents watched with pride.",
+      "exampleTr": "Anne babası gururla izledi.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "D",
+      "word": "dignity",
+      "clue": "Calm behavior that shows self-respect.",
+      "tr": "Öz saygı gösteren ağırbaşlı tutum; vakar.",
+      "example": "She accepted the decision with dignity.",
+      "exampleTr": "Kararı vakarla kabul etti.",
+      "synonyms": [
+        "self-respect"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "self-esteem",
+      "clue": "The sense of your own worth and value.",
+      "tr": "Kendi değerine ilişkin duygu; öz saygı.",
+      "example": "Learning new skills improved her self-esteem.",
+      "exampleTr": "Yeni beceriler öğrenmek öz saygısını artırdı.",
+      "synonyms": [
+        "self-worth"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "self-confidence",
+      "clue": "Trust in your own abilities.",
+      "tr": "Kendi yeteneklerine duyulan güven; özgüven.",
+      "example": "Practice builds self-confidence.",
+      "exampleTr": "Pratik yapmak özgüven kazandırır.",
+      "synonyms": [
+        "confidence"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "insecurity",
+      "clue": "A lack of confidence in yourself or your situation.",
+      "tr": "Kendine veya bulunduğun duruma güvenememe; güvensizlik.",
+      "example": "He hides his insecurity behind jokes.",
+      "exampleTr": "Güvensizliğini şakaların arkasına saklıyor.",
+      "synonyms": [
+        "self-doubt"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "S",
+      "word": "serenity",
+      "clue": "A peaceful and calm state.",
+      "tr": "Huzurlu ve sakin olma durumu.",
+      "example": "The quiet garden gave her serenity.",
+      "exampleTr": "Sessiz bahçe ona huzur verdi.",
+      "synonyms": [
+        "tranquility"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "impatience",
+      "clue": "Annoyance at having to wait.",
+      "tr": "Beklemek zorunda kalmaktan duyulan huzursuzluk; sabırsızlık.",
+      "example": "He tapped his foot with impatience.",
+      "exampleTr": "Sabırsızlıkla ayağını yere vurdu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "annoyance",
+      "clue": "A feeling of mild anger or irritation.",
+      "tr": "Hafif kızgınlık veya rahatsızlık hissi.",
+      "example": "Her annoyance grew as the noise continued.",
+      "exampleTr": "Gürültü sürdükçe rahatsızlığı arttı.",
+      "synonyms": [
+        "irritation"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "R",
+      "word": "resentment",
+      "clue": "Lasting anger about unfair treatment.",
+      "tr": "Haksızlığa uğramaktan doğan kalıcı öfke; içerleme.",
+      "example": "The unfair decision caused resentment.",
+      "exampleTr": "Adaletsiz karar içerlemeye yol açtı.",
+      "synonyms": [
+        "bitterness"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "forgiveness",
+      "clue": "The act of no longer blaming someone for a wrong.",
+      "tr": "Birini yaptığı yanlış nedeniyle suçlamaktan vazgeçme; affetme.",
+      "example": "He asked for her forgiveness.",
+      "exampleTr": "Ondan kendisini affetmesini istedi.",
+      "synonyms": [
+        "pardon"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "approval",
+      "clue": "The feeling or statement that something is acceptable.",
+      "tr": "Bir şeyin uygun bulunduğunu belirtme; onay.",
+      "example": "The plan needs the teacher's approval.",
+      "exampleTr": "Planın öğretmenin onayını alması gerekiyor.",
+      "synonyms": [
+        "consent"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "admiration",
+      "clue": "A feeling of respect and approval.",
+      "tr": "Saygı ve beğeni duygusu; hayranlık.",
+      "example": "I have great admiration for her courage.",
+      "exampleTr": "Cesaretine büyük hayranlık duyuyorum.",
+      "synonyms": [
+        "esteem"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "courtesy",
+      "clue": "Polite and respectful behavior.",
+      "tr": "Nazik ve saygılı davranış; nezaket.",
+      "example": "He treated every guest with courtesy.",
+      "exampleTr": "Her konuğa nezaketle davrandı.",
+      "synonyms": [
+        "politeness"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "arrogance",
+      "clue": "The belief that you are better than other people.",
+      "tr": "Kendini başkalarından üstün görme; kibir.",
+      "example": "His arrogance upset his colleagues.",
+      "exampleTr": "Kibri iş arkadaşlarını rahatsız etti.",
+      "synonyms": [
+        "conceit"
+      ]
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "H",
+      "word": "humility",
+      "clue": "The quality of not considering yourself superior.",
+      "tr": "Kendini üstün görmeme; alçakgönüllülük.",
+      "example": "She accepted the award with humility.",
+      "exampleTr": "Ödülü alçakgönüllülükle kabul etti.",
+      "synonyms": [
+        "modesty"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "selfishness",
+      "clue": "Concern mainly for your own needs.",
+      "tr": "Öncelikle kendi ihtiyaçlarını düşünme; bencillik.",
+      "example": "His selfishness hurt his friends.",
+      "exampleTr": "Bencilliği arkadaşlarını incitti.",
+      "synonyms": [
+        "self-centeredness"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "greed",
+      "clue": "A strong desire for more wealth or possessions.",
+      "tr": "Daha fazla para veya mal için aşırı istek; açgözlülük.",
+      "example": "Their greed destroyed the partnership.",
+      "exampleTr": "Açgözlülükleri ortaklığı bozdu.",
+      "synonyms": [
+        "avarice"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "curiosity",
+      "clue": "A strong wish to know or learn something.",
+      "tr": "Bilme veya öğrenme isteği; merak.",
+      "example": "Her curiosity led to a discovery.",
+      "exampleTr": "Merakı bir keşfe yol açtı.",
+      "synonyms": [
+        "inquisitiveness"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "creativity",
+      "clue": "The ability to produce original ideas.",
+      "tr": "Özgün fikirler üretme becerisi; yaratıcılık.",
+      "example": "Art classes encourage creativity.",
+      "exampleTr": "Sanat dersleri yaratıcılığı teşvik eder.",
+      "synonyms": [
+        "inventiveness"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "imagination",
+      "clue": "The ability to form ideas or images not present.",
+      "tr": "Gerçekte bulunmayan düşünce veya görüntüleri zihinde kurma; hayal gücü.",
+      "example": "Children use imagination in their games.",
+      "exampleTr": "Çocuklar oyunlarında hayal güçlerini kullanır.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "wisdom",
+      "clue": "Good judgment gained through knowledge and experience.",
+      "tr": "Bilgi ve deneyimle edinilmiş doğru yargılama gücü; bilgelik.",
+      "example": "My grandmother shared her wisdom.",
+      "exampleTr": "Büyükannem bilgeliğini bizimle paylaştı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "intelligence",
+      "clue": "The ability to learn, understand, and solve problems.",
+      "tr": "Öğrenme, anlama ve problem çözme yeteneği; zekâ.",
+      "example": "This task requires intelligence and patience.",
+      "exampleTr": "Bu görev zekâ ve sabır gerektiriyor.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "T",
+      "word": "tact",
+      "clue": "Skill in speaking without upsetting people.",
+      "tr": "İnsanları incitmeden konuşabilme becerisi; incelik.",
+      "example": "The situation requires tact.",
+      "exampleTr": "Durum incelik gerektiriyor.",
+      "synonyms": [
+        "diplomacy"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "hospitality",
+      "clue": "Friendly and generous treatment of guests.",
+      "tr": "Konuklara sıcak ve cömert davranma; misafirperverlik.",
+      "example": "Thank you for your hospitality.",
+      "exampleTr": "Misafirperverliğiniz için teşekkür ederim.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "I",
+      "word": "introvert",
+      "clue": "A person who often prefers quiet time alone.",
+      "tr": "Genellikle tek başına sakin vakti tercih eden kişi; içe dönük.",
+      "example": "As an introvert, she enjoys quiet evenings.",
+      "exampleTr": "İçe dönük biri olarak sakin akşamlardan hoşlanıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "c1",
+      "kind": "word",
+      "letter": "E",
+      "word": "extrovert",
+      "clue": "A person who enjoys social activity and meeting people.",
+      "tr": "Sosyal etkinlikleri ve insanlarla tanışmayı seven kişi; dışa dönük.",
+      "example": "My brother is an extrovert.",
+      "exampleTr": "Erkek kardeşim dışa dönük biridir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "O",
+      "word": "outgoing",
+      "clue": "Friendly and comfortable meeting new people.",
+      "tr": "Yeni insanlarla tanışırken rahat ve cana yakın; dışa dönük.",
+      "example": "Her outgoing personality makes introductions easy.",
+      "exampleTr": "Dışa dönük kişiliği tanışmayı kolaylaştırıyor.",
+      "synonyms": [
+        "sociable"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sociable",
+      "clue": "Enjoying the company of other people.",
+      "tr": "Başkalarıyla birlikte olmaktan hoşlanan; sosyal.",
+      "example": "Our new neighbor is very sociable.",
+      "exampleTr": "Yeni komşumuz çok sosyal.",
+      "synonyms": [
+        "outgoing"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "talkative",
+      "clue": "Enjoying talking a lot.",
+      "tr": "Çok konuşmayı seven; konuşkan.",
+      "example": "The talkative child asked many questions.",
+      "exampleTr": "Konuşkan çocuk çok soru sordu.",
+      "synonyms": [
+        "chatty"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "thoughtful",
+      "clue": "Showing care for other people's feelings and needs.",
+      "tr": "Başkalarının duygu ve ihtiyaçlarını gözeten; düşünceli.",
+      "example": "That was a thoughtful gift.",
+      "exampleTr": "Bu düşünceli bir hediyeydi.",
+      "synonyms": [
+        "considerate"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "considerate",
+      "clue": "Careful not to inconvenience or upset others.",
+      "tr": "Başkalarını rahatsız etmemeye özen gösteren; düşünceli.",
+      "example": "Please be considerate of sleeping neighbors.",
+      "exampleTr": "Lütfen uyuyan komşulara karşı düşünceli ol.",
+      "synonyms": [
+        "thoughtful"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "careless",
+      "clue": "Not giving enough attention to what you are doing.",
+      "tr": "Yaptığı işe yeterli dikkat göstermeyen; dikkatsiz.",
+      "example": "A careless mistake cost us a point.",
+      "exampleTr": "Dikkatsiz bir hata bize bir puana mal oldu.",
+      "synonyms": [
+        "inattentive"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "C",
+      "word": "careful",
+      "clue": "Giving attention to avoid mistakes or danger.",
+      "tr": "Hata veya tehlikeden kaçınmak için dikkat eden.",
+      "example": "Be careful with that glass.",
+      "exampleTr": "O bardağa dikkat et.",
+      "synonyms": [
+        "cautious"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "H",
+      "word": "helpful",
+      "clue": "Willing or able to provide useful assistance.",
+      "tr": "Yararlı yardım sunan veya sunmaya istekli.",
+      "example": "Your advice was very helpful.",
+      "exampleTr": "Tavsiyen çok yardımcı oldu.",
+      "synonyms": [
+        "useful"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "dishonest",
+      "clue": "Willing to lie or cheat.",
+      "tr": "Yalan söylemeye veya aldatmaya yatkın; dürüst olmayan.",
+      "example": "The dishonest seller hid the damage.",
+      "exampleTr": "Dürüst olmayan satıcı hasarı gizledi.",
+      "synonyms": [
+        "untruthful"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "truthful",
+      "clue": "Saying what is true.",
+      "tr": "Gerçeği söyleyen; doğru sözlü.",
+      "example": "Please give me a truthful answer.",
+      "exampleTr": "Lütfen bana doğru bir cevap ver.",
+      "synonyms": [
+        "honest"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "impatient",
+      "clue": "Annoyed by waiting or delays.",
+      "tr": "Bekleme veya gecikmeden rahatsız olan; sabırsız.",
+      "example": "The impatient customer checked his watch.",
+      "exampleTr": "Sabırsız müşteri saatine baktı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "O",
+      "word": "optimistic",
+      "clue": "Expecting good things to happen.",
+      "tr": "İyi sonuçlar bekleyen; iyimser.",
+      "example": "We remain optimistic about the future.",
+      "exampleTr": "Gelecek konusunda iyimserliğimizi koruyoruz.",
+      "synonyms": [
+        "hopeful"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pessimistic",
+      "clue": "Expecting bad things to happen.",
+      "tr": "Kötü sonuçlar bekleyen; kötümser.",
+      "example": "She sounded pessimistic about the exam.",
+      "exampleTr": "Sınav konusunda kötümser konuşuyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "hopeful",
+      "clue": "Feeling that something good may happen.",
+      "tr": "İyi bir şey olacağına inanan; umutlu.",
+      "example": "I feel hopeful about my application.",
+      "exampleTr": "Başvurum konusunda umutluyum.",
+      "synonyms": [
+        "optimistic"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "hopeless",
+      "clue": "Feeling that a situation cannot improve.",
+      "tr": "Durumun düzelemeyeceğine inanan; umutsuz.",
+      "example": "He felt hopeless after another rejection.",
+      "exampleTr": "Bir kez daha reddedilince umutsuz hissetti.",
+      "synonyms": [
+        "despairing"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "J",
+      "word": "joyful",
+      "clue": "Full of great happiness.",
+      "tr": "Büyük mutluluk duyan; neşeli.",
+      "example": "We heard joyful laughter outside.",
+      "exampleTr": "Dışarıdan neşeli kahkahalar duyduk.",
+      "synonyms": [
+        "delighted"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "miserable",
+      "clue": "Very unhappy or uncomfortable.",
+      "tr": "Çok mutsuz veya rahatsız; perişan.",
+      "example": "The cold rain made us miserable.",
+      "exampleTr": "Soğuk yağmur bizi perişan etti.",
+      "synonyms": [
+        "unhappy"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "L",
+      "word": "lonely",
+      "clue": "Unhappy because you lack company.",
+      "tr": "Arkadaşlık eksikliği nedeniyle mutsuz; yalnız.",
+      "example": "I felt lonely in the new city.",
+      "exampleTr": "Yeni şehirde kendimi yalnız hissettim.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bored",
+      "clue": "Feeling uninterested because nothing is engaging.",
+      "tr": "İlgi çekici bir şey olmadığı için sıkılmış.",
+      "example": "The children were bored indoors.",
+      "exampleTr": "Çocuklar içeride sıkılmıştı.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "B",
+      "word": "boring",
+      "clue": "Not interesting or exciting.",
+      "tr": "İlginç veya heyecan verici olmayan; sıkıcı.",
+      "example": "The long meeting was boring.",
+      "exampleTr": "Uzun toplantı sıkıcıydı.",
+      "synonyms": [
+        "dull"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "I",
+      "word": "interested",
+      "clue": "Wanting to learn more about something.",
+      "tr": "Bir şey hakkında daha çok öğrenmek isteyen; ilgili.",
+      "example": "I am interested in history.",
+      "exampleTr": "Tarihle ilgileniyorum.",
+      "synonyms": [
+        "curious"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "I",
+      "word": "interesting",
+      "clue": "Making you want to pay attention or learn more.",
+      "tr": "Dikkat veya öğrenme isteği uyandıran; ilginç.",
+      "example": "She asked an interesting question.",
+      "exampleTr": "İlginç bir soru sordu.",
+      "synonyms": [
+        "engaging"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "E",
+      "word": "excited",
+      "clue": "Feeling happy and eager about something.",
+      "tr": "Bir şey için mutlu ve hevesli; heyecanlı.",
+      "example": "We are excited about the trip.",
+      "exampleTr": "Gezi için heyecanlıyız.",
+      "synonyms": [
+        "thrilled"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "E",
+      "word": "exciting",
+      "clue": "Causing eager interest or happiness.",
+      "tr": "Heyecan ve heves uyandıran.",
+      "example": "It was an exciting match.",
+      "exampleTr": "Heyecanlı bir maçtı.",
+      "synonyms": [
+        "thrilling"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "R",
+      "word": "relaxed",
+      "clue": "Calm and free from worry.",
+      "tr": "Sakin ve kaygısız; rahatlamış.",
+      "example": "I feel relaxed after a walk.",
+      "exampleTr": "Yürüyüşten sonra rahatlamış hissediyorum.",
+      "synonyms": [
+        "calm"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "relaxing",
+      "clue": "Helping you feel calm and less worried.",
+      "tr": "Sakinleşmeye yardımcı olan; rahatlatıcı.",
+      "example": "Listening to rain is relaxing.",
+      "exampleTr": "Yağmuru dinlemek rahatlatıcı.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "W",
+      "word": "worried",
+      "clue": "Thinking anxiously about a possible problem.",
+      "tr": "Olası bir sorun nedeniyle kaygılı.",
+      "example": "She looked worried about her dog.",
+      "exampleTr": "Köpeği için endişeli görünüyordu.",
+      "synonyms": [
+        "anxious"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "confusing",
+      "clue": "Difficult to understand clearly.",
+      "tr": "Açıkça anlaşılması zor; kafa karıştırıcı.",
+      "example": "These instructions are confusing.",
+      "exampleTr": "Bu talimatlar kafa karıştırıcı.",
+      "synonyms": [
+        "unclear"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "amused",
+      "clue": "Finding something funny or entertaining.",
+      "tr": "Bir şeyi komik veya eğlenceli bulmuş.",
+      "example": "The children looked amused by the puppet.",
+      "exampleTr": "Çocuklar kuklayı eğlenceli bulmuş görünüyordu.",
+      "synonyms": [
+        "entertained"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "amusing",
+      "clue": "Funny or entertaining.",
+      "tr": "Komik veya eğlendirici.",
+      "example": "He told an amusing story.",
+      "exampleTr": "Eğlenceli bir hikâye anlattı.",
+      "synonyms": [
+        "entertaining"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "embarrassing",
+      "clue": "Making someone feel awkward or ashamed.",
+      "tr": "Birini mahcup veya utanmış hissettiren.",
+      "example": "Forgetting her name was embarrassing.",
+      "exampleTr": "Adını unutmak utanç vericiydi.",
+      "synonyms": [
+        "awkward"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "encouraging",
+      "clue": "Giving hope or confidence.",
+      "tr": "Umut veya güven veren; cesaretlendirici.",
+      "example": "The teacher gave encouraging feedback.",
+      "exampleTr": "Öğretmen cesaretlendirici geri bildirim verdi.",
+      "synonyms": [
+        "reassuring"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "discouraged",
+      "clue": "Having lost confidence or enthusiasm.",
+      "tr": "Güvenini veya hevesini kaybetmiş; cesareti kırılmış.",
+      "example": "Do not feel discouraged by one mistake.",
+      "exampleTr": "Tek bir hata yüzünden cesaretin kırılmasın.",
+      "synonyms": [
+        "disheartened"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "inspiring",
+      "clue": "Making someone feel motivated or hopeful.",
+      "tr": "İstek veya umut uyandıran; ilham verici.",
+      "example": "Her life story is inspiring.",
+      "exampleTr": "Hayat hikâyesi ilham verici.",
+      "synonyms": [
+        "motivating"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "terrified",
+      "clue": "Extremely frightened.",
+      "tr": "Aşırı korkmuş; dehşete kapılmış.",
+      "example": "The terrified child held my hand.",
+      "exampleTr": "Dehşete kapılan çocuk elimi tuttu.",
+      "synonyms": [
+        "petrified"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "S",
+      "word": "scared",
+      "clue": "Afraid of something.",
+      "tr": "Bir şeyden korkmuş.",
+      "example": "I was scared of the dark.",
+      "exampleTr": "Karanlıktan korkuyordum.",
+      "synonyms": [
+        "frightened"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "S",
+      "word": "surprised",
+      "clue": "Feeling that something unexpected has happened.",
+      "tr": "Beklenmedik bir durum karşısında şaşırmış.",
+      "example": "I was surprised by the result.",
+      "exampleTr": "Sonuca şaşırdım.",
+      "synonyms": [
+        "astonished"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "shocked",
+      "clue": "Very surprised and upset.",
+      "tr": "Çok şaşırmış ve sarsılmış.",
+      "example": "We were shocked by the news.",
+      "exampleTr": "Haber bizi çok sarstı.",
+      "synonyms": [
+        "stunned"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "stubborn",
+      "clue": "Refusing to change your opinion or behavior.",
+      "tr": "Fikrini veya davranışını değiştirmeyi reddeden; inatçı.",
+      "example": "The stubborn child refused to leave.",
+      "exampleTr": "İnatçı çocuk gitmeyi reddetti.",
+      "synonyms": [
+        "obstinate"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "O",
+      "word": "obedient",
+      "clue": "Doing what you are told to do.",
+      "tr": "Kendisine söyleneni yapan; itaatkâr.",
+      "example": "The obedient dog sat immediately.",
+      "exampleTr": "İtaatkâr köpek hemen oturdu.",
+      "synonyms": [
+        "compliant"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "rebellious",
+      "clue": "Resisting rules or authority.",
+      "tr": "Kurallara veya otoriteye karşı çıkan; asi.",
+      "example": "The rebellious teenager ignored the rules.",
+      "exampleTr": "Asi genç kuralları umursamadı.",
+      "synonyms": [
+        "defiant"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "respectful",
+      "clue": "Showing consideration and respect.",
+      "tr": "Saygı ve özen gösteren.",
+      "example": "Please use a respectful tone.",
+      "exampleTr": "Lütfen saygılı bir üslup kullan.",
+      "synonyms": [
+        "courteous"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "impolite",
+      "clue": "Not showing good manners.",
+      "tr": "Görgü kurallarına uymayan; kaba.",
+      "example": "Interrupting someone is impolite.",
+      "exampleTr": "Birinin sözünü kesmek kabalıktır.",
+      "synonyms": [
+        "rude"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "F",
+      "word": "friendly",
+      "clue": "Kind and pleasant toward others.",
+      "tr": "Başkalarına karşı sıcak ve nazik; arkadaş canlısı.",
+      "example": "The receptionist was friendly.",
+      "exampleTr": "Resepsiyonist arkadaş canlısıydı.",
+      "synonyms": [
+        "welcoming"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cruel",
+      "clue": "Causing suffering without caring.",
+      "tr": "Acı vermeyi umursamayan; zalim.",
+      "example": "That was a cruel thing to say.",
+      "exampleTr": "Bunu söylemek acımasızcaydı.",
+      "synonyms": [
+        "heartless"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "charming",
+      "clue": "Pleasant and attractive in a way people like.",
+      "tr": "İnsanların hoşuna giden çekici ve hoş.",
+      "example": "He has a charming smile.",
+      "exampleTr": "Çekici bir gülümsemesi var.",
+      "synonyms": [
+        "delightful"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "F",
+      "word": "funny",
+      "clue": "Making people laugh.",
+      "tr": "İnsanları güldüren; komik.",
+      "example": "That joke was really funny.",
+      "exampleTr": "O şaka gerçekten komikti.",
+      "synonyms": [
+        "amusing"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "S",
+      "word": "silly",
+      "clue": "Showing little seriousness or good sense.",
+      "tr": "Ciddiyetten veya sağduyudan uzak; saçma.",
+      "example": "We laughed at our silly mistakes.",
+      "exampleTr": "Saçma hatalarımıza güldük.",
+      "synonyms": [
+        "foolish"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "wise",
+      "clue": "Having good judgment and understanding.",
+      "tr": "Doğru yargılama ve anlayışa sahip; bilge.",
+      "example": "Asking for help was a wise choice.",
+      "exampleTr": "Yardım istemek akıllıca bir seçimdi.",
+      "synonyms": [
+        "sensible"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "C",
+      "word": "clever",
+      "clue": "Quick to learn or understand things.",
+      "tr": "Çabuk öğrenen veya anlayan; zeki.",
+      "example": "The clever child solved the puzzle.",
+      "exampleTr": "Zeki çocuk bulmacayı çözdü.",
+      "synonyms": [
+        "smart"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "talented",
+      "clue": "Having a natural ability to do something well.",
+      "tr": "Bir şeyi iyi yapma konusunda doğal yetenekli.",
+      "example": "She is a talented musician.",
+      "exampleTr": "Yetenekli bir müzisyen.",
+      "synonyms": [
+        "gifted"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "I",
+      "word": "imaginative",
+      "clue": "Good at creating new ideas or pictures in the mind.",
+      "tr": "Yeni fikirler veya zihinsel görüntüler üretmede başarılı.",
+      "example": "The students wrote imaginative stories.",
+      "exampleTr": "Öğrenciler hayal gücü yüksek hikâyeler yazdı.",
+      "synonyms": [
+        "creative"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "reckless",
+      "clue": "Acting without caring about danger or consequences.",
+      "tr": "Tehlike veya sonucu düşünmeden davranan; pervasız.",
+      "example": "His reckless driving scared us.",
+      "exampleTr": "Pervasız sürüşü bizi korkuttu.",
+      "synonyms": [
+        "rash"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cautious",
+      "clue": "Careful to avoid danger or mistakes.",
+      "tr": "Tehlike veya hatadan kaçınmak için temkinli.",
+      "example": "Be cautious when crossing this road.",
+      "exampleTr": "Bu yolu geçerken temkinli ol.",
+      "synonyms": [
+        "careful"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "ambitious",
+      "clue": "Strongly wanting success or achievement.",
+      "tr": "Başarıya ulaşmayı çok isteyen; hırslı.",
+      "example": "The ambitious student set high goals.",
+      "exampleTr": "Hırslı öğrenci yüksek hedefler koydu.",
+      "synonyms": [
+        "aspiring"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "L",
+      "word": "lazy",
+      "clue": "Unwilling to work or make an effort.",
+      "tr": "Çalışmak veya çaba göstermek istemeyen; tembel.",
+      "example": "I felt too lazy to cook.",
+      "exampleTr": "Yemek yapamayacak kadar tembel hissediyordum.",
+      "synonyms": [
+        "idle"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "hardworking",
+      "clue": "Putting a lot of effort into work.",
+      "tr": "İşine çok emek veren; çalışkan.",
+      "example": "Our hardworking team finished early.",
+      "exampleTr": "Çalışkan ekibimiz erken bitirdi.",
+      "synonyms": [
+        "diligent"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "punctual",
+      "clue": "Arriving or doing things at the expected time.",
+      "tr": "Beklenen zamanda gelen veya iş yapan; dakik.",
+      "example": "Please be punctual for the interview.",
+      "exampleTr": "Lütfen görüşmeye zamanında gel.",
+      "synonyms": [
+        "on time"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "trustworthy",
+      "clue": "Able to be trusted.",
+      "tr": "Kendisine güvenilebilen; güvenilir.",
+      "example": "She is a trustworthy friend.",
+      "exampleTr": "O güvenilir bir arkadaş.",
+      "synonyms": [
+        "reliable"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "mature",
+      "clue": "Behaving sensibly like an adult.",
+      "tr": "Bir yetişkin gibi sağduyulu davranan; olgun.",
+      "example": "He gave a mature response.",
+      "exampleTr": "Olgun bir karşılık verdi.",
+      "synonyms": [
+        "grown-up"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "childish",
+      "clue": "Behaving in an immature way.",
+      "tr": "Olgun olmayan biçimde davranan; çocukça.",
+      "example": "Their childish argument wasted time.",
+      "exampleTr": "Çocukça tartışmaları zaman kaybettirdi.",
+      "synonyms": [
+        "immature"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "T",
+      "word": "teenager",
+      "clue": "A person aged between thirteen and nineteen.",
+      "tr": "On üç ile on dokuz yaş arasındaki kişi; genç.",
+      "example": "My brother is a teenager.",
+      "exampleTr": "Erkek kardeşim ergenlik çağında.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "toddler",
+      "clue": "A young child who has recently learned to walk.",
+      "tr": "Yeni yürümeye başlamış küçük çocuk.",
+      "example": "The toddler held his mother's hand.",
+      "exampleTr": "Küçük çocuk annesinin elini tuttu.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "T",
+      "word": "twin",
+      "clue": "One of two children born from the same pregnancy.",
+      "tr": "Aynı gebelikten doğan iki çocuktan biri; ikiz.",
+      "example": "My twin looks just like me.",
+      "exampleTr": "İkizim tıpkı bana benziyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "C",
+      "word": "cousin",
+      "clue": "A child of your aunt or uncle.",
+      "tr": "Teyze, hala, dayı veya amcanın çocuğu; kuzen.",
+      "example": "My cousin lives nearby.",
+      "exampleTr": "Kuzenim yakında yaşıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "N",
+      "word": "nephew",
+      "clue": "A son of your brother or sister.",
+      "tr": "Kardeşinin oğlu; erkek yeğen.",
+      "example": "My nephew starts school this year.",
+      "exampleTr": "Erkek yeğenim bu yıl okula başlıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "N",
+      "word": "niece",
+      "clue": "A daughter of your brother or sister.",
+      "tr": "Kardeşinin kızı; kız yeğen.",
+      "example": "I bought a gift for my niece.",
+      "exampleTr": "Kız yeğenime bir hediye aldım.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "G",
+      "word": "grandmother",
+      "clue": "The mother of your mother or father.",
+      "tr": "Anne veya babanın annesi; büyükanne.",
+      "example": "My grandmother tells wonderful stories.",
+      "exampleTr": "Büyükannem harika hikâyeler anlatır.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "G",
+      "word": "grandfather",
+      "clue": "The father of your mother or father.",
+      "tr": "Anne veya babanın babası; büyükbaba.",
+      "example": "My grandfather grows tomatoes.",
+      "exampleTr": "Büyükbabam domates yetiştirir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "grandson",
+      "clue": "A son of your son or daughter.",
+      "tr": "Oğlunun veya kızının oğlu; erkek torun.",
+      "example": "Her grandson visits every Sunday.",
+      "exampleTr": "Erkek torunu her pazar ziyarete gelir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "granddaughter",
+      "clue": "A daughter of your son or daughter.",
+      "tr": "Oğlunun veya kızının kızı; kız torun.",
+      "example": "His granddaughter plays the piano.",
+      "exampleTr": "Kız torunu piyano çalıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sibling",
+      "clue": "A brother or sister.",
+      "tr": "Erkek veya kız kardeş.",
+      "example": "Each sibling has a different hobby.",
+      "exampleTr": "Her kardeşin farklı bir hobisi var.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "R",
+      "word": "relative",
+      "clue": "A person connected to you by family.",
+      "tr": "Aile bağın olan kişi; akraba.",
+      "example": "A relative offered us a place to stay.",
+      "exampleTr": "Bir akrabamız bize kalacak yer önerdi.",
+      "synonyms": [
+        "family member"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "ancestor",
+      "clue": "A family member who lived many generations before you.",
+      "tr": "Senden çok önceki kuşaklarda yaşamış aile üyesi; ata.",
+      "example": "One ancestor came from Italy.",
+      "exampleTr": "Atalarımızdan biri İtalya'dan gelmiş.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "descendant",
+      "clue": "A person related to someone from an earlier generation.",
+      "tr": "Önceki kuşaktaki birinin soyundan gelen kişi.",
+      "example": "She is a descendant of a famous poet.",
+      "exampleTr": "Ünlü bir şairin soyundan geliyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "generation",
+      "clue": "People born and living around the same time.",
+      "tr": "Yakın dönemlerde doğup yaşayan insanlar; kuşak.",
+      "example": "Each generation faces different challenges.",
+      "exampleTr": "Her kuşak farklı zorluklarla karşılaşır.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "childhood",
+      "clue": "The period of life when someone is a child.",
+      "tr": "İnsanın çocuk olduğu yaşam dönemi; çocukluk.",
+      "example": "I spent my childhood in Istanbul.",
+      "exampleTr": "Çocukluğumu İstanbul'da geçirdim.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "adulthood",
+      "clue": "The period of life after becoming fully grown.",
+      "tr": "Çocukluktan sonraki yetişkin yaşam dönemi.",
+      "example": "Adulthood brings new responsibilities.",
+      "exampleTr": "Yetişkinlik yeni sorumluluklar getirir.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "marriage",
+      "clue": "The legally or socially recognized union of two partners.",
+      "tr": "İki kişinin hukuken veya toplumsal olarak tanınan birlikteliği; evlilik.",
+      "example": "Their marriage has lasted twenty years.",
+      "exampleTr": "Evlilikleri yirmi yıldır sürüyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "W",
+      "word": "wedding",
+      "clue": "The ceremony at which people get married.",
+      "tr": "İnsanların evlendiği tören; düğün.",
+      "example": "We danced at the wedding.",
+      "exampleTr": "Düğünde dans ettik.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bride",
+      "clue": "A woman who is getting married.",
+      "tr": "Evlenmekte olan kadın; gelin.",
+      "example": "The bride carried white flowers.",
+      "exampleTr": "Gelin beyaz çiçekler taşıyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "groom",
+      "clue": "A man who is getting married.",
+      "tr": "Evlenmekte olan erkek; damat.",
+      "example": "The groom waited near the entrance.",
+      "exampleTr": "Damat girişin yanında bekledi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "spouse",
+      "clue": "A husband or wife.",
+      "tr": "Evli olunan kişi; eş.",
+      "example": "Each guest may bring a spouse.",
+      "exampleTr": "Her konuk eşini getirebilir.",
+      "synonyms": [
+        "marriage partner"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "P",
+      "word": "partner",
+      "clue": "A person you share a romantic relationship with.",
+      "tr": "Romantik bir ilişki paylaştığın kişi; partner.",
+      "example": "My partner supports my goals.",
+      "exampleTr": "Partnerim hedeflerimi destekliyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "engagement",
+      "clue": "An agreement between two people to get married.",
+      "tr": "İki kişinin evlenmeye karar vermesi; nişan.",
+      "example": "They announced their engagement yesterday.",
+      "exampleTr": "Dün nişanlandıklarını duyurdular.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "divorce",
+      "clue": "The legal ending of a marriage.",
+      "tr": "Evliliğin hukuken sona ermesi; boşanma.",
+      "example": "The divorce was finalized in June.",
+      "exampleTr": "Boşanma haziranda kesinleşti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "widow",
+      "clue": "A woman whose spouse has died.",
+      "tr": "Eşi ölmüş kadın; dul kadın.",
+      "example": "The widow lives with her daughter.",
+      "exampleTr": "Dul kadın kızıyla yaşıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "widower",
+      "clue": "A man whose spouse has died.",
+      "tr": "Eşi ölmüş erkek; dul erkek.",
+      "example": "The widower joined a local club.",
+      "exampleTr": "Dul erkek yerel bir kulübe katıldı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "O",
+      "word": "orphan",
+      "clue": "A child whose parents have both died.",
+      "tr": "Anne ve babasını kaybetmiş çocuk.",
+      "example": "The orphan found a loving family.",
+      "exampleTr": "Anne babasını kaybetmiş çocuk sevgi dolu bir aile buldu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "stepmother",
+      "clue": "Your parent's wife who is not your birth mother.",
+      "tr": "Ebeveyninin biyolojik annen olmayan eşi; üvey anne.",
+      "example": "My stepmother helped with my homework.",
+      "exampleTr": "Üvey annem ödevime yardım etti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "stepfather",
+      "clue": "Your parent's husband who is not your birth father.",
+      "tr": "Ebeveyninin biyolojik baban olmayan eşi; üvey baba.",
+      "example": "My stepfather taught me to swim.",
+      "exampleTr": "Üvey babam bana yüzmeyi öğretti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "acquaintance",
+      "clue": "Someone you know but are not close friends with.",
+      "tr": "Tanıdığın ama yakın arkadaş olmadığın kişi; tanış.",
+      "example": "An acquaintance recommended this cafe.",
+      "exampleTr": "Bir tanıdığım bu kafeyi önerdi.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "S",
+      "word": "stranger",
+      "clue": "A person you do not know.",
+      "tr": "Tanımadığın kişi; yabancı.",
+      "example": "A stranger helped me find the station.",
+      "exampleTr": "Tanımadığım biri istasyonu bulmama yardım etti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "companion",
+      "clue": "Someone who spends time or travels with you.",
+      "tr": "Birlikte vakit geçirdiğin veya yolculuk yaptığın kişi.",
+      "example": "My dog is a loyal companion.",
+      "exampleTr": "Köpeğim sadık bir yoldaştır.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "ally",
+      "clue": "A person or group that supports you.",
+      "tr": "Seni destekleyen kişi veya grup; müttefik.",
+      "example": "She became a valuable ally.",
+      "exampleTr": "Değerli bir müttefik oldu.",
+      "synonyms": [
+        "supporter"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "rival",
+      "clue": "Someone competing with you for the same goal.",
+      "tr": "Aynı hedef için seninle yarışan kişi; rakip.",
+      "example": "Our rival played very well.",
+      "exampleTr": "Rakibimiz çok iyi oynadı.",
+      "synonyms": [
+        "competitor"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "E",
+      "word": "enemy",
+      "clue": "Someone who is hostile toward you.",
+      "tr": "Sana karşı düşmanca davranan kişi; düşman.",
+      "example": "He tried to make peace with his enemy.",
+      "exampleTr": "Düşmanıyla barışmaya çalıştı.",
+      "synonyms": [
+        "foe"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "O",
+      "word": "opponent",
+      "clue": "Someone you compete against in a game or contest.",
+      "tr": "Oyun veya yarışmada karşılaştığın kişi; rakip.",
+      "example": "My opponent made the first move.",
+      "exampleTr": "Rakibim ilk hamleyi yaptı.",
+      "synonyms": [
+        "rival"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "F",
+      "word": "fan",
+      "clue": "A person who strongly admires a team or performer.",
+      "tr": "Bir takıma veya sanatçıya büyük hayranlık duyan kişi.",
+      "example": "I am a fan of this singer.",
+      "exampleTr": "Bu şarkıcının hayranıyım.",
+      "synonyms": [
+        "admirer"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "celebrity",
+      "clue": "A person who is widely known by the public.",
+      "tr": "Toplumda çok tanınan kişi; ünlü.",
+      "example": "A celebrity visited our school.",
+      "exampleTr": "Okulumuzu bir ünlü ziyaret etti.",
+      "synonyms": [
+        "star"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "hero",
+      "clue": "A person admired for courage or great achievements.",
+      "tr": "Cesareti veya büyük başarılarıyla hayranlık uyandıran kişi; kahraman.",
+      "example": "The firefighter became a local hero.",
+      "exampleTr": "İtfaiyeci yerel bir kahraman oldu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "V",
+      "word": "villain",
+      "clue": "An evil character in a story or film.",
+      "tr": "Hikâye veya filmdeki kötü karakter.",
+      "example": "The villain escapes at the end.",
+      "exampleTr": "Kötü karakter sonunda kaçıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "bully",
+      "clue": "Someone who repeatedly hurts or intimidates weaker people.",
+      "tr": "Daha güçsüz kişileri sürekli inciten veya korkutan kişi; zorba.",
+      "example": "The teacher stopped the bully.",
+      "exampleTr": "Öğretmen zorbayı durdurdu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "spectator",
+      "clue": "Someone who watches an event without taking part.",
+      "tr": "Bir etkinliğe katılmadan onu izleyen kişi; seyirci.",
+      "example": "Each spectator received a program.",
+      "exampleTr": "Her seyirciye bir program verildi.",
+      "synonyms": [
+        "onlooker"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "dancer",
+      "clue": "A person who moves rhythmically to music.",
+      "tr": "Müziğe uyumlu hareket eden kişi; dansçı.",
+      "example": "The dancer moved across the stage.",
+      "exampleTr": "Dansçı sahne boyunca ilerledi.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "S",
+      "word": "singer",
+      "clue": "A person who makes music with their voice.",
+      "tr": "Sesiyle müzik yapan kişi; şarkıcı.",
+      "example": "The singer performed three songs.",
+      "exampleTr": "Şarkıcı üç şarkı söyledi.",
+      "synonyms": [
+        "vocalist"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "M",
+      "word": "musician",
+      "clue": "A person who plays or creates music.",
+      "tr": "Müzik çalan veya üreten kişi; müzisyen.",
+      "example": "The musician tuned her guitar.",
+      "exampleTr": "Müzisyen gitarını akort etti.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pianist",
+      "clue": "A person who plays the piano.",
+      "tr": "Piyano çalan kişi; piyanist.",
+      "example": "The pianist practiced before the concert.",
+      "exampleTr": "Piyanist konserden önce çalıştı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "composer",
+      "clue": "A person who writes music.",
+      "tr": "Müzik eserleri yazan kişi; besteci.",
+      "example": "The composer wrote a new melody.",
+      "exampleTr": "Besteci yeni bir melodi yazdı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "conductor",
+      "clue": "A person who directs an orchestra or choir.",
+      "tr": "Orkestrayı veya koroyu yöneten kişi; şef.",
+      "example": "The conductor raised his hands.",
+      "exampleTr": "Şef ellerini kaldırdı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "O",
+      "word": "orchestra",
+      "clue": "A large group of musicians playing different instruments.",
+      "tr": "Farklı çalgılar çalan büyük müzisyen topluluğu; orkestra.",
+      "example": "The orchestra played beautifully.",
+      "exampleTr": "Orkestra çok güzel çaldı.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "B",
+      "word": "band",
+      "clue": "A group of musicians who perform together.",
+      "tr": "Birlikte müzik yapan topluluk; müzik grubu.",
+      "example": "Our band plays every weekend.",
+      "exampleTr": "Grubumuz her hafta sonu çalıyor.",
+      "synonyms": [
+        "music group"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "choir",
+      "clue": "A group of people who sing together.",
+      "tr": "Birlikte şarkı söyleyen topluluk; koro.",
+      "example": "She joined the school choir.",
+      "exampleTr": "Okul korosuna katıldı.",
+      "synonyms": [
+        "chorus"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "O",
+      "word": "opera",
+      "clue": "A dramatic work performed mainly through singing.",
+      "tr": "Büyük ölçüde şarkı söylenerek sahnelenen dramatik eser; opera.",
+      "example": "We saw an opera last night.",
+      "exampleTr": "Dün gece bir opera izledik.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "B",
+      "word": "ballet",
+      "clue": "A formal dance style with carefully controlled movements.",
+      "tr": "Özenle kontrol edilen hareketlere dayanan sahne dansı; bale.",
+      "example": "My sister studies ballet.",
+      "exampleTr": "Kız kardeşim bale eğitimi alıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "theater",
+      "clue": "A building where plays are performed.",
+      "tr": "Tiyatro oyunlarının sahnelendiği bina.",
+      "example": "The theater opens at seven.",
+      "exampleTr": "Tiyatro saat yedide açılıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "S",
+      "word": "stage",
+      "clue": "The raised area where performers act or sing.",
+      "tr": "Sanatçıların gösteri yaptığı yükseltilmiş alan; sahne.",
+      "example": "The children walked onto the stage.",
+      "exampleTr": "Çocuklar sahneye çıktı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "rehearsal",
+      "clue": "A practice session before a public performance.",
+      "tr": "Gösteriden önce yapılan çalışma; prova.",
+      "example": "The rehearsal lasted two hours.",
+      "exampleTr": "Prova iki saat sürdü.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "C",
+      "word": "concert",
+      "clue": "A public performance of music.",
+      "tr": "Halka açık müzik gösterisi; konser.",
+      "example": "The concert starts at eight.",
+      "exampleTr": "Konser sekizde başlıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "festival",
+      "clue": "A series of events celebrating art, music, or a tradition.",
+      "tr": "Sanat, müzik veya geleneği kutlayan etkinlikler dizisi; festival.",
+      "example": "Our town holds a music festival.",
+      "exampleTr": "Kasabamız bir müzik festivali düzenliyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "gallery",
+      "clue": "A place where works of art are displayed.",
+      "tr": "Sanat eserlerinin sergilendiği yer; galeri.",
+      "example": "The gallery displays local paintings.",
+      "exampleTr": "Galeri yerel resimleri sergiliyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "M",
+      "word": "museum",
+      "clue": "A place that displays objects of cultural or historical value.",
+      "tr": "Kültürel veya tarihî değer taşıyan nesneleri sergileyen yer; müze.",
+      "example": "We visited the museum on Sunday.",
+      "exampleTr": "Pazar günü müzeyi gezdik.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sculpture",
+      "clue": "Art made by shaping solid materials into forms.",
+      "tr": "Katı malzemelere biçim verilerek yapılan sanat eseri; heykel.",
+      "example": "This sculpture is made of stone.",
+      "exampleTr": "Bu heykel taştan yapılmış.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "P",
+      "word": "painting",
+      "clue": "A picture made with colored paint.",
+      "tr": "Boyayla oluşturulmuş resim.",
+      "example": "The painting shows a quiet village.",
+      "exampleTr": "Resim sakin bir köyü gösteriyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "D",
+      "word": "drawing",
+      "clue": "A picture made mainly with lines.",
+      "tr": "Çoğunlukla çizgilerle oluşturulan resim; çizim.",
+      "example": "Her drawing won first prize.",
+      "exampleTr": "Çizimi birincilik ödülü kazandı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "sketch",
+      "clue": "A quick drawing showing the main features.",
+      "tr": "Ana özellikleri gösteren hızlı çizim; taslak.",
+      "example": "He made a sketch of the house.",
+      "exampleTr": "Evin bir taslağını çizdi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "portrait",
+      "clue": "A picture of a person, especially their face.",
+      "tr": "Bir kişinin özellikle yüzünü gösteren resim; portre.",
+      "example": "She painted a portrait of her father.",
+      "exampleTr": "Babasının portresini yaptı.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "canvas",
+      "clue": "Strong cloth used as a surface for painting.",
+      "tr": "Üzerine resim yapılan dayanıklı kumaş; tuval.",
+      "example": "The artist placed the canvas on a stand.",
+      "exampleTr": "Sanatçı tuvali bir sehpaya yerleştirdi.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "B",
+      "word": "brush",
+      "clue": "A tool with bristles used for applying paint.",
+      "tr": "Boya sürmek için kullanılan kıllı araç; fırça.",
+      "example": "Wash your brush after painting.",
+      "exampleTr": "Resim yaptıktan sonra fırçanı yıka.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "clay",
+      "clue": "Soft earth that can be shaped and hardened.",
+      "tr": "Şekillendirilip sertleştirilebilen yumuşak toprak; kil.",
+      "example": "We made bowls from clay.",
+      "exampleTr": "Kilden kâseler yaptık.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pottery",
+      "clue": "Objects made from clay and hardened by heat.",
+      "tr": "Kilden yapılıp ısıyla sertleştirilmiş eşyalar; çömlekçilik ürünleri.",
+      "example": "The shop sells handmade pottery.",
+      "exampleTr": "Dükkân el yapımı çömlek ürünleri satıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "C",
+      "word": "costume",
+      "clue": "Clothing worn to play a character or celebrate an event.",
+      "tr": "Bir karakteri canlandırmak veya etkinliğe katılmak için giyilen kıyafet; kostüm.",
+      "example": "She wore a pirate costume.",
+      "exampleTr": "Korsan kostümü giydi.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "puppet",
+      "clue": "A figure moved by a person's hands or strings.",
+      "tr": "El veya iplerle hareket ettirilen figür; kukla.",
+      "example": "The puppet made the children laugh.",
+      "exampleTr": "Kukla çocukları güldürdü.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "comedian",
+      "clue": "A performer whose job is to make people laugh.",
+      "tr": "İnsanları güldürmeyi amaçlayan sanatçı; komedyen.",
+      "example": "The comedian told a funny story.",
+      "exampleTr": "Komedyen komik bir hikâye anlattı.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "C",
+      "word": "comedy",
+      "clue": "Entertainment intended to make people laugh.",
+      "tr": "İnsanları güldürmeyi amaçlayan eser veya gösteri; komedi.",
+      "example": "We watched a comedy after dinner.",
+      "exampleTr": "Yemekten sonra bir komedi izledik.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "tragedy",
+      "clue": "A serious dramatic work with a sad ending.",
+      "tr": "Acı bir sonla biten ciddi dramatik eser; trajedi.",
+      "example": "The class read a Greek tragedy.",
+      "exampleTr": "Sınıf bir Yunan trajedisi okudu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "metaphor",
+      "clue": "A comparison that describes one thing as another.",
+      "tr": "Bir şeyi doğrudan başka bir şey olarak anlatan benzetme; metafor.",
+      "example": "Time is a thief is a metaphor.",
+      "exampleTr": "Zaman bir hırsızdır sözü bir metafordur.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "rhyme",
+      "clue": "Similarity of sounds at the ends of words.",
+      "tr": "Sözcük sonlarındaki ses benzerliği; uyak.",
+      "example": "Cat and hat form a rhyme.",
+      "exampleTr": "Cat ve hat sözcükleri uyak oluşturur.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "rhythm",
+      "clue": "A repeated pattern of beats or sounds.",
+      "tr": "Vuruş veya seslerin tekrarlanan düzeni; ritim.",
+      "example": "Clap your hands to the rhythm.",
+      "exampleTr": "Ritme göre ellerini çırp.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "melody",
+      "clue": "A sequence of musical notes forming a tune.",
+      "tr": "Bir ezgi oluşturan nota dizisi; melodi.",
+      "example": "I recognized the melody immediately.",
+      "exampleTr": "Melodiyi hemen tanıdım.",
+      "synonyms": [
+        "tune"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "H",
+      "word": "harmony",
+      "clue": "Musical notes combined in a pleasing way.",
+      "tr": "Müzik seslerinin uyumlu birleşimi; armoni.",
+      "example": "The singers created beautiful harmony.",
+      "exampleTr": "Şarkıcılar güzel bir armoni oluşturdu.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "I",
+      "word": "instrument",
+      "clue": "An object used to produce musical sounds.",
+      "tr": "Müzikal ses üretmek için kullanılan araç; çalgı.",
+      "example": "Which instrument would you like to learn?",
+      "exampleTr": "Hangi çalgıyı öğrenmek istersin?",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "F",
+      "word": "flute",
+      "clue": "A wind instrument played by blowing across an opening.",
+      "tr": "Bir deliğe doğru üflenerek çalınan nefesli çalgı; flüt.",
+      "example": "She plays the flute in our orchestra.",
+      "exampleTr": "Orkestramızda flüt çalıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "T",
+      "word": "trumpet",
+      "clue": "A brass instrument with three valves and a bright sound.",
+      "tr": "Üç pistonlu, parlak sesli bakır nefesli çalgı; trompet.",
+      "example": "He practices the trumpet every afternoon.",
+      "exampleTr": "Her öğleden sonra trompet çalışıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "D",
+      "word": "drummer",
+      "clue": "A musician who plays drums.",
+      "tr": "Davul çalan müzisyen; davulcu.",
+      "example": "The drummer kept a steady beat.",
+      "exampleTr": "Davulcu sabit bir ritim tuttu.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "A",
+      "word": "applause",
+      "clue": "The sound of people clapping to show approval.",
+      "tr": "Beğeniyi göstermek için el çırpma sesi; alkış.",
+      "example": "The performance ended with loud applause.",
+      "exampleTr": "Gösteri güçlü alkışlarla sona erdi.",
+      "synonyms": [
+        "clapping"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "M",
+      "word": "masterpiece",
+      "clue": "A work of exceptional artistic quality.",
+      "tr": "Olağanüstü sanatsal değere sahip eser; başyapıt.",
+      "example": "Many readers consider this novel a masterpiece.",
+      "exampleTr": "Birçok okur bu romanı başyapıt sayıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "T",
+      "word": "translate",
+      "clue": "To express words or writing in another language.",
+      "tr": "Söz veya yazıyı başka dile aktarmak; çevirmek.",
+      "example": "Can you translate this sentence into Turkish?",
+      "exampleTr": "Bu cümleyi Türkçeye çevirebilir misin?",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "summarize",
+      "clue": "To state only the main points briefly.",
+      "tr": "Yalnızca ana noktaları kısaca aktarmak; özetlemek.",
+      "example": "Please summarize the article in three sentences.",
+      "exampleTr": "Lütfen makaleyi üç cümlede özetle.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "W",
+      "word": "whisper",
+      "clue": "To speak very quietly without using a full voice.",
+      "tr": "Çok kısık sesle konuşmak; fısıldamak.",
+      "example": "Please whisper while the baby sleeps.",
+      "exampleTr": "Bebek uyurken lütfen fısılda.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "S",
+      "word": "shout",
+      "clue": "To speak in a very loud voice.",
+      "tr": "Çok yüksek sesle konuşmak; bağırmak.",
+      "example": "You do not need to shout.",
+      "exampleTr": "Bağırmana gerek yok.",
+      "synonyms": [
+        "yell"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "P",
+      "word": "pronounce",
+      "clue": "To say the sounds of a word.",
+      "tr": "Bir sözcüğün seslerini söylemek; telaffuz etmek.",
+      "example": "How do you pronounce this word?",
+      "exampleTr": "Bu kelimeyi nasıl telaffuz ediyorsun?",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "S",
+      "word": "speak",
+      "clue": "To produce words using your voice.",
+      "tr": "Sesini kullanarak sözcükler söylemek; konuşmak.",
+      "example": "Can you speak a little slower?",
+      "exampleTr": "Biraz daha yavaş konuşabilir misin?",
+      "synonyms": [
+        "talk"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "T",
+      "word": "tell",
+      "clue": "To give information to someone in words.",
+      "tr": "Birine sözle bilgi aktarmak; anlatmak veya söylemek.",
+      "example": "Please tell me what happened.",
+      "exampleTr": "Lütfen bana ne olduğunu anlat.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "A",
+      "word": "ask",
+      "clue": "To say something in order to get information.",
+      "tr": "Bilgi almak amacıyla bir şey söylemek; sormak.",
+      "example": "May I ask a question?",
+      "exampleTr": "Bir soru sorabilir miyim?",
+      "synonyms": [
+        "inquire"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "confess",
+      "clue": "To admit that you did something wrong.",
+      "tr": "Yanlış bir şey yaptığını kabul etmek; itiraf etmek.",
+      "example": "I must confess that I broke it.",
+      "exampleTr": "Onu kırdığımı itiraf etmeliyim.",
+      "synonyms": [
+        "admit"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "D",
+      "word": "deny",
+      "clue": "To say that something is not true.",
+      "tr": "Bir şeyin doğru olmadığını söylemek; inkâr etmek.",
+      "example": "He did not deny the mistake.",
+      "exampleTr": "Hatayı inkâr etmedi.",
+      "synonyms": []
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "A",
+      "word": "agree",
+      "clue": "To have the same opinion as someone.",
+      "tr": "Biriyle aynı görüşte olmak; katılmak.",
+      "example": "I agree with your suggestion.",
+      "exampleTr": "Önerine katılıyorum.",
+      "synonyms": [
+        "concur"
+      ]
+    },
+    {
+      "level": "a1",
+      "kind": "word",
+      "letter": "D",
+      "word": "disagree",
+      "clue": "To have a different opinion from someone.",
+      "tr": "Birinden farklı düşünmek; aynı fikirde olmamak.",
+      "example": "We disagree about the best solution.",
+      "exampleTr": "En iyi çözüm konusunda farklı düşünüyoruz.",
+      "synonyms": [
+        "differ"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "R",
+      "word": "reassure",
+      "clue": "To make someone feel less worried.",
+      "tr": "Birinin kaygısını azaltıp güven vermek.",
+      "example": "The doctor tried to reassure me.",
+      "exampleTr": "Doktor beni rahatlatmaya çalıştı.",
+      "synonyms": [
+        "comfort"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "F",
+      "word": "forgive",
+      "clue": "To stop feeling angry with someone for a wrong.",
+      "tr": "Bir yanlış nedeniyle birine duyulan öfkeyi bırakmak; affetmek.",
+      "example": "Can you forgive my mistake?",
+      "exampleTr": "Hatamı affedebilir misin?",
+      "synonyms": [
+        "pardon"
+      ]
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "C",
+      "word": "congratulate",
+      "clue": "To express happiness about someone's success.",
+      "tr": "Birinin başarısından duyulan sevinci bildirmek; tebrik etmek.",
+      "example": "I called to congratulate you.",
+      "exampleTr": "Seni tebrik etmek için aradım.",
+      "synonyms": []
+    },
+    {
+      "level": "b1",
+      "kind": "word",
+      "letter": "G",
+      "word": "greet",
+      "clue": "To welcome someone with words or a gesture.",
+      "tr": "Birini söz veya hareketle karşılamak; selamlamak.",
+      "example": "We stood up to greet our guests.",
+      "exampleTr": "Konuklarımızı selamlamak için ayağa kalktık.",
+      "synonyms": [
+        "welcome"
+      ]
+    }
+  ]
+}

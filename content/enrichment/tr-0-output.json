@@ -1,0 +1,4035 @@
+{
+  "existing": [
+    {
+      "word": "Abajur",
+      "en": "table lamp with a shade",
+      "example": "Yatağın yanındaki abajur odaya yumuşak bir ışık yayıyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Ada",
+      "en": "island",
+      "example": "Uzaktan görünen ada yalnızca tekneyle ziyaret edilebiliyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Aday",
+      "en": "candidate",
+      "example": "Son aday görüşme için kapıda bekliyordu.",
+      "synonyms": [
+        "namzet"
+      ]
+    },
+    {
+      "word": "Ahır",
+      "en": "stable",
+      "example": "Fırtınadan önce ahır kapısını kapattık.",
+      "synonyms": []
+    },
+    {
+      "word": "Akciğer",
+      "en": "lung",
+      "example": "Doktor akciğer filmini dikkatle inceledi.",
+      "synonyms": []
+    },
+    {
+      "word": "Akrep",
+      "en": "scorpion",
+      "example": "Taşın altından çıkan akrep hızla uzaklaştı.",
+      "synonyms": []
+    },
+    {
+      "word": "Akıntı",
+      "en": "current",
+      "example": "Güçlü akıntı tekneyi kıyıdan uzaklaştırdı.",
+      "synonyms": []
+    },
+    {
+      "word": "Aleni",
+      "en": "public; overt",
+      "example": "Karar aleni bir toplantıda açıklandı.",
+      "synonyms": [
+        "açık"
+      ]
+    },
+    {
+      "word": "Altın",
+      "en": "gold",
+      "example": "Kuyumcu altın yüzüğü tarttı.",
+      "synonyms": []
+    },
+    {
+      "word": "Ambulans",
+      "en": "ambulance",
+      "example": "Yaralıya ulaşan ambulans hemen hastaneye hareket etti.",
+      "synonyms": []
+    },
+    {
+      "word": "Analoji",
+      "en": "analogy",
+      "example": "Öğretmen elektrik akımını anlatırken su borularıyla analoji kurdu.",
+      "synonyms": [
+        "benzeşim"
+      ]
+    },
+    {
+      "word": "Anne",
+      "en": "mother",
+      "example": "Anne bebeğini kucağında uyuttu.",
+      "synonyms": [
+        "ana"
+      ]
+    },
+    {
+      "word": "Antitez",
+      "en": "antithesis",
+      "example": "Bu özgürlük anlayışı, baskıcı yönetimin tam karşısında bir antitez oluşturuyor.",
+      "synonyms": [
+        "karşı sav"
+      ]
+    },
+    {
+      "word": "Araba",
+      "en": "car",
+      "example": "Kırmızı araba kavşakta durdu.",
+      "synonyms": [
+        "otomobil"
+      ]
+    },
+    {
+      "word": "Arketip",
+      "en": "archetype",
+      "example": "Masallardaki bilge yaşlı adam, yaygın bir arketip örneğidir.",
+      "synonyms": [
+        "ilk örnek"
+      ]
+    },
+    {
+      "word": "Arınma",
+      "en": "purification",
+      "example": "Şair denizi ruhsal bir arınma simgesi olarak kullandı.",
+      "synonyms": [
+        "temizlenme"
+      ]
+    },
+    {
+      "word": "Asansör",
+      "en": "elevator",
+      "example": "Asansör bozulunca beş kat merdiven çıktık.",
+      "synonyms": []
+    },
+    {
+      "word": "Astronomi",
+      "en": "astronomy",
+      "example": "Astronomi kulübü bu gece yıldızları gözlemleyecek.",
+      "synonyms": [
+        "gök bilimi"
+      ]
+    },
+    {
+      "word": "Atkı",
+      "en": "scarf",
+      "example": "Soğuk havada boynuna yün atkı doladı.",
+      "synonyms": []
+    },
+    {
+      "word": "Atölye",
+      "en": "workshop",
+      "example": "Sanatçı kendine ışık alan küçük bir atölye kiraladı.",
+      "synonyms": [
+        "işlik"
+      ]
+    },
+    {
+      "word": "Ay",
+      "en": "moon",
+      "example": "Bulutların arasından ay göründü.",
+      "synonyms": []
+    },
+    {
+      "word": "Ayna",
+      "en": "mirror",
+      "example": "Koridordaki ayna küçük alanı daha geniş gösteriyor.",
+      "synonyms": []
+    },
+    {
+      "word": "Ayı",
+      "en": "bear",
+      "example": "Ormanda karşılaştıkları ayı yavrusunu koruyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Ağaç",
+      "en": "tree",
+      "example": "Bahçedeki ağaç ilkbaharda çiçek açtı.",
+      "synonyms": []
+    },
+    {
+      "word": "Badem",
+      "en": "almond",
+      "example": "Kurabiyelerin üzerine badem serptik.",
+      "synonyms": []
+    },
+    {
+      "word": "Bakiye",
+      "en": "balance",
+      "example": "Hesapta kalan bakiye bu alışverişe yetmiyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Bal",
+      "en": "honey",
+      "example": "Kahvaltıda yoğurduma bir kaşık bal ekledim.",
+      "synonyms": []
+    },
+    {
+      "word": "Balık",
+      "en": "fish",
+      "example": "Kıyıya yakın yüzen balık bir anda gözden kayboldu.",
+      "synonyms": []
+    },
+    {
+      "word": "Banyo",
+      "en": "bathroom",
+      "example": "Banyo penceresini buhar çıksın diye açtım.",
+      "synonyms": []
+    },
+    {
+      "word": "Basiret",
+      "en": "foresight; discernment",
+      "example": "Krizi önceden fark etmesi büyük bir basiret örneğiydi.",
+      "synonyms": [
+        "öngörü"
+      ]
+    },
+    {
+      "word": "Baykuş",
+      "en": "owl",
+      "example": "Baykuş gece boyunca ağacın dalında bekledi.",
+      "synonyms": []
+    },
+    {
+      "word": "Bağdaşmak",
+      "en": "be compatible",
+      "example": "Bu iki yaklaşım birbiriyle bağdaşmak zorunda değil.",
+      "synonyms": [
+        "uyuşmak"
+      ]
+    },
+    {
+      "word": "Bağımsızlık",
+      "en": "independence",
+      "example": "Ülke bağımsızlık mücadelesini yıllarca sürdürdü.",
+      "synonyms": [
+        "istiklal"
+      ]
+    },
+    {
+      "word": "Bebek",
+      "en": "baby",
+      "example": "Bebek ilk adımlarını salonda attı.",
+      "synonyms": []
+    },
+    {
+      "word": "Belagat",
+      "en": "eloquence",
+      "example": "Konuşmacının belagat gücü dinleyicileri etkiledi.",
+      "synonyms": []
+    },
+    {
+      "word": "Benzetme",
+      "en": "simile; comparison",
+      "example": "Yazar, çocuğun gözlerini yıldızlara benzeterek bir benzetme yaptı.",
+      "synonyms": [
+        "teşbih"
+      ]
+    },
+    {
+      "word": "Betimleme",
+      "en": "description",
+      "example": "Romandaki ayrıntılı betimleme sayesinde köyü gözümde canlandırdım.",
+      "synonyms": [
+        "tasvir"
+      ]
+    },
+    {
+      "word": "Beşerî",
+      "en": "human",
+      "example": "Kuraklığın beşerî etkileri göçü hızlandırdı.",
+      "synonyms": [
+        "insani"
+      ]
+    },
+    {
+      "word": "Bilanço",
+      "en": "balance sheet",
+      "example": "Şirket yıl sonunda bilanço hazırladı.",
+      "synonyms": []
+    },
+    {
+      "word": "Bilgisayar",
+      "en": "computer",
+      "example": "Bilgisayar dosyayı birkaç saniyede açtı.",
+      "synonyms": []
+    },
+    {
+      "word": "Bireşim",
+      "en": "synthesis",
+      "example": "Bu eser farklı müzik geleneklerinden doğan bir bireşim sunuyor.",
+      "synonyms": [
+        "sentez"
+      ]
+    },
+    {
+      "word": "Biyografi",
+      "en": "biography",
+      "example": "Sanatçının çocukluğunu anlatan biyografi çok ilgi gördü.",
+      "synonyms": [
+        "yaşam öyküsü"
+      ]
+    },
+    {
+      "word": "Boru",
+      "en": "pipe",
+      "example": "Patlayan boru yüzünden mutfağı su bastı.",
+      "synonyms": []
+    },
+    {
+      "word": "Buhar",
+      "en": "steam",
+      "example": "Kaynar sudan yükselen buhar camı kapladı.",
+      "synonyms": []
+    },
+    {
+      "word": "Burjuvazi",
+      "en": "bourgeoisie",
+      "example": "Sanayi Devrimi sırasında burjuvazi ekonomik gücünü artırdı.",
+      "synonyms": []
+    },
+    {
+      "word": "Buzdolabı",
+      "en": "refrigerator",
+      "example": "Buzdolabı kapağı açık kalınca içindeki yiyecekler ısındı.",
+      "synonyms": []
+    },
+    {
+      "word": "Bütçe",
+      "en": "budget",
+      "example": "Tatil için ayırdığımız bütçe sınırlıydı.",
+      "synonyms": []
+    },
+    {
+      "word": "Cam",
+      "en": "glass",
+      "example": "Kırılan cam parçalarını dikkatle topladık.",
+      "synonyms": []
+    },
+    {
+      "word": "Cebir",
+      "en": "algebra",
+      "example": "Cebir dersinde bilinmeyenleri harflerle gösterdik.",
+      "synonyms": []
+    },
+    {
+      "word": "Cemaat",
+      "en": "congregation; community",
+      "example": "Cemaat bayram sabahı ibadet için toplandı.",
+      "synonyms": []
+    },
+    {
+      "word": "Cerrah",
+      "en": "surgeon",
+      "example": "Cerrah ameliyatın başarılı geçtiğini söyledi.",
+      "synonyms": []
+    },
+    {
+      "word": "Cevher",
+      "en": "ore; essence",
+      "example": "Madenden çıkarılan cevher işlenmek üzere fabrikaya gönderildi.",
+      "synonyms": []
+    },
+    {
+      "word": "Cezbe",
+      "en": "ecstasy; rapture",
+      "example": "Müzik sona erdiğinde bile dinleyiciler derin bir cezbe içindeydi.",
+      "synonyms": []
+    },
+    {
+      "word": "Cisim",
+      "en": "object; body",
+      "example": "Suda yüzen cisim kıyıya doğru sürüklendi.",
+      "synonyms": [
+        "nesne"
+      ]
+    },
+    {
+      "word": "Cumartesi",
+      "en": "Saturday",
+      "example": "Cumartesi arkadaşlarımla yürüyüşe çıkacağım.",
+      "synonyms": []
+    },
+    {
+      "word": "Cürüm",
+      "en": "crime",
+      "example": "Eski kanun metninde bu eylem ağır bir cürüm sayılıyordu.",
+      "synonyms": [
+        "suç"
+      ]
+    },
+    {
+      "word": "Cımbız",
+      "en": "tweezers",
+      "example": "Küçük kıymığı cımbız yardımıyla çıkardı.",
+      "synonyms": []
+    },
+    {
+      "word": "Davul",
+      "en": "drum",
+      "example": "Davul sesi uzaktaki meydandan geliyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Defne",
+      "en": "bay laurel",
+      "example": "Tencereye bir defne yaprağı attım.",
+      "synonyms": []
+    },
+    {
+      "word": "Demografi",
+      "en": "demography",
+      "example": "Demografi çalışması ilçenin hızla yaşlandığını gösterdi.",
+      "synonyms": [
+        "nüfus bilimi"
+      ]
+    },
+    {
+      "word": "Deneysellik",
+      "en": "experimental character",
+      "example": "Araştırmanın deneysellik yönü, varsayımların ölçümlerle sınanmasına dayanıyor.",
+      "synonyms": []
+    },
+    {
+      "word": "Deontoloji",
+      "en": "deontology",
+      "example": "Tıp öğrencileri deontoloji dersinde hasta mahremiyetini tartıştı.",
+      "synonyms": []
+    },
+    {
+      "word": "Dernek",
+      "en": "association",
+      "example": "Dernek bu yıl yüz öğrenciye burs verdi.",
+      "synonyms": []
+    },
+    {
+      "word": "Devinim",
+      "en": "motion",
+      "example": "Dansçının her devinim sırasında dengesini koruması gerekiyordu.",
+      "synonyms": [
+        "hareket"
+      ]
+    },
+    {
+      "word": "Değişken",
+      "en": "variable",
+      "example": "Modelde yaş bağımsız değişken olarak kullanıldı.",
+      "synonyms": []
+    },
+    {
+      "word": "Dilekçe",
+      "en": "petition",
+      "example": "Şikâyetimizi belediyeye bir dilekçe ile ilettik.",
+      "synonyms": []
+    },
+    {
+      "word": "Direnç",
+      "en": "resistance",
+      "example": "Malzeme yüksek sıcaklığa karşı direnç gösterdi.",
+      "synonyms": [
+        "mukavemet"
+      ]
+    },
+    {
+      "word": "Diyalog",
+      "en": "dialogue",
+      "example": "İki komşu arasındaki diyalog yanlış anlaşılmayı çözdü.",
+      "synonyms": [
+        "söyleşim"
+      ]
+    },
+    {
+      "word": "Dogma",
+      "en": "dogma",
+      "example": "Araştırmacı, sorgulamadan kabul edilen her dogma ile arasına mesafe koydu.",
+      "synonyms": []
+    },
+    {
+      "word": "Dolap",
+      "en": "cupboard",
+      "example": "Yeni dolap bütün kitapları aldı.",
+      "synonyms": []
+    },
+    {
+      "word": "Durağan",
+      "en": "static; stationary",
+      "example": "Durağan görüntü, kamera hareket edince canlandı.",
+      "synonyms": [
+        "sabit"
+      ]
+    },
+    {
+      "word": "Duyuru",
+      "en": "announcement",
+      "example": "Yarışmanın sonuçları bir duyuru ile açıklandı.",
+      "synonyms": [
+        "ilan"
+      ]
+    },
+    {
+      "word": "Düdük",
+      "en": "whistle",
+      "example": "Hakem düdük çalınca oyun durdu.",
+      "synonyms": []
+    },
+    {
+      "word": "Düğme",
+      "en": "button",
+      "example": "Gömleğin yakasındaki düğme kopmuş.",
+      "synonyms": []
+    },
+    {
+      "word": "Edilgen",
+      "en": "passive",
+      "example": "Toplantıda edilgen kalmak yerine önerilerini dile getirdi.",
+      "synonyms": [
+        "pasif"
+      ]
+    },
+    {
+      "word": "Ekip",
+      "en": "team",
+      "example": "Ekip proje üzerinde birlikte çalışıyor.",
+      "synonyms": [
+        "takım"
+      ]
+    },
+    {
+      "word": "Ekonomi",
+      "en": "economics; economy",
+      "example": "Ekonomi dersinde arz ve talebi öğrendik.",
+      "synonyms": [
+        "iktisat"
+      ]
+    },
+    {
+      "word": "Elektrik",
+      "en": "electricity",
+      "example": "Fırtına nedeniyle mahallede elektrik kesildi.",
+      "synonyms": []
+    },
+    {
+      "word": "Elçilik",
+      "en": "embassy",
+      "example": "Elçilik vatandaşlara seyahat konusunda bilgi verdi.",
+      "synonyms": []
+    },
+    {
+      "word": "Empirik",
+      "en": "empirical",
+      "example": "Çalışma yalnızca kuramsal değil, empirik bulgulara da dayanıyor.",
+      "synonyms": [
+        "deneysel"
+      ]
+    },
+    {
+      "word": "Enerji",
+      "en": "energy",
+      "example": "Uzun yürüyüş için yeterince enerji toplamak gerekiyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Epistemoloji",
+      "en": "epistemology",
+      "example": "Epistemoloji dersinde bilginin nasıl doğrulanabileceğini tartıştık.",
+      "synonyms": [
+        "bilgi felsefesi"
+      ]
+    },
+    {
+      "word": "Erozyon",
+      "en": "erosion",
+      "example": "Ağaçların kesilmesi yamaçta erozyon riskini artırdı.",
+      "synonyms": [
+        "aşınım"
+      ]
+    },
+    {
+      "word": "Etken",
+      "en": "factor",
+      "example": "Başarıdaki en önemli etken düzenli çalışmaktı.",
+      "synonyms": [
+        "faktör"
+      ]
+    },
+    {
+      "word": "Ev",
+      "en": "house; home",
+      "example": "Köşedeki ev yıllardır boş duruyor.",
+      "synonyms": [
+        "konut"
+      ]
+    },
+    {
+      "word": "Evrensel",
+      "en": "universal",
+      "example": "İnsan hakları evrensel değerler olarak savunulur.",
+      "synonyms": []
+    },
+    {
+      "word": "Eşek",
+      "en": "donkey",
+      "example": "Eşek dar patikada yük taşıyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Fani",
+      "en": "mortal",
+      "example": "Şair, fani hayatın kıymetini bilmemizi öğütlüyor.",
+      "synonyms": [
+        "ölümlü"
+      ]
+    },
+    {
+      "word": "Fasulye",
+      "en": "bean",
+      "example": "Bu akşam kuru fasulye pişireceğiz.",
+      "synonyms": []
+    },
+    {
+      "word": "Fayda",
+      "en": "benefit",
+      "example": "Düzenli tekrarın öğrenmeye büyük fayda sağladığını gördüm.",
+      "synonyms": [
+        "yarar"
+      ]
+    },
+    {
+      "word": "Fener",
+      "en": "flashlight; lantern",
+      "example": "Karanlık patikayı fener yardımıyla aydınlattık.",
+      "synonyms": []
+    },
+    {
+      "word": "Ferman",
+      "en": "imperial decree",
+      "example": "Padişahın gönderdiği ferman meydanda okundu.",
+      "synonyms": []
+    },
+    {
+      "word": "Fikir",
+      "en": "idea",
+      "example": "Aklıma daha basit bir fikir geldi.",
+      "synonyms": [
+        "düşünce"
+      ]
+    },
+    {
+      "word": "Filtre",
+      "en": "filter",
+      "example": "Kirlenen filtre değiştirilince su berraklaştı.",
+      "synonyms": [
+        "süzgeç"
+      ]
+    },
+    {
+      "word": "Fizyoloji",
+      "en": "physiology",
+      "example": "Fizyoloji dersinde kasların nasıl çalıştığını öğrendik.",
+      "synonyms": []
+    },
+    {
+      "word": "Fosil",
+      "en": "fossil",
+      "example": "Kayada küçük bir deniz canlısına ait fosil bulundu.",
+      "synonyms": [
+        "taşıl"
+      ]
+    },
+    {
+      "word": "Futbol",
+      "en": "football",
+      "example": "Çocuklar okul bahçesinde futbol oynuyor.",
+      "synonyms": []
+    },
+    {
+      "word": "Fındık",
+      "en": "hazelnut",
+      "example": "Tatlıya dövülmüş fındık ekledik.",
+      "synonyms": []
+    },
+    {
+      "word": "Fırın",
+      "en": "oven",
+      "example": "Fırın ısınınca tepsiyi içine yerleştirdim.",
+      "synonyms": []
+    },
+    {
+      "word": "Gaga",
+      "en": "beak",
+      "example": "Sert gaga sayesinde kuş çekirdeğin kabuğunu kırdı.",
+      "synonyms": []
+    },
+    {
+      "word": "Gece",
+      "en": "night",
+      "example": "Gece bütün sokak sessizleşti.",
+      "synonyms": []
+    },
+    {
+      "word": "Gelir",
+      "en": "income",
+      "example": "Ailenin aylık gelir düzeyi yükseldi.",
+      "synonyms": []
+    },
+    {
+      "word": "Gerekçe",
+      "en": "justification",
+      "example": "Başvurunun reddi için açık bir gerekçe sunulmadı.",
+      "synonyms": []
+    },
+    {
+      "word": "Gitar",
+      "en": "guitar",
+      "example": "Akşam arkadaşımız gitar çaldı.",
+      "synonyms": []
+    },
+    {
+      "word": "Gökkuşağı",
+      "en": "rainbow",
+      "example": "Yağmur durunca tepelerin üzerinde gökkuşağı belirdi.",
+      "synonyms": []
+    },
+    {
+      "word": "Görecelik",
+      "en": "relativity",
+      "example": "Zaman algısındaki görecelik romanın ana konusuydu.",
+      "synonyms": [
+        "izafiyet"
+      ]
+    },
+    {
+      "word": "Göz",
+      "en": "eye",
+      "example": "Göz sağlığı için düzenli muayene önemlidir.",
+      "synonyms": []
+    },
+    {
+      "word": "Göç",
+      "en": "migration",
+      "example": "Bölgede kuraklık nedeniyle göç başladı.",
+      "synonyms": []
+    },
+    {
+      "word": "Gümüş",
+      "en": "silver",
+      "example": "Usta gümüş bileziği parlatıyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Güven",
+      "en": "trust",
+      "example": "Verdiği sözleri tutması aramızda güven oluşturdu.",
+      "synonyms": [
+        "itimat"
+      ]
+    },
+    {
+      "word": "Hacim",
+      "en": "volume",
+      "example": "Kabın hacim ölçüsü bir litredir.",
+      "synonyms": []
+    },
+    {
+      "word": "Hakem",
+      "en": "referee",
+      "example": "Hakem tartışmalı pozisyondan sonra oyunu durdurdu.",
+      "synonyms": []
+    },
+    {
+      "word": "Hamur",
+      "en": "dough",
+      "example": "Hamur kabarsın diye üzerini örttük.",
+      "synonyms": []
+    },
+    {
+      "word": "Hasat",
+      "en": "harvest",
+      "example": "Bu yıl hasat beklenenden erken başladı.",
+      "synonyms": []
+    },
+    {
+      "word": "Havuz",
+      "en": "pool",
+      "example": "Havuz yüzme dersi için hazırlandı.",
+      "synonyms": []
+    },
+    {
+      "word": "Haysiyet",
+      "en": "dignity",
+      "example": "İnsan haysiyet ve saygı içinde yaşamayı hak eder.",
+      "synonyms": [
+        "onur"
+      ]
+    },
+    {
+      "word": "Hegemonya",
+      "en": "hegemony",
+      "example": "Tek bir grubun kültürel hegemonya kurmasına karşı çıktılar.",
+      "synonyms": []
+    },
+    {
+      "word": "Hesap",
+      "en": "calculation; account",
+      "example": "Bu hesap birkaç küçük işlemle çözülebilir.",
+      "synonyms": []
+    },
+    {
+      "word": "Heykel",
+      "en": "sculpture; statue",
+      "example": "Meydandaki heykel yıllar önce yapılmış.",
+      "synonyms": []
+    },
+    {
+      "word": "Hipotez",
+      "en": "hypothesis",
+      "example": "Deneyin sonucu başlangıçtaki hipotez ile uyuşmadı.",
+      "synonyms": [
+        "varsayım"
+      ]
+    },
+    {
+      "word": "Horoz",
+      "en": "rooster",
+      "example": "Horoz sabah erkenden öttü.",
+      "synonyms": []
+    },
+    {
+      "word": "Hurma",
+      "en": "date",
+      "example": "İftarda bir hurma yedikten sonra su içti.",
+      "synonyms": []
+    },
+    {
+      "word": "Hülasa",
+      "en": "in summary",
+      "example": "Hülasa, önerilen çözüm herkesi memnun etti.",
+      "synonyms": [
+        "kısacası"
+      ]
+    },
+    {
+      "word": "Irmak",
+      "en": "river",
+      "example": "Irmak köyün hemen yanından geçiyor.",
+      "synonyms": [
+        "nehir"
+      ]
+    },
+    {
+      "word": "Ispanak",
+      "en": "spinach",
+      "example": "Pazardan taze ıspanak aldık.",
+      "synonyms": []
+    },
+    {
+      "word": "Isı",
+      "en": "heat",
+      "example": "Metal tava ısı etkisiyle genleşti.",
+      "synonyms": []
+    },
+    {
+      "word": "Izgara",
+      "en": "grill",
+      "example": "Sebzeleri ızgara üzerinde pişirdik.",
+      "synonyms": []
+    },
+    {
+      "word": "İbraz",
+      "en": "presentation of a document",
+      "example": "Başvuruda kimlik ibraz etmek gerekiyor.",
+      "synonyms": [
+        "sunma"
+      ]
+    },
+    {
+      "word": "İddia",
+      "en": "claim",
+      "example": "Ortaya atılan iddia henüz kanıtlanmadı.",
+      "synonyms": [
+        "sav"
+      ]
+    },
+    {
+      "word": "İhracat",
+      "en": "export",
+      "example": "Firma bu yıl ihracat miktarını artırdı.",
+      "synonyms": [
+        "dış satım"
+      ]
+    },
+    {
+      "word": "İhtiyaç",
+      "en": "need",
+      "example": "Barınma temel bir ihtiyaç olarak kabul edilir.",
+      "synonyms": [
+        "gereksinim"
+      ]
+    },
+    {
+      "word": "İkilem",
+      "en": "dilemma",
+      "example": "İki arkadaşından birini seçmek zorunda kalınca ikilem yaşadı.",
+      "synonyms": []
+    },
+    {
+      "word": "İktibas",
+      "en": "quotation",
+      "example": "Yazar, kaynağını belirterek kısa bir iktibas yaptı.",
+      "synonyms": [
+        "alıntı"
+      ]
+    },
+    {
+      "word": "İlham",
+      "en": "inspiration",
+      "example": "Sahildeki renkler ressama ilham verdi.",
+      "synonyms": [
+        "esin"
+      ]
+    },
+    {
+      "word": "İmkân",
+      "en": "possibility; opportunity",
+      "example": "Şehirde ücretsiz eğitim için yeni bir imkân doğdu.",
+      "synonyms": [
+        "olanak"
+      ]
+    },
+    {
+      "word": "İncir",
+      "en": "fig",
+      "example": "Kahvaltıda taze incir yedim.",
+      "synonyms": []
+    },
+    {
+      "word": "İnek",
+      "en": "cow",
+      "example": "İnek çayırda otluyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "İntikal",
+      "en": "transfer; passing",
+      "example": "Mirasın çocuklara intikal süreci tamamlandı.",
+      "synonyms": [
+        "geçiş"
+      ]
+    },
+    {
+      "word": "İrade",
+      "en": "willpower",
+      "example": "Bu alışkanlığı bırakmak güçlü bir irade gerektiriyor.",
+      "synonyms": [
+        "istenç"
+      ]
+    },
+    {
+      "word": "İstasyon",
+      "en": "station",
+      "example": "İstasyon sabah saatlerinde çok kalabalıktı.",
+      "synonyms": []
+    },
+    {
+      "word": "İstikrar",
+      "en": "stability",
+      "example": "Ekonomide istikrar sağlanınca yatırımlar arttı.",
+      "synonyms": []
+    },
+    {
+      "word": "İthalat",
+      "en": "import",
+      "example": "Şirket bazı parçaları ithalat yoluyla temin ediyor.",
+      "synonyms": [
+        "dış alım"
+      ]
+    },
+    {
+      "word": "İvedi",
+      "en": "urgent",
+      "example": "İvedi işler tamamlanana kadar toplantıyı erteledik.",
+      "synonyms": [
+        "acil"
+      ]
+    },
+    {
+      "word": "İçkin",
+      "en": "immanent; inherent",
+      "example": "Bu yaklaşımda anlam, metne içkin bir özellik sayılır.",
+      "synonyms": []
+    },
+    {
+      "word": "İşlev",
+      "en": "function",
+      "example": "Yeni düğmenin işlev bakımından eskisinden farkı yok.",
+      "synonyms": [
+        "fonksiyon"
+      ]
+    },
+    {
+      "word": "Jargon",
+      "en": "jargon",
+      "example": "Doktor, hastanın anlamadığı mesleki jargon kullanmaktan kaçındı.",
+      "synonyms": []
+    },
+    {
+      "word": "Jenerik",
+      "en": "credits",
+      "example": "Film bitince jenerik boyunca salondan ayrılmadık.",
+      "synonyms": []
+    },
+    {
+      "word": "Jest",
+      "en": "gesture",
+      "example": "Yaşlı komşuya yardım etmesi ince bir jest oldu.",
+      "synonyms": []
+    },
+    {
+      "word": "Jeton",
+      "en": "token",
+      "example": "Dolabı açmak için bir jeton gerekiyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Jokey",
+      "en": "jockey",
+      "example": "Jokey son düzlükte atını hızlandırdı.",
+      "synonyms": []
+    },
+    {
+      "word": "Jübile",
+      "en": "farewell match; jubilee",
+      "example": "Deneyimli oyuncu için jübile maçı düzenlendi.",
+      "synonyms": []
+    },
+    {
+      "word": "Kabiliyet",
+      "en": "ability",
+      "example": "Çocuk küçük yaşta müziğe kabiliyet gösterdi.",
+      "synonyms": [
+        "yetenek"
+      ]
+    },
+    {
+      "word": "Kakofoni",
+      "en": "cacophony",
+      "example": "Aynı anda çalan kornalar dayanılmaz bir kakofoni oluşturdu.",
+      "synonyms": []
+    },
+    {
+      "word": "Kampanya",
+      "en": "campaign",
+      "example": "Okul kitap toplamak için kampanya başlattı.",
+      "synonyms": []
+    },
+    {
+      "word": "Kanepe",
+      "en": "sofa",
+      "example": "Kanepe pencerenin önüne yerleştirildi.",
+      "synonyms": []
+    },
+    {
+      "word": "Kanıt",
+      "en": "evidence",
+      "example": "İddiayı destekleyen yeni bir kanıt bulundu.",
+      "synonyms": [
+        "delil"
+      ]
+    },
+    {
+      "word": "Kar",
+      "en": "snow",
+      "example": "Sabah uyandığımızda yollar kar ile kaplıydı.",
+      "synonyms": []
+    },
+    {
+      "word": "Karpuz",
+      "en": "watermelon",
+      "example": "Sıcakta soğuk karpuz yemek iyi geldi.",
+      "synonyms": []
+    },
+    {
+      "word": "Katalizör",
+      "en": "catalyst",
+      "example": "Bu buluş sektördeki dönüşüm için katalizör oldu.",
+      "synonyms": []
+    },
+    {
+      "word": "Kavun",
+      "en": "melon",
+      "example": "Olgun kavun mutfağa hoş bir koku yaydı.",
+      "synonyms": []
+    },
+    {
+      "word": "Kaz",
+      "en": "goose",
+      "example": "Kaz yavrularıyla gölete yürüdü.",
+      "synonyms": []
+    },
+    {
+      "word": "Kaşık",
+      "en": "spoon",
+      "example": "Çorbayı karıştırmak için kaşık aldım.",
+      "synonyms": []
+    },
+    {
+      "word": "Kemik",
+      "en": "bone",
+      "example": "Röntgende kırık bir kemik görüldü.",
+      "synonyms": []
+    },
+    {
+      "word": "Kira",
+      "en": "rent",
+      "example": "Bu ay kira ödemesini erken yaptık.",
+      "synonyms": []
+    },
+    {
+      "word": "Kivi",
+      "en": "kiwi",
+      "example": "Meyve salatasına bir kivi doğradım.",
+      "synonyms": []
+    },
+    {
+      "word": "Kolye",
+      "en": "necklace",
+      "example": "Hediye aldığı kolye boynunda parlıyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Konjonktür",
+      "en": "conjuncture; prevailing conditions",
+      "example": "Siyasi konjonktür yeni anlaşmaların önünü açtı.",
+      "synonyms": []
+    },
+    {
+      "word": "Korelasyon",
+      "en": "correlation",
+      "example": "İki değişken arasında güçlü korelasyon bulundu.",
+      "synonyms": []
+    },
+    {
+      "word": "Kozmopolit",
+      "en": "cosmopolitan",
+      "example": "Liman şehri kozmopolit yapısıyla farklı kültürleri buluşturuyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Kulak",
+      "en": "ear",
+      "example": "Kulak sağlığını korumak için sesi kıstı.",
+      "synonyms": []
+    },
+    {
+      "word": "Kuram",
+      "en": "theory",
+      "example": "Bu kuram yeni deneylerle desteklendi.",
+      "synonyms": [
+        "teori"
+      ]
+    },
+    {
+      "word": "Kutup",
+      "en": "pole",
+      "example": "Araştırma ekibi kutup bölgesine doğru yola çıktı.",
+      "synonyms": []
+    },
+    {
+      "word": "Köpek",
+      "en": "dog",
+      "example": "Köpek bahçe kapısında bizi bekliyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Kümülatif",
+      "en": "cumulative",
+      "example": "Rapor, aylık değerlerin yanında kümülatif toplamı da gösteriyor.",
+      "synonyms": [
+        "birikimli"
+      ]
+    },
+    {
+      "word": "Kütüphane",
+      "en": "library",
+      "example": "Kütüphane sınav haftasında geç saate kadar açık.",
+      "synonyms": []
+    },
+    {
+      "word": "Kıyas",
+      "en": "comparison",
+      "example": "İki ürün arasında kıyas yapmadan karar vermedim.",
+      "synonyms": [
+        "karşılaştırma"
+      ]
+    },
+    {
+      "word": "Lahana",
+      "en": "cabbage",
+      "example": "Pazardan büyük bir lahana aldık.",
+      "synonyms": []
+    },
+    {
+      "word": "Lamba",
+      "en": "lamp",
+      "example": "Masanın üzerindeki lamba çalışma alanını aydınlatıyor.",
+      "synonyms": []
+    },
+    {
+      "word": "Leblebi",
+      "en": "roasted chickpeas",
+      "example": "Yolculuk için bir paket leblebi aldım.",
+      "synonyms": []
+    },
+    {
+      "word": "Leylek",
+      "en": "stork",
+      "example": "Leylek bacanın üstüne yuva kurdu.",
+      "synonyms": []
+    },
+    {
+      "word": "Limon",
+      "en": "lemon",
+      "example": "Çorbaya biraz limon sıktım.",
+      "synonyms": []
+    },
+    {
+      "word": "Liste",
+      "en": "list",
+      "example": "Alışverişe çıkmadan önce liste hazırladım.",
+      "synonyms": []
+    },
+    {
+      "word": "Lokanta",
+      "en": "restaurant",
+      "example": "Sokaktaki küçük lokanta ev yemekleri sunuyor.",
+      "synonyms": [
+        "restoran"
+      ]
+    },
+    {
+      "word": "Mahiyet",
+      "en": "nature; essence",
+      "example": "Kararın hukuki mahiyet bakımından incelenmesi istendi.",
+      "synonyms": [
+        "nitelik"
+      ]
+    },
+    {
+      "word": "Makbul",
+      "en": "acceptable; appreciated",
+      "example": "Misafir getirdiği hediyenin makbul olduğunu görünce sevindi.",
+      "synonyms": [
+        "beğenilen"
+      ]
+    },
+    {
+      "word": "Malzeme",
+      "en": "material",
+      "example": "Usta, sağlam malzeme kullanmaya özen gösterdi.",
+      "synonyms": []
+    },
+    {
+      "word": "Mantık",
+      "en": "logic",
+      "example": "Bu sonuca hangi mantık ile ulaştığını anlayamadım.",
+      "synonyms": []
+    },
+    {
+      "word": "Masa",
+      "en": "table",
+      "example": "Masa bütün aileye yetecek kadar büyüktü.",
+      "synonyms": []
+    },
+    {
+      "word": "Meclis",
+      "en": "assembly; parliament",
+      "example": "Meclis yeni yasayı görüşmek üzere toplandı.",
+      "synonyms": []
+    },
+    {
+      "word": "Mendil",
+      "en": "handkerchief",
+      "example": "Cebinden temiz bir mendil çıkardı.",
+      "synonyms": []
+    },
+    {
+      "word": "Mesafe",
+      "en": "distance",
+      "example": "İki durak arasındaki mesafe yürüyerek on dakika sürüyor.",
+      "synonyms": [
+        "uzaklık"
+      ]
+    },
+    {
+      "word": "Metodoloji",
+      "en": "methodology",
+      "example": "Araştırmanın metodoloji bölümü veri toplama sürecini açıklıyor.",
+      "synonyms": [
+        "yöntem bilimi"
+      ]
+    },
+    {
+      "word": "Meşru",
+      "en": "legitimate",
+      "example": "Çalışanlar meşru haklarını savunmak için toplandı.",
+      "synonyms": [
+        "yasal"
+      ]
+    },
+    {
+      "word": "Misafir",
+      "en": "guest",
+      "example": "Bu akşam eve misafir gelecek.",
+      "synonyms": [
+        "konuk"
+      ]
+    },
+    {
+      "word": "Model",
+      "en": "model",
+      "example": "Mühendis yeni köprünün küçük bir model örneğini hazırladı.",
+      "synonyms": []
+    },
+    {
+      "word": "Muarız",
+      "en": "opponent",
+      "example": "Konuşmacıya muarız olan grup, itirazlarını sıraladı.",
+      "synonyms": [
+        "karşıt"
+      ]
+    },
+    {
+      "word": "Muvafakat",
+      "en": "consent",
+      "example": "Çocuğun katılması için veliden muvafakat alındı.",
+      "synonyms": [
+        "onay"
+      ]
+    },
+    {
+      "word": "Müessese",
+      "en": "institution",
+      "example": "Bu köklü müessese yüz yıldır eğitim veriyor.",
+      "synonyms": [
+        "kurum"
+      ]
+    },
+    {
+      "word": "Mülakat",
+      "en": "interview",
+      "example": "İş başvurusu için yarın mülakat yapılacak.",
+      "synonyms": [
+        "görüşme"
+      ]
+    },
+    {
+      "word": "Müstakil",
+      "en": "detached; independent",
+      "example": "Şehir dışında müstakil bir ev kiraladılar.",
+      "synonyms": [
+        "bağımsız"
+      ]
+    },
+    {
+      "word": "Mütevazı",
+      "en": "modest",
+      "example": "Büyük başarısına rağmen mütevazı tavrını korudu.",
+      "synonyms": [
+        "alçak gönüllü"
+      ]
+    },
+    {
+      "word": "Müşteri",
+      "en": "customer",
+      "example": "Müşteri siparişini teslim aldı.",
+      "synonyms": []
+    },
+    {
+      "word": "Nakliye",
+      "en": "transportation of goods",
+      "example": "Mobilyaların nakliye masrafı fiyata dahildi.",
+      "synonyms": [
+        "taşıma"
+      ]
+    },
+    {
+      "word": "Naylon",
+      "en": "nylon",
+      "example": "Naylon poşet yerine bez çanta kullanıyorum.",
+      "synonyms": []
+    },
+    {
+      "word": "Nehir",
+      "en": "river",
+      "example": "Nehir baharda eriyen karlarla kabardı.",
+      "synonyms": [
+        "ırmak"
+      ]
+    },
+    {
+      "word": "Nesnel",
+      "en": "objective",
+      "example": "Bilimsel raporda nesnel bir dil kullanılmalı.",
+      "synonyms": [
+        "objektif"
+      ]
+    },
+    {
+      "word": "Nicelik",
+      "en": "quantity",
+      "example": "Ürünlerin nicelik bakımından artması kaliteyi garanti etmez.",
+      "synonyms": [
+        "miktar"
+      ]
+    },
+    {
+      "word": "Nirengi",
+      "en": "triangulation point",
+      "example": "Haritacı ölçüm için bir nirengi noktası seçti.",
+      "synonyms": []
+    },
+    {
+      "word": "Nitelik",
+      "en": "quality; characteristic",
+      "example": "Eğitimin nitelik bakımından geliştirilmesi gerekiyor.",
+      "synonyms": [
+        "vasıf"
+      ]
+    },
+    {
+      "word": "Normatif",
+      "en": "normative",
+      "example": "Bu normatif yaklaşım, insanların nasıl davranması gerektiğini tartışıyor.",
+      "synonyms": []
+    },
+    {
+      "word": "Nüans",
+      "en": "nuance",
+      "example": "İki yorum arasında küçük bir nüans var.",
+      "synonyms": [
+        "ince fark"
+      ]
+    },
+    {
+      "word": "Nükte",
+      "en": "witticism",
+      "example": "Konuşmasına eklediği nükte herkesi gülümsetti.",
+      "synonyms": [
+        "ince espri"
+      ]
+    },
+    {
+      "word": "Odun",
+      "en": "firewood",
+      "example": "Sobaya birkaç parça odun attık.",
+      "synonyms": []
+    },
+    {
+      "word": "Olasılık",
+      "en": "probability",
+      "example": "Bu sonucun gerçekleşme olasılık değeri oldukça düşük.",
+      "synonyms": [
+        "ihtimal"
+      ]
+    },
+    {
+      "word": "Omuz",
+      "en": "shoulder",
+      "example": "Ağır çanta omuz ağrısına yol açtı.",
+      "synonyms": []
+    },
+    {
+      "word": "Ontoloji",
+      "en": "ontology",
+      "example": "Ontoloji dersinde varlık türlerini karşılaştırdık.",
+      "synonyms": [
+        "varlık felsefesi"
+      ]
+    },
+    {
+      "word": "Orkestra",
+      "en": "orchestra",
+      "example": "Orkestra şefin işaretiyle çalmaya başladı.",
+      "synonyms": []
+    },
+    {
+      "word": "Ortodoks",
+      "en": "orthodox",
+      "example": "Araştırmacı ortodoks görüşlerin dışına çıkan bir yorum sundu.",
+      "synonyms": []
+    },
+    {
+      "word": "Oturum",
+      "en": "session",
+      "example": "İlk oturum tamamlanınca kısa bir ara verildi.",
+      "synonyms": [
+        "celse"
+      ]
+    },
+    {
+      "word": "Oğul",
+      "en": "son",
+      "example": "Baba ve oğul birlikte balık tutmaya gitti.",
+      "synonyms": []
+    },
+    {
+      "word": "Panteizm",
+      "en": "pantheism",
+      "example": "Panteizm, Tanrı ile evreni birbirinden ayrı görmez.",
+      "synonyms": [
+        "tüm tanrıcılık"
+      ]
+    },
+    {
+      "word": "Paradigma",
+      "en": "paradigm",
+      "example": "Yeni bulgular alanda bir paradigma değişimine yol açtı.",
+      "synonyms": []
+    },
+    {
+      "word": "Parmak",
+      "en": "finger",
+      "example": "Çocuk cevap vermek için parmak kaldırdı.",
+      "synonyms": []
+    },
+    {
+      "word": "Patlıcan",
+      "en": "aubergine; eggplant",
+      "example": "Akşam yemeği için közlenmiş patlıcan hazırladık.",
+      "synonyms": []
+    },
+    {
+      "word": "Pazarlık",
+      "en": "bargaining",
+      "example": "Satıcıyla kısa bir pazarlık yaptıktan sonra anlaştık.",
+      "synonyms": []
+    },
+    {
+      "word": "Pencere",
+      "en": "window",
+      "example": "Pencere açılınca odaya temiz hava doldu.",
+      "synonyms": []
+    },
+    {
+      "word": "Perspektif",
+      "en": "perspective",
+      "example": "Ressam derinlik yaratmak için perspektif kurallarını kullandı.",
+      "synonyms": []
+    },
+    {
+      "word": "Piyano",
+      "en": "piano",
+      "example": "Kardeşim her gün piyano çalışıyor.",
+      "synonyms": []
+    },
+    {
+      "word": "Polis",
+      "en": "police officer",
+      "example": "Polis kaybolan çocuğu ailesine ulaştırdı.",
+      "synonyms": []
+    },
+    {
+      "word": "Pragmatizm",
+      "en": "pragmatism",
+      "example": "Pragmatizm, bir düşüncenin değerini uygulamadaki sonuçlarıyla ilişkilendirir.",
+      "synonyms": []
+    },
+    {
+      "word": "Prototip",
+      "en": "prototype",
+      "example": "Yeni cihazın prototip modeli test edildi.",
+      "synonyms": [
+        "ilk örnek"
+      ]
+    },
+    {
+      "word": "Pusula",
+      "en": "compass",
+      "example": "Sisli havada yönümüzü pusula yardımıyla bulduk.",
+      "synonyms": []
+    },
+    {
+      "word": "Raket",
+      "en": "racket",
+      "example": "Tenis dersine giderken raket getirmeyi unuttu.",
+      "synonyms": []
+    },
+    {
+      "word": "Rastlantı",
+      "en": "coincidence",
+      "example": "Aynı trenle karşılaşmamız tamamen rastlantı oldu.",
+      "synonyms": [
+        "tesadüf"
+      ]
+    },
+    {
+      "word": "Realizm",
+      "en": "realism",
+      "example": "Romanda realizm etkisi gündelik ayrıntılarda görülüyor.",
+      "synonyms": [
+        "gerçekçilik"
+      ]
+    },
+    {
+      "word": "Reklam",
+      "en": "advertisement",
+      "example": "Televizyondaki reklam yeni ürünü tanıtıyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Retorik",
+      "en": "rhetoric",
+      "example": "Retorik eğitimi, düşüncelerini daha etkili anlatmasını sağladı.",
+      "synonyms": [
+        "hitabet"
+      ]
+    },
+    {
+      "word": "Reçel",
+      "en": "jam",
+      "example": "Kahvaltı için çilekten reçel yapmayı planlıyoruz.",
+      "synonyms": []
+    },
+    {
+      "word": "Robot",
+      "en": "robot",
+      "example": "Robot depodaki kutuları sırayla taşıdı.",
+      "synonyms": []
+    },
+    {
+      "word": "Röportaj",
+      "en": "interview",
+      "example": "Gazeteci sanatçıyla uzun bir röportaj yaptı.",
+      "synonyms": []
+    },
+    {
+      "word": "Rıhtım",
+      "en": "quay",
+      "example": "Rıhtım boyunca yürüyüp tekneleri izledik.",
+      "synonyms": []
+    },
+    {
+      "word": "Sabır",
+      "en": "patience",
+      "example": "Yeni bir dil öğrenmek sabır gerektiriyor.",
+      "synonyms": []
+    },
+    {
+      "word": "Salatalık",
+      "en": "cucumber",
+      "example": "Salataya bir salatalık doğradım.",
+      "synonyms": []
+    },
+    {
+      "word": "Sanayi",
+      "en": "industry",
+      "example": "Bölgede sanayi geliştikçe yeni iş alanları açıldı.",
+      "synonyms": [
+        "endüstri"
+      ]
+    },
+    {
+      "word": "Sarımsak",
+      "en": "garlic",
+      "example": "Sosa iki diş sarımsak ekledik.",
+      "synonyms": []
+    },
+    {
+      "word": "Sağduyu",
+      "en": "common sense",
+      "example": "Tartışmanın büyümemesi için sağduyu ile davrandı.",
+      "synonyms": [
+        "aklıselim"
+      ]
+    },
+    {
+      "word": "Sempozyum",
+      "en": "symposium",
+      "example": "Sempozyum farklı üniversitelerden araştırmacıları bir araya getirdi.",
+      "synonyms": [
+        "bilgi şöleni"
+      ]
+    },
+    {
+      "word": "Sentez",
+      "en": "synthesis",
+      "example": "İki yaklaşımı birleştiren sentez yeni bir bakış açısı sundu.",
+      "synonyms": [
+        "bireşim"
+      ]
+    },
+    {
+      "word": "Sertifika",
+      "en": "certificate",
+      "example": "Kursu bitirince sertifika almaya hak kazandı.",
+      "synonyms": []
+    },
+    {
+      "word": "Silgi",
+      "en": "eraser",
+      "example": "Yanlış çizgiyi silgi ile sildim.",
+      "synonyms": []
+    },
+    {
+      "word": "Simit",
+      "en": "sesame bread ring",
+      "example": "Vapurda çayla birlikte simit yedik.",
+      "synonyms": []
+    },
+    {
+      "word": "Sokak",
+      "en": "street",
+      "example": "Sokak yağmurdan sonra sessizleşti.",
+      "synonyms": []
+    },
+    {
+      "word": "Soğan",
+      "en": "onion",
+      "example": "Yemek için bir soğan doğradım.",
+      "synonyms": []
+    },
+    {
+      "word": "Stok",
+      "en": "stock",
+      "example": "Mağazada yeterli stok kalmadığı için sipariş verildi.",
+      "synonyms": []
+    },
+    {
+      "word": "Sükûnet",
+      "en": "calmness",
+      "example": "Göl kenarındaki sükûnet hepimize iyi geldi.",
+      "synonyms": [
+        "dinginlik",
+        "sakinlik"
+      ]
+    },
+    {
+      "word": "Süreklilik",
+      "en": "continuity",
+      "example": "Başarı için çalışmada süreklilik gerekir.",
+      "synonyms": [
+        "devamlılık"
+      ]
+    },
+    {
+      "word": "Sınır",
+      "en": "border; boundary",
+      "example": "İki ülke arasındaki sınır nehir boyunca uzanıyor.",
+      "synonyms": [
+        "hudut"
+      ]
+    },
+    {
+      "word": "Tabak",
+      "en": "plate",
+      "example": "Masaya temiz bir tabak koydum.",
+      "synonyms": []
+    },
+    {
+      "word": "Tahta",
+      "en": "wooden board",
+      "example": "Marangoz raf için bir tahta kesti.",
+      "synonyms": []
+    },
+    {
+      "word": "Tarak",
+      "en": "comb",
+      "example": "Saçını düzeltmek için tarak aradı.",
+      "synonyms": []
+    },
+    {
+      "word": "Tasarruf",
+      "en": "saving; economy",
+      "example": "Gereksiz ışıkları kapatarak enerji tüketiminde tasarruf sağlıyoruz.",
+      "synonyms": []
+    },
+    {
+      "word": "Tasnif",
+      "en": "classification",
+      "example": "Arşivdeki belgeler için ayrıntılı tasnif yapıldı.",
+      "synonyms": [
+        "sınıflandırma"
+      ]
+    },
+    {
+      "word": "Tavuk",
+      "en": "chicken",
+      "example": "Tavuk kümeste yumurtladı.",
+      "synonyms": []
+    },
+    {
+      "word": "Tecessüs",
+      "en": "curiosity",
+      "example": "Çocuğun tecessüs duygusu onu her şeyi sormaya yöneltiyordu.",
+      "synonyms": [
+        "merak"
+      ]
+    },
+    {
+      "word": "Tedbir",
+      "en": "precaution",
+      "example": "Yoğun yağışa karşı gerekli tedbir alındı.",
+      "synonyms": [
+        "önlem"
+      ]
+    },
+    {
+      "word": "Tekâmül",
+      "en": "development; maturation",
+      "example": "Romanda kahramanın ruhsal tekâmül süreci anlatılıyor.",
+      "synonyms": [
+        "olgunlaşma"
+      ]
+    },
+    {
+      "word": "Telefon",
+      "en": "telephone",
+      "example": "Telefon çalınca konuşmaya ara verdik.",
+      "synonyms": []
+    },
+    {
+      "word": "Temayül",
+      "en": "tendency",
+      "example": "Öğrencinin sanata temayül gösterdiği fark edildi.",
+      "synonyms": [
+        "eğilim"
+      ]
+    },
+    {
+      "word": "Tencere",
+      "en": "cooking pot",
+      "example": "Tencere ocakta yavaşça kaynıyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Tevazu",
+      "en": "humility",
+      "example": "Övgüleri tevazu ile karşıladı.",
+      "synonyms": [
+        "alçak gönüllülük"
+      ]
+    },
+    {
+      "word": "Teşbih",
+      "en": "simile",
+      "example": "Şair sevgilinin yüzünü aya benzeterek teşbih yaptı.",
+      "synonyms": [
+        "benzetme"
+      ]
+    },
+    {
+      "word": "Tilki",
+      "en": "fox",
+      "example": "Tilki ormanın kenarında belirdi.",
+      "synonyms": []
+    },
+    {
+      "word": "Toplantı",
+      "en": "meeting",
+      "example": "Toplantı herkes gelince başladı.",
+      "synonyms": []
+    },
+    {
+      "word": "Tren",
+      "en": "train",
+      "example": "Tren istasyondan zamanında ayrıldı.",
+      "synonyms": []
+    },
+    {
+      "word": "Töz",
+      "en": "substance; essence",
+      "example": "Filozof, değişen özelliklerin altında kalıcı bir töz arıyordu.",
+      "synonyms": [
+        "cevher"
+      ]
+    },
+    {
+      "word": "Tümevarım",
+      "en": "induction",
+      "example": "Tek tek örneklerden genel sonuca tümevarım yoluyla ulaşıldı.",
+      "synonyms": []
+    },
+    {
+      "word": "Ulaşım",
+      "en": "transport; transportation",
+      "example": "Yoğun kar yağışı şehirde ulaşım sorununa yol açtı.",
+      "synonyms": []
+    },
+    {
+      "word": "Umut",
+      "en": "hope",
+      "example": "Gelen haber bize umut verdi.",
+      "synonyms": [
+        "ümit"
+      ]
+    },
+    {
+      "word": "Ussal",
+      "en": "rational",
+      "example": "Soruna ussal bir çözüm aramaya çalıştık.",
+      "synonyms": [
+        "akılcı"
+      ]
+    },
+    {
+      "word": "Uyarı",
+      "en": "warning",
+      "example": "Tehlikeli virajdan önce bir uyarı levhası vardı.",
+      "synonyms": [
+        "ikaz"
+      ]
+    },
+    {
+      "word": "Uyku",
+      "en": "sleep",
+      "example": "Uzun yolculuktan sonra iyi bir uyku gerekliydi.",
+      "synonyms": []
+    },
+    {
+      "word": "Uzlaşma",
+      "en": "compromise",
+      "example": "Taraflar sonunda uzlaşma sağladı.",
+      "synonyms": [
+        "anlaşma"
+      ]
+    },
+    {
+      "word": "Uçak",
+      "en": "plane",
+      "example": "Uçak bulutların üzerine yükseldi.",
+      "synonyms": []
+    },
+    {
+      "word": "Vahamet",
+      "en": "gravity; seriousness",
+      "example": "Rapor, durumun vahamet derecesini açıkça ortaya koydu.",
+      "synonyms": [
+        "ciddiyet"
+      ]
+    },
+    {
+      "word": "Valiz",
+      "en": "suitcase",
+      "example": "Valiz yolculuk için hazırdı.",
+      "synonyms": [
+        "bavul"
+      ]
+    },
+    {
+      "word": "Vardiya",
+      "en": "shift",
+      "example": "Gece vardiya değişimi saat onda yapılacak.",
+      "synonyms": []
+    },
+    {
+      "word": "Vasat",
+      "en": "mediocre; average",
+      "example": "Film vasat bir hikâyeyi güçlü oyunculukla kurtarıyordu.",
+      "synonyms": [
+        "orta"
+      ]
+    },
+    {
+      "word": "Vecize",
+      "en": "aphorism",
+      "example": "Konuşmasını kısa bir vecize ile bitirdi.",
+      "synonyms": [
+        "özdeyiş"
+      ]
+    },
+    {
+      "word": "Veri",
+      "en": "data",
+      "example": "Anketten elde edilen veri dikkatle temizlendi.",
+      "synonyms": []
+    },
+    {
+      "word": "Vesika",
+      "en": "document",
+      "example": "Arşivde olayı doğrulayan bir vesika bulundu.",
+      "synonyms": [
+        "belge"
+      ]
+    },
+    {
+      "word": "Vize",
+      "en": "visa",
+      "example": "Seyahatten önce vize başvurusunu tamamladı.",
+      "synonyms": []
+    },
+    {
+      "word": "Vukuf",
+      "en": "expert knowledge",
+      "example": "Bu konuda vukuf sahibi olduğu, ayrıntılı açıklamasından anlaşılıyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Yankı",
+      "en": "echo",
+      "example": "Dağda bağırınca uzun bir yankı duyduk.",
+      "synonyms": [
+        "akis"
+      ]
+    },
+    {
+      "word": "Yargı",
+      "en": "judgment",
+      "example": "Yeterli bilgi olmadan yargı vermek doğru değil.",
+      "synonyms": [
+        "hüküm"
+      ]
+    },
+    {
+      "word": "Yatırım",
+      "en": "investment",
+      "example": "Eğitime yapılan yatırım geleceği güçlendirir.",
+      "synonyms": []
+    },
+    {
+      "word": "Yağmur",
+      "en": "rain",
+      "example": "Yağmur başlayınca şemsiyelerimizi açtık.",
+      "synonyms": []
+    },
+    {
+      "word": "Yekpare",
+      "en": "monolithic; in one piece",
+      "example": "Heykel yekpare mermerden oyulmuştu.",
+      "synonyms": [
+        "tek parça"
+      ]
+    },
+    {
+      "word": "Yetenek",
+      "en": "ability; talent",
+      "example": "Resim konusunda doğal bir yetenek gösteriyor.",
+      "synonyms": [
+        "kabiliyet"
+      ]
+    },
+    {
+      "word": "Yolculuk",
+      "en": "journey",
+      "example": "Uzun yolculuk boyunca kitap okudum.",
+      "synonyms": [
+        "seyahat"
+      ]
+    },
+    {
+      "word": "Yumurta",
+      "en": "egg",
+      "example": "Kahvaltıda haşlanmış yumurta yedik.",
+      "synonyms": []
+    },
+    {
+      "word": "Yöntem",
+      "en": "method",
+      "example": "Bu sorunu çözmek için farklı bir yöntem denedik.",
+      "synonyms": [
+        "metot"
+      ]
+    },
+    {
+      "word": "Yüzük",
+      "en": "ring",
+      "example": "Parmağındaki yüzük ışıkta parlıyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Zahiri",
+      "en": "apparent; outward",
+      "example": "Zahiri benzerlik, iki düşüncenin aynı olduğu anlamına gelmez.",
+      "synonyms": [
+        "görünürdeki"
+      ]
+    },
+    {
+      "word": "Zanaat",
+      "en": "craft",
+      "example": "Ahşap oymacılığı sabır isteyen bir zanaat dalıdır.",
+      "synonyms": []
+    },
+    {
+      "word": "Zarar",
+      "en": "damage; harm",
+      "example": "Fırtına çatıda büyük zarar oluşturdu.",
+      "synonyms": [
+        "hasar"
+      ]
+    },
+    {
+      "word": "Zebra",
+      "en": "zebra",
+      "example": "Zebra sürüsü otlakta ilerliyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Zeytin",
+      "en": "olive",
+      "example": "Kahvaltı tabağına birkaç zeytin koydum.",
+      "synonyms": []
+    },
+    {
+      "word": "Ziyaret",
+      "en": "visit",
+      "example": "Bayramda dedeme ziyaret için gittik.",
+      "synonyms": []
+    },
+    {
+      "word": "Zımnen",
+      "en": "implicitly",
+      "example": "Sessiz kalarak öneriyi zımnen kabul etmiş oldu.",
+      "synonyms": [
+        "dolaylı olarak"
+      ]
+    },
+    {
+      "word": "Çaba",
+      "en": "effort",
+      "example": "Sorunu çözmek için büyük çaba gösterdi.",
+      "synonyms": [
+        "gayret"
+      ]
+    },
+    {
+      "word": "Çarpan",
+      "en": "factor",
+      "example": "Bu işlemde çarpan olarak üç ve dört kullanıldı.",
+      "synonyms": []
+    },
+    {
+      "word": "Çay",
+      "en": "tea",
+      "example": "Akşam bir fincan çay içtim.",
+      "synonyms": []
+    },
+    {
+      "word": "Çekiç",
+      "en": "hammer",
+      "example": "Çiviyi çakmak için çekiç kullandı.",
+      "synonyms": []
+    },
+    {
+      "word": "Çeper",
+      "en": "wall; periphery",
+      "example": "Hücreyi çevreleyen çeper koruyucu görev yapıyor.",
+      "synonyms": [
+        "cidar"
+      ]
+    },
+    {
+      "word": "Çevrim",
+      "en": "cycle",
+      "example": "Makine bir çevrim tamamlayınca otomatik duruyor.",
+      "synonyms": [
+        "döngü"
+      ]
+    },
+    {
+      "word": "Çilek",
+      "en": "strawberry",
+      "example": "Tatlıyı taze çilek ile süsledim.",
+      "synonyms": []
+    },
+    {
+      "word": "Çizme",
+      "en": "boot",
+      "example": "Yağmurlu havada çizme giydi.",
+      "synonyms": []
+    },
+    {
+      "word": "Çorba",
+      "en": "soup",
+      "example": "Soğuk akşamda sıcak çorba içtik.",
+      "synonyms": []
+    },
+    {
+      "word": "Çöp",
+      "en": "rubbish",
+      "example": "Piknikten sonra bütün çöp toplandı.",
+      "synonyms": []
+    },
+    {
+      "word": "Çıkar",
+      "en": "interest; benefit",
+      "example": "Kişisel çıkar uğruna arkadaşlarını üzmek istemedi.",
+      "synonyms": [
+        "menfaat"
+      ]
+    },
+    {
+      "word": "Çırak",
+      "en": "apprentice",
+      "example": "Çırak ustanın hareketlerini dikkatle izliyordu.",
+      "synonyms": []
+    },
+    {
+      "word": "Ölçek",
+      "en": "scale",
+      "example": "Haritadaki ölçek gerçek uzaklığı hesaplamamızı sağlıyor.",
+      "synonyms": []
+    },
+    {
+      "word": "Önerme",
+      "en": "proposition",
+      "example": "Bu önerme verilen koşullar altında doğrudur.",
+      "synonyms": []
+    },
+    {
+      "word": "Önyargı",
+      "en": "prejudice",
+      "example": "İnsanları tanımadan önyargı geliştirmemek gerekir.",
+      "synonyms": [
+        "peşin hüküm"
+      ]
+    },
+    {
+      "word": "Örneklem",
+      "en": "sample",
+      "example": "Araştırma için rastgele bir örneklem seçildi.",
+      "synonyms": []
+    },
+    {
+      "word": "Özdeşlik",
+      "en": "identity",
+      "example": "İki nesne arasındaki özdeşlik, bütün özelliklerinin aynı olmasını gerektirir.",
+      "synonyms": []
+    },
+    {
+      "word": "Özgecilik",
+      "en": "altruism",
+      "example": "Yardım ekibinin özgecilik anlayışı herkese örnek oldu.",
+      "synonyms": [
+        "diğerkâmlık"
+      ]
+    },
+    {
+      "word": "Özne",
+      "en": "subject",
+      "example": "Bu cümlede özne açıkça belirtilmemiş.",
+      "synonyms": []
+    },
+    {
+      "word": "Özveri",
+      "en": "self-sacrifice",
+      "example": "Öğretmen öğrencileri için büyük özveri gösterdi.",
+      "synonyms": [
+        "fedakârlık"
+      ]
+    },
+    {
+      "word": "Ücret",
+      "en": "fee; wage",
+      "example": "Kurs için herhangi bir ücret alınmıyor.",
+      "synonyms": []
+    },
+    {
+      "word": "Üniversite",
+      "en": "university",
+      "example": "Üniversite yeni öğrencilerini törenle karşıladı.",
+      "synonyms": []
+    },
+    {
+      "word": "Üslup",
+      "en": "style",
+      "example": "Yazarın sade üslup tercihi metni anlaşılır kılıyor.",
+      "synonyms": [
+        "biçem"
+      ]
+    },
+    {
+      "word": "Ütopik",
+      "en": "utopian",
+      "example": "Herkesin kusursuz yaşadığı bu ütopik şehir gerçekte yok.",
+      "synonyms": []
+    },
+    {
+      "word": "Üvey",
+      "en": "step-; non-biological",
+      "example": "Üvey kardeşiyle aynı evde büyüdü.",
+      "synonyms": []
+    },
+    {
+      "word": "Üçgen",
+      "en": "triangle",
+      "example": "Cetvelle düzgün bir üçgen çizdi.",
+      "synonyms": []
+    },
+    {
+      "word": "Şahit",
+      "en": "witness",
+      "example": "Şahit gördüklerini mahkemede anlattı.",
+      "synonyms": [
+        "tanık"
+      ]
+    },
+    {
+      "word": "Şarkı",
+      "en": "song",
+      "example": "Radyoda sevdiğim bir şarkı çalıyor.",
+      "synonyms": []
+    },
+    {
+      "word": "Şeffaf",
+      "en": "transparent",
+      "example": "Şeffaf kutunun içindekiler kolayca görünüyor.",
+      "synonyms": [
+        "saydam"
+      ]
+    },
+    {
+      "word": "Şeker",
+      "en": "sugar",
+      "example": "Çaya şeker koymadan içiyorum.",
+      "synonyms": []
+    },
+    {
+      "word": "Şerh",
+      "en": "annotation; commentary",
+      "example": "Editör anlaşılmayan ifadeye kısa bir şerh ekledi.",
+      "synonyms": [
+        "açıklama"
+      ]
+    },
+    {
+      "word": "Şifre",
+      "en": "password; code",
+      "example": "Hesabıma girmek için şifre yazdım.",
+      "synonyms": []
+    },
+    {
+      "word": "Şişe",
+      "en": "bottle",
+      "example": "Masada bir şişe su vardı.",
+      "synonyms": []
+    },
+    {
+      "word": "Şuur",
+      "en": "consciousness",
+      "example": "Doktor hastanın şuur durumunu kontrol etti.",
+      "synonyms": [
+        "bilinç"
+      ]
+    }
+  ],
+  "new": [
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "A",
+      "word": "Arkadaş",
+      "clue": "Birlikte zaman geçirilen, yakınlık duyulan kişi.",
+      "en": "friend",
+      "example": "İyi bir arkadaş zor günlerde yanında olur.",
+      "synonyms": [
+        "dost"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "D",
+      "word": "Dostluk",
+      "clue": "İnsanlar arasında sevgi ve güvene dayanan yakın bağ.",
+      "en": "friendship",
+      "example": "Aralarındaki dostluk yıllar geçtikçe güçlendi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "K",
+      "word": "Kardeş",
+      "clue": "Aynı anne veya babadan doğan çocukların birbirine göre adı.",
+      "en": "sibling",
+      "example": "İki kardeş aynı okulda okuyor.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "A",
+      "word": "Abla",
+      "clue": "Birinin kendisinden büyük kız kardeşi.",
+      "en": "older sister",
+      "example": "Abla küçük kardeşine ders çalıştırdı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "A",
+      "word": "Ağabey",
+      "clue": "Birinin kendisinden büyük erkek kardeşi.",
+      "en": "older brother",
+      "example": "Ağabey kardeşini okuldan aldı.",
+      "synonyms": [
+        "abi"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "T",
+      "word": "Teyze",
+      "clue": "Annenin kız kardeşi.",
+      "en": "aunt",
+      "example": "Teyze yeğenini görmek için geldi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "H",
+      "word": "Hala",
+      "clue": "Babanın kız kardeşi.",
+      "en": "paternal aunt",
+      "example": "Hala bayramda bizi ziyaret etti.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "D",
+      "word": "Dayı",
+      "clue": "Annenin erkek kardeşi.",
+      "en": "maternal uncle",
+      "example": "Dayı yeğenine bisiklet sürmeyi öğretti.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "A",
+      "word": "Amca",
+      "clue": "Babanın erkek kardeşi.",
+      "en": "paternal uncle",
+      "example": "Amca aile toplantısına erken geldi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "Y",
+      "word": "Yeğen",
+      "clue": "Bir kişinin kardeşinin çocuğu.",
+      "en": "niece or nephew",
+      "example": "Küçük yeğen dedesinin yanında oturuyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "K",
+      "word": "Kuzen",
+      "clue": "Teyze, hala, dayı veya amcanın çocuğu.",
+      "en": "cousin",
+      "example": "İki kuzen yaz tatilini birlikte geçirdi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "D",
+      "word": "Dede",
+      "clue": "Anne veya babanın babası.",
+      "en": "grandfather",
+      "example": "Dede çocuklara eski günleri anlattı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "N",
+      "word": "Nine",
+      "clue": "Anne veya babanın annesi.",
+      "en": "grandmother",
+      "example": "Nine torununa bir masal anlattı.",
+      "synonyms": [
+        "büyükanne"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "T",
+      "word": "Torun",
+      "clue": "Bir kişinin çocuğunun çocuğu.",
+      "en": "grandchild",
+      "example": "Dede ile torun parkta yürüdü.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "K",
+      "word": "Komşu",
+      "clue": "Yakın evlerde veya bitişik yerlerde yaşayan kişi.",
+      "en": "neighbour",
+      "example": "Yeni komşu taşınırken yardım istedik.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "A",
+      "word": "Aile",
+      "clue": "Evlilik, akrabalık veya bakım bağıyla birbirine bağlı insanlar topluluğu.",
+      "en": "family",
+      "example": "Bütün aile akşam yemeğinde buluştu.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "E",
+      "word": "Evlilik",
+      "clue": "İki kişinin yasal olarak eş olma birliği.",
+      "en": "marriage",
+      "example": "Evlilik karşılıklı saygı ve sorumluluk gerektirir.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "N",
+      "word": "Nişan",
+      "clue": "Evlenmeye karar veren çiftin bu kararını bildiren tören veya sözleşme.",
+      "en": "engagement",
+      "example": "Nişan törenine yakın arkadaşları katıldı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "D",
+      "word": "Düğün",
+      "clue": "Evlenmeyi kutlamak için düzenlenen tören ve eğlence.",
+      "en": "wedding",
+      "example": "Düğün köy meydanında yapıldı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "D",
+      "word": "Damat",
+      "clue": "Evlenen erkek veya birinin kızının eşi.",
+      "en": "groom; son-in-law",
+      "example": "Damat misafirleri kapıda karşıladı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "S",
+      "word": "Sevgili",
+      "clue": "Romantik sevgiyle bağlı olunan kişi.",
+      "en": "romantic partner",
+      "example": "İki sevgili sahilde yürüyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "S",
+      "word": "Sevgi",
+      "clue": "Birine veya bir şeye karşı duyulan sıcak bağlılık.",
+      "en": "love; affection",
+      "example": "Çocuğa sevgi ve güven vermek önemlidir.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "M",
+      "word": "Mutluluk",
+      "clue": "İsteklerin gerçekleşmesiyle duyulan hoşnutluk ve sevinç durumu.",
+      "en": "happiness",
+      "example": "Güzel haber evde büyük mutluluk yarattı.",
+      "synonyms": [
+        "saadet"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "Ü",
+      "word": "Üzüntü",
+      "clue": "İstenmeyen bir olayın yarattığı iç sıkıntısı ve keder.",
+      "en": "sadness",
+      "example": "Ayrılık haberi hepimizde üzüntü yarattı.",
+      "synonyms": [
+        "keder"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "Ö",
+      "word": "Öfke",
+      "clue": "Engellenme veya haksızlık karşısında duyulan güçlü kızgınlık.",
+      "en": "anger",
+      "example": "Öfke geçince daha sakin konuşabildiler.",
+      "synonyms": [
+        "kızgınlık"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "K",
+      "word": "Korku",
+      "clue": "Tehlike karşısında hissedilen kaygı ve ürkme duygusu.",
+      "en": "fear",
+      "example": "Karanlık koridorda bir an korku hissetti.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "S",
+      "word": "Sevinç",
+      "clue": "Güzel bir olayın doğurduğu coşkulu mutluluk.",
+      "en": "joy",
+      "example": "Sınavı geçtiğini öğrenince sevinç çığlığı attı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "H",
+      "word": "Heyecan",
+      "clue": "Beklenen veya etkileyici bir olayın yarattığı güçlü duygusal hareketlilik.",
+      "en": "excitement",
+      "example": "Sahneye çıkmadan önce heyecan duyuyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "U",
+      "word": "Utanç",
+      "clue": "Yanlış veya uygunsuz bir davranış nedeniyle hissedilen mahcubiyet.",
+      "en": "shame",
+      "example": "Yalanı ortaya çıkınca utanç duydu.",
+      "synonyms": [
+        "mahcubiyet"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "P",
+      "word": "Pişmanlık",
+      "clue": "Yapılan bir şeyin yanlış olduğunu sonradan düşünüp üzülme.",
+      "en": "regret",
+      "example": "Kırıcı sözleri için pişmanlık duydu.",
+      "synonyms": [
+        "nedamet"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "K",
+      "word": "Kıskançlık",
+      "clue": "Sevilen birini paylaşamama veya başkasındaki üstünlüğe üzülme duygusu.",
+      "en": "jealousy",
+      "example": "Kıskançlık arkadaşlıklarına zarar vermeye başlamıştı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "Y",
+      "word": "Yalnızlık",
+      "clue": "Yanında veya hayatında yakınlık kurduğu kimsenin olmaması durumu.",
+      "en": "loneliness",
+      "example": "Yeni şehirde ilk haftalar yalnızlık çekti.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "H",
+      "word": "Huzur",
+      "clue": "İç sıkıntısından uzak, sakin ve rahat olma durumu.",
+      "en": "peace of mind",
+      "example": "Sessiz bahçede huzur buldu.",
+      "synonyms": [
+        "dirlik"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "N",
+      "word": "Neşe",
+      "clue": "Canlı, keyifli ve sevinçli olma hâli.",
+      "en": "cheerfulness",
+      "example": "Çocukların kahkahası eve neşe kattı.",
+      "synonyms": [
+        "sevinç"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "C",
+      "word": "Coşku",
+      "clue": "Bir duygu veya amaç karşısında yaşanan güçlü heyecan.",
+      "en": "enthusiasm",
+      "example": "Taraftarlar galibiyeti büyük coşku ile kutladı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "K",
+      "word": "Kaygı",
+      "clue": "Belirsiz veya olumsuz bir ihtimal üzerine duyulan tedirginlik.",
+      "en": "anxiety; worry",
+      "example": "Sınav sonucu açıklanana kadar kaygı yaşadı.",
+      "synonyms": [
+        "endişe"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "Ş",
+      "word": "Şaşkınlık",
+      "clue": "Beklenmedik bir durum karşısında ne yapacağını bilememe hâli.",
+      "en": "surprise; astonishment",
+      "example": "Sürpriz hediyeyi görünce şaşkınlık yaşadı.",
+      "synonyms": [
+        "hayret"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "M",
+      "word": "Minnet",
+      "clue": "Görülen iyilik karşısında duyulan teşekkür borcu.",
+      "en": "gratitude",
+      "example": "Yardımı için öğretmenine minnet duyuyordu.",
+      "synonyms": [
+        "şükran"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "Ş",
+      "word": "Şefkat",
+      "clue": "Başkasını korumaya yönelten sevecenlik ve acıma duygusu.",
+      "en": "compassion; tenderness",
+      "example": "Yaralı hayvana şefkat gösterdi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "M",
+      "word": "Merhamet",
+      "clue": "Başkasının acısına üzülüp yardım etme isteği.",
+      "en": "compassion; mercy",
+      "example": "Merhamet duygusu onu yardıma yöneltti.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "Ö",
+      "word": "Özsaygı",
+      "clue": "İnsanın kendi değerine ve kişiliğine duyduğu saygı.",
+      "en": "self-respect",
+      "example": "Sınırlarını korumak özsaygı için önemlidir.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "S",
+      "word": "Saygı",
+      "clue": "Bir kişiye veya değere önem vererek özenli davranma.",
+      "en": "respect",
+      "example": "Farklı görüşlere saygı duymak gerekir.",
+      "synonyms": [
+        "hürmet"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "S",
+      "word": "Sadakat",
+      "clue": "Bir kişiye, ilkeye veya söze bağlı kalma.",
+      "en": "loyalty",
+      "example": "Dostlarına sadakat göstermesiyle tanınırdı.",
+      "synonyms": [
+        "bağlılık"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "D",
+      "word": "Dürüstlük",
+      "clue": "Söz ve davranışlarda gerçeğe bağlı olma, aldatmama.",
+      "en": "honesty",
+      "example": "Dürüstlük iş ilişkilerinde güven sağlar.",
+      "synonyms": [
+        "doğruluk"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "İ",
+      "word": "İyilik",
+      "clue": "Birine yarar sağlayan olumlu davranış.",
+      "en": "kindness; good deed",
+      "example": "Küçük bir iyilik onun gününü güzelleştirdi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "K",
+      "word": "Kötülük",
+      "clue": "Birine zarar veren olumsuz davranış veya niyet.",
+      "en": "evil; wrongdoing",
+      "example": "Kendisine yapılan kötülük karşısında sessiz kalmadı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "B",
+      "word": "Bencillik",
+      "clue": "Başkalarını düşünmeden yalnız kendi çıkarını önemseme.",
+      "en": "selfishness",
+      "example": "Bencillik yüzünden arkadaşlarını kaybetti.",
+      "synonyms": [
+        "egoizm"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "A",
+      "word": "Alınganlık",
+      "clue": "Söz ve davranışlardan kolayca incinme eğilimi.",
+      "en": "touchiness",
+      "example": "Alınganlık bazen basit şakaları bile sorun hâline getirir.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "K",
+      "word": "Kırgınlık",
+      "clue": "Birinin davranışından incinip ona karşı soğukluk duyma.",
+      "en": "hurt feelings; resentment",
+      "example": "Aralarındaki kırgınlık konuşunca azaldı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "K",
+      "word": "Küskünlük",
+      "clue": "Birine gücenerek onunla görüşmekten veya konuşmaktan kaçınma.",
+      "en": "estrangement; sulkiness",
+      "example": "Uzun süren küskünlük bir özürle sona erdi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "G",
+      "word": "Gönül",
+      "clue": "Sevgi, istek ve duyguların kaynağı sayılan iç dünya.",
+      "en": "heart",
+      "example": "Bir gönül almak için samimi bir özür yeterli olabilir.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "G",
+      "word": "Gurur",
+      "clue": "Bir başarıdan veya değerli görülen özellikten duyulan övünç.",
+      "en": "pride",
+      "example": "Kızının başarısı ona gurur verdi.",
+      "synonyms": [
+        "övünç"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "Ö",
+      "word": "Özür",
+      "clue": "Bir hata için bağışlanma isteğini dile getiren söz veya davranış.",
+      "en": "apology",
+      "example": "Geç kaldığı için özür diledi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "T",
+      "word": "Teşekkür",
+      "clue": "Görülen iyilik için duyulan memnuniyeti bildirme.",
+      "en": "thanks",
+      "example": "Yardım edenlere teşekkür etti.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "S",
+      "word": "Selam",
+      "clue": "Karşılaşınca iyi dilek ve saygı bildiren söz veya hareket.",
+      "en": "greeting",
+      "example": "Kapıdan girince herkese selam verdi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "V",
+      "word": "Vedalaşma",
+      "clue": "Ayrılırken birbirine iyi dilekler söyleme.",
+      "en": "saying goodbye",
+      "example": "İstasyondaki vedalaşma ikisini de duygulandırdı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "B",
+      "word": "Barış",
+      "clue": "Kavga veya savaşın olmadığı uzlaşma durumu.",
+      "en": "peace",
+      "example": "İki ülke kalıcı barış için görüşmelere başladı.",
+      "synonyms": [
+        "sulh"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "K",
+      "word": "Kavga",
+      "clue": "Kişiler arasında çıkan sözlü veya fiziksel çatışma.",
+      "en": "fight; quarrel",
+      "example": "Küçük bir yanlış anlaşılma kavga doğurdu.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "T",
+      "word": "Tartışma",
+      "clue": "Bir konuda farklı görüşlerin karşılıklı savunulması.",
+      "en": "discussion; argument",
+      "example": "Sınıfta kitap üzerine verimli bir tartışma yapıldı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "S",
+      "word": "Sohbet",
+      "clue": "Samimi ve rahat biçimde yapılan konuşma.",
+      "en": "conversation; chat",
+      "example": "Çay içerken uzun bir sohbet ettik.",
+      "synonyms": [
+        "söyleşi"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "D",
+      "word": "Dedikodu",
+      "clue": "Orada bulunmayan kişiler hakkında doğrulanmamış konuşmalar.",
+      "en": "gossip",
+      "example": "Doğruluğunu bilmediği dedikodu yüzünden kimseyi suçlamadı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "S",
+      "word": "Sır",
+      "clue": "Başkalarının öğrenmemesi istenen gizli bilgi.",
+      "en": "secret",
+      "example": "Arkadaşına verdiği sır kimseye anlatılmadı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "Y",
+      "word": "Yalan",
+      "clue": "Gerçeğe aykırı olduğu bilinerek söylenen söz.",
+      "en": "lie",
+      "example": "Yalan söylemek aralarındaki güveni zedeledi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "S",
+      "word": "Söz",
+      "clue": "Bir düşünceyi anlatan ifade veya yerine getirme vaadi.",
+      "en": "word; promise",
+      "example": "Sana verdiğim söz hâlâ geçerli.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "V",
+      "word": "Vaat",
+      "clue": "Bir işi yapacağını bildirme, söz verme.",
+      "en": "promise",
+      "example": "Seçimden önce verilen vaat yerine getirildi.",
+      "synonyms": [
+        "söz"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "V",
+      "word": "Vefa",
+      "clue": "Sevgiyi, dostluğu ve yapılan iyiliği unutmama.",
+      "en": "faithfulness; gratitude",
+      "example": "Eski öğretmenini araması güzel bir vefa örneğiydi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "İ",
+      "word": "İhanet",
+      "clue": "Duyulan güveni veya bağlılık sözünü bozma.",
+      "en": "betrayal",
+      "example": "Sırrının açıklanmasını büyük bir ihanet olarak gördü.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "İ",
+      "word": "İnat",
+      "clue": "Bir düşünce veya davranışta direnerek vazgeçmeme.",
+      "en": "stubbornness",
+      "example": "İnat yüzünden yanlışını kabul etmiyordu.",
+      "synonyms": [
+        "diretme"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "U",
+      "word": "Uzlaşmacı",
+      "clue": "Anlaşmazlıklarda ortak bir çözüm bulmaya çalışan kişi veya tutum.",
+      "en": "conciliatory",
+      "example": "Uzlaşmacı tavrı görüşmeleri kolaylaştırdı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "N",
+      "word": "Nazik",
+      "clue": "Başkalarına ince ve saygılı davranan.",
+      "en": "polite",
+      "example": "Nazik davranışı herkesin takdirini kazandı.",
+      "synonyms": [
+        "kibar"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "K",
+      "word": "Kaba",
+      "clue": "Davranışları veya sözleri incelikten uzak olan.",
+      "en": "rude",
+      "example": "Kaba sözleri arkadaşını incitti.",
+      "synonyms": [
+        "nezaketsiz"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "C",
+      "word": "Ciddi",
+      "clue": "Şakaya yer vermeyen, önemle ele alınan veya ağırbaşlı.",
+      "en": "serious",
+      "example": "Bu ciddi konuyu dikkatle konuşmalıyız.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "Ş",
+      "word": "Şakacı",
+      "clue": "Sık sık şaka yapmayı seven.",
+      "en": "playful; humorous",
+      "example": "Şakacı arkadaşımız herkesi güldürürdü.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "U",
+      "word": "Utangaç",
+      "clue": "İnsanlar arasında kolayca çekinip sıkılan.",
+      "en": "shy",
+      "example": "Utangaç çocuk ilk gün pek konuşmadı.",
+      "synonyms": [
+        "çekingen"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "Ç",
+      "word": "Çekingen",
+      "clue": "Bir işe girişirken veya insanlar arasında kendini geri tutan.",
+      "en": "timid",
+      "example": "Çekingen öğrenci zamanla daha çok söz almaya başladı.",
+      "synonyms": [
+        "ürkek"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "K",
+      "word": "Kararlı",
+      "clue": "Verdiği karardan kolayca dönmeyen.",
+      "en": "determined",
+      "example": "Kararlı tutumu sayesinde işi tamamladı.",
+      "synonyms": [
+        "azimli"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "S",
+      "word": "Sabırsız",
+      "clue": "Beklemeye veya güçlüğe katlanmakta zorlanan.",
+      "en": "impatient",
+      "example": "Sabırsız yolcu sürekli saate bakıyordu.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "İ",
+      "word": "İyimser",
+      "clue": "Olayların iyi taraflarını ve olumlu sonuç ihtimalini öne çıkaran.",
+      "en": "optimistic",
+      "example": "İyimser yaklaşımı ekibe moral verdi.",
+      "synonyms": [
+        "optimist"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "K",
+      "word": "Kötümser",
+      "clue": "Olayların olumsuz taraflarını ve kötü sonuç ihtimalini öne çıkaran.",
+      "en": "pessimistic",
+      "example": "Kötümser tahminlerin aksine işler düzeldi.",
+      "synonyms": [
+        "pesimist"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "S",
+      "word": "Samimi",
+      "clue": "İçten davranan, yapmacık olmayan.",
+      "en": "sincere",
+      "example": "Samimi bir teşekkür onu mutlu etti.",
+      "synonyms": [
+        "içten"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "İ",
+      "word": "İçtenlik",
+      "clue": "Duyguları ve düşünceleri yapmacıksız ifade etme.",
+      "en": "sincerity",
+      "example": "Özründeki içtenlik hemen anlaşılıyordu.",
+      "synonyms": [
+        "samimiyet"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "H",
+      "word": "Hüzün",
+      "clue": "İnsanı içine kapanmaya yönelten ince ve derin üzüntü.",
+      "en": "melancholy; sadness",
+      "example": "Eski fotoğraflar ona hüzün verdi.",
+      "synonyms": [
+        "keder"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "H",
+      "word": "Hasret",
+      "clue": "Uzakta olan birine veya bir şeye kavuşma isteği.",
+      "en": "longing",
+      "example": "Yıllarca memleketine hasret kaldı.",
+      "synonyms": [
+        "özlem"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "Ö",
+      "word": "Öğrenme",
+      "clue": "Yeni bilgi veya beceri kazanma süreci.",
+      "en": "learning",
+      "example": "Düzenli tekrar öğrenme sürecini güçlendirir.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "E",
+      "word": "Eğitim",
+      "clue": "Bilgi, beceri ve davranış geliştirmeyi amaçlayan öğretme süreci.",
+      "en": "education",
+      "example": "Nitelikli eğitim herkes için erişilebilir olmalı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "Ö",
+      "word": "Öğretim",
+      "clue": "Bilgi ve becerilerin planlı biçimde öğrenciye aktarılması.",
+      "en": "instruction; teaching",
+      "example": "Okulda yabancı dil öğretim yöntemleri yenilendi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "D",
+      "word": "Ders",
+      "clue": "Belirli bir konuda yapılan öğretim süresi veya konusu.",
+      "en": "lesson",
+      "example": "Bugünkü ders yarım saat erken başladı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "Ö",
+      "word": "Ödev",
+      "clue": "Öğrencinin ders dışında yapması istenen çalışma.",
+      "en": "homework",
+      "example": "Akşamki ödev düşündüğümden kısa sürdü.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "S",
+      "word": "Sınav",
+      "clue": "Bilgi veya beceri düzeyini ölçmek için yapılan değerlendirme.",
+      "en": "exam",
+      "example": "Sınav başlamadan önce kimlikler kontrol edildi.",
+      "synonyms": [
+        "imtihan"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "S",
+      "word": "Soru",
+      "clue": "Bir bilgi veya cevap öğrenmek için yöneltilen ifade.",
+      "en": "question",
+      "example": "Öğrenci anlaşılmayan bölüm için soru sordu.",
+      "synonyms": [
+        "sual"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "C",
+      "word": "Cevap",
+      "clue": "Bir soruya karşı verilen söz veya bilgi.",
+      "en": "answer",
+      "example": "Bu soru için doğru cevap bulundu.",
+      "synonyms": [
+        "yanıt"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "B",
+      "word": "Başarı",
+      "clue": "İstenen veya amaçlanan sonuca ulaşma.",
+      "en": "success",
+      "example": "Düzenli çalışması ona başarı getirdi.",
+      "synonyms": [
+        "muvaffakiyet"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "B",
+      "word": "Başarısızlık",
+      "clue": "Hedeflenen sonuca ulaşamama.",
+      "en": "failure",
+      "example": "İlk başarısızlık onu denemekten vazgeçirmedi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "Ç",
+      "word": "Çalışkan",
+      "clue": "Görevlerini düzenli ve istekli biçimde yapan.",
+      "en": "hardworking",
+      "example": "Çalışkan öğrenci ödevlerini zamanında bitirir.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "T",
+      "word": "Tembel",
+      "clue": "Çalışmaktan veya çaba göstermekten kaçınan.",
+      "en": "lazy",
+      "example": "Tembel davranınca işler birikti.",
+      "synonyms": [
+        "üşengeç"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "D",
+      "word": "Dalgın",
+      "clue": "Dikkati çevresinden uzaklaşıp başka düşüncelere yönelmiş olan.",
+      "en": "absent-minded",
+      "example": "Dalgın olduğu için durağı kaçırdı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "O",
+      "word": "Odaklanma",
+      "clue": "Dikkati belirli bir konu veya işe yöneltme.",
+      "en": "concentration",
+      "example": "Sessiz bir ortam odaklanma becerisini destekler.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "T",
+      "word": "Tekrar",
+      "clue": "Daha önce yapılan bir işi veya söylenen sözü yeniden yapma.",
+      "en": "repetition",
+      "example": "Kısa bir tekrar bilgileri hatırlamasını sağladı.",
+      "synonyms": [
+        "yineleme"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "E",
+      "word": "Ezber",
+      "clue": "Bir metni veya bilgiyi bellekte aynen tutma.",
+      "en": "memorization",
+      "example": "Yalnız ezber yapmak konuyu anlamaya yetmez.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "A",
+      "word": "Anlama",
+      "clue": "Bir sözün veya olayın ne ifade ettiğini kavrama.",
+      "en": "understanding",
+      "example": "Örnekler konuyu anlama sürecini kolaylaştırdı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "K",
+      "word": "Kavrayış",
+      "clue": "Bir konuyu anlama ve ilişkileri görme yetisi.",
+      "en": "comprehension; grasp",
+      "example": "Güçlü kavrayış sayesinde sorunu hemen çözdü.",
+      "synonyms": [
+        "anlayış"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "O",
+      "word": "Okuma",
+      "clue": "Yazılı işaretlerden anlam çıkarma işi.",
+      "en": "reading",
+      "example": "Her akşam yarım saat okuma yapıyorum.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "Y",
+      "word": "Yazma",
+      "clue": "Düşünceleri harf ve işaretlerle kâğıda veya ekrana aktarma işi.",
+      "en": "writing",
+      "example": "Düzenli yazma çalışması anlatımını geliştirdi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "D",
+      "word": "Dinleme",
+      "clue": "Bir sesi veya konuşmayı dikkatle takip etme.",
+      "en": "listening",
+      "example": "Dil öğrenirken dinleme alıştırmaları yapıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "K",
+      "word": "Konuşma",
+      "clue": "Düşünceleri sözlü olarak ifade etme.",
+      "en": "speaking",
+      "example": "Topluluk önünde konuşma konusunda deneyim kazandı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "T",
+      "word": "Telaffuz",
+      "clue": "Bir sözcüğün seslerini söyleme biçimi.",
+      "en": "pronunciation",
+      "example": "Yeni kelimenin telaffuz biçimini öğretmene sordu.",
+      "synonyms": [
+        "sesletim"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "H",
+      "word": "Hece",
+      "clue": "Bir sözcüğün tek ağız hareketiyle söylenen ses bölümü.",
+      "en": "syllable",
+      "example": "Bu sözcük üç hece içeriyor.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "H",
+      "word": "Harf",
+      "clue": "Dildeki sesleri yazıda temsil eden işaret.",
+      "en": "letter",
+      "example": "Bu alıştırmada eksik harf bulunacak.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "S",
+      "word": "Sözcük",
+      "clue": "Tek başına anlam taşıyan veya cümlede görev yapan dil birimi.",
+      "en": "word",
+      "example": "Bu sözcük günlük konuşmada sık kullanılır.",
+      "synonyms": [
+        "kelime"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "K",
+      "word": "Kelime",
+      "clue": "Bir anlamı veya dil bilgisel görevi olan söz birimi.",
+      "en": "word",
+      "example": "Her gün yeni bir kelime öğreniyorum.",
+      "synonyms": [
+        "sözcük"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "C",
+      "word": "Cümle",
+      "clue": "Bir yargı, duygu veya düşünceyi anlatan söz dizisi.",
+      "en": "sentence",
+      "example": "Bu cümle soru işaretiyle bitiyor.",
+      "synonyms": [
+        "tümce"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "D",
+      "word": "Dilbilgisi",
+      "clue": "Bir dilin sözcük ve cümle kuruluşunu inceleyen kurallar bütünü.",
+      "en": "grammar",
+      "example": "Dilbilgisi çalışması doğru cümle kurmayı kolaylaştırır.",
+      "synonyms": [
+        "gramer"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "Y",
+      "word": "Yazım",
+      "clue": "Sözcüklerin belirli kurallara göre yazıya geçirilmesi.",
+      "en": "spelling",
+      "example": "Metindeki yazım hatalarını düzelttim.",
+      "synonyms": [
+        "imla"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "N",
+      "word": "Noktalama",
+      "clue": "Yazıda anlamı ve duraklamaları belirten işaretlerin kullanımı.",
+      "en": "punctuation",
+      "example": "Doğru noktalama metni daha anlaşılır kılar.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "V",
+      "word": "Virgül",
+      "clue": "Cümlede sıralanan öğeleri ayırmaya yarayan noktalama işareti.",
+      "en": "comma",
+      "example": "Listedeki kelimeler arasına virgül koydu.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "N",
+      "word": "Nokta",
+      "clue": "Tamamlanmış cümlelerin sonuna konan küçük yuvarlak işaret.",
+      "en": "full stop; period",
+      "example": "Cümlenin sonunda nokta bulunuyor.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "Ü",
+      "word": "Ünlem",
+      "clue": "Sevinç, korku veya şaşırma gibi duyguları belirten söz ya da işaret adı.",
+      "en": "exclamation",
+      "example": "Şaşkınlığını kısa bir ünlem ile dile getirdi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "S",
+      "word": "Sıfat",
+      "clue": "İsimlerin özelliklerini veya niceliklerini belirten sözcük türü.",
+      "en": "adjective",
+      "example": "Bu ifadede kırmızı sözcüğü sıfat görevindedir.",
+      "synonyms": [
+        "ön ad"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "Z",
+      "word": "Zamir",
+      "clue": "Bir ismin yerine kullanılan sözcük türü.",
+      "en": "pronoun",
+      "example": "Tekrarı önlemek için isim yerine zamir kullandı.",
+      "synonyms": [
+        "adıl"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "F",
+      "word": "Fiil",
+      "clue": "İş, oluş veya durum bildiren sözcük türü.",
+      "en": "verb",
+      "example": "Cümledeki fiil geçmiş zamanla çekimlenmiş.",
+      "synonyms": [
+        "eylem"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "B",
+      "word": "Bağlaç",
+      "clue": "Sözcükleri veya cümleleri birbirine bağlayan sözcük türü.",
+      "en": "conjunction",
+      "example": "İki cümleyi uygun bir bağlaç ile birleştirdi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "E",
+      "word": "Edat",
+      "clue": "Başka sözcüklerle ilişki kurarak anlam kazanan görevli sözcük türü.",
+      "en": "postposition",
+      "example": "Bu cümlede gibi sözcüğü edat olarak kullanılmış.",
+      "synonyms": [
+        "ilgeç"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "Ç",
+      "word": "Çeviri",
+      "clue": "Bir dildeki anlatımı anlamını koruyarak başka dile aktarma.",
+      "en": "translation",
+      "example": "Şiirin çeviri metni aslı kadar etkileyiciydi.",
+      "synonyms": [
+        "tercüme"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "T",
+      "word": "Tercüman",
+      "clue": "Bir dilde söyleneni başka dile aktaran kişi.",
+      "en": "interpreter",
+      "example": "Tercüman konukların birbirini anlamasını sağladı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "Ç",
+      "word": "Çevirmen",
+      "clue": "Yazılı veya sözlü bir anlatımı başka dile aktaran kişi.",
+      "en": "translator",
+      "example": "Çevirmen romanın inceliklerini korumaya çalıştı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-hard",
+      "kind": "word",
+      "letter": "L",
+      "word": "Lehçe",
+      "clue": "Bir dilin tarih içinde ayrışmış, belirgin farklılıklar taşıyan kolu.",
+      "en": "dialect",
+      "example": "Araştırmacı bu lehçe üzerine bir sözlük hazırladı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "A",
+      "word": "Ağız",
+      "clue": "Bir dilin belirli bir bölgeye özgü söyleyiş biçimi.",
+      "en": "regional dialect",
+      "example": "Köyde kullanılan ağız özelliklerini kaydetti.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "E",
+      "word": "Eşsesli",
+      "clue": "Yazılışı ve söylenişi aynı, anlamları farklı olan sözcüklerin özelliği.",
+      "en": "homonymous",
+      "example": "Bu iki eşsesli kelime cümlede farklı anlamlar taşıyor.",
+      "synonyms": [
+        "sesteş"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "K",
+      "word": "Kafiye",
+      "clue": "Şiirde dizelerin sonundaki ses benzerliği.",
+      "en": "rhyme",
+      "example": "Şair dizeler arasında güçlü bir kafiye kurdu.",
+      "synonyms": [
+        "uyak"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "D",
+      "word": "Dize",
+      "clue": "Şiirin her bir satırı.",
+      "en": "line of poetry",
+      "example": "Son dize şiirin duygusunu güçlendiriyor.",
+      "synonyms": [
+        "mısra"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "D",
+      "word": "Dörtlük",
+      "clue": "Dört dizeden oluşan şiir bölümü.",
+      "en": "quatrain",
+      "example": "Şair her dörtlük sonunda aynı sözü tekrarlıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-hard",
+      "kind": "word",
+      "letter": "B",
+      "word": "Beyit",
+      "clue": "Anlam bütünlüğü taşıyan iki şiir dizesi.",
+      "en": "couplet",
+      "example": "Bu beyit aşkın geçiciliğini anlatıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-hard",
+      "kind": "word",
+      "letter": "R",
+      "word": "Redif",
+      "clue": "Dize sonlarında aynı görev ve anlamla tekrarlanan ek, sözcük veya söz grubu.",
+      "en": "repeated suffix or refrain",
+      "example": "Şiirde tekrar eden ek redif oluşturuyor.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "Ş",
+      "word": "Şair",
+      "clue": "Şiir yazan kişi.",
+      "en": "poet",
+      "example": "Şair yeni kitabından birkaç dize okudu.",
+      "synonyms": [
+        "ozan"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "O",
+      "word": "Ozan",
+      "clue": "Şiir söyleyen veya yazan sanatçı.",
+      "en": "poet; bard",
+      "example": "Ozan sazıyla köyün hikâyesini anlattı.",
+      "synonyms": [
+        "şair"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "Y",
+      "word": "Yazar",
+      "clue": "Kitap, makale veya başka metinler kaleme alan kişi.",
+      "en": "writer",
+      "example": "Yazar okurlarıyla söyleşide buluştu.",
+      "synonyms": [
+        "muharrir"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "R",
+      "word": "Roman",
+      "clue": "Kişileri ve olayları geniş biçimde anlatan uzun kurmaca eser.",
+      "en": "novel",
+      "example": "Bu roman üç kuşağın hayatını anlatıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "M",
+      "word": "Masal",
+      "clue": "Olağanüstü olay ve kişileri konu alan hayal ürünü anlatı.",
+      "en": "fairy tale",
+      "example": "Çocuklar uyumadan önce masal dinledi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "F",
+      "word": "Fabl",
+      "clue": "Genellikle hayvanların konuşturulduğu, ders veren kısa anlatı.",
+      "en": "fable",
+      "example": "Bu fabl paylaşmanın önemini anlatıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "H",
+      "word": "Hikâye",
+      "clue": "Bir olayı veya olay dizisini anlatan kısa edebî metin.",
+      "en": "story",
+      "example": "Yaşlı adam çocuklara bir hikâye anlattı.",
+      "synonyms": [
+        "öykü"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "A",
+      "word": "Anı",
+      "clue": "Geçmişte yaşanmış bir olayın zihindeki izi veya yazılı anlatımı.",
+      "en": "memory; memoir",
+      "example": "Bu fotoğraf güzel bir anı olarak saklanıyor.",
+      "synonyms": [
+        "hatıra"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "H",
+      "word": "Hatıra",
+      "clue": "Geçmişten zihinde kalan olay veya onu hatırlatan nesne.",
+      "en": "memory; keepsake",
+      "example": "Geziden küçük bir hatıra getirdi.",
+      "synonyms": [
+        "anı"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "G",
+      "word": "Günlük",
+      "clue": "Yaşananların günü gününe yazıldığı kişisel yazı türü.",
+      "en": "diary",
+      "example": "Her akşam günlük yazarak düşüncelerini topluyor.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "D",
+      "word": "Deneme",
+      "clue": "Yazarın bir konu üzerine kişisel düşüncelerini serbestçe anlattığı yazı türü.",
+      "en": "essay",
+      "example": "Bu deneme zamanın insan üzerindeki etkisini tartışıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "M",
+      "word": "Makale",
+      "clue": "Bir konuyu kanıt ve açıklamalarla ele alan düşünce yazısı.",
+      "en": "article",
+      "example": "Dergide yayımlanan makale araştırma sonuçlarını açıklıyor.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "E",
+      "word": "Eleştirmen",
+      "clue": "Sanat eserlerini inceleyip değerlendiren kişi.",
+      "en": "critic",
+      "example": "Eleştirmen oyunun güçlü yanlarını anlattı.",
+      "synonyms": [
+        "münekkit"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "R",
+      "word": "Ressam",
+      "clue": "Resim yapan sanatçı.",
+      "en": "painter",
+      "example": "Ressam portrede canlı renkler kullandı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "B",
+      "word": "Besteci",
+      "clue": "Müzik eseri oluşturan kişi.",
+      "en": "composer",
+      "example": "Besteci yeni eserini orkestra için yazdı.",
+      "synonyms": [
+        "bestekâr"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "Ş",
+      "word": "Şarkıcı",
+      "clue": "Şarkı söyleyen sanatçı.",
+      "en": "singer",
+      "example": "Şarkıcı konserin sonunda yeniden sahneye çıktı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "O",
+      "word": "Oyuncu",
+      "clue": "Tiyatro veya filmde bir kişiyi canlandıran sanatçı.",
+      "en": "actor",
+      "example": "Oyuncu rolüne hazırlanmak için uzun süre çalıştı.",
+      "synonyms": [
+        "aktör"
+      ]
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "Y",
+      "word": "Yönetmen",
+      "clue": "Film veya sahne eserinin sanatsal uygulamasını yöneten kişi.",
+      "en": "director",
+      "example": "Yönetmen sahneyi yeniden çekmeye karar verdi.",
+      "synonyms": [
+        "rejisör"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "S",
+      "word": "Sahne",
+      "clue": "Oyuncuların veya müzisyenlerin gösteri yaptığı bölüm.",
+      "en": "stage",
+      "example": "Sahne perde açılmadan önce karardı.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "S",
+      "word": "Seyirci",
+      "clue": "Bir oyun veya gösteriyi izleyen kişi.",
+      "en": "spectator; audience member",
+      "example": "Her seyirci oyunu dikkatle izliyordu.",
+      "synonyms": [
+        "izleyici"
+      ]
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "A",
+      "word": "Alkış",
+      "clue": "Beğeniyi belirtmek için elleri birbirine vurma.",
+      "en": "applause",
+      "example": "Gösteri uzun bir alkış ile sona erdi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "K",
+      "word": "Konser",
+      "clue": "Dinleyiciler önünde yapılan müzik gösterisi.",
+      "en": "concert",
+      "example": "Konser açık havada düzenlendi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-easy",
+      "kind": "word",
+      "letter": "S",
+      "word": "Sergi",
+      "clue": "Sanat eserlerinin veya ürünlerin görülmek üzere sunulduğu etkinlik.",
+      "en": "exhibition",
+      "example": "Sergi genç sanatçıları bir araya getirdi.",
+      "synonyms": []
+    },
+    {
+      "level": "tr-medium",
+      "kind": "word",
+      "letter": "P",
+      "word": "Portre",
+      "clue": "Bir kişinin yüzünü veya kişiliğini konu alan tasvir.",
+      "en": "portrait",
+      "example": "Ressam yaşlı balıkçıyı gösteren bir portre yaptı.",
+      "synonyms": []
+    }
+  ]
+}
